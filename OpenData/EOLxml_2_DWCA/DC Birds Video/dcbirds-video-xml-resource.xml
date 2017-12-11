@@ -1,0 +1,977 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<response
+  xmlns='http://www.eol.org/transfer/content/0.3'
+  xmlns:xsd='http://www.w3.org/2001/XMLSchema'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+  xmlns:geo='http://www.w3.org/2003/01/geo/wgs84_pos#'
+  xmlns:dwc='http://rs.tdwg.org/dwc/dwcore/'
+  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+  xsi:schemaLocation='http://www.eol.org/transfer/content/0.3 http://services.eol.org/schema/content_0_3.xsd'>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Anas platyrhynchos</dwc:ScientificName>
+<reference>eli test ref taxa</reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Baby duckling toddling across water lily pads at the artificial wetland of the National Museum of the American Indian.  22 June 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/69420.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference>eli test ref object</reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Juvenile mallard foraging among duckweed at the artificial wetland of the National Museum of the American Indian.  22 June 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/60187.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Mallard drake preening.  3 December 2011.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/76930.mp4</mediaURL>
+  <location>Roosevelt Island, Washington, DC, USA.</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Phalacrocorax auritus</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Couble-crested cormorant drying feathers. 29 September 2010. Seen during the TDWG TechnoBioblitz.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/53595.mp4</mediaURL>
+  <location>Eel pond, Woods Hole, Massachusetts, USA.</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Turdus migratorius</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>American Robin foraging on the lawn in front of the National Gallery. 31 March 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/62902.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>American Robin bathing in the fountain of the National Museum of the American Indian.  10 May 2011.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/80630.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Buteo jamaicensis</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Red-Tailed hawk in a tree. 28 March 2011.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/95730.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Accipiter cooperii</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Cooper's hawk eating a bird, with mockingbirds scolding in the background.  14 July 2008.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/33377.mp4</mediaURL>
+  <location>University of Arizona Campus, Tucson, AZ, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Cardinalis cardinalis</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Northern Cardinal male singing.  25 March 2009.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/32972.mp4</mediaURL>
+  <location>Tucson, AZ, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>A female Northern Cardinal forages in a garden, then is dispaced by a Mourning Dove.  29 April 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/15947.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Male cardinal feeding offspring.  June 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/33653.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Falco sparverius</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>American Kestrels mating.  26 March 2009.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/39915.mp4</mediaURL>
+  <location>Tucson, AZ, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Ardea herodias</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Great Blue Heron preening.  15 August 2009.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/48725.mp4</mediaURL>
+  <location>Kenilworth Marsh.  Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Great Blue Heron catching a fish in the artifical wetland at the National Museum of the American Indian.  1 September 2009.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/07/03/06/40321.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Larus argentatus</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Hungry Herring Gull looking for food on frozen Capitol reflecting pool.  12 December 2009.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/33632.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Larus delawarensis</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Ring-billed Gulls on frozen Capitol reflecting pool.  There are also some Herring Gulls in the background.  12 December 2009.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/27286.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Junco hyemalis</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Dark-eyed Junco braving a snowstorm. 14 February 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/76216.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Quiscalus quiscula</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Common Grackles.  24 March 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/83001.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Branta canadensis</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Canada goose family swimming down a river.  1 May 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/20372.mp4</mediaURL>
+  <location>Craigsville, Virgina, USA.</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Stelgidopteryx serripennis</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Northern Rough-winged Swallow grooming. 1 May 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/47444.mp4</mediaURL>
+  <location>Craigsville, Virgina, USA.</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Pipilo erythrophthalmus</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Eastern Towhee calling softly.  1 May 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/94358.mp4</mediaURL>
+  <location>Craigsville, Virgina, USA.</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Agelaius phoeniceus</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>A fledgling Red-winged Blackbird clings to cattails as its mother forages and then returns to feed its siblings in the nest. At the artificial wetland of the National Museum of the American Indian. 5 June 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/10807.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Several sequences of a Red-winged Blackbird female heading out to forage, then returning to her nest to feed hatchlings. Clips filmed within a 5 minute timespan at the artificial wetland of the National Museum of the American Indian. 26 May 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/43403.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Red-winged Blackbird female sitting in a tree grooming feathers, then returning to her nest to incubate eggs. At the artificial wetland of the National Museum of the American Indian.  21 May 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/81263.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Red-winged Blackbird male calling at the artificial wetland of the National Museum of the American Indian. 26 May 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/54093.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Red-winged Blackbird female after a downpour at the artificial wetland of the National Museum of the American Indian.  14 May 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/27955.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Mimus polyglottos</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Northern Mockingbird calling.  24 May 2011.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/56352.mp4</mediaURL>
+  <location>Washington, DC, USA.</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Northern Mockingbird fledgling waiting on the sidewalk to be fed.  5 June 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/08544.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Northern Mockingbird returning to its nest with food.  5 June 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/04873.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Euphagus carolinus</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Rusty Blackbird feeding offspring.  8 July 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/45417.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Rusty Blackbird with offspring. 8 June 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/78760.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Carduelis tristis</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>American Goldfinch pair feeding on sun flowers.  Another bird swoops in and attacks the male.  National Botanic Garden, 9 July 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/63748.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Tyrannus tyrannus</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Eastern Kingbird sitting in a tree.  12 July 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/31715.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Dumetella carolinensis</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Grey Catbird eating a fig.  7 August 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/28110.mp4</mediaURL>
+  <location>Capitol Hill, Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Grey Catbird sitting in a tree. 12 July 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/00531.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Molothrus ater</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Brown-headed Cowbirds. Young males in late summer molt. 6 August 2010</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/90843.mp4</mediaURL>
+  <location>Capitol Grounds, Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Sturnus vulgaris</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>European Starling eating a fig.  7 August 2010.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/76720.mp4</mediaURL>
+  <location>Capitol Hill, Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>European Starling looking for food.  28 April 2011.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/75303.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Zonotrichia albicollis</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>White-throated Sparrows foraging on the ground and in an elm tree.  17 March 2012.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/71700.mp4</mediaURL>
+  <location>Roosevelt Island, Washington, DC, USA.</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Thryothorus ludovicianus</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Caroline Wren calling.  17 March 2012.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/11109.mp4</mediaURL>
+  <location>Roosevelt Island, Washington, DC, USA.</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Picoides pubescens</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Downy Woodpecker female and male foraging in a tree.  17 March 2012.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/38512.mp4</mediaURL>
+  <location>Roosevelt Island, Washington, DC, USA.</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Poecile carolinensis</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Carolina Chickadee foraging in a tree.  17 March 2012.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/58763.mp4</mediaURL>
+  <location>Roosevelt Island, Washington, DC, USA.</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Melanerpes carolinus</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Red-bellied Woodpecker foraging in a tree.  17 March 2012.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/61412.mp4</mediaURL>
+  <location>Roosevelt Island, Washington, DC, USA.</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Melospiza melodia</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Song Sparrow preening.  24 May 2011.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/55949.mp4</mediaURL>
+  <location>Washington, DC, USA.</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Dryocopus pileatus</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Pileated Woodpecker.  8 May 2011.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/50829.mp4</mediaURL>
+  <location>Roosevelt Island, Washington, DC, USA.</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Cyanocitta cristata</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Blue Jay.  21 April 2011.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/47575.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Passer domesticus</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>House Sparrows dustbathing.  13 August 2009.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/28963.mp4</mediaURL>
+  <location>Washington, DC, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Anas clypeata</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Northern Shoveler male.  24 February 2008.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/52684.mp4</mediaURL>
+  <location>Sweetwater Wetlands, Tucson, Pima County, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Northern Shoveler pair.  1 March 2009.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/95130.mp4</mediaURL>
+  <location>Sweetwater Wetlands, Tucson, Pima County, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Oxyura jamaicensis</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Ruddy Duck female preening &amp; scratching.    1 March 2009.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/42597.mp4</mediaURL>
+  <location>Sweetwater Wetlands, Tucson, Pima County, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Ruddy Duck male diving.  24 February 2008.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/76546.mp4</mediaURL>
+  <location>Sweetwater Wetlands, Tucson, Pima County, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Anas americana</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>American Wigeon.  24 February 2008.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/72600.mp4</mediaURL>
+  <location>Sweetwater Wetlands, Tucson, Pima County, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Podilymbus podiceps</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Pied-billed Grebe.  24 February 2008.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/26221.mp4</mediaURL>
+  <location>Sweetwater Wetlands, Tucson, Pima County, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Butorides virescens</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Green Heron.  24 February 2008.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/59178.mp4</mediaURL>
+  <location>Sweetwater Wetlands, Tucson, Pima County, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Fulica americana</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>American Coot swimming.  24 February 2008.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/88723.mp4</mediaURL>
+  <location>Sweetwater Wetlands, Tucson, Pima County, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Gallinula chloropus</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Common Moorhen walking across bulrush.  24 February 2008.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/24152.mp4</mediaURL>
+  <location>Sweetwater Wetlands, Tucson, Pima County, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Common Moorhens feeding &amp; swimming.  24 February 2008.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/59953.mp4</mediaURL>
+  <location>Sweetwater Wetlands, Tucson, Pima County, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Xanthocephalus xanthocephalus</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>A Yellow-headed Blackbird sits in bulrush at sunset. This bird was part of a large flock of Yellow-headed and Red-winged Blackbirds. 24 February 2008.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/25811.mp4</mediaURL>
+  <location>Sweetwater Wetlands, Tucson, Pima County, USA</location>
+<reference></reference>
+</dataObject>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>A large flock of yellow-headed blackbirds congregates on a small island in a pond in the late afternoon. 24 February 2008.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/25706.mp4</mediaURL>
+  <location>Sweetwater Wetlands, Tucson, Pima County, USA</location>
+<reference></reference>
+</dataObject>
+</taxon>
+<taxon>
+  <dc:identifier></dc:identifier>
+  <dwc:Kingdom>Animalia</dwc:Kingdom>
+  <dwc:ScientificName>Cathartes aura</dwc:ScientificName>
+<reference></reference>
+<dataObject>
+  <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
+  <mimeType>video/mp4</mimeType>
+<agent role="creator">Kaja Schulz</agent>
+<agent role="compiler">Birds of DC</agent>
+  <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+<audience>General public</audience>
+  <dc:description>Turkey Vulture swooping past the look-out tower.</dc:description>
+  <mediaURL>http://media.eol.org/content/2012/04/10/06/38099.mp4</mediaURL>
+  <location>Gamboa, Colón, Panamá</location>
+<reference></reference>
+</dataObject>
+</taxon>
+</response>
