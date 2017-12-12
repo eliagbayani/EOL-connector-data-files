@@ -12,7 +12,7 @@
   <dc:identifier></dc:identifier>
   <dwc:Kingdom>Animalia</dwc:Kingdom>
   <dwc:ScientificName>Anas platyrhynchos</dwc:ScientificName>
-<reference>eli test ref taxa</reference>
+<reference></reference>
 <dataObject>
   <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
   <mimeType>video/mp4</mimeType>
@@ -23,7 +23,7 @@
   <dc:description>Baby duckling toddling across water lily pads at the artificial wetland of the National Museum of the American Indian.  22 June 2010.</dc:description>
   <mediaURL>http://media.eol.org/content/2012/04/10/06/69420.mp4</mediaURL>
   <location>Washington, DC, USA</location>
-<reference>eli test ref object</reference>
+<reference></reference>
 </dataObject>
 <dataObject>
   <dataType>http://purl.org/dc/dcmitype/MovingImage</dataType>
