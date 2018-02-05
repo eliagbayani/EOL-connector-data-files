@@ -1,0 +1,34 @@
+
+* navigation
+** About the EoE (main)|About the EoE
+** Agricultural &amp; Resource Economics (main)|Agr Resource Econ
+** Biodiversity (main)|Biodiversity
+** Biology (main)|Biology
+** Site Map for the Climate Change Collection|Climate Change
+** Ecology (main)|Ecology
+** Environmental &amp; Earth Science (main)|Env and Earth Science
+** Energy (main)|Energy
+** Environmental Law &amp; Policy (main)|Envir Law and Policy
+** Environmental Humanities (main)|Envir Humanities
+** Food (main)|Food
+** Forests (main)|Forests
+** Geography (main)|Geography
+** Hazards &amp; Disasters (main)|Hazards and Disasters
+** Health (main)|Health
+** Mining &amp; Materials (main)|Mining and Materials
+** People (main)|People
+** Physics &amp; Chemistry (main)|Physics and Chemistry
+** Pollution (main)|Pollution
+** Society &amp; Environment (main)|Society and Envir
+** Water (main)|Water
+** Weather &amp; Climate (main)|Weather and Climate
+** Wildlife (main)|Wildlife
+*Community
+** Get_Involved_in_Creating_EoE_Content|Get involved
+** Special:ListUsers|Current members and authors
+* Utility
+** recentchanges-url|recentchanges
+** helppage|help
+* SEARCH
+* TOOLBOX
+* LANGUAGES

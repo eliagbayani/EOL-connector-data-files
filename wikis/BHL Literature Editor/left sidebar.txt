@@ -1,0 +1,16 @@
+
+* navigation
+** mainpage|mainpage-description
+** https://editors.eol.org/LiteratureEditor/Custom/bhl_access/index.php|Search BHL
+** https://editors.eol.org/LiteratureEditor/Custom/bhl_access/index.php?search_type=articlelist&radio=draft|For Review (drafts)
+** https://editors.eol.org/LiteratureEditor/Custom/bhl_access/index.php?search_type=articlelist&radio=approved|For EOL Harvesting
+* Wiki
+** Special:AllPages|For Review (drafts)
+** https://editors.eol.org/LiteratureEditor/index.php?title=Special%3AAllPages&from=&to=&namespace=5000|For EOL Harvesting
+*
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help
+* SEARCH
+* TOOLBOX
+* LANGUAGES

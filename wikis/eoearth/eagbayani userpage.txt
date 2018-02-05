@@ -1,0 +1,46 @@
+This is Eli's profile page. Changing Sep 21, 2017. 
+
+Go to a [[Special:Random|Random page]].
+
+[[File:Screenshot|thumbnail|test]]
+
+Last modified (mm-dd-yyyy): {{REVISIONMONTH}}-{{REVISIONDAY}}-{{REVISIONYEAR}}
+
+Timestamp: {{REVISIONTIMESTAMP}}
+
+[https://editors.eol.org/tools.html EOL Partner Projects and Tools]
+
+[https://editors.eol.org/apc.php APC admin for editors.eol.org.]
+
+[https://editors.eol.org/ editors.eol.org] | [https://opendata.eol.org/ opendata.eol.org] | [http://discuss.eol.org/ discuss.eol.org]
+
+[https://opendata.eol.org/ckan-admin/trash/ Permanently delete datasets in OpenData.eol.org]
+
+[https://eol-jira.bibalex.org/browse/DATA-1697 FreshData Connectors Maintenance] - [https://editors.eol.org/eol_php_code/applications/content_server/resources/FreshData_connectors.txt Log]
+
+[https://editors.eol.org/other_files/metadata/resource_metadata.html EOL V2 Resources]  |  [https://editors.eol.org/other_files/metadata/partner_metadata.html EOL V2 Content Partners]
+
+[[Special:ListFiles|Uploaded Files]]
+
+[https://eol-jira.bibalex.org/browse/DATA-1625 EoEarth Jira tasks] | [https://eol-jira.bibalex.org/browse/DATA-1634 OpenData Jira tasks]
+
+[https://analytics.google.com/analytics/web/#report/defaultid/a3298646w134165935p138251436/ Google Analytics - All Web Site Data]
+
+[https://analytics.google.com/analytics/web/#realtime/rt-overview/a3298646w134165935p138251436/%3Ffilter.list%3D33%3D%3DDESKTOP%3B/ Google Analytics - Realtime - Overview]
+
+[https://analytics.google.com/analytics/web/#realtime/rt-location/a3298646w134165935p138251436/%3Ffilter.list%3D33%3D%3DDESKTOP%3B/ Google Analytics - Realtime - Locations]
+
+[[File:Test image.png|thumbnail|test upload]]
+
+<p style="display:inline">Enter the title for a new article:</p> {{#createpage:Template||Create article (for review)}}
+
+[[{{#special:PrefixIndex/Template:}}|Articles that are for review (hidden from public, in the works, to be published)]]
+
+[[{{#special:PrefixIndex/Help:}}|Help pages]]
+
+test
+
+<ref>sample reference text</ref>
+<ref>another ref text</ref>
+[[File:Kitchen PDF.pdf|thumbnail|sample PDF upload]]
+[[File:Test logo.png|thumbnail]]

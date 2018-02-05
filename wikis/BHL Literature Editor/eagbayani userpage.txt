@@ -1,0 +1,13 @@
+This is Eli's profile page. 
+
+Go to a [[Special:Random|Random page]].
+
+Last modified (mm-dd-yyyy): {{REVISIONMONTH}}-{{REVISIONDAY}}-{{REVISIONYEAR}}
+
+Timestamp: {{REVISIONTIMESTAMP}}
+
+[http://editors.eol.org/tools.html EOL Partner Projects and Tools]
+
+[http://editors.eol.org/apc.php APC admin for editors.eol.org.]
+
+[http://editors.eol.org/ editors.eol.org]

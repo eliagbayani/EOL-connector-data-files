@@ -1,0 +1,56 @@
+= The Encyclopedia of Earth =
+__NOTOC__ 
+
+==== Explore... ====
+<gallery mode="packed-hover" heights=240px>
+File:Rice Field.jpg|link=Greenhouse gas mitigation in agriculture|''[[Greenhouse gas mitigation in agriculture|Greenhouse Gas Mitigation in Agriculture]]'' (Photo: USAID, Public Domain)
+File:Beryl.jpg|link=Mineral|''[[Mineral|Minerals]]'' (Photo: Smithsonian Institution, CC-BY-NC-SA)
+File:Tsunami1 usgs 438x0 scale.jpg|link=What is a Tsunami?|''[[What is a Tsunami?|What is a Tsunami?]]'' (Photo: USGS, Public Domain)
+File:Wind_turbine_438x0_scale.jpg|link=Wind Energy and Wind Turbines|''[[Wind Energy and Wind Turbines|Wind Energy and Wind Turbines]]'' (Photo: Hadhuey, CC-BY-SA)
+</gallery>
+<br>
+'''<big>WELCOME to the new   home of the Encyclopedia of Earth (EoE).</big>'''<br> The EoE is '''''still''''' a free, expert-reviewed collection of content contributed by scholar/professionals who collaborate and review each other's work. We have been offline for much of 2016 while we migrated to this open source MediaWiki platform. We still have work to do cleaning up some artifacts of the migration and bringing our content up to date. Thank you for your patience!
+
+Are you a scholar/professional interested in joining our community of authors and editors?  Please [[Special:RequestAccount|request an account]]!
+<br><br>
+List of: <span class="plainlinks">[{{ fullurl: Special:ListUsers |group=EoE_Member }} Members]</span> | <span class="plainlinks">[{{ fullurl: Special:ListUsers |group=EoE_Author }} Authors]</span> | <span class="plainlinks">[{{ fullurl: Special:ListUsers |group=EoE_Topic_Editor }} Topic Editors]</span> | <span class="plainlinks">[{{ fullurl: Special:ListUsers |group=EoE_Administrator }} Administrators]</span> | <span class="plainlinks">[{{ fullurl: Special:ListUsers |group=EoE_Managing_Editor }} Managing Editors]</span> | [[Special:ListUsers|All]]
+{{#ifingroup:EoE_Author, EoE_Topic_Editor, EoE_Administrator, EoE_Managing_Editor
+|<!--then-->
+==For Authors==
+
+[[Create a new article]]
+
+[[{{#special:PrefixIndex/Template:}}|Articles that are for review (hidden from public, in the works)]]
+
+[[Special:EmailUser|Send e-mail]]
+|<!--else-->
+}}
+{{#ifingroup:EoE_Topic_Editor, EoE_Administrator, EoE_Managing_Editor
+|<!--then-->
+==For Topic Editors==
+[[Topic_Editor|Resources for Topic Editors]]
+
+[[Special:RequestAccount|Request Account]]
+
+[[Special:ConfirmAccounts|Review Pending Account Requests]]
+
+[[Special:UserRights|Assign User Rights]]
+
+[[https://editors.eol.org/eoearth/index.php?title=Special%3APrefixIndex&prefix=&namespace=10&hideredirects=1|Articles Articles for review, hidden from public, to be published]]
+
+[[Search Results for Main Topics|Articles: search results by topic]]
+
+[[Special:EmailUser|Send e-mail]] <nowiki>|</nowiki> [[Special:EmailUsers|Send batch e-mail]]
+<br /><br />
+
+
+<!---
+==Utilities==
+[[MediaWiki:Spam-blacklist|Spam-blacklist]]
+
+[[MediaWiki:Spam-whitelist|Spam-whitelist]]
+--->
+|<!--else-->
+}}
+
+The Encyclopedia of Earth is hosted on [https://editors.eol.org editors.eol.org], a collaborative editing facility of the [http://eol.org/ Encyclopedia of Life].
