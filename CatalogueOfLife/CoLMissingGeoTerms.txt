@@ -1,0 +1,289 @@
+http://www.wikidata.org/entity/Q974	Congo
+http://www.geonames.org/3277605	Bosnia-Herzegovina
+http://www.wikidata.org/entity/Q875134	Central European Russia
+http://www.geonames.org/1220409	Tadzhikistan
+http://www.geonames.org/3382998	Surinam
+http://www.geonames.org/1085593	Eastern Cape Province
+http://www.geonames.org/1085596	Northern Cape Province
+http://www.geonames.org/1085599	Western Cape Province
+http://www.geonames.org/972062	KwaZulu-Natal
+http://www.geonames.org/967573	Free State
+http://www.geonames.org/1085594	Gauteng
+http://www.geonames.org/1085595	Mpumalanga
+http://www.geonames.org/1085597	Northern Province
+http://www.geonames.org/2170371	Coral Sea Is. Territory
+http://www.geonames.org/2077507	Ashmore-Cartier Is.
+http://www.geonames.org/2058645	Western Australia
+http://www.geonames.org/1506272	Altay
+http://www.geonames.org/3042058	Liechtenstein
+http://www.geonames.org/2050915	Buryatiya
+http://www.geonames.org/2036965	Heilongjiang
+http://www.geonames.org/2036500	Jilin
+http://www.geonames.org/2036115	Liaoning
+http://www.wikidata.org/entity/Q182902	Chita
+http://www.geonames.org/3042400	Channel Is.
+http://www.geonames.org/2648147	Great Britain
+http://www.geonames.org/5855811	Hawaiian Is.
+http://www.geonames.org/2023468	Irkutsk
+http://www.geonames.org/1857892	Kyushu
+http://www.geonames.org/1852487	Shikoku
+http://www.geonames.org/1502020	Krasnoyarsk
+http://www.geonames.org/2112272	Kazan-retto
+http://www.geonames.org/6065171	Manitoba
+http://www.geonames.org/5001836	Michigan
+http://www.geonames.org/5667009	Montana
+http://www.geonames.org/6087430	New Brunswick
+http://www.geonames.org/5690763	North Dakota
+http://www.geonames.org/3424932	St.Pierre-Miquelon
+http://www.geonames.org/1855629	Nansei-shoto
+http://www.geonames.org/6091530	Nova Scotia
+http://www.geonames.org/6093943	Ontario
+http://www.geonames.org/6113358	Prince Edward I.
+http://www.wikidata.org/entity/Q15054934	Northwest European Russia
+http://www.geonames.org/6141242	Saskatchewan
+http://www.geonames.org/1488873	Tuva
+http://www.wikidata.org/entity/Q1191358	West Siberia
+http://marineregions.org/mrgid/47882	Yakutskiya
+http://www.geonames.org/2159558	Lord Howe I.
+http://www.geonames.org/2155115	Norfolk I.
+http://www.geonames.org/2064513	Northern Territory
+http://www.geonames.org/2185983	New Zealand North
+http://www.geonames.org/2182504	New Zealand South
+http://www.geonames.org/2061327	South Australia
+http://www.geonames.org/2145234	Victoria
+http://www.geonames.org/4829764	Alabama
+http://www.geonames.org/3463504	Brazilia Distrito Federal
+http://www.geonames.org/3457415	Mato Grosso do Sul
+http://www.geonames.org/3408096	Alagoas
+http://www.geonames.org/3399637	Fernando de Noronha
+http://www.geonames.org/3395443	Maranhao
+http://www.geonames.org/3463930	Espirito Santo
+http://www.geonames.org/3446035	Trindade
+http://www.geonames.org/3474575	Tocantins
+http://www.geonames.org/4155751	Florida
+http://www.geonames.org/6254925	Kentucky
+http://www.geonames.org/4436296	Mississippi
+http://www.geonames.org/3527646	Mexico Distrito Federal
+http://www.geonames.org/3522961	Morelos
+http://www.geonames.org/3515359	Tlaxcala
+http://www.geonames.org/4019231	Aguascalientes
+http://www.geonames.org/4013674	Coahuila
+http://www.geonames.org/4014336	Chihuahua
+http://www.geonames.org/4011741	Durango
+http://www.geonames.org/4005267	Guanajuato
+http://www.geonames.org/3516391	Tamaulipas
+http://www.geonames.org/3979840	Zacatecas
+http://www.geonames.org/3514780	Veracruz
+http://www.geonames.org/4005434	Guadalupe I.
+http://www.wikidata.org/entity/Q670647	Rocas Alijos
+http://www.geonames.org/3988751	Revillagigedo Is.
+http://www.geonames.org/4017698	Baja California Sur
+http://www.geonames.org/3983035	Sinaloa
+http://www.geonames.org/3982846	Sonora
+http://www.geonames.org/4013513	Colima
+http://www.geonames.org/3527213	Guerrero
+http://www.geonames.org/4004156	Jalisco
+http://www.geonames.org/3995012	Nayarit
+http://www.geonames.org/3522509	Oaxaca
+http://www.geonames.org/3531730	Campeche
+http://www.geonames.org/3531011	Chiapas
+http://www.geonames.org/3520887	Quintana Roo
+http://www.geonames.org/3516458	Tabasco
+http://www.geonames.org/4662168	Tennessee
+http://www.geonames.org/1263207	Meghalaya
+http://www.geonames.org/1262963	Mizoram
+http://www.geonames.org/1262271	Nagaland
+http://www.geonames.org/1254169	Tripura
+http://www.geonames.org/1814905	Chongqing
+http://www.geonames.org/1809445	Guizhou
+http://www.geonames.org/1806949	Hubei
+http://www.geonames.org/1785694	Yunnan
+http://www.geonames.org/2035607	Nei Mongol
+http://www.geonames.org/1799355	Ningxia
+http://www.geonames.org/2038349	Beijing
+http://www.geonames.org/1810676	Gansu
+http://www.geonames.org/1808773	Hebei
+http://www.geonames.org/1796480	Shaanxi
+http://www.geonames.org/1796328	Shandong
+http://www.geonames.org/1795912	Shanxi
+http://www.geonames.org/1792943	Tianjin
+http://www.geonames.org/1280239	Qinghai
+http://www.geonames.org/1818058	Anhui
+http://www.geonames.org/1811017	Fujian
+http://www.geonames.org/1809935	Guangdong
+http://www.geonames.org/1809867	Guangxi
+http://www.geonames.org/1808520	Henan
+http://www.geonames.org/1806691	Hunan
+http://www.geonames.org/1806260	Jiangsu
+http://www.geonames.org/1806222	Jiangxi
+http://www.geonames.org/1676511	Kin-Men
+http://www.geonames.org/1821275	Macau
+http://www.geonames.org/1796231	Shanghai
+http://www.geonames.org/1784764	Zhejiang
+http://www.geonames.org/1529047	Xinjiang
+http://www.geonames.org/1278341	Arunachal Pradesh
+http://www.geonames.org/1278629	Andhra Pradesh
+http://www.geonames.org/1275715	Bihar
+http://www.geonames.org/1274744	Chandigarh
+http://www.geonames.org/1273726	Dadra-Nagar-Haveli
+http://www.geonames.org/1273293	Delhi
+http://www.geonames.org/1272504	Diu
+http://www.geonames.org/1273616	Daman
+http://www.geonames.org/1271157	Goa
+http://www.geonames.org/1270770	Gujarat
+http://www.geonames.org/1270260	Haryana
+http://www.geonames.org/1444365	Jharkhand
+http://www.geonames.org/1267254	Kerala
+http://www.geonames.org/1267888	Karaikal
+http://www.geonames.org/1267701	Karnataka
+http://www.geonames.org/1264542	Madhya Pradesh
+http://www.geonames.org/1261029	Orissa
+http://www.geonames.org/1259426	Pondicherry
+http://www.geonames.org/1167710	Punjab
+http://www.geonames.org/1258899	Rajasthan
+http://www.geonames.org/1255053	Tamil Nadu
+http://www.geonames.org/1252881	West Bengal
+http://www.geonames.org/1252796	Yanam
+http://www.geonames.org/1642673	Jawa
+http://www.geonames.org/1745185	Peninsular Malaysia
+http://www.geonames.org/3435907	Buenos Aires
+http://www.geonames.org/3861887	Chaco
+http://www.geonames.org/3435214	Corrientes
+http://www.geonames.org/3435907	Argentina Distrito Federal
+http://www.geonames.org/3849574	La Pampa
+http://www.geonames.org/3430657	Misiones
+http://www.geonames.org/3861244	Chubut
+http://www.geonames.org/3838830	Rio Negro
+http://www.geonames.org/3836350	Santa Cruz
+http://www.geonames.org/3834450	Tierra del Fuego (Argentina)
+http://www.geonames.org/3862286	Catamarca
+http://www.geonames.org/3853404	Jujuy
+http://www.geonames.org/3848949	La Rioja
+http://www.geonames.org/3844419	Mendoza
+http://www.geonames.org/3838231	Salta
+http://www.geonames.org/3835868	Santiago del Estero
+http://www.geonames.org/3837152	San Juan
+http://www.geonames.org/3837029	San Luis
+http://www.geonames.org/3833578	Tucuman
+http://www.geonames.org/4142224	Delaware
+http://www.geonames.org/4831725	Connecticut
+http://www.geonames.org/4921868	Indiana
+http://www.geonames.org/5090174	New Hampshire
+http://www.geonames.org/6254927	Pennsylvania
+http://www.geonames.org/5224323	Rhode I.
+http://www.geonames.org/3573591	Trinidad-Tobago
+http://www.geonames.org/5242283	Vermont
+http://www.geonames.org/4138106	District of Columbia
+http://www.geonames.org/4826850	West Virginia
+http://www.geonames.org/1624114	Lesser Sunda Is.
+http://www.geonames.org/1636627	Maluku
+http://www.geonames.org/1626198	Sumatera
+http://www.geonames.org/2078138	Christmas I.
+http://www.geonames.org/4896861	Illinois
+http://www.geonames.org/4862182	Iowa
+http://www.geonames.org/2125073	Kamchatka
+http://www.geonames.org/2131689	Kuril Is.
+http://www.geonames.org/4398678	Missouri
+http://www.geonames.org/5769223	South Dakota
+http://www.geonames.org/5843591	Wyoming
+http://www.geonames.org/3881974	Los Lagos
+http://www.geonames.org/4036650	Magellanes
+http://www.geonames.org/3474414	Falkland Is.
+http://marineregions.org/mrgid/47796	East European Russia
+http://marineregions.org/mrgid/47889	North European Russia
+http://marineregions.org/mrgid/22717	South European Russia
+http://www.geonames.org/4034894	Samoa
+http://www.geonames.org/2520308	Canary Is.
+http://www.geonames.org/1899402	Cook Is.
+http://www.geonames.org/936339	Crozet Is.
+http://www.geonames.org/2121530	Sakhalin
+http://www.geonames.org/4033681	Society Is.
+http://www.geonames.org/3577322	Virgin Is.
+http://www.geonames.org/2017623	Primorye
+http://www.geonames.org/6254926	Massachusetts
+http://www.geonames.org/5509151	Nevada
+http://www.geonames.org/2159161	Macquarie Is.
+http://www.geonames.org/4030699	Pitcairn Is.
+http://www.geonames.org/1278646	Andaman Is.
+http://www.geonames.org/2080185	Marshall Is.
+http://www.geonames.org/3624182	Cocos I.
+http://www.geonames.org/1261447	Nicobar Is.
+http://www.geonames.org/2177478	Australian Capital Territory
+http://www.geonames.org/1270101	Himachal Pradesh
+http://marineregions.org/mrgid/36323	Pacific
+http://www.geonames.org/4033013	Chatham Is.
+http://www.geonames.org/4030726	Easter Is.
+http://www.geonames.org/3580718	Cayman Is.
+http://www.geonames.org/1444366	Uttaranchal
+http://www.geonames.org/3023519	Corse
+http://www.geonames.org/3577816	St.Vincent
+http://www.geonames.org/1821005	Spratly Is.
+http://www.geonames.org/5879148	Aleutian Is.
+http://www.geonames.org/3576468	St.Lucia
+http://www.geonames.org/3576396	Antigua-Barbuda
+http://www.geonames.org/1527747	Kirgizistan
+http://www.geonames.org/147435	Nakhichevan
+http://www.geonames.org/2413451	Gambia, The
+http://www.geonames.org/2361809	Burkina
+http://www.geonames.org/298795	Turkey-in-Europe
+http://marineregions.org/mrgid/5695	Ukrainian Exclusive Economic Zone
+http://marineregions.org/mrgid/4279	Mediterranean Sea - Western Basin
+http://marineregions.org/mrgid/4280	Mediterranean Sea - Eastern Basin
+http://www.geonames.org/1269320	Jammu-Kashmir
+http://www.geonames.org/2022888	Khabarovsk
+http://www.geonames.org/703883	Krym
+http://www.geonames.org/3640846	Venezuelan Antilles
+http://www.geonames.org/4041685	Wake I.
+http://www.geonames.org/6930057	St.Helena
+http://www.geonames.org/2110215	Gilbert Is.
+http://www.geonames.org/4034749	Wallis-Futuna Is.
+http://www.geonames.org/4030621	Tuamotu
+http://www.geonames.org/4033250	Tubuai Is.
+http://www.geonames.org/1274985	Laccadive Is.
+http://www.geonames.org/2178509	Santa Cruz Is.
+http://www.geonames.org/4032961	Kermadec Is.
+http://marineregions.org/mrgid/22741	East Aegean Is.
+http://www.geonames.org/2123627	Magadan
+http://www.geonames.org/877332	Caprivi Strip
+http://www.geonames.org/2193911	Antipodean Is.
+http://www.geonames.org/3576916	Turks-Caicos Is.
+http://www.geonames.org/2111921	Marcus I.
+http://www.geonames.org/7521379	Phoenix Is.
+http://www.geonames.org/3426222	South Sandwich Is.
+http://marineregions.org/mrgid/48684	Howland-Baker Is.
+http://www.geonames.org/10124146	Desventurados Is.
+http://www.geonames.org/1547314	Heard-McDonald Is.
+http://www.geonames.org/567293	Dagestan
+http://marineregions.org/mrgid/36325	Southern America
+http://marineregions.org/mrgid/36324	Northern America
+http://marineregions.org/mrgid/48441	South Solomons
+http://www.geonames.org/3374199	Santiago
+http://www.geonames.org/542415	Krasnodar
+http://www.geonames.org/1444364	Chattisgarh
+http://www.geonames.org/3899463	La Araucania
+http://www.geonames.org/3899191	Atacama
+http://www.geonames.org/3577718	British Virgin Is.
+http://www.geonames.org/3880306	Maule
+http://www.geonames.org/3883281	O'Higgins
+http://www.geonames.org/569665	Chechnya
+http://marineregions.org/mrgid/48440	North Solomons
+http://www.geonames.org/4030940	Kiribati Line Is.
+http://www.geonames.org/3575174	St.Kitts-Nevis
+http://www.geonames.org/3893623	Coquimbo
+http://marineregions.org/mrgid/48515	North Yemen
+http://www.geonames.org/3411923	North Atlantic Ocean
+http://www.geonames.org/4030483	South Pacific Ocean
+http://www.geonames.org/3358844	South Atlantic Ocean
+http://www.geonames.org/5854943	Midway Is.
+http://marineregions.org/mrgid/2357	Irish Sea and St. George's Channel
+http://marineregions.org/mrgid/4306	Inland Sea
+http://marineregions.org/mrgid/4307	Japan Sea
+http://www.geonames.org/630674	Barentsz Sea
+http://marineregions.org/mrgid/47718	Marion-Prince Edward Is.
+http://www.geonames.org/3675570	Malpelo I.
+http://www.geonames.org/8617633	The Coastal Waters of Southeast Alaska and British Columbia
+http://marineregions.org/mrgid/8386	Amsterdam Island & St. Paul Island Exclusive Economic Zone
+http://www.geonames.org/6632710	Antarctic
+http://www.geonames.org/3899537	Antofagasta
+http://marineregions.org/mrgid/4325	Rio de La Plata
+http://www.geonames.org/3648752	Aves I.
