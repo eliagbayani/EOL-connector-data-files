@@ -287,3 +287,4 @@ http://www.geonames.org/6632710	Antarctic
 http://www.geonames.org/3899537	Antofagasta
 http://marineregions.org/mrgid/4325	Rio de La Plata
 http://www.geonames.org/3648752	Aves I.
+http://marineregions.org/mrgid/8480	Indian Exclusive Economic Zone
