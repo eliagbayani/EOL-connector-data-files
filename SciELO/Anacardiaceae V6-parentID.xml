@@ -1,0 +1,3878 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<row>
+		<ID>9</ID>
+		<Rank>GRUPO</Rank>
+		<_Parent_ID></_Parent_ID>
+		<Name>Angiospermas</Name>
+		<Genus></Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author></Author>
+		<Status></Status>
+		<Qualifier></Qualifier>
+		<Origin></Origin>
+		<Endemic></Endemic>
+		<Occurs_in_Brazil></Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors></Authors>
+		<Citation></Citation>
+		<URL></URL>
+		<Last_Update></Last_Update>
+		<User_Lastupdate></User_Lastupdate>
+	</row>
+	<row>
+		<ID>13206</ID>
+		<Rank>FAMILIA</Rank>
+		<_Parent_ID>9</_Parent_ID>
+		<Name>Anacardiaceae</Name>
+		<Genus>Anacardiaceae</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author></Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardiaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB44)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB44</URL>
+		<Last_Update>21/11/2012 - 15:49:16</Last_Update>
+		<User_Lastupdate>Dev</User_Lastupdate>
+	</row>
+	<row>
+		<ID>13676</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Anacardium</Name>
+		<Genus>Anacardium</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>L.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Mori, S.A. 1984. The Cashew and Its Relatives ( Anacardium : Anacardiaceae).  Memoirs of the New York Botanical Garden  42 (4): 1-76.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4380)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4380</URL>
+		<Last_Update>20/12/2011 - 17:33:15</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22189</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium amapaense</Name>
+		<Genus>Anacardium</Genus>
+		<Species>amapaense</Species>
+		<Variety></Variety>
+		<Author>J.D. Mitch.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Pires, J.M., 51650, É typus, RB, MG, UB, (AM)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte, Nordeste</Regional_Distribution>
+		<State_Distribution>AP, PA, MA</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Terra Firme</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. 1992. Additions to  Anacardium  (Anacardiaceae).  Anacardium amapaënse , a new species from French Guiana and eastern amazonian Brazil.  Brittonia  44(3): 331-338.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB15461)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB15461</URL>
+		<Last_Update>15/12/2011 - 11:58:04</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22190</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium amilcarianum</Name>
+		<Genus>Anacardium</Genus>
+		<Species>amilcarianum</Species>
+		<Variety></Variety>
+		<Author>Machado</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Machado, O.X.B., 205, É typus, SPF, RB, F, (GO)</Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB77850)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB77850</URL>
+		<Last_Update>15/12/2011 - 12:10:19</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22191</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium corymbosum</Name>
+		<Genus>Anacardium</Genus>
+		<Species>corymbosum</Species>
+		<Variety></Variety>
+		<Author>Barb.Rodr.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Prance, G.T. et al., 19320, K, MO, NY, (MT); Hatschbach, G., 63581, MBM, SPF, (MT); Mori, S.A. et al., 16760, NY, CU, CEPEC, </Voucher>
+		<References></References>
+		<Life_Form>Subarbusto</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Centro-Oeste</Regional_Distribution>
+		<State_Distribution>MT</State_Distribution>
+		<Phyto_Domain>Cerrado</Phyto_Domain>
+		<Vegetation_types>Cerrado (lato sensu)</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>caju-rasteiro, Mato Grosso, PORTUGUES; cajuzinho, Mato Grosso, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Mori, S.A. 1984. The Cashew and Its Relatives ( Anacardium : Anacardiaceae).  Memoirs of the New York Botanical Garden  42 (4): 1-76.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB26372)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB26372</URL>
+		<Last_Update>20/12/2011 - 17:32:58</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22192</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium giganteum</Name>
+		<Genus>Anacardium</Genus>
+		<Species>giganteum</Species>
+		<Variety></Variety>
+		<Author>W.Hancock ex Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Spruce, R., 1971, É typus, NY,   NY00050726 ,(AM); Pires, J.M., 113446, MG, SPF, </Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte, Nordeste, Centro-Oeste</Regional_Distribution>
+		<State_Distribution>MT, AC, AM, PA, RO, RR, MA</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Terra Firme</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>cajuaçu, Norte, PORTUGUES; caju-açu, Norte, PORTUGUES; caju-da-mata, Norte, PORTUGUES; cajuí, Norte, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Mori, S.A. 1984. The Cashew and Its Relatives (Anacardium: Anacardiaceae). Memoirs of the New York Botanical Garden 42 (4): 1-76.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB15462)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB15462</URL>
+		<Last_Update>15/12/2011 - 14:55:25</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22193</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium humile</Name>
+		<Genus>Anacardium</Genus>
+		<Species>humile</Species>
+		<Variety></Variety>
+		<Author>A.St.-Hil.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Harley, R.M., 76038, SPF, K, SP, HUEFS, NY, </Voucher>
+		<References>  Flora brasiliensis, vol. 12, part. 2, tab. 88, null</References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte, Nordeste, Centro-Oeste, Sudeste, Sul</Regional_Distribution>
+		<State_Distribution>DF, GO, MS, MT, RO, TO, BA, PI, PR, MG, SP</State_Distribution>
+		<Phyto_Domain>Caatinga, Cerrado, Mata Atlântica</Phyto_Domain>
+		<Vegetation_types>Cerrado (lato sensu), Área Antrópica</Vegetation_types>
+		<Synonyms>Anacardium pumilum A.St.-Hil. ex Engl.</Synonyms>
+		<Vernacular_Names>caju-do-cerrado, sudeste, PORTUGUES; cajuzinho-do-cerrado, centro-oeste, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Mori, S.A. 1984. The Cashew and Its Relatives ( Anacardium : Anacardiaceae).  Memoirs of the New York Botanical Garden  42 (4): 1-76.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB15463)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB15463</URL>
+		<Last_Update>15/12/2011 - 13:37:08</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22194</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium kuhlmannianum</Name>
+		<Genus>Anacardium</Genus>
+		<Species>kuhlmannianum</Species>
+		<Variety></Variety>
+		<Author>Machado</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Machado, O.X.B., 207, É typus, CEN, RB, (GO)</Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB77851)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB77851</URL>
+		<Last_Update>15/12/2011 - 14:01:47</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22195</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium microcarpum</Name>
+		<Genus>Anacardium</Genus>
+		<Species>microcarpum</Species>
+		<Variety></Variety>
+		<Author>Ducke</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Ducke, A., s.n., É typus, RB, MG, (PA)</Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Mori, S.A. 1984. The Cashew and Its Relatives (Anacardium: Anacardiaceae). Memoirs of the New York Botanical Garden 42 (4): 1-76.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB77852)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB77852</URL>
+		<Last_Update>15/12/2011 - 14:03:30</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22196</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium microsepalum</Name>
+		<Genus>Anacardium</Genus>
+		<Species>microsepalum</Species>
+		<Variety></Variety>
+		<Author>Loes.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Ule, E.H.G., 5965, É typus, SPF, K, (AM)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte</Regional_Distribution>
+		<State_Distribution>AM, PA, RO</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Várzea</Vegetation_types>
+		<Synonyms>Anacardium negrense Pires &amp; Fróes</Synonyms>
+		<Vernacular_Names>cajuí-da-várzea, norte, PORTUGUES; cajurana, norte, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Mori, S.A. 1984. The Cashew and Its Relatives ( Anacardium : Anacardiaceae).  Memoirs of the New York Botanical Garden  42 (4): 1-76.   Verh. Bot. Ver. Brand. 1906 48: 175 (1907).1906 48: 175</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80019)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80019</URL>
+		<Last_Update>15/12/2011 - 14:16:19</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22197</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium nanum</Name>
+		<Genus>Anacardium</Genus>
+		<Species>nanum</Species>
+		<Variety></Variety>
+		<Author>A.St.-Hil.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Pirani, J.R., CFSC 7450, SPF, NY, SP, UB, MBM, R, (MG)</Voucher>
+		<References></References>
+		<Life_Form>Subarbusto</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Centro-Oeste, Sudeste</Regional_Distribution>
+		<State_Distribution>DF, GO, MT, MG</State_Distribution>
+		<Phyto_Domain>Cerrado</Phyto_Domain>
+		<Vegetation_types>Cerrado (lato sensu)</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>caju rasteiro, centro-oeste, sudeste, PORTUGUES; cajuzinho, centro-oeste, sudeste, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Mori, S.A. 1984. The Cashew and Its Relatives ( Anacardium : Anacardiaceae).  Memoirs of the New York Botanical Garden  42 (4): 1-76.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB26373)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB26373</URL>
+		<Last_Update>15/12/2011 - 14:45:58</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22198</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium negrense</Name>
+		<Genus>Anacardium</Genus>
+		<Species>negrense</Species>
+		<Variety></Variety>
+		<Author>Pires &amp; Fróes</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Pires, J.M. &amp; Fróes, R.L., Bol. Tecn. Inst. Agron. N., 15:20, t. 22, 1948</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Mori, S.A. 1984. The Cashew and Its Relatives ( Anacardium : Anacardiaceae).  Memoirs of the New York Botanical Garden  42 (4): 1-76.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115343)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115343</URL>
+		<Last_Update>15/12/2011 - 14:48:42</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22199</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium occidentale</Name>
+		<Genus>Anacardium</Genus>
+		<Species>occidentale</Species>
+		<Variety></Variety>
+		<Author>L.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Pirani, J.R., 2670, HUEFS, NY, SPF, (AL)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte, Nordeste, Centro-Oeste, Sudeste</Regional_Distribution>
+		<State_Distribution>DF, GO, MS, MT, AC, AM, AP, PA, RR, TO, AL, BA, CE, MA, PB, PE, PI, RN, ES, MG, RJ, SP, SE</State_Distribution>
+		<Phyto_Domain>Amazônia, Caatinga, Cerrado, Mata Atlântica, Pampa, Pantanal</Phyto_Domain>
+		<Vegetation_types>Caatinga (stricto sensu), Cerrado (lato sensu), Restinga, Savana Amazônica</Vegetation_types>
+		<Synonyms>Anacardium amilcarianum Machado, Anacardium kuhlmannianum Machado, Anacardium microcarpum Ducke, Anacardium othonianum Rizzini, Anacardium rondonianum Machado</Synonyms>
+		<Vernacular_Names>acajaiba, Brasil, PORTUGUES; caju, Brasil, PORTUGUES; caju-anão, Brasil, PORTUGUES; cajueiro, Brasil, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Mori, S.A. 1984. The Cashew and Its Relatives ( Anacardium : Anacardiaceae).  Memoirs of the New York Botanical Garden  42 (4): 1-76.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4381)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4381</URL>
+		<Last_Update>20/02/2012 - 11:45:47</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22200</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium othonianum</Name>
+		<Genus>Anacardium</Genus>
+		<Species>othonianum</Species>
+		<Variety></Variety>
+		<Author>Rizzini</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Rizzini, C.T., s.n., É typus, RB, CEN, (GO)</Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Mori, S.A. 1984. The Cashew and Its Relatives ( Anacardium : Anacardiaceae).  Memoirs of the New York Botanical Garden  42 (4): 1-76.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB77853)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB77853</URL>
+		<Last_Update>15/12/2011 - 15:27:37</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22201</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium parvifolium</Name>
+		<Genus>Anacardium</Genus>
+		<Species>parvifolium</Species>
+		<Variety></Variety>
+		<Author>Ducke</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Ducke, A., s.n., É typus, RB,   NY00050730, MO, P, K, NY, (AM)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte</Regional_Distribution>
+		<State_Distribution>AM</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Terra Firme</Vegetation_types>
+		<Synonyms>Anacardium tenuifolium Ducke</Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Mori, S.A. 1984. The Cashew and Its Relatives ( Anacardium : Anacardiaceae).  Memoirs of the New York Botanical Garden  42 (4): 1-76.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB77854)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB77854</URL>
+		<Last_Update>15/12/2011 - 17:32:51</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22202</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium pumilum</Name>
+		<Genus>Anacardium</Genus>
+		<Species>pumilum</Species>
+		<Variety></Variety>
+		<Author>A.St.-Hil. ex Engl.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Saint-Hilaire, A.F.C.P., Ann. Sci. Nat., Bot., 23:272, 1831;   Flora brasiliensis, vol. 12, part. 2, tab. 88, null</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Rep. 1: 555</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80020)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80020</URL>
+		<Last_Update>15/12/2011 - 16:36:53</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22203</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium rondonianum</Name>
+		<Genus>Anacardium</Genus>
+		<Species>rondonianum</Species>
+		<Variety></Variety>
+		<Author>Machado</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Machado, O.X.B., 221, É typus, RB, K, (GO)</Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Mori, S.A. 1984. The Cashew and Its Relatives ( Anacardium : Anacardiaceae).  Memoirs of the New York Botanical Garden  42 (4): 1-76.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB77855)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB77855</URL>
+		<Last_Update>15/12/2011 - 17:12:07</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22204</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium spruceanum</Name>
+		<Genus>Anacardium</Genus>
+		<Species>spruceanum</Species>
+		<Variety></Variety>
+		<Author>Benth. ex Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Spruce, R., 1330, É typus, K,   NY00050731, P, BM, NY, GH, (AM)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte, Nordeste</Regional_Distribution>
+		<State_Distribution>AM, AP, PA, RO, MA</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Igapó, Floresta de Terra Firme</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>caju-assu, norte, PORTUGUES; cajueiro-do-mato, norte, PORTUGUES; cajuí, Norte, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Mori, S.A. 1984. The Cashew and Its Relatives ( Anacardium : Anacardiaceae).  Memoirs of the New York Botanical Garden  42 (4): 1-76.   Mart. Fl. Bras. 12: II. 410. 12. II. 410.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80021)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80021</URL>
+		<Last_Update>15/12/2011 - 17:22:14</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>22205</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13676</_Parent_ID>
+		<Name>Anacardium tenuifolium</Name>
+		<Genus>Anacardium</Genus>
+		<Species>tenuifolium</Species>
+		<Variety></Variety>
+		<Author>Ducke</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Krukoff, B.A., 4723, É typus, NY,   NY00050732, K, F, (AM)</Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Anacardium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB77856)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB77856</URL>
+		<Last_Update>15/12/2011 - 17:34:32</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>13779</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Antrocaryon</Name>
+		<Genus>Antrocaryon</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>Pierre</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Antrocaryon in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB21757)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB21757</URL>
+		<Last_Update>20/12/2011 - 17:33:43</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>23297</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13779</_Parent_ID>
+		<Name>Antrocaryon amazonicum</Name>
+		<Genus>Antrocaryon</Genus>
+		<Species>amazonicum</Species>
+		<Variety></Variety>
+		<Author>(Ducke) B.L.Burtt &amp; A.W.Hill</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Figueiredo, C., 460, NY, </Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte</Regional_Distribution>
+		<State_Distribution>AC, AM, PA</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Palmeiral</Vegetation_types>
+		<Synonyms>Poupartia amazonica Ducke</Synonyms>
+		<Vernacular_Names>almeixa, Acre, PORTUGUES; cedro-branco, Acre, PORTUGUES; cedro-taperebá, Acre, PORTUGUES</Vernacular_Names>
+		<Bibliography>Ribeiro, J.E.L.S. &amp; Mitchell, J.D. 1999. Anacardiaceae.  In  J.E.L.S. Ribeiro (eds.)  Flora da Reserva Ducke - Guia de identificação das plantas vasculares de uma floresta de terra-firme na Amazônia Central.  INPA-DFID. Manaus, p. 544-546.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Antrocaryon in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB21758)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB21758</URL>
+		<Last_Update>15/12/2011 - 18:18:36</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>13819</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Apterokarpos</Name>
+		<Genus>Apterokarpos</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>Rizzini</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Apterokarpos in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB15464)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB15464</URL>
+		<Last_Update>20/12/2011 - 17:34:08</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>23463</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13819</_Parent_ID>
+		<Name>Apterokarpos gardneri</Name>
+		<Genus>Apterokarpos</Genus>
+		<Species>gardneri</Species>
+		<Variety></Variety>
+		<Author>(Engl.) Rizzini</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Pirani, J.R., 2586, SPF, NY, </Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Nordeste</Regional_Distribution>
+		<State_Distribution>BA, CE, PE, PI</State_Distribution>
+		<Phyto_Domain>Caatinga</Phyto_Domain>
+		<Vegetation_types>Caatinga (stricto sensu)</Vegetation_types>
+		<Synonyms>Loxopterygium gardneri Engl.</Synonyms>
+		<Vernacular_Names>aroeira-mole, Nordeste, PORTUGUES; paraíba, Nordeste, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Apterokarpos in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB15465)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB15465</URL>
+		<Last_Update>19/12/2011 - 11:49:03</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>13904</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Astronium</Name>
+		<Genus>Astronium</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>Jacq.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Astronium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4382)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4382</URL>
+		<Last_Update>20/12/2011 - 17:35:23</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>24388</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13904</_Parent_ID>
+		<Name>Astronium balansae</Name>
+		<Genus>Astronium</Genus>
+		<Species>balansae</Species>
+		<Variety></Variety>
+		<Author>Engl.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Engler, H.G.A., Bot. Jahrb. Syst., 1:45, 1881</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Astronium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115519)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115519</URL>
+		<Last_Update>19/12/2011 - 11:52:25</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>24389</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13904</_Parent_ID>
+		<Name>Astronium concinnum</Name>
+		<Genus>Astronium</Genus>
+		<Species>concinnum</Species>
+		<Variety></Variety>
+		<Author>Schott</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Carvalho-Sobrinho, J.G., 129, HUEFS, </Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Nordeste, Sudeste</Regional_Distribution>
+		<State_Distribution>BA, RN, ES, MG, RJ, SE</State_Distribution>
+		<Phyto_Domain>Caatinga, Cerrado, Mata Atlântica</Phyto_Domain>
+		<Vegetation_types>Floresta Ombrófila (= Floresta Pluvial)</Vegetation_types>
+		<Synonyms>Hermogenodendron concinnum</Synonyms>
+		<Vernacular_Names>aroeira-rajada, Minas Gerais, PORTUGUES; guarubu-violeta, Espírito Santo, PORTUGUES; itapicuru-ferreiro, Nordeste, PORTUGUES; mucuri, Nordeste, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Astronium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4383)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4383</URL>
+		<Last_Update>19/12/2011 - 12:05:43</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>24390</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13904</_Parent_ID>
+		<Name>Astronium fraxinifolium</Name>
+		<Genus>Astronium</Genus>
+		<Species>fraxinifolium</Species>
+		<Variety></Variety>
+		<Author>Schott</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Leitão-Filho, H.F., 12961, UEC, (MS)</Voucher>
+		<References>  Flora brasiliensis, vol. 12, part. 2, tab. 84, null</References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte, Nordeste, Centro-Oeste, Sudeste</Regional_Distribution>
+		<State_Distribution>DF, GO, MS, MT, PA, AL, BA, CE, MA, PB, PE, PI, RN, MG, RJ, SE</State_Distribution>
+		<Phyto_Domain>Amazônia, Cerrado, Mata Atlântica</Phyto_Domain>
+		<Vegetation_types>Caatinga (stricto sensu), Cerrado (lato sensu), Floresta Estacional Semidecidual</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>aroeira-d'água, Mato Grosso do Sul, PORTUGUES; Brito, Pernambuco, PORTUGUES; sete cascas, Pernambuco, PORTUGUES; ubatan, Sudeste, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Astronium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4384)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4384</URL>
+		<Last_Update>19/12/2011 - 12:22:23</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>24391</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13904</_Parent_ID>
+		<Name>Astronium gardneri</Name>
+		<Genus>Astronium</Genus>
+		<Species>gardneri</Species>
+		<Variety></Variety>
+		<Author>Mattick</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier></Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>desconhecido</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Gardner, G., 2520, É typus, RB,   NY00050738 ,(PI)</Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution>Nordeste</Regional_Distribution>
+		<State_Distribution>PI</State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Astronium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB26374)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB26374</URL>
+		<Last_Update>19/12/2011 - 13:56:46</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>24392</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13904</_Parent_ID>
+		<Name>Astronium glaziovii</Name>
+		<Genus>Astronium</Genus>
+		<Species>glaziovii</Species>
+		<Variety></Variety>
+		<Author>Mattick</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Andreata, R.H.P., 719, RB, (RJ)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Sudeste</Regional_Distribution>
+		<State_Distribution>MG, RJ</State_Distribution>
+		<Phyto_Domain>Cerrado, Mata Atlântica</Phyto_Domain>
+		<Vegetation_types>Floresta Ombrófila (= Floresta Pluvial)</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>gibatão, Minas Gerais, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Astronium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115389)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115389</URL>
+		<Last_Update>19/12/2011 - 12:38:49</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>24393</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13904</_Parent_ID>
+		<Name>Astronium gracile</Name>
+		<Genus>Astronium</Genus>
+		<Species>gracile</Species>
+		<Variety></Variety>
+		<Author>Engl.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>desconhecido</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Andreata, R.H.P., 969, RB, (RJ)</Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain>Amazônia, Cerrado</Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Astronium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB26375)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB26375</URL>
+		<Last_Update>19/12/2011 - 13:53:46</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>24394</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13904</_Parent_ID>
+		<Name>Astronium graveolens</Name>
+		<Genus>Astronium</Genus>
+		<Species>graveolens</Species>
+		<Variety></Variety>
+		<Author>Jacq.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Leitão-Filho, H.F., 478, IAC, (SP)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte, Nordeste, Centro-Oeste, Sudeste, Sul</Regional_Distribution>
+		<State_Distribution>DF, GO, MS, AC, PA, RO, TO, AL, BA, CE, MA, PE, PI, PR, ES, MG, RJ, SP, SE</State_Distribution>
+		<Phyto_Domain>Amazônia, Caatinga, Cerrado, Mata Atlântica, Pampa</Phyto_Domain>
+		<Vegetation_types>Cerrado (lato sensu), Floresta Ciliar ou Galeria, Floresta Estacional Semidecidual, Floresta Ombrófila (= Floresta Pluvial), Área Antrópica</Vegetation_types>
+		<Synonyms>Astronium gracile Engl.</Synonyms>
+		<Vernacular_Names>aderne, Reserva de Linhares - Espírito Santo, PORTUGUES; aroeira, Acre, PORTUGUES; gibatan, Espírito Santo, PORTUGUES; guaritá, sul e sudeste, PORTUGUES; ubatan, Espírito Santo, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Astronium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4385)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4385</URL>
+		<Last_Update>19/12/2011 - 13:52:37</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>24395</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13904</_Parent_ID>
+		<Name>Astronium lecointei</Name>
+		<Genus>Astronium</Genus>
+		<Species>lecointei</Species>
+		<Variety></Variety>
+		<Author>Ducke</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Ducke, A., s.n., INPA, (AM); Rodrigues, W.A., 7948, INPA, (AM)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte, Nordeste, Centro-Oeste</Regional_Distribution>
+		<State_Distribution>MT, AC, AM, AP, PA, RO, MA</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Terra Firme, Floresta Estacional Semidecidual</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>arueira, Amazonas, PORTUGUES; muiracatiara, Amazonas, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Astronium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB15466)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB15466</URL>
+		<Last_Update>19/12/2011 - 14:25:40</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>24396</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13904</_Parent_ID>
+		<Name>Astronium nelson-rosae</Name>
+		<Genus>Astronium</Genus>
+		<Species>nelson-rosae</Species>
+		<Variety></Variety>
+		<Author>Santin</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Barros-Barreto, M.B., 10230, R, BHMH, (MG)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Centro-Oeste, Sudeste</Regional_Distribution>
+		<State_Distribution>DF, GO, MG</State_Distribution>
+		<Phyto_Domain>Cerrado, Mata Atlântica</Phyto_Domain>
+		<Vegetation_types>Cerrado (lato sensu), Floresta Ciliar ou Galeria</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>aroeira, Distrito Federal, PORTUGUES</Vernacular_Names>
+		<Bibliography>Santin, S.A. 1991.  Astronium nelson-rosae  - Nova espécie de Anacardiaceae.  Revta. brasil. Bot.  14:103-106.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Astronium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB26376)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB26376</URL>
+		<Last_Update>19/12/2011 - 14:31:39</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>24397</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13904</_Parent_ID>
+		<Name>Astronium ulei</Name>
+		<Genus>Astronium</Genus>
+		<Species>ulei</Species>
+		<Variety></Variety>
+		<Author>Mattick</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Ule, E.H.G., 7960, MG, (PA); Rodrigues, W.A., 10237, RB, (PA)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte</Regional_Distribution>
+		<State_Distribution>AC, AM, PA, RR</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Terra Firme, Floresta Estacional Semidecidual</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>arueira, Roraima, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Astronium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB21759)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB21759</URL>
+		<Last_Update>19/12/2011 - 14:38:58</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>24398</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>13904</_Parent_ID>
+		<Name>Astronium urundeuva</Name>
+		<Genus>Astronium</Genus>
+		<Species>urundeuva</Species>
+		<Variety></Variety>
+		<Author>(Allemão) Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Engler, H.G.A., Bot. Jahrb. Syst., 1:45, 1881</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms>Myracrodruon urundeuva Allemão</Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Astronium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115185)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115185</URL>
+		<Last_Update>23/12/2009 - 12:53:18</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>14337</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Campnosperma</Name>
+		<Genus>Campnosperma</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>Thwaites</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Campnosperma in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80023)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80023</URL>
+		<Last_Update>20/12/2011 - 17:37:29</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>29175</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>14337</_Parent_ID>
+		<Name>Campnosperma gummifera</Name>
+		<Genus>Campnosperma</Genus>
+		<Species>gummifera</Species>
+		<Variety></Variety>
+		<Author>Marchand</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Assunção, P.A.C.L., 546, RB, (AM)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte</Regional_Distribution>
+		<State_Distribution>AM, PA</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Terra Firme</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Campnosperma in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80024)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80024</URL>
+		<Last_Update>19/12/2011 - 14:44:34</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>14975</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Cyrtocarpa</Name>
+		<Genus>Cyrtocarpa</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>Kunth</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1991.  Cyrtocarpa  Kunth (Anacardiaceae) in South America.  Annals of the Missouri Botanical   Garden  78: 184-189.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Cyrtocarpa in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4387)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4387</URL>
+		<Last_Update>20/12/2011 - 17:36:01</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>36899</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>14975</_Parent_ID>
+		<Name>Cyrtocarpa caatingae</Name>
+		<Genus>Cyrtocarpa</Genus>
+		<Species>caatingae</Species>
+		<Variety></Variety>
+		<Author>J.D.Mitch. &amp; Daly</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Mori, S.A., et al., 11248, É typus, NY,   NY00050767, K, RB, CEPEC, (BA)</Voucher>
+		<References></References>
+		<Life_Form>Arbusto, Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Nordeste, Centro-Oeste, Sudeste</Regional_Distribution>
+		<State_Distribution>GO, BA, MG</State_Distribution>
+		<Phyto_Domain>Caatinga, Cerrado</Phyto_Domain>
+		<Vegetation_types>Caatinga (stricto sensu), Cerrado (lato sensu)</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>canjerana, Bahia, PORTUGUES; cedro-brabo, Bahia, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1991.  Cyrtocarpa  Kunth (Anacardiaceae) in South America.  Annals of the Missouri Botanical Garden  78: 184-189.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Cyrtocarpa in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4388)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4388</URL>
+		<Last_Update>20/12/2011 - 17:36:40</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>36900</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>14975</_Parent_ID>
+		<Name>Cyrtocarpa velutinifolia</Name>
+		<Genus>Cyrtocarpa</Genus>
+		<Species>velutinifolia</Species>
+		<Variety></Variety>
+		<Author>(Cowan) J.D.Mitch. &amp; Daly</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Pires, J.M., 16709, NY, (RR)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte</Regional_Distribution>
+		<State_Distribution>RR</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta Estacional Semidecidual, Savana Amazônica</Vegetation_types>
+		<Synonyms>Bursera velutinifolia R.S.Cowan</Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1991.  Cyrtocarpa  Kunth (Anacardiaceae) in South America.  Annals of the Missouri Botanical Garden  78: 184-189.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Cyrtocarpa in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB109675)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB109675</URL>
+		<Last_Update>20/12/2011 - 17:37:03</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>15688</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Garuga</Name>
+		<Genus>Garuga</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>Roxb.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Naturalizada</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Não</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Garuga in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115170)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115170</URL>
+		<Last_Update>20/12/2011 - 17:38:04</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>45043</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>15688</_Parent_ID>
+		<Name>Garuga gigantea</Name>
+		<Genus>Garuga</Genus>
+		<Species>gigantea</Species>
+		<Variety></Variety>
+		<Author>Engl.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Não</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Engler, H.G.A., Fl. bras., 12(2):288, t. 40, 1874</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1993. A revision of  Thyrsodium  (Anacardiaceae).  Brittonia  45(2): 115-129.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Garuga in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115177)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115177</URL>
+		<Last_Update>20/12/2011 - 17:38:59</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>16011</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Hermogenodendron</Name>
+		<Genus>Hermogenodendron</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author></Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome não validamente publicado</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>desconhecido</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Hermogenodendron in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB126798)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB126798</URL>
+		<Last_Update>02/05/2012 - 15:24:49</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>47753</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>16011</_Parent_ID>
+		<Name>Hermogenodendron concinnum</Name>
+		<Genus>Hermogenodendron</Genus>
+		<Species>concinnum</Species>
+		<Variety></Variety>
+		<Author></Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome não validamente publicado</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>desconhecido</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Hermogenodendron in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB126799)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB126799</URL>
+		<Last_Update>02/05/2012 - 15:25:45</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>16576</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Lithraea</Name>
+		<Genus>Lithraea</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>Miers ex Hook. &amp; Arn.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Variante ortográfica</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Lithraea in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4389)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4389</URL>
+		<Last_Update>20/12/2011 - 17:39:27</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>53546</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>16576</_Parent_ID>
+		<Name>Lithraea aroeirinha</Name>
+		<Genus>Lithraea</Genus>
+		<Species>aroeirinha</Species>
+		<Variety></Variety>
+		<Author>Marchand ex Warm.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Variante ortográfica</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Warming, E., Vidensk. Meddel. Dansk Naturhist. Foren. Kjobenhavn, 61, 1873</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Lithraea in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115151)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115151</URL>
+		<Last_Update>20/12/2011 - 17:39:53</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>53547</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>16576</_Parent_ID>
+		<Name>Lithraea brasiliensis</Name>
+		<Genus>Lithraea</Genus>
+		<Species>brasiliensis</Species>
+		<Variety></Variety>
+		<Author>Marchand</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Variante ortográfica</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>, Rev. Anacardiac., 185, 1869</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Lithraea in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4390)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4390</URL>
+		<Last_Update>20/12/2011 - 17:40:08</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>53548</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>16576</_Parent_ID>
+		<Name>Lithraea molleoides</Name>
+		<Genus>Lithraea</Genus>
+		<Species>molleoides</Species>
+		<Variety></Variety>
+		<Author>(Vell.) Engl.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Variante ortográfica</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Engler, H.G.A., Fl. bras., 12(2):394, 1887</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Lithraea in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4391)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4391</URL>
+		<Last_Update>20/12/2011 - 17:40:52</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>16577</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Lithrea</Name>
+		<Genus>Lithrea</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>Miers ex Hook. &amp; Arn.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms>Lithraea Miers ex Hook. &amp; Arn.</Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Lithrea in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB15467)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB15467</URL>
+		<Last_Update>23/12/2009 - 13:13:17</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>53549</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>16577</_Parent_ID>
+		<Name>Lithrea brasiliensis</Name>
+		<Genus>Lithrea</Genus>
+		<Species>brasiliensis</Species>
+		<Variety></Variety>
+		<Author>Marchand</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Hatschbach, G. et al., 72492, SPF, MBM, (SC)</Voucher>
+		<References></References>
+		<Life_Form>Arbusto, Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Sudeste, Sul</Regional_Distribution>
+		<State_Distribution>PR, RS, SC, MG, RJ, SP</State_Distribution>
+		<Phyto_Domain>Mata Atlântica, Pampa</Phyto_Domain>
+		<Vegetation_types>Floresta Estacional Semidecidual, Floresta Ombrófila (= Floresta Pluvial), Floresta Ombrófila Mista, Restinga, Área Antrópica</Vegetation_types>
+		<Synonyms>Lithraea brasiliensis Marchand</Synonyms>
+		<Vernacular_Names>aroeira, Sudeste/ Sul, PORTUGUES; aroeira-brava, Sudeste/ Sul, PORTUGUES; bugreiro, sul, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Lithrea in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB114875)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB114875</URL>
+		<Last_Update>19/12/2011 - 15:07:17</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>53550</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>16577</_Parent_ID>
+		<Name>Lithrea molleoides</Name>
+		<Genus>Lithrea</Genus>
+		<Species>molleoides</Species>
+		<Variety></Variety>
+		<Author>(Vell.) Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Harley, R.M., 27079, K, F, SPF, MBM, NY, HUEFS, (BA); Mecenas, V.V., 224, UEC,   UEC008042 , </Voucher>
+		<References></References>
+		<Life_Form>Arbusto, Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Nordeste, Centro-Oeste, Sudeste, Sul</Regional_Distribution>
+		<State_Distribution>DF, GO, MS, MT, BA, PR, RS, SC, MG, SP</State_Distribution>
+		<Phyto_Domain>Cerrado, Mata Atlântica</Phyto_Domain>
+		<Vegetation_types>Cerrado (lato sensu), Floresta Ciliar ou Galeria, Floresta Estacional Semidecidual, Área Antrópica</Vegetation_types>
+		<Synonyms>Lithraea molleoides (Vell.) Engl., Schinus molleoides Vell., Lithraea aroeirinha Marchand ex Warm.</Synonyms>
+		<Vernacular_Names>aroeira-branca, Sudeste/ Sul, PORTUGUES; aroeira-brava, Sudeste/ Sul, PORTUGUES; aroeira-miúda, Sudeste/ Sul, PORTUGUES; aroeirinha, Sudeste/ Sul, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Lithrea in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB15468)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB15468</URL>
+		<Last_Update>20/02/2012 - 16:56:19</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>16619</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Loxopterygium</Name>
+		<Genus>Loxopterygium</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>Hook.f.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Não</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Pennington,T.D., Reynel, C. &amp; Daza, A.2004. Illustrated guide to the trees of Peru. David Hunt, Sherborne, UK.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Loxopterygium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80025)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80025</URL>
+		<Last_Update>20/12/2011 - 17:41:37</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>53846</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>16619</_Parent_ID>
+		<Name>Loxopterygium gardneri</Name>
+		<Genus>Loxopterygium</Genus>
+		<Species>gardneri</Species>
+		<Variety></Variety>
+		<Author>Engl.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Engler, H.G.A., Monogr. Phan. [A.DC. &amp; C.DC.], 4:460, 1883</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Loxopterygium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB109665)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB109665</URL>
+		<Last_Update>20/12/2011 - 17:42:11</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>16744</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Mangifera</Name>
+		<Genus>Mangifera</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>L.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Cultivada</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Mangifera in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80027)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80027</URL>
+		<Last_Update>20/02/2012 - 14:02:36</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>55170</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>16744</_Parent_ID>
+		<Name>Mangifera indica</Name>
+		<Genus>Mangifera</Genus>
+		<Species>indica</Species>
+		<Variety></Variety>
+		<Author>L.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Cultivada</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Rossi, L., 253, SPF, PMSP, </Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte, Nordeste, Centro-Oeste, Sudeste, Sul</Regional_Distribution>
+		<State_Distribution>GO, MS, AM, AP, PA, BA, MA, PE, PR, SC, ES, MG, RJ, SP</State_Distribution>
+		<Phyto_Domain>Amazônia, Cerrado, Mata Atlântica</Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Cat. n. 8487 I</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Mangifera in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80029)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80029</URL>
+		<Last_Update>20/02/2012 - 17:05:42</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>16820</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Mauria</Name>
+		<Genus>Mauria</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>Kunth</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Naturalizada</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Não</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Mauria in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115188)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115188</URL>
+		<Last_Update>20/12/2011 - 17:50:31</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>56227</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>16820</_Parent_ID>
+		<Name>Mauria obtusa</Name>
+		<Genus>Mauria</Genus>
+		<Species>obtusa</Species>
+		<Variety></Variety>
+		<Author>Benth.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Bentham, G., J. Bot. (Hooker), 4:16, 1852</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Mauria in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115189)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115189</URL>
+		<Last_Update>20/12/2011 - 17:50:07</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>17073</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Myracrodruon</Name>
+		<Genus>Myracrodruon</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>Allemão</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Santin, D.A. &amp; Leitão-Filho, H.F. 1991. Restabelecimento e revisão taxonômica do gênero  Myracrodruon  Freire Allemão (Anacardiaceae).  Revista Brasileira de Botânica  14: 133-145.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Myracrodruon in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4392)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4392</URL>
+		<Last_Update>20/12/2011 - 17:51:01</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>59233</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>17073</_Parent_ID>
+		<Name>Myracrodruon balansae</Name>
+		<Genus>Myracrodruon</Genus>
+		<Species>balansae</Species>
+		<Variety></Variety>
+		<Author>(Engl.) Santin</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Fleig, M., 101, ICN, (RS)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Sul</Regional_Distribution>
+		<State_Distribution>RS</State_Distribution>
+		<Phyto_Domain>Pampa</Phyto_Domain>
+		<Vegetation_types>Campo de Altitude, Floresta Ombrófila Mista</Vegetation_types>
+		<Synonyms>Astronium balansae Engl.</Synonyms>
+		<Vernacular_Names>maracanã, Rio Grande do Sul, PORTUGUES; pau-ferro, Rio Grande do Sul, PORTUGUES</Vernacular_Names>
+		<Bibliography>Santin, D.A. &amp; Leitão-Filho, H.F. 1991. Restabelecimento e revisão taxonômica do gênero  Myracrodruon  Freire Allemão (Anacardiaceae).  Revista Brasileira de Botânica  14: 133-145.  Fleig. M. 1981. A família Anacardiaceae no rio Grande do Sul, Brasil.  Iheringia  28: 141-155.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Myracrodruon in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4393)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4393</URL>
+		<Last_Update>19/12/2011 - 15:52:25</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>59234</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>17073</_Parent_ID>
+		<Name>Myracrodruon urundeuva</Name>
+		<Genus>Myracrodruon</Genus>
+		<Species>urundeuva</Species>
+		<Variety></Variety>
+		<Author>Allemão</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Macedo, E.E., 148, SPSF, SPF, ESA, UEC, (SP)</Voucher>
+		<References>  Flora brasiliensis, vol. 12, part. 2, tab. 85, null</References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Nordeste, Centro-Oeste, Sudeste</Regional_Distribution>
+		<State_Distribution>DF, GO, MS, MT, AL, BA, CE, MA, PB, PE, PI, RN, MG, SP, SE</State_Distribution>
+		<Phyto_Domain>Caatinga, Cerrado, Mata Atlântica</Phyto_Domain>
+		<Vegetation_types>Caatinga (stricto sensu), Floresta Ciliar ou Galeria, Floresta Estacional Semidecidual, Área Antrópica</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>almecega, Minas Gerais, PORTUGUES; aroeira, Brasil, PORTUGUES; aroeira-do-sertão, Minas Gerais, PORTUGUES; urundeuva, São Paulo, PORTUGUES</Vernacular_Names>
+		<Bibliography>Santin, D.A. &amp; Leitão-Filho, H.F. 1991. Restabelecimento e revisão taxonômica do gênero  Myracrodruon  Freire Allemão (Anacardiaceae).  Revista Brasileira de Botânica  14: 133-145.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Myracrodruon in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4394)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4394</URL>
+		<Last_Update>19/12/2011 - 16:06:24</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>17886</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Poupartia</Name>
+		<Genus>Poupartia</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>Comm. ex Juss.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Não</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Randrianasolo, A. &amp; J.S. Miller. 1999. A new species of  Poupartia  (Anacardiaceae) from Madagascar. Novon 9: 546-548.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Poupartia in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB77857)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB77857</URL>
+		<Last_Update>20/12/2011 - 17:51:42</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>69285</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>17886</_Parent_ID>
+		<Name>Poupartia amazonica</Name>
+		<Genus>Poupartia</Genus>
+		<Species>amazonica</Species>
+		<Variety></Variety>
+		<Author>Ducke</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Ducke, A., Arch. Jard. Bot. Rio de Janeiro, 3:204, 1922</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Poupartia in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB77858)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB77858</URL>
+		<Last_Update>20/12/2011 - 17:29:35</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>18409</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Schinopsis</Name>
+		<Genus>Schinopsis</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinopsis in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4395)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4395</URL>
+		<Last_Update>20/12/2011 - 17:52:32</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74401</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18409</_Parent_ID>
+		<Name>Schinopsis balansae</Name>
+		<Genus>Schinopsis</Genus>
+		<Species>balansae</Species>
+		<Variety></Variety>
+		<Author>Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Moreira, F.F., s.n., COL, 167078, </Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Centro-Oeste</Regional_Distribution>
+		<State_Distribution>MT</State_Distribution>
+		<Phyto_Domain>Cerrado</Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Muñoz, J.D. 2000. 153. Anacardiaceae.  In  A.T. Hunkizer (ed. )   Flora Fanerogamica Argentina . Proflora (Conicet), Cordoba, fasc. 65, p.1-28.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinopsis in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115528)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115528</URL>
+		<Last_Update>19/12/2011 - 17:23:23</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74402</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18409</_Parent_ID>
+		<Name>Schinopsis brasiliensis</Name>
+		<Genus>Schinopsis</Genus>
+		<Species>brasiliensis</Species>
+		<Variety></Variety>
+		<Author>Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Sevilha, A.C., 1967, SPF, CEN, (GO)</Voucher>
+		<References>  Flora brasiliensis, vol. 12, part. 2, tab. 87, null</References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Nordeste, Centro-Oeste, Sudeste</Regional_Distribution>
+		<State_Distribution>DF, GO, MT, AL, BA, CE, PB, PE, PI, RN, MG, SE</State_Distribution>
+		<Phyto_Domain>Caatinga, Cerrado</Phyto_Domain>
+		<Vegetation_types>Caatinga (stricto sensu), Cerrado (lato sensu)</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>baraúna, nordeste, PORTUGUES; braúna, nordeste, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinopsis in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4396)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4396</URL>
+		<Last_Update>19/12/2011 - 17:29:26</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>99201</ID>
+		<Rank>VARIEDADE</Rank>
+		<_Parent_ID>74402</_Parent_ID>
+		<Name>Schinopsis brasiliensis var. brasiliensis</Name>
+		<Genus>Schinopsis</Genus>
+		<Species>brasiliensis</Species>
+		<Variety>var. brasiliensis</Variety>
+		<Author></Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>desconhecido</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinopsis in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB126797)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB126797</URL>
+		<Last_Update>02/05/2012 - 15:13:35</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>99202</ID>
+		<Rank>VARIEDADE</Rank>
+		<_Parent_ID>74402</_Parent_ID>
+		<Name>Schinopsis brasiliensis var. glabra</Name>
+		<Genus>Schinopsis</Genus>
+		<Species>brasiliensis</Species>
+		<Variety>var. glabra</Variety>
+		<Author>Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Engler, H.G.A., Fl. bras., 12(2): 404, 1876</References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Nordeste</Regional_Distribution>
+		<State_Distribution>BA</State_Distribution>
+		<Phyto_Domain>Caatinga</Phyto_Domain>
+		<Vegetation_types>Caatinga (stricto sensu)</Vegetation_types>
+		<Synonyms>Schinopsis glabra (Engl.) F.A.Barkley &amp; T.Mey.</Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinopsis in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB15470)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB15470</URL>
+		<Last_Update>02/05/2012 - 15:11:11</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74403</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18409</_Parent_ID>
+		<Name>Schinopsis glabra</Name>
+		<Genus>Schinopsis</Genus>
+		<Species>glabra</Species>
+		<Variety></Variety>
+		<Author>(Engl.) F.A.Barkley &amp; T.Mey.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>desconhecido</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinopsis in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB126800)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB126800</URL>
+		<Last_Update>02/05/2012 - 15:30:39</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>18410</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Schinus</Name>
+		<Genus>Schinus</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>L.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Barkley, F.A. 1957b. A study of  Schinus  L . Lloydia  28: 5-110.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB1199)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB1199</URL>
+		<Last_Update>20/12/2011 - 17:53:47</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74404</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18410</_Parent_ID>
+		<Name>Schinus apparicianus</Name>
+		<Genus>Schinus</Genus>
+		<Species>apparicianus</Species>
+		<Variety></Variety>
+		<Author>Barroso</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Duarte, A.P., 279, É typus, RB,   NY01104795 ,(MG)</Voucher>
+		<References></References>
+		<Life_Form>Arbusto, Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Sudeste</Regional_Distribution>
+		<State_Distribution>MG</State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Barkley, F.A. 1957b. A study  of Schinus   L. Lloydia  28: 5-110.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB77859)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB77859</URL>
+		<Last_Update>20/12/2011 - 14:45:33</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74405</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18410</_Parent_ID>
+		<Name>Schinus engleri</Name>
+		<Genus>Schinus</Genus>
+		<Species>engleri</Species>
+		<Variety></Variety>
+		<Author>F.A.Barkley</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Silva-Luz, C.L. et al., 161, SP, SPF, NY, (SP)</Voucher>
+		<References></References>
+		<Life_Form>Arbusto, Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Sudeste, Sul</Regional_Distribution>
+		<State_Distribution>PR, RS, SC, MG, SP</State_Distribution>
+		<Phyto_Domain>Pampa</Phyto_Domain>
+		<Vegetation_types>Campo de Altitude, Campo Limpo, Floresta Ombrófila Mista</Vegetation_types>
+		<Synonyms>Schinus apparicianus Barroso</Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Muñoz, J.D. 2000. 153. Anacardiaceae.  In  A.T. Hunkizer (ed. )   Flora Fanerogamica Argentina . Proflora (Conicet), Cordoba, fasc. 65, p.1-28.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115540)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115540</URL>
+		<Last_Update>20/12/2011 - 14:58:28</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>99203</ID>
+		<Rank>VARIEDADE</Rank>
+		<_Parent_ID>74405</_Parent_ID>
+		<Name>Schinus engleri var. engleri</Name>
+		<Genus>Schinus</Genus>
+		<Species>engleri</Species>
+		<Variety>var. engleri</Variety>
+		<Author></Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Duarte, A.P., 5287, RB, </Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution>Sudeste, Sul</Regional_Distribution>
+		<State_Distribution>PR, RS, SC, SP</State_Distribution>
+		<Phyto_Domain>Mata Atlântica, Pampa</Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB120625)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB120625</URL>
+		<Last_Update>07/04/2010 - 14:16:57</Last_Update>
+		<User_Lastupdate>Pirani, J.R.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>99204</ID>
+		<Rank>VARIEDADE</Rank>
+		<_Parent_ID>74405</_Parent_ID>
+		<Name>Schinus engleri var. uruguayensis</Name>
+		<Genus>Schinus</Genus>
+		<Species>engleri</Species>
+		<Variety>var. uruguayensis</Variety>
+		<Author>F.A.Barkley</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Barkley, F.A., Lilloa, 28: 49-51, 1957</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution>Sudeste, Sul</Regional_Distribution>
+		<State_Distribution>PR, RS, SC, SP</State_Distribution>
+		<Phyto_Domain>Mata Atlântica, Pampa</Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Muñoz, J.D. 2000. 153. Anacardiaceae.  In  A.T. Hunkizer (ed. )   Flora Fanerogamica Argentina . Proflora (Conicet), Cordoba, fasc. 65, p.1-28.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115541)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115541</URL>
+		<Last_Update>14/09/2010 - 11:41:28</Last_Update>
+		<User_Lastupdate>Leitman, P.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74406</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18410</_Parent_ID>
+		<Name>Schinus fagara</Name>
+		<Genus>Schinus</Genus>
+		<Species>fagara</Species>
+		<Variety></Variety>
+		<Author>L.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Linnaeus, C., Sp. Pl., 1: 389, 1753</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB1200)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB1200</URL>
+		<Last_Update>20/12/2011 - 15:52:18</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74407</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18410</_Parent_ID>
+		<Name>Schinus ferox</Name>
+		<Genus>Schinus</Genus>
+		<Species>ferox</Species>
+		<Variety></Variety>
+		<Author>Hassl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Rambo, B., 30888, LIL, (RS)</Voucher>
+		<References></References>
+		<Life_Form>Arbusto, Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Sul</Regional_Distribution>
+		<State_Distribution>RS</State_Distribution>
+		<Phyto_Domain>Cerrado, Pampa</Phyto_Domain>
+		<Vegetation_types>Campo Limpo</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Muñoz, J.D. 2000. 153. Anacardiaceae.  In  A.T. Hunkizer (ed. )   Flora Fanerogamica Argentina . Proflora (Conicet), Cordoba, fasc. 65, p.1-28.     Barkley, F.A. 1957b. A study of  Schinus  L.  Lilloa  28: 5-110.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115545)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115545</URL>
+		<Last_Update>20/12/2011 - 16:05:44</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74408</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18410</_Parent_ID>
+		<Name>Schinus lentiscifolius</Name>
+		<Genus>Schinus</Genus>
+		<Species>lentiscifolius</Species>
+		<Variety></Variety>
+		<Author>Marchand</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Hatschbach, G., 79024, RB, (SC)</Voucher>
+		<References>  Flora brasiliensis, vol. 12, part. 2, tab. 80, null</References>
+		<Life_Form>Arbusto, Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Centro-Oeste, Sul</Regional_Distribution>
+		<State_Distribution>MS, PR, RS, SC</State_Distribution>
+		<Phyto_Domain>Cerrado, Pampa</Phyto_Domain>
+		<Vegetation_types>Campo Limpo, Cerrado (lato sensu)</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>aroeira-do-campo, Rio Grande do Sul, PORTUGUES; carobá, Rio Grande do Sul, PORTUGUES</Vernacular_Names>
+		<Bibliography>Barkley, F.A. 1957b. A study of  Schinus  L.  Lloydia  28: 5-110.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4397)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4397</URL>
+		<Last_Update>20/12/2011 - 17:03:06</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74409</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18410</_Parent_ID>
+		<Name>Schinus longifolius</Name>
+		<Genus>Schinus</Genus>
+		<Species>longifolius</Species>
+		<Variety></Variety>
+		<Author>(Lindl.) Speg.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Reitz, R., 532, RB, (SC)</Voucher>
+		<References></References>
+		<Life_Form>Arbusto, Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Sul</Regional_Distribution>
+		<State_Distribution>PR, RS, SC</State_Distribution>
+		<Phyto_Domain>Pampa</Phyto_Domain>
+		<Vegetation_types>Campo Limpo</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Fleig. M. 1981. A família Anacardiaceae no Rio Grande do Sul, Brasil.  Iheringia  28: 141-155.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB26377)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB26377</URL>
+		<Last_Update>20/12/2011 - 16:30:36</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>99205</ID>
+		<Rank>VARIEDADE</Rank>
+		<_Parent_ID>74409</_Parent_ID>
+		<Name>Schinus longifolius var. longifolius</Name>
+		<Genus>Schinus</Genus>
+		<Species>longifolius</Species>
+		<Variety>var. longifolius</Variety>
+		<Author></Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Reitz, R., 532, RB, (SC)</Voucher>
+		<References></References>
+		<Life_Form>Arbusto, Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Sul</Regional_Distribution>
+		<State_Distribution>PR, RS, SC</State_Distribution>
+		<Phyto_Domain>Pampa</Phyto_Domain>
+		<Vegetation_types>Campo Limpo</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography> Muñoz, J.D. 2000. 153. Anacardiaceae.  In  A.T. Hunkizer (ed. )   Flora Fanerogamica Argentina . Proflora (Conicet), Cordoba, fasc. 65, p.1-28.&lt;/sub&gt;</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115537)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115537</URL>
+		<Last_Update>20/12/2011 - 16:29:24</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74410</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18410</_Parent_ID>
+		<Name>Schinus molle</Name>
+		<Genus>Schinus</Genus>
+		<Species>molle</Species>
+		<Variety></Variety>
+		<Author>L.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Pirani, J.R., 514, SPF, SP, (RS)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Sul</Regional_Distribution>
+		<State_Distribution>PR, RS, SC</State_Distribution>
+		<Phyto_Domain>Pampa</Phyto_Domain>
+		<Vegetation_types>Campo Limpo</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>aroeira-folha-de-salso, Sul, PORTUGUES; aroeira-mansa, Sul, PORTUGUES</Vernacular_Names>
+		<Bibliography>Barkley, F.A. 1957b. A study of  Schinus  L.  Lloydia  28: 5-110.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4398)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4398</URL>
+		<Last_Update>20/12/2011 - 17:01:45</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74411</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18410</_Parent_ID>
+		<Name>Schinus molleoides</Name>
+		<Genus>Schinus</Genus>
+		<Species>molleoides</Species>
+		<Variety></Variety>
+		<Author>Vell.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Vellozo, J.M.C., Fl. Flumin., 10: t. 134, 1829</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115157)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115157</URL>
+		<Last_Update>20/12/2011 - 17:03:50</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74412</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18410</_Parent_ID>
+		<Name>Schinus pearcei</Name>
+		<Genus>Schinus</Genus>
+		<Species>pearcei</Species>
+		<Variety></Variety>
+		<Author>Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Fleig, M., 958, ICN, (RS)</Voucher>
+		<References></References>
+		<Life_Form>Arbusto, Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Sul</Regional_Distribution>
+		<State_Distribution>RS</State_Distribution>
+		<Phyto_Domain>Pampa</Phyto_Domain>
+		<Vegetation_types>Campo Limpo</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Fleig, M. 1981. A família Anacardiaceae no Rio Grande do Sul, Brasil.  Iheringia ,  Bot . 28: 141-155.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4399)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4399</URL>
+		<Last_Update>20/12/2011 - 17:10:36</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74413</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18410</_Parent_ID>
+		<Name>Schinus polygamus</Name>
+		<Genus>Schinus</Genus>
+		<Species>polygamus</Species>
+		<Variety></Variety>
+		<Author>(Cav.) Cabrera</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Hatschbach, G., 72341, FUEL, (PR)</Voucher>
+		<References></References>
+		<Life_Form>Arbusto, Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Sul</Regional_Distribution>
+		<State_Distribution>PR, RS, SC</State_Distribution>
+		<Phyto_Domain>Mata Atlântica, Pampa</Phyto_Domain>
+		<Vegetation_types>Campo Limpo, Floresta Ombrófila Mista, Restinga</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>assobiadeira, sul, PORTUGUES; coquinho, sul, PORTUGUES</Vernacular_Names>
+		<Bibliography>Fleig. M. 1981. A família Anacardiaceae no Rio Grande do Sul, Brasil.  Iheringia  28: 141-155.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4400)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4400</URL>
+		<Last_Update>20/12/2011 - 17:15:52</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74414</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18410</_Parent_ID>
+		<Name>Schinus ramboi</Name>
+		<Genus>Schinus</Genus>
+		<Species>ramboi</Species>
+		<Variety></Variety>
+		<Author>F.A.Barkley</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Rambo, B., 42500, LIL, (RS)</Voucher>
+		<References></References>
+		<Life_Form>Arbusto, Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Sul</Regional_Distribution>
+		<State_Distribution>RS</State_Distribution>
+		<Phyto_Domain>Mata Atlântica, Pampa</Phyto_Domain>
+		<Vegetation_types>Campo Limpo, Floresta Ombrófila Mista</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Barkley, F.A. 1957b. A study of  Schinus  L.  Lloydia  28: 5-110.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB114903)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB114903</URL>
+		<Last_Update>20/12/2011 - 17:20:45</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74415</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18410</_Parent_ID>
+		<Name>Schinus spinosus</Name>
+		<Genus>Schinus</Genus>
+		<Species>spinosus</Species>
+		<Variety></Variety>
+		<Author>Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Hatschbach, G., 14992, SPF, MBM, (PR)</Voucher>
+		<References>  Flora brasiliensis, vol. 12, part. 2, tab. 81, null</References>
+		<Life_Form>Arbusto, Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Sul</Regional_Distribution>
+		<State_Distribution>PR</State_Distribution>
+		<Phyto_Domain>Pampa</Phyto_Domain>
+		<Vegetation_types>Campo Limpo</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Barkley, F.A. 1957b. A study of  Schinus  L.  Lloydia  28: 5-110.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115597)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115597</URL>
+		<Last_Update>20/12/2011 - 17:27:06</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74416</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18410</_Parent_ID>
+		<Name>Schinus terebinthifolia</Name>
+		<Genus>Schinus</Genus>
+		<Species>terebinthifolia</Species>
+		<Variety></Variety>
+		<Author>Raddi</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Variante ortográfica</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB15471)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB15471</URL>
+		<Last_Update>20/12/2011 - 14:59:17</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74417</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18410</_Parent_ID>
+		<Name>Schinus terebinthifolius</Name>
+		<Genus>Schinus</Genus>
+		<Species>terebinthifolius</Species>
+		<Variety></Variety>
+		<Author>Raddi</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Baitello, J.B., 566, SPF, SP, UEC, (SP); Martii Herbar. Florae Brasil., 116, É typus, NY,   NY00050910 , </Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Nordeste, Centro-Oeste, Sudeste, Sul</Regional_Distribution>
+		<State_Distribution>MS, AL, BA, CE, PB, PE, PI, RN, PR, RS, SC, ES, MG, RJ, SP, SE</State_Distribution>
+		<Phyto_Domain>Cerrado, Mata Atlântica, Pampa</Phyto_Domain>
+		<Vegetation_types>Campo de Altitude, Campo Limpo, Floresta Ciliar ou Galeria, Floresta Estacional Semidecidual, Floresta Ombrófila (= Floresta Pluvial), Manguezal, Restinga, Área Antrópica</Vegetation_types>
+		<Synonyms>Schinus terebinthifolia Raddi</Synonyms>
+		<Vernacular_Names>aroeira-da-praia, Bahia, PORTUGUES; aroeira-de-remédio, Bahia, PORTUGUES; aroeira-mansa, Sudeste, PORTUGUES; aroeira-vermelha, Bahia, PORTUGUES</Vernacular_Names>
+		<Bibliography>Barkley, F.A. 1957b. A study of  Schinus  L.  Lilloa  28: 5-110.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4401)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4401</URL>
+		<Last_Update>20/12/2011 - 15:42:14</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>99206</ID>
+		<Rank>VARIEDADE</Rank>
+		<_Parent_ID>74417</_Parent_ID>
+		<Name>Schinus terebinthifolius var. acutifolius</Name>
+		<Genus>Schinus</Genus>
+		<Species>terebinthifolius</Species>
+		<Variety>var. acutifolius</Variety>
+		<Author>Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Rossi, L., 224, SPF, (SP)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Sudeste, Sul</Regional_Distribution>
+		<State_Distribution>PR, MG, RJ, SP</State_Distribution>
+		<Phyto_Domain>Cerrado, Mata Atlântica, Pampa</Phyto_Domain>
+		<Vegetation_types>Campo Limpo, Floresta Ciliar ou Galeria, Floresta Estacional Semidecidual, Floresta Ombrófila (= Floresta Pluvial), Restinga, Área Antrópica</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>aroeira-do-Paraná, Sul, PORTUGUES; aroeira-mansa, Brasil, PORTUGUES; aroeira-vermelha, Brasil, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115559)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115559</URL>
+		<Last_Update>20/12/2011 - 15:22:48</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>99207</ID>
+		<Rank>VARIEDADE</Rank>
+		<_Parent_ID>74417</_Parent_ID>
+		<Name>Schinus terebinthifolius var. pohlianus</Name>
+		<Genus>Schinus</Genus>
+		<Species>terebinthifolius</Species>
+		<Variety>var. pohlianus</Variety>
+		<Author>Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Venturelli, M., s.n., SPSF, COL, 167078,(SP)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Sudeste, Sul</Regional_Distribution>
+		<State_Distribution>PR, RS, SC, MG, RJ, SP</State_Distribution>
+		<Phyto_Domain>Cerrado, Mata Atlântica, Pampa</Phyto_Domain>
+		<Vegetation_types>Campo Limpo, Floresta Ciliar ou Galeria, Floresta Estacional Semidecidual, Floresta Ombrófila (= Floresta Pluvial), Restinga, Área Antrópica</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>aroeira, Brasil, PORTUGUES; aroeira-negra, Brasil, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB26379)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB26379</URL>
+		<Last_Update>20/12/2011 - 15:26:23</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>99208</ID>
+		<Rank>VARIEDADE</Rank>
+		<_Parent_ID>74417</_Parent_ID>
+		<Name>Schinus terebinthifolius var. raddianus</Name>
+		<Genus>Schinus</Genus>
+		<Species>terebinthifolius</Species>
+		<Variety>var. raddianus</Variety>
+		<Author>Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Gomes, J.C., 2622, SPF, SP, (SP)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Nordeste, Sudeste</Regional_Distribution>
+		<State_Distribution>BA, MG, RJ, SP</State_Distribution>
+		<Phyto_Domain>Cerrado, Mata Atlântica, Pampa</Phyto_Domain>
+		<Vegetation_types>Campo Limpo, Floresta Ciliar ou Galeria, Floresta Estacional Semidecidual, Floresta Ombrófila (= Floresta Pluvial), Restinga, Área Antrópica</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>aroeira-de-brejo, Brasil, PORTUGUES; aroeira-de-praia, Brasil, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115562)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115562</URL>
+		<Last_Update>20/12/2011 - 15:28:16</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>99209</ID>
+		<Rank>VARIEDADE</Rank>
+		<_Parent_ID>74417</_Parent_ID>
+		<Name>Schinus terebinthifolius var. rhoifolius</Name>
+		<Genus>Schinus</Genus>
+		<Species>terebinthifolius</Species>
+		<Variety>var. rhoifolius</Variety>
+		<Author>(Mart.) Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Robim, M.J., 599, SPF, (SP)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Nordeste, Sudeste, Sul</Regional_Distribution>
+		<State_Distribution>BA, PE, PR, MG, RJ, SP</State_Distribution>
+		<Phyto_Domain>Cerrado, Mata Atlântica, Pampa</Phyto_Domain>
+		<Vegetation_types>Campo Limpo, Floresta Ciliar ou Galeria, Floresta Estacional Semidecidual, Floresta Ombrófila (= Floresta Pluvial), Restinga, Área Antrópica</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>aroeira, Brasil, PORTUGUES; copaeirinha, Brasil, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115565)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115565</URL>
+		<Last_Update>20/12/2011 - 15:30:49</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>74418</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18410</_Parent_ID>
+		<Name>Schinus weinmannifolius</Name>
+		<Genus>Schinus</Genus>
+		<Species>weinmannifolius</Species>
+		<Variety></Variety>
+		<Author>Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Scaramuzza, C.A.M. et al., 598, ESA, (SP)</Voucher>
+		<References></References>
+		<Life_Form>Arbusto</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Centro-Oeste, Sudeste, Sul</Regional_Distribution>
+		<State_Distribution>MS, PR, RS, SC, SP</State_Distribution>
+		<Phyto_Domain>Cerrado, Mata Atlântica, Pampa</Phyto_Domain>
+		<Vegetation_types>Campo Limpo, Cerrado (lato sensu)</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>aroeira-do-campo, Sudeste, PORTUGUES; aroeira-rasteira, Sudeste, PORTUGUES</Vernacular_Names>
+		<Bibliography>Barkley, F.A. 1957b. A study of  Schinus  L.  Lilloa  28: 5-110.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Schinus in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB26380)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB26380</URL>
+		<Last_Update>20/12/2011 - 15:41:45</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>18685</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Spondias</Name>
+		<Genus>Spondias</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>L.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1998. The "Tortoise's cajá" - a new species of  Spondias  (Anacardiaceae) from Southwestern Amazonia.  Brittonia  50(4): 447-451.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Spondias in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4402)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4402</URL>
+		<Last_Update>20/12/2011 - 17:54:51</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>77926</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18685</_Parent_ID>
+		<Name>Spondias dulcis</Name>
+		<Genus>Spondias</Genus>
+		<Species>dulcis</Species>
+		<Variety></Variety>
+		<Author>Parkinson</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Cultivada</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Não</Occurs_in_Brazil>
+		<Voucher>Hage, J.L., 352, RB, (BA)</Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Spondias in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB21760)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB21760</URL>
+		<Last_Update>20/12/2011 - 14:32:58</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>77927</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18685</_Parent_ID>
+		<Name>Spondias globosa</Name>
+		<Genus>Spondias</Genus>
+		<Species>globosa</Species>
+		<Variety></Variety>
+		<Author>J.D.Mitch. &amp; Daly</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Daly, D.C., 11002, NY, (AC)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte</Regional_Distribution>
+		<State_Distribution>AC</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms>Spondias mombin var. globosa J.D.Mitch. &amp; Daly</Synonyms>
+		<Vernacular_Names>caja, norte, PORTUGUES; taperebá, norte, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Spondias in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB124384)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB124384</URL>
+		<Last_Update>20/12/2011 - 13:44:23</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>77928</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18685</_Parent_ID>
+		<Name>Spondias lutea</Name>
+		<Genus>Spondias</Genus>
+		<Species>lutea</Species>
+		<Variety></Variety>
+		<Author>L.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome ilegítimo</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Linnaeus, C., Sp. Pl., 2:613, 1762</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mus. Bot. Lugd. Bat. 1: 234</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Spondias in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80030)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80030</URL>
+		<Last_Update>20/12/2011 - 12:30:19</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>77929</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18685</_Parent_ID>
+		<Name>Spondias macrocarpa</Name>
+		<Genus>Spondias</Genus>
+		<Species>macrocarpa</Species>
+		<Variety></Variety>
+		<Author>Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Farney, C., 4172, RB, (RJ)</Voucher>
+		<References>  Flora brasiliensis, vol. 12, part. 2, tab. 78, null</References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Nordeste, Sudeste</Regional_Distribution>
+		<State_Distribution>BA, ES, MG, RJ</State_Distribution>
+		<Phyto_Domain>Mata Atlântica</Phyto_Domain>
+		<Vegetation_types>Floresta Ombrófila (= Floresta Pluvial)</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>cajá-redondo, sudeste, PORTUGUES; cajazeiro, sudeste, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Spondias in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4403)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4403</URL>
+		<Last_Update>20/12/2011 - 12:35:52</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>77930</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18685</_Parent_ID>
+		<Name>Spondias mombin</Name>
+		<Genus>Spondias</Genus>
+		<Species>mombin</Species>
+		<Variety></Variety>
+		<Author>L.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Cordeiro, I. et al., 1169, SPF, (SP)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte, Nordeste, Centro-Oeste, Sudeste</Regional_Distribution>
+		<State_Distribution>DF, GO, MS, MT, AC, AM, PA, RO, RR, TO, AL, BA, MA, PE, ES, RJ, SP</State_Distribution>
+		<Phyto_Domain>Amazônia, Cerrado, Mata Atlântica</Phyto_Domain>
+		<Vegetation_types>Floresta Ciliar ou Galeria, Floresta de Terra Firme, Floresta Estacional Semidecidual, Área Antrópica</Vegetation_types>
+		<Synonyms>Spondias lutea L.</Synonyms>
+		<Vernacular_Names>cajá, Acre, PORTUGUES; cajá-mirim, Brasil, PORTUGUES; cajarana, Acre, PORTUGUES; cajazeira, Acre, Bahia, PORTUGUES; cajazinho, Acre, PORTUGUES; taperebá, Brasil, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Spondias in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4404)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4404</URL>
+		<Last_Update>20/12/2011 - 13:54:01</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>100034</ID>
+		<Rank>VARIEDADE</Rank>
+		<_Parent_ID>77930</_Parent_ID>
+		<Name>Spondias mombin var. globosa</Name>
+		<Genus>Spondias</Genus>
+		<Species>mombin</Species>
+		<Variety>var. globosa</Variety>
+		<Author>J.D.Mitch. &amp; Daly</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Daly, D.C., 9548, MO, (AC)</Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution>Norte</Regional_Distribution>
+		<State_Distribution>AC</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Spondias in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80031)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80031</URL>
+		<Last_Update>20/12/2011 - 13:43:35</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>100035</ID>
+		<Rank>VARIEDADE</Rank>
+		<_Parent_ID>77930</_Parent_ID>
+		<Name>Spondias mombin var. mombin</Name>
+		<Genus>Spondias</Genus>
+		<Species>mombin</Species>
+		<Variety>var. mombin</Variety>
+		<Author></Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Daly, D.C., 10039, MO, </Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte, Nordeste, Centro-Oeste, Sudeste</Regional_Distribution>
+		<State_Distribution>MS, MT, AC, AM, PA, RR, TO, AL, BA, CE, MA, PE, PI, SP</State_Distribution>
+		<Phyto_Domain>Amazônia, Caatinga, Cerrado, Mata Atlântica</Phyto_Domain>
+		<Vegetation_types>Floresta Ciliar ou Galeria, Floresta de Terra Firme, Floresta Estacional Semidecidual, Área Antrópica</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>cajá-mirim, sudeste, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Spondias in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80032)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80032</URL>
+		<Last_Update>20/12/2011 - 13:48:39</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>77931</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18685</_Parent_ID>
+		<Name>Spondias purpurea</Name>
+		<Genus>Spondias</Genus>
+		<Species>purpurea</Species>
+		<Variety></Variety>
+		<Author>L.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Cultivada</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Não</Occurs_in_Brazil>
+		<Voucher>Ducke, A., s.n., COL, 167078,(AM)</Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>ciriguela, Brasil, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1998. The "Tortoise's cajá" - A new species of Spondias (Anacardiaceae) from southwestern amazonia.  Brittonia 50(4) : 447-451.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Spondias in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB21762)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB21762</URL>
+		<Last_Update>20/12/2011 - 13:58:48</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>100036</ID>
+		<Rank>VARIEDADE</Rank>
+		<_Parent_ID>77931</_Parent_ID>
+		<Name>Spondias purpurea var. venulosa</Name>
+		<Genus>Spondias</Genus>
+		<Species>purpurea</Species>
+		<Variety>var. venulosa</Variety>
+		<Author>Engl.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Engler, H.G.A., Fl. bras., 12(2): 281, 1876</References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1998. The "Tortoise's cajá" - A new species of Spondias (Anacardiaceae) from southwestern amazonia.  Brittonia 50(4) : 447-451.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Spondias in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115787)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115787</URL>
+		<Last_Update>20/12/2011 - 14:00:52</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>77932</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18685</_Parent_ID>
+		<Name>Spondias testudinis</Name>
+		<Genus>Spondias</Genus>
+		<Species>testudinis</Species>
+		<Variety></Variety>
+		<Author>J.D.Mitch. &amp; Daly</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Ferreira, C.A.C., 10116a, MG, L, MO, AAU, RB, NY, INPA, HPZ,(AC)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte</Regional_Distribution>
+		<State_Distribution>AC</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Terra Firme</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>cajá-de-jaboti, Acre, PORTUGUES; cajarana, Acre, PORTUGUES; cajarana-da-mata, Acre, PORTUGUES; carajarana-de-anta, Acre, PORTUGUES; taperebá-de-veado, Acre, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1998. The "Tortoise's cajá" - A new species of  Spondias  (Anacardiaceae) from southwestern amazonia.  Brittonia 50(4) : 447-451.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Spondias in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB21763)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB21763</URL>
+		<Last_Update>20/12/2011 - 14:21:13</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>77933</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18685</_Parent_ID>
+		<Name>Spondias tuberosa</Name>
+		<Genus>Spondias</Genus>
+		<Species>tuberosa</Species>
+		<Variety></Variety>
+		<Author>Arruda</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Nunes, T.S. et al., 623, HUEFS, ALCB, (BA)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Nordeste, Sudeste</Regional_Distribution>
+		<State_Distribution>AL, BA, CE, MA, PB, PE, PI, RN, MG, SE</State_Distribution>
+		<Phyto_Domain>Caatinga, Cerrado</Phyto_Domain>
+		<Vegetation_types>Caatinga (stricto sensu), Carrasco</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>imbuzeiro, Nordeste, PORTUGUES; tapereba, Nordeste, PORTUGUES; umbu, Nordeste, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1998. The "Tortoise's cajá" - A new species of  Spondias  (Anacardiaceae) from southwestern amazonia.  Brittonia 50(4) : 447-451.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Spondias in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4405)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4405</URL>
+		<Last_Update>20/12/2011 - 14:25:52</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>77934</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18685</_Parent_ID>
+		<Name>Spondias venulosa</Name>
+		<Genus>Spondias</Genus>
+		<Species>venulosa</Species>
+		<Variety></Variety>
+		<Author>(Engl.) Engl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Correia, C. et al., 161, HUEFS, (BA)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Nordeste, Sudeste</Regional_Distribution>
+		<State_Distribution>BA, ES, MG, RJ, SE</State_Distribution>
+		<Phyto_Domain>Caatinga, Mata Atlântica</Phyto_Domain>
+		<Vegetation_types>Caatinga (stricto sensu), Floresta Ombrófila (= Floresta Pluvial)</Vegetation_types>
+		<Synonyms>Spondias purpurea var. venulosa Engl.</Synonyms>
+		<Vernacular_Names>cajá, Nordeste, PORTUGUES; cajá-miúda, Nordeste, PORTUGUES; cajá-umbu, Nordeste, PORTUGUES; cajazeira, Sudeste, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1998. The "Tortoise's cajá" - A new species of  Spondias  (Anacardiaceae) from southwestern amazonia.  Brittonia 50(4) : 447-451.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Spondias in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4406)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4406</URL>
+		<Last_Update>20/12/2011 - 14:30:55</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>18895</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Tapirira</Name>
+		<Genus>Tapirira</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>Aubl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. 1997. Anacardiaceae.  In A.R.A.  Gorts-Van Rijn (eds.)  Flora of the Guianas -  S eries A: Phanerogams  19(129): 1-79.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Tapirira in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4407)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4407</URL>
+		<Last_Update>20/12/2011 - 17:55:11</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80173</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18895</_Parent_ID>
+		<Name>Tapirira guianensis</Name>
+		<Genus>Tapirira</Genus>
+		<Species>guianensis</Species>
+		<Variety></Variety>
+		<Author>Aubl.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Mello-Silva, R., 759, SPF, HUEFS, LPB, CTES, K, (MG); Rodrigues, R.R., 319, UEC,   UEC054387 ,(SP)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte, Nordeste, Centro-Oeste, Sudeste, Sul</Regional_Distribution>
+		<State_Distribution>DF, GO, MS, MT, AC, AM, AP, PA, RO, RR, TO, AL, BA, CE, MA, PB, PE, PI, RN, PR, SC, ES, MG, RJ, SP, SE</State_Distribution>
+		<Phyto_Domain>Amazônia, Caatinga, Cerrado, Mata Atlântica, Pampa, Pantanal</Phyto_Domain>
+		<Vegetation_types>Cerrado (lato sensu), Floresta Ciliar ou Galeria, Floresta de Terra Firme, Floresta Estacional Semidecidual, Floresta Ombrófila (= Floresta Pluvial), Restinga, Área Antrópica</Vegetation_types>
+		<Synonyms>Tapirira guianensis var. elliptica Engl., Tapirira myriantha Triana &amp; Planch., Tapirira guianensis var. cuneata Engl.</Synonyms>
+		<Vernacular_Names>camboatá, Bahia, PORTUGUES; cupuba, Bahia, PORTUGUES; pau-pombo, Brasil, PORTUGUES; peito-de-pomba, Bahia, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. 1997. Anacardiaceae.  In A.R.A.  Gorts-Van Rijn (eds.)  Flora of the Guianas -  S eries A: Phanerogams  19(129): 1-79.     </Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Tapirira in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4408)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4408</URL>
+		<Last_Update>20/12/2011 - 11:20:40</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>100715</ID>
+		<Rank>VARIEDADE</Rank>
+		<_Parent_ID>80173</_Parent_ID>
+		<Name>Tapirira guianensis var. cuneata</Name>
+		<Genus>Tapirira</Genus>
+		<Species>guianensis</Species>
+		<Variety>var. cuneata</Variety>
+		<Author>Engl.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>desconhecido</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Engler, H.G.A., Fl. bras., 12(2): 378, 1876</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography> Mitchell, J.D. 1997. Anacardiaceae.  In A.R.A.  Görts-Van Rijn (eds.)  Flora of the Guianas - Series A: Phanerogams  19(129): 1-79.&lt;/sub&gt;</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Tapirira in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB115602)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB115602</URL>
+		<Last_Update>20/12/2011 - 11:21:04</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>100716</ID>
+		<Rank>VARIEDADE</Rank>
+		<_Parent_ID>80173</_Parent_ID>
+		<Name>Tapirira guianensis var. elliptica</Name>
+		<Genus>Tapirira</Genus>
+		<Species>guianensis</Species>
+		<Variety>var. elliptica</Variety>
+		<Author>Engl.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Engler, H.G.A., Fl. bras., 12(2): 378, 1876</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography> &lt;sup&gt;Mitchell, J.D. 1997. Anacardiaceae.  In A.R.A.  Görts-Van Rijn (eds.)  Flora of the Guianas - Series A: Phanerogams  19(129): 1-79.&lt;/sup&gt;&lt;/sub&gt;</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Tapirira in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80033)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80033</URL>
+		<Last_Update>23/12/2009 - 15:26:28</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80174</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18895</_Parent_ID>
+		<Name>Tapirira marchandii</Name>
+		<Genus>Tapirira</Genus>
+		<Species>marchandii</Species>
+		<Variety></Variety>
+		<Author>Engl.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Engler, H.G.A., Fl. bras., 12(2):379., 1876;   Flora brasiliensis, vol. 12, part. 2, tab. 79, null</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mart. Fl. Bras. 12: II. 379. 12. II. 379.  Mitchell, J.D. 1997. Anacardiaceae.  In A.R.A.  Gorts-Van Rijn (eds.)  Flora of the Guianas -  S eries A: Phanerogams  19(129): 1-79.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Tapirira in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80034)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80034</URL>
+		<Last_Update>20/12/2011 - 11:41:42</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80175</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18895</_Parent_ID>
+		<Name>Tapirira myriantha</Name>
+		<Genus>Tapirira</Genus>
+		<Species>myriantha</Species>
+		<Variety></Variety>
+		<Author>Triana &amp; Planch.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Triana, J.J. &amp; Planchon, J.E., Ann. Sci. Nat., Bot., sér. 5, 14: 295, 1872</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Ann. Sc. Nat. Ser. V. 14: (1872) 295. 14. (1872) 295.  Mitchell, J.D. 1997. Anacardiaceae.  In A.R.A.  Gorts-Van Rijn (eds.)  Flora of the Guianas -  S eries A: Phanerogams  19(129): 1-79.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Tapirira in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80035)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80035</URL>
+		<Last_Update>23/12/2009 - 14:43:41</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80176</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18895</_Parent_ID>
+		<Name>Tapirira obtusa</Name>
+		<Genus>Tapirira</Genus>
+		<Species>obtusa</Species>
+		<Variety></Variety>
+		<Author>(Benth.) J.D.Mitch.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Vicentini, A., 1033, MG, F, K, NY, COL, UEC, SPF, VEN, INPA, (AM)</Voucher>
+		<References>  Flora brasiliensis, vol. 12, part. 2, tab. 79, null</References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte, Nordeste, Centro-Oeste, Sudeste</Regional_Distribution>
+		<State_Distribution>DF, GO, MS, MT, AC, AM, PA, TO, BA, MA, ES, MG, RJ, SP</State_Distribution>
+		<Phyto_Domain>Amazônia, Cerrado, Mata Atlântica</Phyto_Domain>
+		<Vegetation_types>Cerrado (lato sensu), Floresta Ciliar ou Galeria, Floresta Estacional Semidecidual, Floresta Ombrófila (= Floresta Pluvial)</Vegetation_types>
+		<Synonyms>Mauria obtusa Benth., Tapirira marchandii Engl., Tapirira peckoltiana Engl., Tapirira pilosa Sprague</Synonyms>
+		<Vernacular_Names>pau-pombo, Acre, PORTUGUES; peito-de-pomba, sudeste, PORTUGUES</Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Tapirira in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4409)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4409</URL>
+		<Last_Update>20/12/2011 - 11:39:42</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80177</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18895</_Parent_ID>
+		<Name>Tapirira peckoltiana</Name>
+		<Genus>Tapirira</Genus>
+		<Species>peckoltiana</Species>
+		<Variety></Variety>
+		<Author>Engl.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Engler, H.G.A., Fl. bras., 12(2): 379, 1876;   Flora brasiliensis, vol. 12, part. 2, tab. 79, null</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mart. Fl. Bras. 12: II. 380. 12. II. 380.  Mitchell, J.D. 1997. Anacardiaceae.  In A.R.A.  Gorts-Van Rijn (eds.)  Flora of the Guianas -  S eries A: Phanerogams  19(129): 1-79.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Tapirira in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80036)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80036</URL>
+		<Last_Update>20/12/2011 - 11:42:42</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80178</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18895</_Parent_ID>
+		<Name>Tapirira pilosa</Name>
+		<Genus>Tapirira</Genus>
+		<Species>pilosa</Species>
+		<Variety></Variety>
+		<Author>Sprague</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Daly, D.C., 4320, MO, (AM)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte</Regional_Distribution>
+		<State_Distribution>AM</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Terra Firme</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Tapirira in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80037)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80037</URL>
+		<Last_Update>21/12/2011 - 08:05:53</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80179</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18895</_Parent_ID>
+		<Name>Tapirira retusa</Name>
+		<Genus>Tapirira</Genus>
+		<Species>retusa</Species>
+		<Variety></Variety>
+		<Author>Ducke</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Ducke, A., s.n., COL, 167078,(AM)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte</Regional_Distribution>
+		<State_Distribution>AC, AM, PA</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Terra Firme</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Tapirira in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB21764)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB21764</URL>
+		<Last_Update>20/12/2011 - 12:21:53</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>18999</ID>
+		<Rank>GENERO</Rank>
+		<_Parent_ID>13206</_Parent_ID>
+		<Name>Thyrsodium</Name>
+		<Genus>Thyrsodium</Genus>
+		<Species></Species>
+		<Variety></Variety>
+		<Author>Salzm. ex Benth.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References></References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1993. A revision of  Thyrsodium  (Anacardiaceae).  Brittonia  45(2): 115-129.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Thyrsodium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4410)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4410</URL>
+		<Last_Update>20/12/2011 - 17:55:59</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80721</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18999</_Parent_ID>
+		<Name>Thyrsodium bolivianum</Name>
+		<Genus>Thyrsodium</Genus>
+		<Species>bolivianum</Species>
+		<Variety></Variety>
+		<Author>J.D.Mitch. &amp; Daly</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Prance, G.T., 3258, NY, MO, (AM)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte</Regional_Distribution>
+		<State_Distribution>AC, AM</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Terra Firme</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>breu-de-leite, norte, PORTUGUES; breu-manga, norte, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1993. A revision of  Thyrsodium  (Anacardiaceae).  Brittonia  45(2): 115-129.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Thyrsodium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB21765)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB21765</URL>
+		<Last_Update>19/12/2011 - 16:47:54</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80722</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18999</_Parent_ID>
+		<Name>Thyrsodium guianense</Name>
+		<Genus>Thyrsodium</Genus>
+		<Species>guianense</Species>
+		<Variety></Variety>
+		<Author>Sagot ex Marchand</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Daly, D. et al., 3782, NY, (AM)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte</Regional_Distribution>
+		<State_Distribution>AP, PA</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Terra Firme, Floresta Estacional Semidecidual</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>amaparanaré, Pará, PORTUGUES</Vernacular_Names>
+		<Bibliography>Rev. Anacard. 160.  Mitchell, J.D. &amp; Daly, D.C. 1993. A revision of  Thyrsodium  (Anacardiaceae).  Brittonia  45(2): 115-129.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Thyrsodium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80038)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80038</URL>
+		<Last_Update>19/12/2011 - 16:51:49</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80723</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18999</_Parent_ID>
+		<Name>Thyrsodium herrerense</Name>
+		<Genus>Thyrsodium</Genus>
+		<Species>herrerense</Species>
+		<Variety></Variety>
+		<Author>Encarn.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Daly, D.C. et al., 4500, NY, (AM)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte</Regional_Distribution>
+		<State_Distribution>AM</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Terra Firme</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1993. A revision of  Thyrsodium  (Anacardiaceae).  Brittonia  45(2): 115-129.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Thyrsodium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB112151)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB112151</URL>
+		<Last_Update>19/12/2011 - 16:54:01</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80724</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18999</_Parent_ID>
+		<Name>Thyrsodium paraense</Name>
+		<Genus>Thyrsodium</Genus>
+		<Species>paraense</Species>
+		<Variety></Variety>
+		<Author>Huber</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Huber, J., Bull. Soc. Bot. Genève (ser. 2), 2(6):183, 1915</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Bull. Soc. Bot. Geneve 1914 Ser. II. 6: 183 (1915). 1914</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Thyrsodium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80039)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80039</URL>
+		<Last_Update>19/12/2011 - 16:54:47</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80725</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18999</_Parent_ID>
+		<Name>Thyrsodium puberulum</Name>
+		<Genus>Thyrsodium</Genus>
+		<Species>puberulum</Species>
+		<Variety></Variety>
+		<Author>J.D.Mitch. &amp; Daly</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Irwin, H.S., 48121, NY, K, U, (AM)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte</Regional_Distribution>
+		<State_Distribution>AP, PA</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Terra Firme</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1993. A revision of  Thyrsodium  (Anacardiaceae).  Brittonia  45(2): 115-129.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Thyrsodium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB109958)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB109958</URL>
+		<Last_Update>19/12/2011 - 16:57:27</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80726</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18999</_Parent_ID>
+		<Name>Thyrsodium rondonianum</Name>
+		<Genus>Thyrsodium</Genus>
+		<Species>rondonianum</Species>
+		<Variety></Variety>
+		<Author>J.D.Mitch. &amp; Daly</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Zarucchi, L. et al., 2734, É typus, NY,   NY00050977, INPA, (RO)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte, Centro-Oeste</Regional_Distribution>
+		<State_Distribution>MT, AC, AM, PA, RO, RR</State_Distribution>
+		<Phyto_Domain>Amazônia</Phyto_Domain>
+		<Vegetation_types>Floresta de Terra Firme</Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names>amaparana, Amazonas, PORTUGUES; breu-de-leite, Mato Grosso, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1993. A revision of  Thyrsodium  (Anacardiaceae).  Brittonia  45(2): 115-129.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Thyrsodium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB21766)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB21766</URL>
+		<Last_Update>19/12/2011 - 17:02:27</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80727</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18999</_Parent_ID>
+		<Name>Thyrsodium salzmannianum</Name>
+		<Genus>Thyrsodium</Genus>
+		<Species>salzmannianum</Species>
+		<Variety></Variety>
+		<Author>Benth.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Bentham, G., Hooker's J. Bot. Kew Gard. Misc., 4:18, 1852</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution></Regional_Distribution>
+		<State_Distribution></State_Distribution>
+		<Phyto_Domain></Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography></Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Thyrsodium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB109688)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB109688</URL>
+		<Last_Update>19/12/2011 - 17:13:45</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80728</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18999</_Parent_ID>
+		<Name>Thyrsodium schomburgkianum</Name>
+		<Genus>Thyrsodium</Genus>
+		<Species>schomburgkianum</Species>
+		<Variety></Variety>
+		<Author>Benth.</Author>
+		<Status>Sinônimo</Status>
+		<Qualifier>Nome legítimo, mas incorreto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher></Voucher>
+		<References>Bentham, G., Hooker's J. Bot. Kew Gard. Misc., 4:18, 1852</References>
+		<Life_Form></Life_Form>
+		<Substratum></Substratum>
+		<Regional_Distribution>Norte, Nordeste, Sudeste</Regional_Distribution>
+		<State_Distribution>AM, PA, AL, MA, ES</State_Distribution>
+		<Phyto_Domain>Amazônia, Caatinga, Mata Atlântica</Phyto_Domain>
+		<Vegetation_types></Vegetation_types>
+		<Synonyms></Synonyms>
+		<Vernacular_Names></Vernacular_Names>
+		<Bibliography>Hook. Kew Journ. 4: (1852) 18iv. (1852) 18</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Thyrsodium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB80040)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB80040</URL>
+		<Last_Update>19/12/2011 - 17:14:11</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+	<row>
+		<ID>80729</ID>
+		<Rank>ESPECIE</Rank>
+		<_Parent_ID>18999</_Parent_ID>
+		<Name>Thyrsodium spruceanum</Name>
+		<Genus>Thyrsodium</Genus>
+		<Species>spruceanum</Species>
+		<Variety></Variety>
+		<Author>Benth.</Author>
+		<Status>Nome aceito</Status>
+		<Qualifier>Nome correto</Qualifier>
+		<Origin>Nativa</Origin>
+		<Endemic>não é endêmica do Brasil</Endemic>
+		<Occurs_in_Brazil>Sim</Occurs_in_Brazil>
+		<Voucher>Spruce, R., 793, É typus, NY,   NY00050979, K, GH, (PA)</Voucher>
+		<References></References>
+		<Life_Form>Árvore</Life_Form>
+		<Substratum>Terrícola</Substratum>
+		<Regional_Distribution>Norte, Nordeste, Sudeste</Regional_Distribution>
+		<State_Distribution>AM, AP, PA, RR, AL, BA, CE, MA, PB, PE, RN, ES, MG, RJ, SE</State_Distribution>
+		<Phyto_Domain>Amazônia, Mata Atlântica</Phyto_Domain>
+		<Vegetation_types>Floresta de Terra Firme, Floresta Ombrófila (= Floresta Pluvial)</Vegetation_types>
+		<Synonyms>Garuga gigantea Engl., Thyrsodium paraense Huber, Thyrsodium salzmannianum Benth., Thyrsodium schomburgkianum Benth.</Synonyms>
+		<Vernacular_Names>amaparana, Norte, PORTUGUES; manga-brava, Bahia, PORTUGUES; mututurana, Norte, PORTUGUES; tutuzuba-da-várzea, Norte, PORTUGUES</Vernacular_Names>
+		<Bibliography>Mitchell, J.D. &amp; Daly, D.C. 1993. A revision of  Thyrsodium  (Anacardiaceae).  Brittonia  45(2): 115-129.</Bibliography>
+		<Authors>Silva-Luz, C.L. ; Pirani, J.R.</Authors>
+		<Citation>Silva-Luz, C.L. ; Pirani, J.R. 2012. Thyrsodium in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. (http://floradobrasil.jbrj.gov.br/2012/FB4411)</Citation>
+		<URL>http://floradobrasil.jbrj.gov.br/2012/FB4411</URL>
+		<Last_Update>19/12/2011 - 17:13:01</Last_Update>
+		<User_Lastupdate>Silva-Luz, C.L.</User_Lastupdate>
+	</row>
+</root>
