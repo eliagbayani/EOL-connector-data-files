@@ -141,3 +141,5 @@ Virgin Islands, U.s.	http://www.geonames.org/4796775
 Wallis And Futuna	http://www.geonames.org/4034749
 West Africa	http://www.geonames.org/6255146
 West Mediterranean Coast	http://eol.org/schema/terms/MediterraneanRegion
+freshwater_terrestrial	http://eol.org/schema/terms/terrestrialAndFreshwater
+marine_terrestrial	http://eol.org/schema/terms/terrestrialAndMarine
