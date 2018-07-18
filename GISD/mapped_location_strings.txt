@@ -29,7 +29,7 @@ Coastal West Africa	http://www.geonames.org/6255146
 Coasts Of The Caribbean	http://www.geonames.org/7729891
 Columbia River	
 Congo	http://www.geonames.org/2260494
-"Congo, The Democratic Republic Of The"	http://www.wikidata.org/entity/Q974
+Congo, The Democratic Republic Of The	http://www.wikidata.org/entity/Q974
 Cote D'ivoire	http://www.geonames.org/2287781
 Danube River (ex-yugoslavia)	
 Dneiper River	
@@ -56,10 +56,10 @@ Indian - Ocean Eastern	http://www.marineregions.org/mrgid/1904
 Indian - Ocean Western	http://www.marineregions.org/mrgid/1904
 Indo-china	http://www.geonames.org/6942346
 Indo-pacific Region	http://www.marineregions.org/mrgid/14289
-"Iran, Islamic Republic Of"	http://www.geonames.org/130758
+Iran, Islamic Republic Of	http://www.geonames.org/130758
 Isle Of Man	http://www.geonames.org/3042225
-"Korea, Democratic People's Republic Of"	http://www.geonames.org/1873107
-"Korea, Republic Of"	http://www.geonames.org/1835841 
+Korea, Democratic People's Republic Of	http://www.geonames.org/1873107
+Korea, Republic Of	http://www.geonames.org/1835841 
 Korean Peninsula	http://www.geonames.org/11494804
 La Plata Basin	
 Lake Champlain	
@@ -75,7 +75,7 @@ Lao People's Democratic Republic	http://www.geonames.org/1655842
 Latin America	http://www.geonames.org/10861432
 Libyan Arab Jamahiriya	http://www.geonames.org/2215636
 Lower Zambezi	http://eol.org/schema/terms/Zambezi
-"Macedonia, The Former Yugoslav Republic Of"	http://www.geonames.org/718075
+Macedonia, The Former Yugoslav Republic Of	http://www.geonames.org/718075
 Maghreb	
 Masai Mara Reserve	
 Mediterranean & Black Sea	http://eol.org/schema/terms/MediterraneanRegion
@@ -83,8 +83,8 @@ Mediterranean Area	http://eol.org/schema/terms/MediterraneanRegion
 Mediterranean Coast	http://eol.org/schema/terms/MediterraneanRegion
 Mekong River	
 Melanesia	
-"Micronesia, Federated States Of"	http://www.geonames.org/2081918
-"Moldova, Republic Of"	http://www.geonames.org/617790
+Micronesia, Federated States Of	http://www.geonames.org/2081918
+Moldova, Republic Of	http://www.geonames.org/617790
 Niger River	
 North Africa	http://www.geonames.org/7729887
 North-west Africa	http://eol.org/schema/terms/NorthwestAfrica
@@ -98,7 +98,7 @@ Pacific - Northwest	http://www.geonames.org/2113242
 Pacific - Southeast	http://www.marineregions.org/mrgid/1910
 Pacific - Southwest	http://www.marineregions.org/mrgid/1910
 Pacific - Western Central	http://www.geonames.org/4030959
-"Palestinian Territory, Occupied"	http://www.geonames.org/6254930
+Palestinian Territory, Occupied	http://www.geonames.org/6254930
 Pan Tropic	
 Pitcairn	http://www.geonames.org/4030699
 River Nile	

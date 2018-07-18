@@ -11,3 +11,8 @@ How to get CSV file: export_gisd.csv
   Virus
 4. Click 'Search'.
 5. Download CSV.
+
+
+
+The file: mapped_location_strings.txt
+is an attached file from: https://eol-jira.bibalex.org/browse/TRAM-794
