@@ -1,0 +1,146 @@
+=============================================================	
+un-mapped string	
+#NAME?	
+Altiplano	
+Amazon Basin	http://www.geonames.org/3469034
+Amudar'ya River	
+Amur River	http://eol.org/schema/terms/Amur
+Antigua And Barbuda	http://www.geonames.org/3576396
+Arabian Peninsula	http://www.geonames.org/6269133
+Aral Sea	
+Asia (temperate Regions)	http://www.geonames.org/6255147
+Athi-galana-sabaki River	
+Atlantic - Eastern Central	http://www.marineregions.org/mrgid/1902
+Atlantic - Northeast	http://www.marineregions.org/mrgid/1912
+Atlantic - Northwest	http://eol.org/schema/terms/NorthWestAtlantic
+Atlantic - Southwest	http://www.marineregions.org/mrgid/1914
+Atlantic - Western Central	http://www.marineregions.org/mrgid/1902
+Atlantic Basin	http://www.marineregions.org/mrgid/1902
+Atlantic Coast (north America)	http://marineregions.org/mrgid/33452
+Atlantic Coast (south America)	http://marineregions.org/mrgid/17376
+Baha De La Paz	
+Bavarian Alps	http://www.geonames.org/2921044
+Bay Of Quinte	
+Bosnia And Herzegovina	http://www.geonames.org/3277605
+British Antarctic Territory (bat)	http://www.geonames.org/6632710
+British Isles	http://www.geonames.org/2635167
+Brunei Darussalam	
+Caroline Islands	
+Central Pacific Territories	
+Coast Of East Africa	http://www.geonames.org/6255146
+Coastal West Africa	http://www.geonames.org/6255146
+Coasts Of The Caribbean	http://www.geonames.org/7729891
+Columbia River	
+Congo	http://www.geonames.org/2260494
+"Congo, The Democratic Republic Of The"	http://www.wikidata.org/entity/Q974
+Cote D'ivoire	http://www.geonames.org/2287781
+Danube River (ex-yugoslavia)	
+Dneiper River	
+East Africa	http://www.geonames.org/6255146
+East Asia	http://www.geonames.org/6255147
+Eastern And Southern Africa	http://www.geonames.org/6255146
+Eastern Europe	http://www.geonames.org/7729884
+Eastern Mediterranean Shore	http://www.geonames.org/6947194
+Euphrates River	http://www.geonames.org/6269133
+European Union (eu)	http://www.geonames.org/6255148
+Ex-yugoslavia	http://www.geonames.org/7500737
+Falkland Islands (malvinas)	http://www.geonames.org/3474414
+Former Ussr	http://www.geonames.org/8354411
+French Southern Territories	http://www.geonames.org/1546748
+Galician Shelf	
+Gambia River	
+Great Lakes Basin	
+Guinea-bissau	http://www.geonames.org/2372248
+Heard Island And Mcdonald Islands	http://www.geonames.org/1547314
+Holy See (vatican City State)	http://www.geonames.org/3164670
+Iberian Coastal	
+Iberian Peninsula	
+Indian - Ocean Eastern	http://www.marineregions.org/mrgid/1904
+Indian - Ocean Western	http://www.marineregions.org/mrgid/1904
+Indo-china	http://www.geonames.org/6942346
+Indo-pacific Region	http://www.marineregions.org/mrgid/14289
+"Iran, Islamic Republic Of"	http://www.geonames.org/130758
+Isle Of Man	http://www.geonames.org/3042225
+"Korea, Democratic People's Republic Of"	http://www.geonames.org/1873107
+"Korea, Republic Of"	http://www.geonames.org/1835841 
+Korean Peninsula	http://www.geonames.org/11494804
+La Plata Basin	
+Lake Champlain	
+Lake Constance	
+Lake Erie	
+Lake Huron	
+Lake Muskoka	
+Lake Ontario	
+Lake Provala	
+Lake St. Clair	
+Lake Superior	
+Lao People's Democratic Republic	http://www.geonames.org/1655842
+Latin America	http://www.geonames.org/10861432
+Libyan Arab Jamahiriya	http://www.geonames.org/2215636
+Lower Zambezi	http://eol.org/schema/terms/Zambezi
+"Macedonia, The Former Yugoslav Republic Of"	http://www.geonames.org/718075
+Maghreb	
+Masai Mara Reserve	
+Mediterranean & Black Sea	http://eol.org/schema/terms/MediterraneanRegion
+Mediterranean Area	http://eol.org/schema/terms/MediterraneanRegion
+Mediterranean Coast	http://eol.org/schema/terms/MediterraneanRegion
+Mekong River	
+Melanesia	
+"Micronesia, Federated States Of"	http://www.geonames.org/2081918
+"Moldova, Republic Of"	http://www.geonames.org/617790
+Niger River	
+North Africa	http://www.geonames.org/7729887
+North-west Africa	http://eol.org/schema/terms/NorthwestAfrica
+Northern Asia	http://www.geonames.org/6255147
+Northern Mariana Islands	http://www.geonames.org/4041468
+Orinoco Basin	
+Outer Caroline Islands	
+Pacific - Eastern Central	http://www.geonames.org/4030959
+Pacific - Northeast	http://www.geonames.org/4019877
+Pacific - Northwest	http://www.geonames.org/2113242
+Pacific - Southeast	http://www.marineregions.org/mrgid/1910
+Pacific - Southwest	http://www.marineregions.org/mrgid/1910
+Pacific - Western Central	http://www.geonames.org/4030959
+"Palestinian Territory, Occupied"	http://www.geonames.org/6254930
+Pan Tropic	
+Pitcairn	http://www.geonames.org/4030699
+River Nile	
+River Rhine	
+River Tagus	
+Rwenzori Range	
+Sahara	http://eol.org/schema/terms/Sahara_desert
+Sahel	
+Saint Kitts And Nevis	http://www.geonames.org/3575174
+Saint Martin (french Part)	http://www.geonames.org/3578421
+Saint Pierre And Miquelon	http://www.geonames.org/3424932
+Saint Vincent And The Grenadines	http://www.geonames.org/3577815
+Salween River	
+Sao Tome And Principe	http://marineregions.org/mrgid/8397
+Senegal River	
+Serbia And Montenegro	
+Serengeti-mara Ecosystem	
+South American Andes	
+South East Asia	http://www.geonames.org/6942346
+South Georgia And The South Sandwich Islands	
+Southeastern Asia	http://www.geonames.org/6942346
+Southwestern Asia	http://www.geonames.org/6269133
+St. Lawrence River	
+Subtropical Asia	http://www.geonames.org/6255147
+Svalbard And Jan Mayen	http://www.geonames.org/607072
+Syrian Arab Republic	http://www.geonames.org/163843
+Tanganyika Lake	http://www.wikidata.org/entity/Q158725
+"Tanzania, United Republic Of"	http://www.geonames.org/149590
+Tigris River	
+Timor-leste	http://www.geonames.org/1966436
+Trinidad And Tobago	http://www.geonames.org/3573591
+Tropical America	http://www.geonames.org/10861432
+Turks And Caicos Islands	http://www.geonames.org/3576916
+United States Minor Outlying Islands	
+Upper Lake Constance	
+Ural River	
+Viet Nam	http://www.geonames.org/1562822
+"Virgin Islands, British"	http://www.geonames.org/3577718
+"Virgin Islands, U.s."	http://www.geonames.org/4796775
+Wallis And Futuna	http://www.geonames.org/4034749
+West Africa	http://www.geonames.org/6255146
+West Mediterranean Coast	http://eol.org/schema/terms/MediterraneanRegion
