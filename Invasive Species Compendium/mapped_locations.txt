@@ -1,0 +1,99 @@
+Amapa	http://www.geonames.org/3407762
+Andaman and Nicobar Islands	http://www.geonames.org/1278646
+Arctic Sea	http://www.marineregions.org/mrgid/1906
+Atlantic, Eastern Central	http://www.marineregions.org/mrgid/1902
+Atlantic, Northeast	http://www.marineregions.org/mrgid/1912
+Atlantic, Northwest	http://eol.org/schema/terms/NorthWestAtlantic
+Atlantic, Southeast	http://www.marineregions.org/mrgid/1914
+Atlantic, Southwest	http://www.marineregions.org/mrgid/1914
+Atlantic, Western Central	http://www.marineregions.org/mrgid/1902
+Australian Northern Territory	http://www.geonames.org/2064513
+Balearic Islands	http://www.geonames.org/2521383
+Bonin Island	http://www.geonames.org/2111519
+BosniaHercegovina	http://www.geonames.org/3277605
+Brunei Darussalam	http://www.geonames.org/1820814
+Canton and Enderbury Islands	
+Caroline Islands	http://www.geonames.org/2082300
+Carriacou	
+Ceara	http://www.geonames.org/3402362
+Central Russia	http://www.geonames.org/2017370
+Chhattisgarh	
+Christmas Island (Indian Ocean)	http://www.geonames.org/2078138
+Cocos Islands	http://www.geonames.org/3624182
+Congo Democratic Republic	http://www.wikidata.org/entity/Q974
+Czechoslovakia (former)	http://www.geonames.org/8505031
+Côte d'Ivoire	http://www.wikidata.org/entity/Q1008
+Dadra and Nagar Haveli	
+Distrito Federal	
+England and Wales	http://www.geonames.org/2635167
+Former USSR	http://www.geonames.org/8354411
+France (mainland)	http://www.geonames.org/3017382
+French Southern and Antarctic Territories	http://www.geonames.org/1546748
+French West Indies	http://www.geonames.org/7729891
+Galapagos Islands	http://www.geonames.org/3658931
+Gaza	http://www.geonames.org/6254930
+Georgia (Republic of)	http://www.geonames.org/614427
+Goias	http://www.geonames.org/3462372
+Greece (mainland)	http://www.geonames.org/390903
+GuineaBissau	http://www.geonames.org/2372248
+Indian Ocean, Antarctic	http://www.marineregions.org/mrgid/1904
+Indian Ocean, Eastern	http://www.marineregions.org/mrgid/1904
+Indian Ocean, Western	http://www.marineregions.org/mrgid/1904
+Indian Punjab	http://www.geonames.org/1259224
+Isle of Man (UK)	http://www.geonames.org/3042225
+Italy (mainland)	http://www.geonames.org/3175395
+Jammu and Kashmir	http://www.geonames.org/1269320
+Johnston Island	http://marineregions.org/mrgid/8452
+Korea, DPR	http://www.geonames.org/1873107
+Korea, Republic of	http://www.geonames.org/1835841
+Krymskaya Oblast	
+Lakshadweep	
+Leeward Islands	
+Lord Howe Is.	http://www.geonames.org/2159558
+Mediterranean and Black Sea	http://www.marineregions.org/mrgid/1905
+Micronesia, Federated states of	http://www.geonames.org/2081918
+Nei Menggu	
+Northern Russia	http://www.geonames.org/2017370
+Nusa Tenggara	
+Pacific, Antarctic	http://www.marineregions.org/mrgid/1903
+Pacific, Eastern Central	http://www.geonames.org/4030959
+Pacific, Northeast	http://www.geonames.org/4019877
+Pacific, Northwest	http://www.geonames.org/4030875
+Pacific, Southeast	http://www.marineregions.org/mrgid/1910
+Pacific, Southwest	http://www.marineregions.org/mrgid/1910
+Pacific, Western Central	http://www.geonames.org/4030959
+Para	
+Paraiba	http://www.geonames.org/3393098
+Parana	http://www.geonames.org/3455077
+Piaui	http://www.geonames.org/3392213
+Pitcairn Island	http://www.geonames.org/4030699
+Portugal (mainland)	http://www.geonames.org/2264397
+Puducherry	http://www.geonames.org/1259424
+Rodriguez Island	
+Rondonia	http://www.geonames.org/3924825
+Russia (Asia)	http://www.geonames.org/2017370
+Russia (Europe)	http://www.geonames.org/2017370
+Russian Far East	http://www.geonames.org/2017370
+Ryukyu Archipelago	http://www.geonames.org/1855629
+Réunion	http://www.geonames.org/935317
+Saba	http://www.geonames.org/3513314
+Sao Paulo	http://www.geonames.org/3448433
+Sao Tome and Principe	http://www.geonames.org/2410758
+Sardinia	http://www.geonames.org/2523227
+Sicily	http://www.geonames.org/2523119
+Sint Eustatius	http://www.geonames.org/3513232
+South Georgia and the South Sandwich Islands	http://www.geonames.org/3474415
+Southern Russia	http://www.geonames.org/2017370
+Spain (mainland)	http://www.geonames.org/2510769
+Tristan Da Cunha	http://www.geonames.org/3370684
+Trust Territory of Pacific Islands	
+TurkeyinAsia	http://www.geonames.org/298795
+TurkeyinEurope	http://www.geonames.org/298795
+UK	http://www.geonames.org/2635167
+United States Virgin Islands	https://www.wikidata.org/entity/Q11703
+Uttarakhand	http://www.geonames.org/1444366
+Wallis and Futuna Islands	http://www.geonames.org/4034749
+Windward Islands	
+Yugoslavia (Serbia and Montenegro)	http://www.geonames.org/7500737
+Yugoslavia (former)	http://www.geonames.org/7500737
+Yukon Territory	https://www.wikidata.org/entity/Q2009
