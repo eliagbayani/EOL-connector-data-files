@@ -1,0 +1,1643 @@
+Page ID	eol_pk	Value URI	Label
+42400023	R101-PK14506803	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4530283	R400-PK16200255	http://www.geonames.org/3017382	PRM and REP
+4441359	R400-PK16187828	http://www.geonames.org/3017382	PRM and REP
+4528815	R207-PK15283086	http://www.geonames.org/6251999	REP
+4528815	R344-PK19347603	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4528836	R344-PK19363147	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528839	R344-PK19331250	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528833	R344-PK19356515	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528834	R344-PK19345123	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528838	R344-PK19321593	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528837	R344-PK19336066	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528832	R344-PK19355240	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528818	R344-PK19338463	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528841	R344-PK19321703	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528822	R344-PK19367268	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528805	R344-PK19365562	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528793	R344-PK19314582	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528801	R344-PK19327019	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528808	R288-PK15390856	http://www.geonames.org/1814991	PRM and REP
+4528803	R344-PK19325142	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528800	R344-PK19325078	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528794	R344-PK19335516	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528799	R288-PK15388468	http://www.geonames.org/1814991	PRM and REP
+4528849	R344-PK19315809	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528850	R344-PK19321548	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528846	R344-PK19348059	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528847	R344-PK19345038	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528851	R344-PK19352410	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528852	R344-PK19359386	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4529205	R400-PK16183276	http://www.geonames.org/3017382	PRM and REP
+24187719	R152-PK6845753	http://www.geonames.org/2635167	PRM and REP
+42401245	R207-PK15270506	http://www.geonames.org/6251999	REP
+42401245	R344-PK19363241	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+42401246	R207-PK15279695	http://www.geonames.org/6251999	REP
+42401246	R344-PK19355255	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4527191	R207-PK15264580	http://www.geonames.org/6251999	REP
+4527191	R344-PK19365670	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4529235	R344-PK19350970	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4529232	R344-PK19319848	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4529231	R344-PK19309173	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4529236	R207-PK15272731	http://www.geonames.org/6251999	REP
+4529236	R344-PK19316868	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4529233	R344-PK19319313	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4529216	R344-PK19329510	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4529217	R344-PK19315117	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4529224	R344-PK19331743	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4529220	R344-PK19325017	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4529215	R344-PK19324606	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4529214	R344-PK19316961	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4529218	R344-PK19308628	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4530071	R344-PK19337999	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4527180	R344-PK19336605	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4527183	R207-PK15271532	http://www.geonames.org/6251999	REP
+4527183	R344-PK19352903	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4527182	R344-PK19355191	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4530016	R207-PK15278348	http://www.geonames.org/6251999	PRM and REP
+42401168	R400-PK16203386	http://www.geonames.org/3017382	PRM and REP
+347436	R96-PK42612985	http://eol.org/schema/terms/Madagascar_dry_deciduous_forests	REP
+347436	R96-PK42612983	http://eol.org/schema/terms/Madagascar_lowland_forests	REP
+347436	R96-PK42612986	http://eol.org/schema/terms/Madagascar_mangroves	REP
+347436	R96-PK42612984	http://eol.org/schema/terms/Madagascar_subhumid_forests	REP
+127708	R96-PK42695191	http://eol.org/schema/terms/Madagascar_dry_deciduous_forests	REP
+127708	R96-PK42695192	http://eol.org/schema/terms/Madagascar_succulent_woodlands	REP
+999164	R96-PK42621525	http://eol.org/schema/terms/Madagascar_dry_deciduous_forests	REP
+999164	R96-PK42621523	http://eol.org/schema/terms/Madagascar_lowland_forests	REP
+999164	R96-PK42621524	http://eol.org/schema/terms/Madagascar_subhumid_forests	REP
+999164	R98-PK14284902	http://www.marineregions.org/gazetteer.php?p=details&id=1904	REP
+128480	R96-PK42621526	http://eol.org/schema/terms/Madagascar_lowland_forests	REP
+128480	R96-PK42621527	http://eol.org/schema/terms/Madagascar_subhumid_forests	REP
+128480	R98-PK14288391	http://www.marineregions.org/gazetteer.php?p=details&id=1904	REP
+289555	R96-PK42621528	http://eol.org/schema/terms/Madagascar_spiny_thickets	REP
+289555	R98-PK14268017	http://www.marineregions.org/gazetteer.php?p=details&id=1904	REP
+347438	R245-PK17602600	http://www.geonames.org/1062947	PRM and REP
+347437	R96-PK42619033	http://eol.org/schema/terms/Madagascar_lowland_forests	REP
+347437	R96-PK42619034	http://eol.org/schema/terms/Madagascar_subhumid_forests	REP
+347437	R98-PK14296813	http://www.marineregions.org/gazetteer.php?p=details&id=1904	REP
+347437	R441-PK14658690	http://www.marineregions.org/gazetteer.php?p=details&id=4261	REP
+127498	R96-PK42778717	http://eol.org/schema/terms/Madagascar_lowland_forests	PRM and REP
+4441541	R336-PK19108180	http://www.geonames.org/298795	REP
+4441541	R400-PK16181194	http://www.geonames.org/3017382	REP
+4441546	R344-PK19357981	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4441517	R253-PK17863142	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+4441517	R344-PK19324880	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4441518	R315-PK18763064	http://www.geonames.org/953987	REP
+4441518	R407-PK11382883	http://www.marineregions.org/gazetteer.php?p=details&id=1914	REP
+4441519	R288-PK15396485	http://www.geonames.org/1814991	PRM and REP
+925982	R231-PK17507520	http://www.geonames.org/192950	REP
+925982	R156-PK15439190	http://www.geonames.org/3351879	REP
+925982	R174-PK15781533	http://www.geonames.org/933860	REP
+925982	R315-PK18748279	http://www.geonames.org/953987	REP
+4443381	R265-PK18052992	http://www.geonames.org/2542007	REP
+4443381	R406-PK11162693	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4441329	R149-PK6115201	http://www.geonames.org/357994	PRM and REP
+24184911	R400-PK16181593	http://www.geonames.org/3017382	PRM and REP
+4443420	R265-PK18053018	http://www.geonames.org/2542007	REP
+4443420	R406-PK11157593	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4443408	R253-PK17874968	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	PRM and REP
+42400878	R315-PK18777032	http://www.geonames.org/953987	REP
+42400878	R407-PK11408522	http://www.marineregions.org/gazetteer.php?p=details&id=1914	REP
+925983	R353-PK19434878	http://www.geonames.org/878675	REP
+925983	R174-PK15781562	http://www.geonames.org/933860	REP
+925983	R321-PK18831299	http://www.geonames.org/934841	REP
+925983	R315-PK18743268	http://www.geonames.org/953987	REP
+31998011	R315-PK18771766	http://www.geonames.org/953987	REP
+31998011	R407-PK11387719	http://www.marineregions.org/gazetteer.php?p=details&id=1914	REP
+4529054	R288-PK15393930	http://www.geonames.org/1814991	PRM and REP
+42401199	R315-PK18780431	http://www.geonames.org/953987	REP
+42401199	R407-PK11401890	http://www.marineregions.org/gazetteer.php?p=details&id=1914	REP
+4530204	R149-PK6115678	http://www.geonames.org/357994	PRM and REP
+924438	R181-PK15187751	http://www.geonames.org/2233387	PRM and REP
+1038690	R96-PK42579775	http://eol.org/schema/terms/Central_Congolian_lowland_forests	REP
+1038690	R96-PK42579776	http://eol.org/schema/terms/Eastern_Congolian_swamp_forests	REP
+1038690	R156-PK15442386	http://www.geonames.org/3351879	REP
+289515	R96-PK42524563	http://eol.org/schema/terms/East_African_montane_forests	REP
+289515	R231-PK17511182	http://www.geonames.org/192950	REP
+1038681	R96-PK42637095	http://eol.org/schema/terms/Deccan_thorn_scrub_forests	REP
+1038681	R96-PK42637097	http://eol.org/schema/terms/Indus_River_Delta-Arabian_Sea_mangroves	REP
+1038681	R96-PK42637078	http://eol.org/schema/terms/Lower_Gangetic_Plains_moist_deciduous_forests	REP
+4443494	R265-PK18052677	http://www.geonames.org/2542007	REP
+4443494	R406-PK11157897	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+1038687	R318-PK18801295	http://www.geonames.org/1227603	REP
+1038687	R522-PK25043051	http://www.geonames.org/1269750	REP
+924439	R318-PK18800821	http://www.geonames.org/1227603	REP
+311540	R303-PK18976757	http://www.geonames.org/2245662	REP
+311540	R507-PK22062232	http://www.geonames.org/2287781	REP
+311540	R211-PK16390656	http://www.geonames.org/2300660	REP
+4443649	R265-PK18052809	http://www.geonames.org/2542007	REP
+4443649	R406-PK11157565	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+42400846	R231-PK17513531	http://www.geonames.org/192950	PRM and REP
+999179	R96-PK42635084	http://eol.org/schema/terms/Masai_xeric_grasslands_and_shrublands	REP
+999179	R96-PK42635082	http://eol.org/schema/terms/Northern_Acacia-Commiphora_bushlands_and_thickets	REP
+999179	R96-PK42635083	http://eol.org/schema/terms/Somali_Acacia-Commiphora_bushlands_and_thickets	REP
+999179	R231-PK17509851	http://www.geonames.org/192950	REP
+999179	R183-PK16050435	http://www.geonames.org/337996	REP
+311578	R96-PK42621135	http://eol.org/schema/terms/Angolan_Mopane_woodlands	REP
+311578	R96-PK42621136	http://eol.org/schema/terms/Kaokoveld_desert	REP
+311578	R96-PK42621137	http://eol.org/schema/terms/Namibian_savanna_woodlands	REP
+128584	R96-PK42596180	http://eol.org/schema/terms/East_Sudanian_savanna	REP
+128584	R96-PK42596181	http://eol.org/schema/terms/Northern_Congolian_forest-savanna_mosaic	REP
+128584	R96-PK42596182	http://eol.org/schema/terms/Victoria_Basin_forest-savanna_mosaic	REP
+128584	R197-PK15836668	http://www.geonames.org/203312	REP
+128584	R339-PK19127124	http://www.geonames.org/226074	REP
+1053888	R175-PK7315938	http://www.geonames.org/3469034	REP
+1053888	R160-PK15490531	http://www.geonames.org/3865483	REP
+4443813	R288-PK15397331	http://www.geonames.org/1814991	PRM and REP
+4443800	R101-PK14484100	http://www.marineregions.org/gazetteer.php?p=details&id=1908	REP
+4443800	R406-PK11142958	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4443800	R344-PK19347737	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+44168786	R101-PK14494449	http://www.marineregions.org/gazetteer.php?p=details&id=1908	REP
+44168786	R253-PK17871433	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+31998076	R315-PK18771468	http://www.geonames.org/953987	REP
+31998076	R407-PK11394052	http://www.marineregions.org/gazetteer.php?p=details&id=1914	REP
+4444397	R344-PK19358975	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4444373	R400-PK16187525	http://www.geonames.org/3017382	REP
+4444373	R226-PK16706892	http://www.geonames.org/3175395	REP
+4444373	R212-PK16419204	http://www.geonames.org/390903	REP
+4444373	R209-PK16267952	http://www.geonames.org/614540	REP
+4444373	R315-PK18766888	http://www.geonames.org/953987	REP
+4444375	R224-PK16654852	http://www.geonames.org/294640	PRM and REP
+4444374	R288-PK15392336	http://www.geonames.org/1814991	REP
+4444374	R400-PK16180661	http://www.geonames.org/3017382	REP
+4444374	R226-PK16699967	http://www.geonames.org/3175395	REP
+4444374	R212-PK16420766	http://www.geonames.org/390903	REP
+4444374	R296-PK18587630	http://www.geonames.org/798549	REP
+4444376	R288-PK15394525	http://www.geonames.org/1814991	PRM and REP
+24187576	R315-PK18763287	http://www.geonames.org/953987	PRM and REP
+4444371	R231-PK17512517	http://www.geonames.org/192950	REP
+4444371	R315-PK18772812	http://www.geonames.org/953987	REP
+1053886	R175-PK7330324	http://www.geonames.org/3469034	REP
+1053886	R160-PK15475313	http://www.geonames.org/3865483	REP
+7241720	R247-PK17650983	http://www.geonames.org/1733045	REP
+7241720	R220-PK16579137	http://www.marineregions.org/gazetteer.php?p=details&id=indonesia	REP
+4444411	R210-PK16370317	http://www.geonames.org/2921044	REP
+4444411	R400-PK16189918	http://www.geonames.org/3017382	REP
+4444405	R344-PK19367348	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4444403	R253-PK17899921	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+4444403	R344-PK19334560	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4444406	R207-PK15280993	http://www.geonames.org/6251999	REP
+4444406	R344-PK19366803	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4444404	R344-PK19341983	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4444407	R336-PK19108409	http://www.geonames.org/298795	REP
+4444407	R400-PK16183726	http://www.geonames.org/3017382	REP
+4444407	R212-PK16421459	http://www.geonames.org/390903	REP
+4444407	R291-PK18519788	http://www.geonames.org/798544	REP
+4444409	R302-PK18971125	http://www.geonames.org/102358	REP
+4444409	R161-PK15636745	http://www.geonames.org/2782113	REP
+4444409	R400-PK16202468	http://www.geonames.org/3017382	REP
+4443696	R265-PK18051989	http://www.geonames.org/2542007	REP
+4443696	R406-PK11166147	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4444357	R230-PK17492979	http://www.geonames.org/1522867	PRM and REP
+4444358	R230-PK17493035	http://www.geonames.org/1522867	REP
+4444358	R297-PK18608769	http://www.geonames.org/2017370	REP
+328604	R105-PK13834016	https://www.wikidata.org/entity/Q25322	REP
+4444095	R344-PK19366979	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4444094	R344-PK19346633	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+311552	R96-PK42548353	http://eol.org/schema/terms/Borneo_lowland_rain_forests	REP
+311552	R96-PK42548354	http://eol.org/schema/terms/Borneo_montane_rain_forests	REP
+311552	R96-PK42548355	http://eol.org/schema/terms/Borneo_peat_swamp_forests	REP
+311552	R96-PK42548357	http://eol.org/schema/terms/Kinabalu_montane_alpine_meadows	REP
+311552	R96-PK42548356	http://eol.org/schema/terms/Sundaland_heath_forests	REP
+4444389	R344-PK19329253	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4444390	R344-PK19348738	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4444399	R400-PK16201690	http://www.geonames.org/3017382	PRM and REP
+4444320	R344-PK19347742	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4443395	R207-PK15262784	http://www.geonames.org/6251999	REP
+4443395	R406-PK11158215	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4443395	R407-PK11396484	http://www.marineregions.org/gazetteer.php?p=details&id=1914	REP
+4443395	R253-PK17881140	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+4443395	R344-PK19328631	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4443397	R175-PK7295476	http://www.geonames.org/3469034	REP
+4443397	R349-PK10217119	http://www.geonames.org/3625428	REP
+4443397	R160-PK15492429	http://www.geonames.org/3865483	REP
+4443397	R173-PK15762561	http://www.geonames.org/3923057	REP
+312856	R96-PK42756661	http://eol.org/schema/terms/Deccan_thorn_scrub_forests	REP
+312856	R96-PK42756664	http://eol.org/schema/terms/Indus_River_Delta-Arabian_Sea_mangroves	REP
+312856	R96-PK42756662	http://eol.org/schema/terms/Northwestern_thorn_scrub_forests	REP
+1053884	R96-PK42756627	http://eol.org/schema/terms/Nansei_Islands_subtropical_evergreen_forests	PRM and REP
+4443391	R344-PK19356531	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4444339	R344-PK19350142	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4526873	R344-PK19330218	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4526874	R344-PK19333668	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4526860	R344-PK19360876	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4526862	R344-PK19348703	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4526863	R344-PK19336748	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4526902	R344-PK19332281	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4526894	R210-PK16356394	http://www.geonames.org/2921044	REP
+4526894	R400-PK16187373	http://www.geonames.org/3017382	REP
+4526892	R344-PK19363726	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+42401190	R231-PK17515718	http://www.geonames.org/192950	PRM and REP
+42400732	R400-PK16203101	http://www.geonames.org/3017382	PRM and REP
+4441357	R149-PK6116413	http://www.geonames.org/357994	PRM and REP
+328077	R96-PK42560941	http://eol.org/schema/terms/Northern_Indochina_subtropical_forests	REP
+328077	R96-PK42560942	http://eol.org/schema/terms/Red_River_freshwater_swamp_forests	REP
+328077	R96-PK42560943	http://eol.org/schema/terms/Yunnan_Plateau_subtropical_evergreen_forests	REP
+328078	R247-PK17654367	http://www.geonames.org/1733045	REP
+328086	R96-PK42506479	http://eol.org/schema/terms/Brahmaputra_Valley_semi-evergreen_forests	REP
+328086	R96-PK42507553	http://eol.org/schema/terms/Eastern_Himalayan_broadleaf_forests	REP
+328086	R96-PK42506486	http://eol.org/schema/terms/Lower_Gangetic_Plains_moist_deciduous_forests	REP
+328087	R96-PK42675485	http://eol.org/schema/terms/Sulawesi_lowland_rain_forests	REP
+328087	R96-PK42675486	http://eol.org/schema/terms/Sulawesi_montane_rain_forests	REP
+328096	R96-PK42625602	http://eol.org/schema/terms/Guinean_montane_forests	REP
+328096	R96-PK42625603	http://eol.org/schema/terms/Western_Guinean_lowland_forests	REP
+1053881	R507-PK22067241	http://www.geonames.org/2287781	REP
+1053881	R169-PK15702827	http://www.geonames.org/2395170	REP
+1053882	R96-PK42625453	http://eol.org/schema/terms/Cameroonian_Highlands_forests	REP
+1053882	R96-PK42625459	http://eol.org/schema/terms/Northern_Congolian_forest-savanna_mosaic	REP
+1053882	R96-PK42625458	http://eol.org/schema/terms/Northwestern_Congolian_lowland_forests	REP
+1053879	R507-PK22066649	http://www.geonames.org/2287781	PRM and REP
+1053880	R197-PK15838813	http://www.geonames.org/203312	PRM and REP
+328101	R96-PK42625636	http://eol.org/schema/terms/Northeastern_Congolian_lowland_forests	REP
+328101	R96-PK42625638	http://eol.org/schema/terms/Northern_Congolian_forest-savanna_mosaic	REP
+328101	R96-PK42625637	http://eol.org/schema/terms/Western_Congolian_swamp_forests	REP
+328101	R197-PK15840896	http://www.geonames.org/203312	REP
+328101	R339-PK19127336	http://www.geonames.org/226074	REP
+328091	R96-PK42725771	http://eol.org/schema/terms/Sri_Lanka_dry-zone_dry_evergreen_forests	REP
+328091	R96-PK42725769	http://eol.org/schema/terms/Sri_Lanka_lowland_rain_forests	REP
+328091	R96-PK42725770	http://eol.org/schema/terms/Sri_Lanka_montane_rain_forests	REP
+328091	R98-PK14297242	http://www.marineregions.org/gazetteer.php?p=details&id=1904	REP
+328090	R96-PK42725768	http://eol.org/schema/terms/South_Deccan_Plateau_dry_deciduous_forests	REP
+328090	R96-PK42725766	http://eol.org/schema/terms/South_Western_Ghats_moist_deciduous_forests	REP
+328090	R96-PK42725767	http://eol.org/schema/terms/South_Western_Ghats_montane_rain_forests	REP
+29443107	R231-PK17515225	http://www.geonames.org/192950	REP
+29443107	R183-PK16052102	http://www.geonames.org/337996	REP
+29443107	R315-PK18764055	http://www.geonames.org/953987	REP
+29443107	R406-PK11159779	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+29443107	R407-PK11382997	http://www.marineregions.org/gazetteer.php?p=details&id=1914	REP
+328105	R96-PK42831657	http://eol.org/schema/terms/South_Western_Ghats_moist_deciduous_forests	REP
+328105	R96-PK42831658	http://eol.org/schema/terms/South_Western_Ghats_montane_rain_forests	REP
+328105	R181-PK15191040	http://www.geonames.org/2233387	REP
+328105	R239-PK17536255	http://www.geonames.org/2275384	REP
+328105	R169-PK15705272	http://www.geonames.org/2395170	REP
+328083	R96-PK42595238	http://eol.org/schema/terms/Borneo_lowland_rain_forests	REP
+328083	R96-PK42595239	http://eol.org/schema/terms/Borneo_montane_rain_forests	REP
+328083	R96-PK42595240	http://eol.org/schema/terms/Kinabalu_montane_alpine_meadows	REP
+328083	R220-PK16578009	http://www.marineregions.org/gazetteer.php?p=details&id=indonesia	REP
+13778697	R400-PK16203415	http://www.geonames.org/3017382	PRM and REP
+4524114	R292-PK18543214	http://www.geonames.org/2264397	REP
+4524114	R210-PK16354327	http://www.geonames.org/2921044	REP
+4524114	R400-PK16184800	http://www.geonames.org/3017382	REP
+4524109	R344-PK19347734	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524113	R210-PK16366518	http://www.geonames.org/2921044	REP
+4524113	R400-PK16186489	http://www.geonames.org/3017382	REP
+4524111	R406-PK11166355	http://www.marineregions.org/gazetteer.php?p=details&id=1912	PRM and REP
+4524107	R344-PK19343427	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524108	R344-PK19326695	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524110	R344-PK19366583	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524157	R207-PK15282028	http://www.geonames.org/6251999	REP
+4524157	R344-PK19343216	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4524159	R344-PK19335729	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524158	R344-PK19333819	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524132	R344-PK19355998	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524131	R207-PK15279742	http://www.geonames.org/6251999	REP
+4524131	R344-PK19332029	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4441597	R161-PK15638416	http://www.geonames.org/2782113	PRM and REP
+4524174	R288-PK15387406	http://www.geonames.org/1814991	PRM and REP
+4524165	R207-PK15277213	http://www.geonames.org/6251999	REP
+4524165	R344-PK19347631	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4524147	R344-PK19343101	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+24187816	R231-PK17516811	http://www.geonames.org/192950	PRM and REP
+4524186	R344-PK19357361	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524178	R400-PK16200499	http://www.geonames.org/3017382	PRM and REP
+4524171	R344-PK19362196	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524168	R344-PK19332573	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524170	R344-PK19337426	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524172	R344-PK19362134	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524169	R344-PK19363635	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524098	R344-PK19341645	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524193	R344-PK19347884	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524199	R210-PK16370666	http://www.geonames.org/2921044	PRM and REP
+4524198	R400-PK16179340	http://www.geonames.org/3017382	PRM and REP
+4524183	R344-PK19318552	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524204	R344-PK19343908	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524203	R344-PK19356346	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524189	R344-PK19342040	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4524188	R344-PK19342228	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+13778752	R212-PK16422816	http://www.geonames.org/390903	REP
+13778752	R344-PK19357614	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4445282	R296-PK18587612	http://www.geonames.org/798549	PRM and REP
+42399849	R400-PK16205787	http://www.geonames.org/3017382	PRM and REP
+4441806	R344-PK19360036	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4441790	R344-PK19362952	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4441789	R344-PK19365601	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4441788	R344-PK19355969	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4441787	R344-PK19357317	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4441712	R344-PK19350608	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4441711	R344-PK19342103	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+42399795	R207-PK15268933	http://www.geonames.org/6251999	REP
+42399795	R344-PK19334431	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+37153234	R190-PK15955220	http://www.geonames.org/3658394	REP
+37153234	R202-PK16802457	http://www.geonames.org/3686110	REP
+40106717	R202-PK16808005	http://www.geonames.org/3686110	REP
+40106717	R285-PK18290074	http://www.geonames.org/3703430	REP
+328056	R96-PK42757538	http://eol.org/schema/terms/Yucatan_moist_forests	REP
+328056	R253-PK17833883	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+4441625	R344-PK19348859	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4441820	R344-PK19364854	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+42400153	R344-PK19365652	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+46559217	R105-PK13834375	https://www.wikidata.org/entity/Q2007	REP
+46559217	R105-PK13833789	https://www.wikidata.org/entity/Q2023	REP
+328000	R306-PK18631089	http://www.geonames.org/2403846	REP
+328000	R319-PK18810326	http://www.geonames.org/366755	REP
+4444697	R344-PK19333859	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+328609	R105-PK13834377	https://www.wikidata.org/entity/Q2007	REP
+328609	R105-PK13833766	https://www.wikidata.org/entity/Q2009	REP
+328609	R105-PK13833790	https://www.wikidata.org/entity/Q2023	REP
+4445049	R344-PK19340495	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445050	R344-PK19342739	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445053	R344-PK19331555	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445054	R344-PK19359243	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4444816	R344-PK19355533	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+328612	R96-PK42826563	http://eol.org/schema/terms/California_coastal_sage_and_chaparral	REP
+328612	R101-PK14449968	http://www.marineregions.org/gazetteer.php?p=details&id=1908	REP
+4445070	R344-PK19331306	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445071	R344-PK19342628	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445069	R344-PK19323996	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4444912	R101-PK14503803	http://www.marineregions.org/gazetteer.php?p=details&id=1908	REP
+4444912	R253-PK17875632	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+4444952	R265-PK18052645	http://www.geonames.org/2542007	REP
+4444952	R406-PK11165044	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4445150	R344-PK19335283	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445149	R344-PK19357327	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445145	R253-PK17863043	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+4445145	R344-PK19341894	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4445151	R344-PK19356708	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445148	R344-PK19332104	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445147	R344-PK19360562	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445195	R344-PK19364341	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445193	R344-PK19329601	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445192	R344-PK19329185	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445234	R344-PK19327513	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445123	R344-PK19327440	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445040	R344-PK19359818	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445128	R344-PK19334386	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445161	R344-PK19344038	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445198	R344-PK19366891	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445180	R285-PK18289385	http://www.geonames.org/3703430	REP
+4445180	R344-PK19325441	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+926081	R405-PK11261102	http://www.marineregions.org/gazetteer.php?p=details&id=1910	PRM and REP
+1053891	R96-PK42672917	http://eol.org/schema/terms/Sechura_desert	REP
+1053891	R96-PK42672916	http://eol.org/schema/terms/Tumbes-Piura_dry_forests	REP
+1053891	R190-PK15973920	http://www.geonames.org/3658394	REP
+1053891	R289-PK18450300	http://www.geonames.org/3932488	REP
+1053891	R405-PK11249533	http://www.marineregions.org/gazetteer.php?p=details&id=1910	REP
+10642762	R263-PK17907548	http://www.geonames.org/2029969	REP
+10642762	R168-PK15681135	http://www.geonames.org/2802361	REP
+10642762	R210-PK16358455	http://www.geonames.org/2921044	REP
+10642762	R209-PK16268755	http://www.geonames.org/614540	REP
+4445133	R344-PK19349587	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+42400300	R253-PK17888729	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+42400300	R344-PK19336338	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4445132	R344-PK19328467	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+13748558	R175-PK7343266	http://www.geonames.org/3469034	PRM and REP
+4445153	R344-PK19333999	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445165	R344-PK19336824	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445093	R344-PK19365968	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445094	R344-PK19342423	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445159	R344-PK19321261	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445024	R344-PK19355361	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445023	R344-PK19319145	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445022	R344-PK19336105	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445137	R344-PK19336203	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445136	R406-PK11165986	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4445136	R344-PK19325386	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4445011	R344-PK19314417	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445010	R344-PK19313565	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445013	R344-PK19330705	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445112	R344-PK19362747	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445118	R344-PK19362662	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445115	R344-PK19345992	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445113	R344-PK19363474	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445117	R344-PK19328809	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445087	R207-PK15266953	http://www.geonames.org/6251999	REP
+4445087	R344-PK19309461	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4445088	R344-PK19346769	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445065	R344-PK19344815	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445063	R344-PK19344039	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445061	R344-PK19315000	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445062	R344-PK19327052	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445060	R344-PK19341844	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445064	R344-PK19361451	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445078	R344-PK19342899	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4528824	R344-PK19336889	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445139	R344-PK19319573	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+42400373	R175-PK7322308	http://www.geonames.org/3469034	REP
+42400373	R173-PK15763584	http://www.geonames.org/3923057	REP
+4445104	R344-PK19321521	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+328004	R160-PK15481200	http://www.geonames.org/3865483	PRM and REP
+42400364	R190-PK15971494	http://www.geonames.org/3658394	REP
+42400364	R405-PK11275081	http://www.marineregions.org/gazetteer.php?p=details&id=1910	REP
+42400365	R190-PK15974910	http://www.geonames.org/3658394	REP
+42400365	R289-PK18481670	http://www.geonames.org/3932488	REP
+40106601	R160-PK15490894	http://www.geonames.org/3865483	REP
+40106601	R407-PK11405861	http://www.marineregions.org/gazetteer.php?p=details&id=1914	REP
+4445228	R344-PK19331756	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445227	R344-PK19317983	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445130	R344-PK19338767	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445045	R344-PK19330912	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445046	R344-PK19323818	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445044	R344-PK19344532	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445047	R344-PK19330756	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445076	R400-PK16198491	http://www.geonames.org/3017382	REP
+4445076	R226-PK16708287	http://www.geonames.org/3175395	REP
+4445231	R344-PK19363168	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445230	R344-PK19358590	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445232	R344-PK19343453	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445034	R315-PK18772884	http://www.geonames.org/953987	REP
+4445034	R101-PK14514560	http://www.marineregions.org/gazetteer.php?p=details&id=1908	REP
+4445034	R253-PK17873518	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+4445034	R344-PK19332586	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4445029	R101-PK14526916	http://www.marineregions.org/gazetteer.php?p=details&id=1908	REP
+4445029	R253-PK17892349	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+4445029	R344-PK19354520	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4445038	R406-PK11164597	http://www.marineregions.org/gazetteer.php?p=details&id=1912	PRM and REP
+4445028	R186-PK15998152	http://www.geonames.org/3585968	REP
+4445028	R253-PK17855886	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+4445028	R344-PK19321757	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4445030	R344-PK19332214	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4445031	R406-PK11157953	http://www.marineregions.org/gazetteer.php?p=details&id=1912	PRM and REP
+4444489	R253-PK17882195	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	PRM and REP
+28780644	R265-PK18051232	http://www.geonames.org/2542007	PRM and REP
+328607	R105-PK13834373	https://www.wikidata.org/entity/Q2007	REP
+328607	R105-PK13833762	https://www.wikidata.org/entity/Q2009	REP
+328607	R105-PK13833787	https://www.wikidata.org/entity/Q2023	REP
+4444501	R212-PK16421454	http://www.geonames.org/390903	PRM and REP
+4444490	R253-PK17893301	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+4444490	R344-PK19339315	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+1267720	R151-PK22418462	http://www.marineregions.org/gazetteer.php?p=details&id=australia	PRM and REP
+327993	R96-PK42542323	http://eol.org/schema/terms/Ethiopian_montane_grasslands_and_woodlands	REP
+327993	R96-PK42542324	http://eol.org/schema/terms/Ethiopian_montane_moorlands	REP
+328608	R554-PK43630932	https://www.wikidata.org/entity/Q2007	REP
+328608	R105-PK13833763	https://www.wikidata.org/entity/Q2009	REP
+328608	R105-PK13833788	https://www.wikidata.org/entity/Q2023	REP
+4444488	R344-PK19327522	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4444492	R253-PK17889809	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	PRM and REP
+4444493	R349-PK10223615	http://www.geonames.org/3625428	REP
+4444493	R173-PK15763521	http://www.geonames.org/3923057	REP
+4444493	R207-PK15268796	http://www.geonames.org/6251999	REP
+4445121	R406-PK11157712	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4445121	R344-PK19320977	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+44148162	R344-PK19362803	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+328581	R105-PK13834378	https://www.wikidata.org/entity/Q2007	REP
+328581	R105-PK13833767	https://www.wikidata.org/entity/Q2009	REP
+328581	R105-PK13833791	https://www.wikidata.org/entity/Q2023	REP
+4441398	R209-PK16267706	http://www.geonames.org/614540	REP
+4441398	R401-PK16496174	http://www.geonames.org/719819	REP
+4441493	R288-PK15393012	http://www.geonames.org/1814991	PRM and REP
+4441492	R288-PK15390836	http://www.geonames.org/1814991	PRM and REP
+4441494	R288-PK15393249	http://www.geonames.org/1814991	PRM and REP
+4441553	R154-PK15421096	http://www.geonames.org/2589581	REP
+4441553	R336-PK19109881	http://www.geonames.org/298795	REP
+4441551	R344-PK19359994	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4441554	R288-PK15392828	http://www.geonames.org/1814991	PRM and REP
+4441571	R344-PK19358618	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4441586	R344-PK19355308	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4441589	R210-PK16368255	http://www.geonames.org/2921044	PRM and REP
+4441587	R336-PK19108584	http://www.geonames.org/298795	REP
+4441587	R400-PK16187982	http://www.geonames.org/3017382	REP
+4441587	R207-PK15282462	http://www.geonames.org/6251999	REP
+4441587	R291-PK18520767	http://www.geonames.org/798544	REP
+4441585	R324-PK18954181	http://www.geonames.org/2658434	REP
+4441585	R161-PK15638629	http://www.geonames.org/2782113	REP
+4441585	R400-PK16195824	http://www.geonames.org/3017382	REP
+4441585	R344-PK19365571	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4441505	R207-PK15283731	http://www.geonames.org/6251999	REP
+4441505	R253-PK17874596	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+4441505	R344-PK19335094	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4441504	R406-PK11138539	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4441504	R253-PK17881072	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+4441504	R344-PK19337320	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+328024	R235-PK8462598	http://www.geonames.org/1655842	REP
+328024	R247-PK17651032	http://www.geonames.org/1733045	REP
+328024	R101-PK14516435	http://www.marineregions.org/gazetteer.php?p=details&id=1908	REP
+328024	R220-PK16553252	http://www.marineregions.org/gazetteer.php?p=details&id=indonesia	REP
+46559127	R105-PK13833745	https://www.wikidata.org/entity/Q2009	REP
+311559	R160-PK15486105	http://www.geonames.org/3865483	REP
+311559	R289-PK18459658	http://www.geonames.org/3932488	REP
+311559	R405-PK11239853	http://www.marineregions.org/gazetteer.php?p=details&id=1910	REP
+311559	R407-PK11388786	http://www.marineregions.org/gazetteer.php?p=details&id=1914	REP
+24185070	R265-PK18052097	http://www.geonames.org/2542007	REP
+24185070	R406-PK11166690	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4442796	R311-PK18655232	http://www.geonames.org/3057568	PRM and REP
+4442797	R152-PK6856734	http://www.geonames.org/2635167	REP
+4442797	R210-PK16366402	http://www.geonames.org/2921044	REP
+42399542	R149-PK6117740	http://www.geonames.org/357994	PRM and REP
+4443053	R344-PK19363066	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4443054	R344-PK19357057	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4443122	R344-PK19357530	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442315	R344-PK19352434	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+328017	R96-PK42678476	http://eol.org/schema/terms/South_Western_Ghats_moist_deciduous_forests	REP
+328017	R96-PK42678477	http://eol.org/schema/terms/South_Western_Ghats_montane_rain_forests	REP
+328591	R289-PK18480828	http://www.geonames.org/3932488	REP
+4442950	R344-PK19366773	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442918	R226-PK16709012	http://www.geonames.org/3175395	REP
+4442918	R212-PK16421259	http://www.geonames.org/390903	REP
+4442918	R291-PK18514900	http://www.geonames.org/798544	REP
+4442284	R253-PK17875803	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	PRM and REP
+4443131	R288-PK15390152	http://www.geonames.org/1814991	REP
+4443131	R311-PK18654570	http://www.geonames.org/3057568	REP
+4443131	R342-PK19135009	http://www.geonames.org/690791	REP
+4443078	R344-PK19343771	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442932	R344-PK19361733	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442983	R344-PK19344041	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4443046	R253-PK17877542	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	PRM and REP
+4442927	R344-PK19343529	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442926	R344-PK19355221	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442928	R344-PK19356913	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442925	R344-PK19365667	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442924	R344-PK19361656	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+926021	R234-PK8454427	http://www.geonames.org/1527747	REP
+926021	R288-PK15382294	http://www.geonames.org/1814991	REP
+926021	R316-PK18789185	http://www.geonames.org/1835841	REP
+926021	R297-PK18612771	http://www.geonames.org/2017370	REP
+926020	R228-PK17719464	http://www.geonames.org/1861060	PRM and REP
+328040	R179-PK7372106	http://www.geonames.org/2361809	REP
+328040	R265-PK18052867	http://www.geonames.org/2542007	REP
+328040	R154-PK15419894	http://www.geonames.org/2589581	REP
+328040	R149-PK6115785	http://www.geonames.org/357994	REP
+4442423	R344-PK19359475	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+328587	R105-PK13834381	https://www.wikidata.org/entity/Q2007	REP
+328587	R105-PK13833741	https://www.wikidata.org/entity/Q2009	REP
+328587	R105-PK13833794	https://www.wikidata.org/entity/Q2023	REP
+926026	R263-PK17906164	http://www.geonames.org/2029969	REP
+926026	R210-PK16366415	http://www.geonames.org/2921044	REP
+311520	R96-PK42697687	http://eol.org/schema/terms/Sumatran_lowland_rain_forests	REP
+311520	R96-PK42697688	http://eol.org/schema/terms/Sumatran_montane_rain_forests	REP
+311520	R96-PK42697689	http://eol.org/schema/terms/Western_Java_montane_rain_forests	REP
+311520	R96-PK42697690	http://eol.org/schema/terms/Western_Java_rain_forests	REP
+926024	R96-PK42698070	http://eol.org/schema/terms/Mediterranean_dry_woodlands_and_steppe	REP
+926024	R96-PK42698069	http://eol.org/schema/terms/Nile_Delta_flooded_savanna	REP
+926024	R96-PK42698071	http://eol.org/schema/terms/North_Saharan_steppe_and_woodlands	REP
+4442422	R344-PK19348781	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+328586	R105-PK13834380	https://www.wikidata.org/entity/Q2007	REP
+328586	R105-PK13833769	https://www.wikidata.org/entity/Q2009	REP
+328586	R105-PK13833793	https://www.wikidata.org/entity/Q2023	REP
+328590	R207-PK15258003	http://www.geonames.org/6251999	REP
+328590	R253-PK17862814	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+328590	R344-PK19310504	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4443086	R344-PK19352510	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4443087	R207-PK15264120	http://www.geonames.org/6251999	REP
+4443087	R344-PK19347623	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4443050	R344-PK19324778	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+42399513	R288-PK15378898	http://www.geonames.org/1814991	PRM and REP
+4442985	R344-PK19327752	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442987	R344-PK19363613	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+328032	R96-PK42682604	http://eol.org/schema/terms/Changjiang_Plain_evergreen_forests	REP
+328032	R96-PK42682602	http://eol.org/schema/terms/Guizhou_Plateau_broadleaf_and_mixed_forests	REP
+328032	R96-PK42682605	http://eol.org/schema/terms/Nujiang_Langcang_Gorge_alpine_conifer_and_mixed_forests	REP
+328032	R96-PK42682603	http://eol.org/schema/terms/Yunnan_Plateau_subtropical_evergreen_forests	REP
+328033	R96-PK42682606	http://eol.org/schema/terms/Eastern_Java-Bali_montane_rain_forests	REP
+328033	R96-PK42682607	http://eol.org/schema/terms/Eastern_Java-Bali_rain_forests	REP
+328033	R96-PK42682608	http://eol.org/schema/terms/Western_Java_montane_rain_forests	REP
+328033	R96-PK42682609	http://eol.org/schema/terms/Western_Java_rain_forests	REP
+328033	R220-PK16554978	http://www.marineregions.org/gazetteer.php?p=details&id=indonesia	REP
+328031	R96-PK42682592	http://eol.org/schema/terms/Kinabalu_montane_alpine_meadows	PRM and REP
+328034	R96-PK42682630	http://eol.org/schema/terms/Eastern_Himalayan_broadleaf_forests	REP
+328034	R96-PK42682612	http://eol.org/schema/terms/Himalayan_subtropical_broadleaf_forests	REP
+328034	R96-PK42682616	http://eol.org/schema/terms/Lower_Gangetic_Plains_moist_deciduous_forests	REP
+328034	R96-PK42682631	http://eol.org/schema/terms/Terai-Duar_savanna_and_grasslands	REP
+4442914	R344-PK19363716	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442964	R344-PK19349007	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+42399692	R288-PK15395712	http://www.geonames.org/1814991	PRM and REP
+4442967	R344-PK19358475	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442965	R344-PK19361620	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442966	R344-PK19330196	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4443109	R344-PK19362164	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+42399509	R315-PK18767465	http://www.geonames.org/953987	REP
+42399509	R407-PK11388850	http://www.marineregions.org/gazetteer.php?p=details&id=1914	REP
+42399507	R288-PK15392366	http://www.geonames.org/1814991	PRM and REP
+4443058	R161-PK15638782	http://www.geonames.org/2782113	REP
+4443058	R210-PK16371546	http://www.geonames.org/2921044	REP
+4443058	R400-PK16188391	http://www.geonames.org/3017382	REP
+42399710	R315-PK18779915	http://www.geonames.org/953987	REP
+42399710	R407-PK11405899	http://www.marineregions.org/gazetteer.php?p=details&id=1914	REP
+4442995	R344-PK19343725	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+42399578	R400-PK16191230	http://www.geonames.org/3017382	REP
+42399578	R304-PK18982835	http://www.geonames.org/6290252	REP
+42399577	R400-PK16187523	http://www.geonames.org/3017382	PRM and REP
+4442997	R344-PK19349802	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442996	R344-PK19343166	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442998	R344-PK19338502	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442938	R344-PK19336244	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442939	R344-PK19359615	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442936	R344-PK19342129	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4443066	R344-PK19357277	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4443063	R344-PK19341862	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4443062	R344-PK19356780	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442838	R152-PK6846443	http://www.geonames.org/2635167	PRM and REP
+328585	R105-PK13834382	https://www.wikidata.org/entity/Q2007	REP
+328585	R105-PK13833743	https://www.wikidata.org/entity/Q2009	REP
+328585	R105-PK13833795	https://www.wikidata.org/entity/Q2023	REP
+4443095	R344-PK19337395	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4443096	R344-PK19364055	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442934	R344-PK19341910	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442992	R265-PK18052305	http://www.geonames.org/2542007	PRM and REP
+4443003	R207-PK15283250	http://www.geonames.org/6251999	REP
+4443003	R344-PK19342556	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4529709	R263-PK17906948	http://www.geonames.org/2029969	PRM and REP
+4529710	R263-PK17906911	http://www.geonames.org/2029969	PRM and REP
+4443100	R161-PK15637123	http://www.geonames.org/2782113	REP
+4443100	R210-PK16369252	http://www.geonames.org/2921044	REP
+4443100	R400-PK16184595	http://www.geonames.org/3017382	REP
+925984	R274-PK18014257	http://www.geonames.org/3617476	REP
+925984	R402-PK10627654	http://www.geonames.org/3624060	REP
+925984	R253-PK17833535	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+4443264	R344-PK19347612	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+310363	R207-PK15252306	http://www.geonames.org/6251999	REP
+310363	R101-PK14456636	http://www.marineregions.org/gazetteer.php?p=details&id=1908	REP
+310363	R253-PK17834614	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+310363	R344-PK19325646	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+24186589	R344-PK19349066	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+311558	R96-PK42698619	http://eol.org/schema/terms/Palawan_rain_forests	PRM and REP
+46559186	R273-PK17993379	http://www.geonames.org/2186224	REP
+46559186	R100-PK14345627	http://www.marineregions.org/gazetteer.php?p=details&id=1907	REP
+46559186	R405-PK11277873	http://www.marineregions.org/gazetteer.php?p=details&id=1910	REP
+46559184	R101-PK14446597	http://www.marineregions.org/gazetteer.php?p=details&id=1908	REP
+46559184	R468-PK14872755	http://www.marineregions.org/gazetteer.php?p=details&id=4312	REP
+46559184	R253-PK17837764	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+46559175	R162-PK15642328	http://www.geonames.org/587116	PRM and REP
+1052722	R297-PK18605226	http://www.geonames.org/2017370	PRM and REP
+46559188	R439-PK14640388	http://www.marineregions.org/gazetteer.php?p=details&id=4256	REP
+46559188	R440-PK14641883	http://www.marineregions.org/gazetteer.php?p=details&id=4257	REP
+46559188	R466-PK14860807	http://www.marineregions.org/gazetteer.php?p=details&id=4309	REP
+46559188	R467-PK14864830	http://www.marineregions.org/gazetteer.php?p=details&id=4310	REP
+46559168	R272-PK19080433	http://www.geonames.org/2750405	REP
+46559168	R504-PK25130937	http://www.geonames.org/3144096	REP
+46559177	R175-PK7342526	http://www.geonames.org/3469034	REP
+46559177	R374-PK10375670	http://www.geonames.org/3474415	REP
+46559177	R160-PK15492506	http://www.geonames.org/3865483	REP
+46559160	R406-PK11135376	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+46559160	R457-PK14790938	http://www.marineregions.org/gazetteer.php?p=details&id=4288	REP
+46559160	R344-PK19340682	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+46559159	R101-PK14453701	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+46559166	R316-PK18791114	http://www.geonames.org/1835841	REP
+46559166	R223-PK16633455	http://www.geonames.org/2963597	REP
+4441889	R152-PK6843619	http://www.geonames.org/2635167	PRM and REP
+4524223	R344-PK19359821	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4442121	R101-PK14527452	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4442120	R101-PK14530183	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4442119	R101-PK14531507	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4442118	R101-PK14500394	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4524891	R228-PK17726587	http://www.geonames.org/1861060	PRM and REP
+4442186	R228-PK17729976	http://www.geonames.org/1861060	PRM and REP
+4442185	R228-PK17730047	http://www.geonames.org/1861060	PRM and REP
+4442016	R272-PK19079949	http://www.geonames.org/2750405	REP
+4442016	R161-PK15637182	http://www.geonames.org/2782113	REP
+4442157	R101-PK14494695	http://www.marineregions.org/gazetteer.php?p=details&id=1908	REP
+4442157	R253-PK17864815	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+328635	R101-PK14450044	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4441953	R168-PK15679358	http://www.geonames.org/2802361	PRM and REP
+4441951	R168-PK15681685	http://www.geonames.org/2802361	REP
+4441951	R406-PK11133682	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4441980	R162-PK15642893	http://www.geonames.org/587116	PRM and REP
+4441991	R161-PK15637127	http://www.geonames.org/2782113	REP
+4441991	R168-PK15676776	http://www.geonames.org/2802361	REP
+4441990	R401-PK16494194	http://www.geonames.org/719819	PRM and REP
+4441989	R401-PK16493749	http://www.geonames.org/719819	REP
+4441989	R296-PK18588043	http://www.geonames.org/798549	REP
+4442006	R297-PK18613395	http://www.geonames.org/2017370	REP
+4442006	R162-PK15642219	http://www.geonames.org/587116	REP
+4442006	R342-PK19134146	http://www.geonames.org/690791	REP
+4442006	R296-PK18588534	http://www.geonames.org/798549	REP
+4441964	R406-PK11108798	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4441964	R344-PK19322785	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4442008	R160-PK15494662	http://www.geonames.org/3865483	PRM and REP
+24185920	R168-PK15677416	http://www.geonames.org/2802361	REP
+24185920	R226-PK16711096	http://www.geonames.org/3175395	REP
+24185920	R342-PK19133821	http://www.geonames.org/690791	REP
+24185920	R296-PK18588744	http://www.geonames.org/798549	REP
+4441972	R168-PK15680107	http://www.geonames.org/2802361	PRM and REP
+4441973	R272-PK19079994	http://www.geonames.org/2750405	REP
+4441973	R168-PK15679834	http://www.geonames.org/2802361	REP
+4441973	R406-PK11162222	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4441973	R344-PK19363234	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4441974	R272-PK19078899	http://www.geonames.org/2750405	REP
+4441974	R168-PK15675890	http://www.geonames.org/2802361	REP
+4441974	R406-PK11154020	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4441998	R289-PK18467053	http://www.geonames.org/3932488	PRM and REP
+4441966	R154-PK15421677	http://www.geonames.org/2589581	PRM and REP
+4441982	R400-PK16192828	http://www.geonames.org/3017382	PRM and REP
+4442010	R168-PK15673915	http://www.geonames.org/2802361	PRM and REP
+4441958	R168-PK15674890	http://www.geonames.org/2802361	REP
+4441958	R406-PK11158059	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4442001	R168-PK15677403	http://www.geonames.org/2802361	REP
+4442001	R406-PK11167917	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4441984	R168-PK15680705	http://www.geonames.org/2802361	REP
+4441984	R406-PK11164055	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4441558	R101-PK14534507	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4441557	R101-PK14504596	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4442162	R101-PK14473892	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4524899	R101-PK14511731	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4524898	R101-PK14489125	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4441960	R315-PK18756183	http://www.geonames.org/953987	REP
+4441960	R406-PK11163797	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4441960	R407-PK11371501	http://www.marineregions.org/gazetteer.php?p=details&id=1914	REP
+42400020	R101-PK14530315	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+42400019	R101-PK14493288	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4441560	R344-PK19335129	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4441563	R344-PK19363420	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4441562	R344-PK19332637	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4441565	R344-PK19367426	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4441561	R207-PK15283269	http://www.geonames.org/6251999	REP
+4441561	R344-PK19342116	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4441949	R289-PK18465152	http://www.geonames.org/3932488	PRM and REP
+4442003	R226-PK16708517	http://www.geonames.org/3175395	REP
+4442003	R406-PK11139319	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4442003	R344-PK19356061	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4441962	R160-PK15493974	http://www.geonames.org/3865483	PRM and REP
+4441514	R400-PK16201480	http://www.geonames.org/3017382	PRM and REP
+46559202	R190-PK15945858	http://www.geonames.org/3658394	REP
+46559202	R101-PK14463785	http://www.marineregions.org/gazetteer.php?p=details&id=1908	REP
+46559202	R405-PK11238476	http://www.marineregions.org/gazetteer.php?p=details&id=1910	REP
+46559200	R101-PK14512443	http://www.marineregions.org/gazetteer.php?p=details&id=1908	REP
+46559200	R405-PK11255060	http://www.marineregions.org/gazetteer.php?p=details&id=1910	REP
+328626	R101-PK14455628	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+46559214	R190-PK15942318	http://www.geonames.org/3658394	REP
+46559214	R101-PK14449513	http://www.marineregions.org/gazetteer.php?p=details&id=1908	REP
+46559214	R405-PK11231241	http://www.marineregions.org/gazetteer.php?p=details&id=1910	REP
+4442071	R273-PK17986738	http://www.geonames.org/2186224	PRM and REP
+46559191	R273-PK17968906	http://www.geonames.org/2186224	REP
+46559191	R405-PK11231522	http://www.marineregions.org/gazetteer.php?p=details&id=1910	REP
+46559191	R492-PK15078022	http://www.marineregions.org/gazetteer.php?p=details&id=4365	REP
+46559191	R151-PK22403208	http://www.marineregions.org/gazetteer.php?p=details&id=australia	REP
+46559206	R190-PK15967018	http://www.geonames.org/3658394	REP
+4442064	R101-PK14502512	http://www.marineregions.org/gazetteer.php?p=details&id=1908	REP
+4442064	R253-PK17892281	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+46559208	R190-PK15961991	http://www.geonames.org/3658394	REP
+4442094	R228-PK17731015	http://www.geonames.org/1861060	PRM and REP
+4442128	R101-PK14502982	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4442105	R101-PK14491832	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4442089	R289-PK18480768	http://www.geonames.org/3932488	PRM and REP
+4530246	R101-PK14521152	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4442112	R101-PK14473525	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4442111	R101-PK14497464	http://www.marineregions.org/gazetteer.php?p=details&id=1908	REP
+4442111	R253-PK17875610	http://www.marineregions.org/gazetteer.php?p=details&id=mexico	REP
+4442113	R101-PK14523668	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4442143	R101-PK14521593	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4442200	R101-PK14501897	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+4443021	R400-PK16193299	http://www.geonames.org/3017382	REP
+4443021	R344-PK19363536	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4443022	R344-PK19331350	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4443020	R344-PK19334252	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+4443023	R344-PK19359581	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	PRM and REP
+42400962	R400-PK16199945	http://www.geonames.org/3017382	PRM and REP
+4442171	R152-PK6849851	http://www.geonames.org/2635167	REP
+4442171	R406-PK11109825	http://www.marineregions.org/gazetteer.php?p=details&id=1912	REP
+4442171	R344-PK19323665	http://www.marineregions.org/gazetteer.php?p=details&id=united_states	REP
+4442179	R101-PK14528624	http://www.marineregions.org/gazetteer.php?p=details&id=1908	PRM and REP
+10592893	R512-PK24218146	http://purl.obolibrary.org/obo/ENVO_00000047	REP
+10592893	R512-PK24478854	http://purl.obolibrary.org/obo/ENVO_00000233	REP
+10592893	R512-PK23621334	http://purl.obolibrary.org/obo/ENVO_01000228	REP
+347436	R512-PK23502446	http://purl.obolibrary.org/obo/ENVO_00000035	REP
+347436	R512-PK23522353	http://purl.obolibrary.org/obo/ENVO_00000303	REP
+347436	R512-PK24349079	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+127708	R512-PK24364944	http://purl.obolibrary.org/obo/ENVO_00000446	PRM and REP
+999164	R512-PK24388104	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+128480	R512-PK24407693	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+289555	R512-PK23737426	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+289555	R512-PK24464208	http://purl.obolibrary.org/obo/ENVO_00002053	REP
+347438	R512-PK24501573	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+347437	R512-PK24573048	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+347437	R512-PK24003600	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+127498	R96-PK42929014	http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests	REP
+127498	R512-PK24536840	http://purl.obolibrary.org/obo/ENVO_00000111	REP
+127498	R512-PK24464828	http://purl.obolibrary.org/obo/ENVO_00000305	REP
+127498	R512-PK24470307	http://purl.obolibrary.org/obo/ENVO_01000205	REP
+127498	R512-PK23978166	http://purl.obolibrary.org/obo/ENVO_01000228	REP
+10580813	R512-PK24295696	http://purl.obolibrary.org/obo/ENVO_00000284	PRM and REP
+328048	R512-PK24236551	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+925982	R512-PK23647607	http://purl.obolibrary.org/obo/ENVO_00000446	PRM and REP
+311569	R512-PK23804510	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311569	R512-PK24311310	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+311570	R512-PK24540938	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311570	R512-PK23875913	http://purl.obolibrary.org/obo/ENVO_00002031	REP
+925983	R512-PK24181034	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+925983	R512-PK24060951	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+925983	R512-PK24343494	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+289517	R96-PK42886541	http://eol.org/schema/terms/tropical_and_subtropical_grasslands_savannas_and_shrublands	REP
+289517	R96-PK42886540	http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests	REP
+289517	R512-PK23541920	http://purl.obolibrary.org/obo/ENVO_00000856	REP
+289517	R512-PK24332353	http://purl.obolibrary.org/obo/ENVO_01000228	REP
+289513	R512-PK24012451	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+289513	R512-PK24554576	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+924438	R512-PK24021811	http://purl.obolibrary.org/obo/ENVO_00000016	REP
+924438	R512-PK24296247	http://purl.obolibrary.org/obo/ENVO_00000078	REP
+924438	R512-PK23967369	http://purl.obolibrary.org/obo/ENVO_00000111	REP
+924438	R512-PK24550717	http://purl.obolibrary.org/obo/ENVO_01000228	REP
+1038690	R96-PK42886542	http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests	REP
+1038690	R512-PK23999930	http://purl.obolibrary.org/obo/ENVO_00000887	REP
+1038690	R512-PK23984592	http://purl.obolibrary.org/obo/ENVO_00000890	REP
+1038690	R512-PK24537067	http://purl.obolibrary.org/obo/ENVO_01000228	REP
+311580	R512-PK24504043	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+289518	R96-PK42876177	http://eol.org/schema/terms/tropical_and_subtropical_grasslands_savannas_and_shrublands	REP
+289518	R512-PK24088399	http://purl.obolibrary.org/obo/ENVO_00000303	REP
+289515	R512-PK23858612	http://purl.obolibrary.org/obo/ENVO_01000174	PRM and REP
+289516	R512-PK24290622	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+289516	R512-PK23754414	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+922678	R512-PK23954157	http://purl.obolibrary.org/obo/ENVO_00000446	PRM and REP
+1038681	R512-PK23858172	http://purl.obolibrary.org/obo/ENVO_00002031	REP
+1038681	R512-PK24394889	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+311956	R553-PK43231035	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+326801	R512-PK24111462	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+326801	R512-PK23832869	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+326801	R512-PK23828286	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+326801	R512-PK24251957	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+1038687	R512-PK23980856	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1038687	R512-PK24141617	http://purl.obolibrary.org/obo/ENVO_00002031	REP
+924439	R512-PK24351621	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1038686	R512-PK23577714	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+326800	R512-PK23670757	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+326802	R96-PK42898784	http://eol.org/schema/terms/tropical_and_subtropical_grasslands_savannas_and_shrublands	REP
+326802	R512-PK23591064	http://purl.obolibrary.org/obo/ENVO_00000291	REP
+326803	R512-PK24355017	http://purl.obolibrary.org/obo/ENVO_00000098	REP
+326803	R512-PK24195832	http://purl.obolibrary.org/obo/ENVO_00000117	REP
+326803	R512-PK23638045	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+326843	R553-PK43228238	http://purl.obolibrary.org/obo/ENVO_00000446	PRM and REP
+311540	R512-PK23759662	http://purl.obolibrary.org/obo/ENVO_00000303	REP
+311541	R512-PK23690521	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+311541	R512-PK24268610	http://purl.obolibrary.org/obo/ENVO_01000177	REP
+127969	R512-PK24575220	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+127969	R512-PK23687378	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+127969	R512-PK24533975	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+999179	R96-PK42898320	http://eol.org/schema/terms/deserts_and_xeric_shrublands	REP
+999179	R96-PK42898321	http://eol.org/schema/terms/tropical_and_subtropical_grasslands_savannas_and_shrublands	REP
+999179	R512-PK24469056	http://purl.obolibrary.org/obo/ENVO_00000097	REP
+999177	R512-PK24537057	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311568	R512-PK24114360	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311577	R96-PK42895448	http://eol.org/schema/terms/deserts_and_xeric_shrublands	REP
+311577	R96-PK42895449	http://eol.org/schema/terms/mediterranean_forests_woodlands_and_scrubs	REP
+311577	R96-PK42895450	http://eol.org/schema/terms/montane_grasslands_and_shrublands	REP
+311577	R512-PK23499328	http://purl.obolibrary.org/obo/ENVO_00000016	REP
+311577	R512-PK24256459	http://purl.obolibrary.org/obo/ENVO_00002031	REP
+128584	R512-PK24325864	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+128584	R512-PK24083821	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+128584	R512-PK24376358	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+1038688	R512-PK24036759	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1038688	R512-PK23682798	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+1038688	R512-PK23739743	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328671	R512-PK24002050	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328671	R512-PK24093100	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328671	R512-PK24239285	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328671	R512-PK23939366	http://purl.obolibrary.org/obo/ENVO_00002042	REP
+328671	R512-PK24498376	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+328665	R512-PK24389431	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328665	R512-PK23758114	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+1037781	R512-PK24266115	http://purl.obolibrary.org/obo/ENVO_00000222	REP
+1037781	R512-PK23694336	http://purl.obolibrary.org/obo/ENVO_00000292	REP
+328664	R512-PK24290769	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328664	R512-PK23947309	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328670	R512-PK24434280	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328605	R512-PK23874933	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328605	R512-PK24473922	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328605	R512-PK24491013	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328666	R512-PK23533852	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1041048	R512-PK24533956	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1041048	R512-PK23846170	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+1041048	R512-PK24040445	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+311661	R512-PK24437487	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1053887	R512-PK23661544	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1053887	R512-PK24172569	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+1053886	R512-PK24482238	http://purl.obolibrary.org/obo/ENVO_00000100	REP
+1053886	R512-PK24188840	http://purl.obolibrary.org/obo/ENVO_00000300	REP
+1053886	R512-PK23822877	http://purl.obolibrary.org/obo/ENVO_01000177	REP
+925988	R512-PK23689415	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+925988	R512-PK24252720	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+925988	R512-PK24491138	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+925988	R512-PK23905158	http://purl.obolibrary.org/obo/ENVO_00000394	REP
+1053889	R512-PK23968622	http://purl.obolibrary.org/obo/ENVO_01000178	REP
+1053889	R512-PK23984595	http://purl.obolibrary.org/obo/ENVO_01000204	REP
+313991	R512-PK24293992	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+313991	R512-PK23764590	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+313991	R512-PK24500172	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+311954	R512-PK23743321	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328675	R512-PK24128202	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328675	R512-PK24327280	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+7241720	R512-PK24114448	http://purl.obolibrary.org/obo/ENVO_00000446	PRM and REP
+328680	R512-PK23870221	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+328680	R512-PK24507551	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328680	R512-PK24336299	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328680	R512-PK23870221	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+311555	R512-PK24136382	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+311555	R512-PK23871695	http://purl.obolibrary.org/obo/ENVO_01000204	REP
+347432	R512-PK24212031	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+347432	R512-PK23990943	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+347432	R512-PK24155414	http://purl.obolibrary.org/obo/ENVO_01000243	REP
+347432	R512-PK24415035	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328603	R512-PK24459003	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328603	R512-PK24245835	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328604	R512-PK24283845	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328604	R512-PK24053271	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328602	R512-PK24380233	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328602	R512-PK24139717	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328602	R512-PK24107140	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+311552	R512-PK24288648	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311552	R512-PK24069274	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+311552	R512-PK23491166	http://purl.obolibrary.org/obo/ENVO_00000063	REP
+311553	R512-PK24473118	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311553	R512-PK23499540	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+1053885	R512-PK24391830	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1053885	R512-PK24080731	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+311910	R512-PK24342177	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311910	R512-PK23945606	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+311910	R512-PK23509927	http://purl.obolibrary.org/obo/ENVO_01000243	REP
+311910	R512-PK24521773	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+311910	R512-PK24344843	http://purl.obolibrary.org/obo/ENVO_00000394	REP
+312855	R512-PK23841556	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+312855	R512-PK23549919	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+312856	R512-PK24530419	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1041047	R512-PK24155034	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1041047	R512-PK24549496	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+1053884	R512-PK24337917	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1053884	R512-PK24425912	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+1053884	R512-PK24383137	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+1037335	R512-PK24540239	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1037335	R512-PK24418115	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+1037335	R512-PK24000802	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+1037335	R512-PK23576264	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+311659	R512-PK23985144	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311659	R512-PK23507805	http://purl.obolibrary.org/obo/ENVO_00002031	REP
+311659	R512-PK24554471	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+311659	R512-PK24039675	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328674	R512-PK24567195	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328674	R512-PK23586012	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328674	R512-PK24008157	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328673	R512-PK24543780	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328673	R512-PK24071545	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328672	R512-PK24416797	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328672	R512-PK24031615	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328606	R512-PK24461489	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328606	R512-PK24568417	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328676	R512-PK24496460	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311554	R512-PK23958290	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311554	R512-PK23933931	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328104	R512-PK23470357	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328103	R512-PK23597118	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328085	R512-PK24140857	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328092	R553-PK43226705	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1053877	R553-PK43241174	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1053877	R512-PK24356893	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328088	R512-PK23755877	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328077	R512-PK23726944	http://purl.obolibrary.org/obo/ENVO_00001998	REP
+328077	R512-PK23826647	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+328077	R512-PK23963864	http://purl.obolibrary.org/obo/ENVO_01000204	REP
+328078	R512-PK23977752	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328078	R512-PK23877029	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328078	R512-PK24043041	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328086	R512-PK24343909	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328086	R512-PK24009714	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328086	R512-PK23791970	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328084	R512-PK23765033	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328087	R512-PK24144647	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328096	R512-PK24472055	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328096	R512-PK24190831	http://purl.obolibrary.org/obo/ENVO_00000303	REP
+328096	R512-PK23748228	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+1053883	R512-PK24377522	http://purl.obolibrary.org/obo/ENVO_00000111	REP
+1053883	R512-PK24569643	http://purl.obolibrary.org/obo/ENVO_01000228	REP
+328095	R553-PK43204088	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1053881	R512-PK24503641	http://purl.obolibrary.org/obo/ENVO_00000111	REP
+1053881	R512-PK23568706	http://purl.obolibrary.org/obo/ENVO_00000117	REP
+1053881	R512-PK23985515	http://purl.obolibrary.org/obo/ENVO_00000300	REP
+1053881	R512-PK23779809	http://purl.obolibrary.org/obo/ENVO_01000228	REP
+328098	R96-PK42896251	http://eol.org/schema/terms/tropical_and_subtropical_grasslands_savannas_and_shrublands	REP
+328098	R96-PK42896252	http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests	REP
+328098	R512-PK24267098	http://purl.obolibrary.org/obo/ENVO_00000111	REP
+328098	R512-PK24494549	http://purl.obolibrary.org/obo/ENVO_00002041	REP
+328099	R512-PK24557482	http://purl.obolibrary.org/obo/ENVO_01000178	REP
+328094	R512-PK24468799	http://purl.obolibrary.org/obo/ENVO_00000109	REP
+328094	R512-PK24465605	http://purl.obolibrary.org/obo/ENVO_00001998	REP
+328094	R512-PK23813932	http://purl.obolibrary.org/obo/ENVO_01000178	REP
+328100	R512-PK23936480	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328100	R512-PK24561424	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+1053882	R512-PK24060806	http://purl.obolibrary.org/obo/ENVO_00000117	REP
+1053882	R512-PK24400594	http://purl.obolibrary.org/obo/ENVO_00000300	REP
+1053882	R512-PK23799338	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+328093	R512-PK24554357	http://purl.obolibrary.org/obo/ENVO_01000177	REP
+1053879	R512-PK24182552	http://purl.obolibrary.org/obo/ENVO_01000228	PRM and REP
+1053880	R512-PK24109438	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1053880	R512-PK23800518	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+1053880	R512-PK23551216	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328101	R96-PK42896259	http://eol.org/schema/terms/tropical_and_subtropical_grasslands_savannas_and_shrublands	REP
+328097	R512-PK24097558	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+1053878	R512-PK23811867	http://purl.obolibrary.org/obo/ENVO_00000047	REP
+1053878	R512-PK23436788	http://purl.obolibrary.org/obo/ENVO_00000111	REP
+1053878	R512-PK24128644	http://purl.obolibrary.org/obo/ENVO_00000381	REP
+1053878	R512-PK24430550	http://purl.obolibrary.org/obo/ENVO_01000228	REP
+328102	R512-PK24282136	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328091	R512-PK24190068	http://purl.obolibrary.org/obo/ENVO_01000174	PRM and REP
+328089	R512-PK24455568	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328089	R512-PK23959339	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328089	R512-PK24451693	http://purl.obolibrary.org/obo/ENVO_01000243	REP
+328090	R512-PK23680549	http://purl.obolibrary.org/obo/ENVO_00000117	REP
+328090	R512-PK23729264	http://purl.obolibrary.org/obo/ENVO_00000303	REP
+328090	R512-PK24447499	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+328090	R512-PK24454927	http://purl.obolibrary.org/obo/ENVO_01000204	REP
+328108	R512-PK23822887	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328105	R512-PK24513537	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328105	R512-PK23890156	http://purl.obolibrary.org/obo/ENVO_00000090	REP
+328105	R512-PK24513163	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328106	R512-PK23683180	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+328107	R512-PK24415502	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328083	R512-PK24184599	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328083	R512-PK23938455	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328068	R512-PK24272976	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311953	R512-PK24453024	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311953	R512-PK24535698	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+311953	R512-PK24213471	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328601	R553-PK43228932	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328067	R512-PK24108750	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328057	R512-PK24560692	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328599	R512-PK24073673	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328599	R512-PK24010395	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328599	R512-PK24233395	http://purl.obolibrary.org/obo/ENVO_01000243	REP
+328599	R512-PK23948329	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+37153234	R512-PK23713026	http://purl.obolibrary.org/obo/ENVO_00000020	REP
+37153234	R512-PK23816232	http://purl.obolibrary.org/obo/ENVO_00000047	REP
+37153234	R512-PK24212074	http://purl.obolibrary.org/obo/ENVO_00000111	REP
+37153234	R512-PK24354927	http://purl.obolibrary.org/obo/ENVO_00000856	REP
+37153234	R512-PK23545788	http://purl.obolibrary.org/obo/ENVO_01000228	REP
+328058	R96-PK42875999	http://eol.org/schema/terms/tropical_and_subtropical_grasslands_savannas_and_shrublands	REP
+328058	R96-PK42876000	http://eol.org/schema/terms/tropical_and_subtropical_moist_broadleaf_forests	REP
+328058	R512-PK23624227	http://purl.obolibrary.org/obo/ENVO_00000016	REP
+328058	R512-PK24247956	http://purl.obolibrary.org/obo/ENVO_00000111	REP
+328060	R512-PK24568186	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+40106717	R512-PK23689550	http://purl.obolibrary.org/obo/ENVO_00000016	REP
+40106717	R512-PK24227954	http://purl.obolibrary.org/obo/ENVO_00000081	REP
+40106717	R512-PK23714193	http://purl.obolibrary.org/obo/ENVO_00000111	REP
+40106717	R512-PK24328433	http://purl.obolibrary.org/obo/ENVO_00000262	REP
+328598	R553-PK43226693	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328598	R512-PK24137238	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328598	R512-PK24459192	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328598	R512-PK24311125	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328598	R512-PK23523929	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+328598	R512-PK23558350	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+328056	R512-PK23760698	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328056	R512-PK23798567	http://purl.obolibrary.org/obo/ENVO_00002031	REP
+328055	R512-PK24127980	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328055	R512-PK24070004	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328055	R512-PK23928545	http://purl.obolibrary.org/obo/ENVO_00000063	REP
+328055	R512-PK24439153	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328055	R512-PK24574840	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+327984	R512-PK24137386	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+327984	R512-PK24150228	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+46559217	R512-PK24428398	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559217	R512-PK24467582	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+328000	R512-PK23640529	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328000	R512-PK23442522	http://purl.obolibrary.org/obo/ENVO_00002031	REP
+327997	R512-PK24182460	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311511	R512-PK24022641	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311511	R512-PK23886723	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+327998	R512-PK23948234	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+327998	R512-PK24298863	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+327994	R512-PK23599115	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+327994	R512-PK23584908	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+327999	R512-PK23641688	http://purl.obolibrary.org/obo/ENVO_00000170	REP
+327999	R512-PK23905754	http://purl.obolibrary.org/obo/ENVO_01000178	REP
+327999	R512-PK23927503	http://purl.obolibrary.org/obo/ENVO_01000179	REP
+328001	R512-PK24404749	http://purl.obolibrary.org/obo/ENVO_00000446	PRM and REP
+328609	R553-PK43222613	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328609	R512-PK23873001	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328609	R512-PK23820953	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+327996	R553-PK43239398	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+327995	R512-PK24397868	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+327995	R512-PK23711199	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+327995	R512-PK23850417	http://purl.obolibrary.org/obo/ENVO_01000243	REP
+328610	R512-PK24160102	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328610	R512-PK24043292	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328698	R512-PK23835668	http://purl.obolibrary.org/obo/ENVO_01000177	REP
+328698	R512-PK24054907	http://purl.obolibrary.org/obo/ENVO_01000178	REP
+328611	R512-PK24179920	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328611	R512-PK24029906	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328611	R512-PK24544629	http://purl.obolibrary.org/obo/ENVO_01000243	REP
+328611	R512-PK24444802	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328611	R512-PK23782192	http://purl.obolibrary.org/obo/ENVO_00002042	REP
+328611	R512-PK24435098	http://purl.obolibrary.org/obo/ENVO_00000090	REP
+328612	R512-PK23613989	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328612	R512-PK24408562	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328612	R512-PK24217401	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+328612	R512-PK23836125	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+328685	R512-PK24455001	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328685	R512-PK23983165	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328685	R512-PK23769284	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328684	R512-PK24356434	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+328684	R512-PK24360821	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328684	R512-PK23452780	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328684	R512-PK23924690	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328684	R512-PK23941975	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328684	R512-PK24356434	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+4445149	R512-PK23465593	http://purl.obolibrary.org/obo/ENVO_00000284	PRM and REP
+328687	R512-PK24059034	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328687	R512-PK24033782	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+4444926	R512-PK24281942	http://purl.obolibrary.org/obo/ENVO_00000300	PRM and REP
+1053892	R512-PK23936119	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1053892	R512-PK23902735	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+1053892	R512-PK23797702	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+1053890	R512-PK24376395	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1053890	R512-PK23451994	http://purl.obolibrary.org/obo/ENVO_00002031	REP
+926081	R512-PK23963448	http://purl.obolibrary.org/obo/ENVO_00000446	PRM and REP
+926082	R512-PK24513844	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+926082	R512-PK24153425	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+1053891	R512-PK24224626	http://purl.obolibrary.org/obo/ENVO_00000303	REP
+1053891	R512-PK24513083	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+1053891	R512-PK23929564	http://purl.obolibrary.org/obo/ENVO_01000179	REP
+328697	R512-PK24000247	http://purl.obolibrary.org/obo/ENVO_00000446	PRM and REP
+328004	R512-PK24572011	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+328004	R512-PK24146537	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328004	R512-PK23840848	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328004	R512-PK23593307	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328004	R512-PK24572011	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+40106601	R512-PK23510622	http://purl.obolibrary.org/obo/ENVO_00000098	PRM and REP
+4445076	R512-PK24329767	http://purl.obolibrary.org/obo/ENVO_00000098	PRM and REP
+312857	R512-PK23735310	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+312857	R512-PK24355813	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+312857	R512-PK23589309	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328688	R512-PK23959976	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328607	R553-PK43220888	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328607	R512-PK24547516	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328607	R512-PK24498901	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328682	R512-PK24043622	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328682	R512-PK24021841	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+327993	R512-PK23949976	http://purl.obolibrary.org/obo/ENVO_00000446	PRM and REP
+328681	R512-PK23960585	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328681	R512-PK23738206	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+328683	R512-PK24544134	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328608	R553-PK43235033	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328608	R512-PK24344221	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328608	R512-PK24513762	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+4444488	R512-PK24125437	http://purl.obolibrary.org/obo/ENVO_00000022	REP
+4444488	R512-PK23701612	http://purl.obolibrary.org/obo/ENVO_00000078	REP
+4444488	R512-PK24440977	http://purl.obolibrary.org/obo/ENVO_00000169	REP
+328686	R512-PK24558568	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559143	R512-PK24231314	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559143	R512-PK24185748	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559143	R512-PK24352157	http://purl.obolibrary.org/obo/ENVO_00000484	REP
+46559143	R512-PK23510581	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559143	R512-PK24522851	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559143	R512-PK23468525	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+328069	R512-PK24546278	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328069	R512-PK24484549	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328582	R512-PK24532225	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328582	R512-PK24019108	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328582	R512-PK24184375	http://purl.obolibrary.org/obo/ENVO_01000243	REP
+328582	R512-PK24520234	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328582	R512-PK24282821	http://purl.obolibrary.org/obo/ENVO_00000484	REP
+328582	R512-PK24210828	http://purl.obolibrary.org/obo/ENVO_00000090	REP
+328581	R512-PK24177248	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328581	R512-PK24181646	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328581	R512-PK23641284	http://purl.obolibrary.org/obo/ENVO_00000394	REP
+328581	R512-PK24131676	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+328070	R512-PK24058163	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328070	R512-PK24515879	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+4441492	R512-PK23541318	http://purl.obolibrary.org/obo/ENVO_00000109	REP
+4441492	R512-PK23429153	http://purl.obolibrary.org/obo/ENVO_00002053	REP
+328076	R512-PK24551740	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+4441505	R512-PK24115749	http://purl.obolibrary.org/obo/ENVO_00000106	REP
+4441505	R512-PK24486418	http://purl.obolibrary.org/obo/ENVO_00000112	REP
+4441505	R512-PK24113979	http://purl.obolibrary.org/obo/ENVO_00000262	REP
+328075	R512-PK24210557	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328074	R512-PK24417147	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559139	R512-PK24471273	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559139	R512-PK23656911	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+46559139	R512-PK24248413	http://purl.obolibrary.org/obo/ENVO_00000063	REP
+46559139	R512-PK24560758	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559139	R512-PK23761518	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559139	R512-PK24347342	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559139	R512-PK24540809	http://purl.obolibrary.org/obo/ENVO_00002019	REP
+46559139	R512-PK24025698	http://purl.obolibrary.org/obo/ENVO_00000090	REP
+46559139	R512-PK24571174	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+328024	R512-PK24170871	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328024	R512-PK24437684	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328024	R512-PK24449565	http://purl.obolibrary.org/obo/ENVO_00000063	REP
+328024	R512-PK24543267	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328024	R512-PK24105896	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+328024	R512-PK23920990	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+328024	R512-PK24191873	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559127	R512-PK24478855	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559127	R512-PK24225559	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+46559127	R512-PK24487744	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+46559127	R512-PK23987152	http://purl.obolibrary.org/obo/ENVO_00000063	REP
+46559127	R512-PK24338429	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559127	R512-PK24534809	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559127	R512-PK24395913	http://purl.obolibrary.org/obo/ENVO_00000472	REP
+46559127	R512-PK24066006	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559127	R512-PK24459154	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+311557	R512-PK24419757	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311557	R512-PK24072129	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+311557	R512-PK23978959	http://purl.obolibrary.org/obo/ENVO_00000394	REP
+311557	R512-PK24332832	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+311557	R512-PK24109344	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+311557	R512-PK23836243	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+311557	R512-PK23958758	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+311559	R512-PK24441426	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+311559	R512-PK24403017	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311559	R512-PK24369750	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+311559	R512-PK24261089	http://purl.obolibrary.org/obo/ENVO_00000394	REP
+311559	R512-PK24225420	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+311559	R512-PK24277720	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+311559	R512-PK24441426	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+311559	R512-PK24330862	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+311556	R512-PK24391042	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311556	R512-PK24303285	http://purl.obolibrary.org/obo/ENVO_00002053	REP
+311556	R512-PK23782799	http://purl.obolibrary.org/obo/ENVO_00002139	REP
+311556	R512-PK24538178	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+311556	R512-PK23835729	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+311556	R512-PK23654892	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559121	R512-PK23978130	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559121	R512-PK24239763	http://purl.obolibrary.org/obo/ENVO_01000243	REP
+46559121	R512-PK23507929	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+46559121	R512-PK24470735	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559121	R512-PK24133791	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559121	R512-PK24499486	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559122	R512-PK23581477	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559122	R512-PK24575128	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+46559122	R512-PK23878086	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+926022	R96-PK42906596	http://eol.org/schema/terms/temperate_broadleaf_and_mixed_forests	REP
+926022	R96-PK42906597	http://eol.org/schema/terms/temperate_coniferous_forests	REP
+46559137	R512-PK24152855	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559137	R512-PK24116447	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+46559137	R512-PK24486133	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559137	R512-PK24563573	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559137	R512-PK23987030	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+922786	R512-PK24468204	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+922786	R553-PK43202038	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+922786	R512-PK24435827	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+922786	R512-PK24056202	http://purl.obolibrary.org/obo/ENVO_00000063	REP
+922786	R512-PK24514069	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+922786	R512-PK24468204	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+922786	R512-PK23971711	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559135	R512-PK24544576	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559135	R512-PK24265699	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+46559135	R512-PK24512861	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+46559135	R512-PK24412663	http://purl.obolibrary.org/obo/ENVO_00000063	REP
+46559135	R512-PK24314865	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559135	R512-PK24419294	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559135	R512-PK23749926	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559135	R512-PK24555507	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+328041	R512-PK24042570	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328041	R512-PK23611765	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328042	R512-PK24559369	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328017	R512-PK24573444	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328017	R512-PK24344968	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328592	R512-PK24339233	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328592	R512-PK24023404	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328592	R512-PK24314481	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328592	R512-PK23569236	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+328021	R553-PK43234701	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328021	R512-PK23679865	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328022	R512-PK24458726	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328022	R512-PK23703259	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328020	R512-PK24112823	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328020	R512-PK24455435	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328591	R512-PK23922404	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328591	R512-PK24551499	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328591	R512-PK24222166	http://purl.obolibrary.org/obo/ENVO_01000243	REP
+328591	R512-PK24081559	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328591	R512-PK24419199	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+311514	R512-PK24314940	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311514	R512-PK23869054	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+311513	R512-PK24179746	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311513	R512-PK23786891	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+311513	R512-PK23542187	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328029	R512-PK24509969	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328029	R512-PK24222048	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328029	R512-PK24169409	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328029	R512-PK24467651	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+328029	R512-PK23983271	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+328595	R512-PK24149920	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328595	R512-PK24133173	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328595	R512-PK24397891	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328595	R512-PK24518379	http://purl.obolibrary.org/obo/ENVO_00000484	REP
+328595	R512-PK24170582	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+328043	R512-PK24505680	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328043	R512-PK23758416	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+926023	R512-PK23514601	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+926023	R512-PK23751527	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+926023	R512-PK23738773	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+926023	R512-PK23872045	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+28567910	R512-PK24461568	http://purl.obolibrary.org/obo/ENVO_00000144	PRM and REP
+926021	R512-PK24458630	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+926020	R512-PK24092124	http://purl.obolibrary.org/obo/ENVO_00000446	PRM and REP
+328046	R512-PK24000049	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328046	R512-PK23840137	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328046	R512-PK23520493	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328037	R512-PK24402095	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328037	R512-PK24015104	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328038	R512-PK24124555	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328038	R512-PK24326362	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328039	R512-PK23929679	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328039	R512-PK23654806	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328040	R512-PK23433530	http://purl.obolibrary.org/obo/ENVO_00000300	REP
+328040	R512-PK23571764	http://purl.obolibrary.org/obo/ENVO_00000303	REP
+328040	R512-PK23604955	http://purl.obolibrary.org/obo/ENVO_00000572	REP
+328040	R512-PK23785147	http://purl.obolibrary.org/obo/ENVO_01000179	REP
+311524	R512-PK23577854	http://purl.obolibrary.org/obo/ENVO_00000171	REP
+311524	R512-PK24553628	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+328589	R512-PK24543392	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328589	R512-PK24091598	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328589	R512-PK24202162	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+311521	R512-PK23997608	http://purl.obolibrary.org/obo/ENVO_00000098	REP
+311523	R512-PK24049649	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311523	R512-PK23722024	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+327206	R96-PK42911708	http://eol.org/schema/terms/tropical_and_subtropical_grasslands_savannas_and_shrublands	REP
+327206	R512-PK24376955	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+327206	R512-PK24283859	http://purl.obolibrary.org/obo/ENVO_01000204	REP
+328587	R553-PK43218023	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328587	R512-PK23859696	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328587	R512-PK24570313	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+926026	R512-PK24394424	http://purl.obolibrary.org/obo/ENVO_00000446	PRM and REP
+926025	R512-PK23756989	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+926025	R512-PK24347987	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+926025	R512-PK23942208	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+926025	R512-PK24554076	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+311520	R512-PK24348432	http://purl.obolibrary.org/obo/ENVO_00000098	REP
+311520	R512-PK24039948	http://purl.obolibrary.org/obo/ENVO_00000300	REP
+311520	R512-PK23800702	http://purl.obolibrary.org/obo/ENVO_01000204	REP
+311519	R512-PK24292075	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311519	R512-PK23497675	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+311519	R512-PK24576008	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+311517	R512-PK24417195	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311517	R512-PK23463887	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+311522	R512-PK24255497	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311522	R512-PK23646368	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+926024	R512-PK24340473	http://purl.obolibrary.org/obo/ENVO_00000572	REP
+328586	R553-PK43236234	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328586	R512-PK24101643	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328586	R512-PK23447946	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328590	R512-PK23686376	http://purl.obolibrary.org/obo/ENVO_00000446	PRM and REP
+311515	R96-PK42911796	http://eol.org/schema/terms/temperate_broadleaf_and_mixed_forests	REP
+311515	R96-PK42911798	http://eol.org/schema/terms/temperate_coniferous_forests	REP
+311515	R512-PK23614756	http://purl.obolibrary.org/obo/ENVO_01000174	REP
+328032	R512-PK24271322	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328033	R512-PK24341733	http://purl.obolibrary.org/obo/ENVO_00000098	REP
+328033	R512-PK24458124	http://purl.obolibrary.org/obo/ENVO_00002031	REP
+328031	R512-PK24079226	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328034	R512-PK24107196	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328030	R512-PK24135882	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+4443058	R512-PK24084076	http://purl.obolibrary.org/obo/ENVO_00000016	REP
+4443058	R512-PK23904393	http://purl.obolibrary.org/obo/ENVO_00000022	REP
+4443058	R512-PK24069787	http://purl.obolibrary.org/obo/ENVO_00002011	REP
+328035	R512-PK24262992	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328035	R512-PK24562435	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328585	R512-PK24336688	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328585	R512-PK23898116	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328585	R512-PK24215641	http://purl.obolibrary.org/obo/ENVO_01000243	REP
+328585	R512-PK23934179	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328585	R512-PK24508138	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+328036	R512-PK24324989	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311564	R512-PK24399616	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311565	R512-PK24077760	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311571	R512-PK24248184	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311571	R512-PK23971312	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328596	R512-PK23805508	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+925984	R512-PK23733895	http://purl.obolibrary.org/obo/ENVO_00000300	PRM and REP
+328597	R512-PK24176558	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328597	R512-PK23478009	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+311566	R512-PK24556031	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311566	R512-PK23861950	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+310363	R512-PK23566777	http://purl.obolibrary.org/obo/ENVO_00000169	REP
+328594	R512-PK24460032	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328594	R512-PK24324439	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328593	R512-PK24532983	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328593	R512-PK24168606	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328593	R512-PK24155896	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328593	R512-PK24534875	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+311560	R512-PK24046726	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311558	R512-PK24121623	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+311558	R512-PK24555763	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+46559154	R512-PK24423077	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559154	R512-PK23513323	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559154	R512-PK23599610	http://purl.obolibrary.org/obo/ENVO_00000394	REP
+46559154	R512-PK23808875	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559154	R512-PK24312400	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559154	R512-PK24430391	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559154	R512-PK24193191	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559186	R512-PK23975009	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559186	R512-PK24506591	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559186	R512-PK24052023	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559186	R512-PK24133972	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559186	R512-PK23995158	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+1052723	R512-PK23969108	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1052723	R512-PK23562969	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+1052723	R512-PK24328917	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+1052723	R512-PK23564763	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+1052723	R512-PK24378465	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559181	R512-PK23665687	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559181	R512-PK24464715	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559181	R512-PK24067772	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559181	R512-PK23526837	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559181	R512-PK23515805	http://purl.obolibrary.org/obo/ENVO_00002042	REP
+46559181	R512-PK24533434	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559181	R512-PK24056537	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559152	R512-PK23901169	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559152	R512-PK23455321	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559152	R512-PK24502542	http://purl.obolibrary.org/obo/ENVO_00000394	REP
+46559152	R512-PK24229879	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559152	R512-PK24369764	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559152	R512-PK24242012	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559183	R512-PK23816060	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559183	R512-PK23590567	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559183	R512-PK23829497	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559183	R512-PK24567793	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559183	R512-PK23925884	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559184	R512-PK23604124	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559184	R512-PK24298294	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559184	R512-PK24237783	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559184	R512-PK24435522	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559184	R512-PK24382324	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559184	R512-PK23821904	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559156	R512-PK24119405	http://purl.obolibrary.org/obo/ENVO_00000091	REP
+46559156	R512-PK23820937	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559156	R512-PK24442497	http://purl.obolibrary.org/obo/ENVO_00002007	REP
+46559156	R512-PK24018782	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559156	R512-PK24511283	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559156	R512-PK24226088	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559156	R512-PK24304528	http://purl.obolibrary.org/obo/ENVO_00002019	REP
+46559156	R512-PK24380839	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559156	R512-PK23705810	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559175	R512-PK23764433	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559175	R512-PK23754003	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559175	R512-PK23504658	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559175	R512-PK24495276	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559175	R512-PK24031444	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559170	R512-PK24066206	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559170	R512-PK23491662	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559170	R512-PK23443940	http://purl.obolibrary.org/obo/ENVO_00000394	REP
+46559170	R512-PK24576064	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559170	R512-PK23778679	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559170	R512-PK24438685	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+1052722	R512-PK23786315	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+1052722	R512-PK24073699	http://purl.obolibrary.org/obo/ENVO_00000063	REP
+1052722	R512-PK23772364	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+1052722	R512-PK24417520	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+1052722	R512-PK23735623	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+1052722	R512-PK24350716	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559188	R512-PK24153679	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559188	R512-PK23600489	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559188	R512-PK24477855	http://purl.obolibrary.org/obo/ENVO_00000394	REP
+46559188	R512-PK24478467	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559188	R512-PK24454318	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559188	R512-PK24076498	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559168	R512-PK23891746	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559168	R512-PK24069351	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559168	R512-PK23731543	http://purl.obolibrary.org/obo/ENVO_00000394	REP
+46559168	R512-PK24045695	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559168	R512-PK23859928	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559168	R512-PK24255382	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559177	R512-PK24492905	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559177	R512-PK23845650	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559177	R512-PK23452792	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559177	R512-PK24247207	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559177	R512-PK23551691	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559158	R512-PK24184511	http://purl.obolibrary.org/obo/ENVO_00000067	REP
+46559158	R512-PK24490500	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559158	R512-PK24578142	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559158	R512-PK24179406	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559158	R512-PK23482731	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559158	R512-PK24233109	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559158	R512-PK24353856	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559160	R512-PK23586321	http://purl.obolibrary.org/obo/ENVO_00000091	REP
+46559160	R512-PK24259838	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559160	R512-PK24522485	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559160	R512-PK24439054	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559160	R512-PK23980102	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559160	R512-PK24363913	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559159	R512-PK24453325	http://purl.obolibrary.org/obo/ENVO_00000091	REP
+46559159	R512-PK23891710	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559159	R512-PK24093123	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559159	R512-PK23588520	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559159	R512-PK24558574	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559159	R512-PK23858188	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559162	R512-PK24575491	http://purl.obolibrary.org/obo/ENVO_00000091	REP
+46559162	R512-PK24502721	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559162	R512-PK23809489	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559162	R512-PK24253670	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559162	R512-PK24266557	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559162	R512-PK23560833	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559162	R512-PK24423940	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559166	R512-PK24158212	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559166	R512-PK23966169	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559166	R512-PK24103679	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559166	R512-PK23520613	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559166	R512-PK24153946	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+4441558	R512-PK24152139	http://purl.obolibrary.org/obo/ENVO_00000447	PRM and REP
+4441557	R512-PK24115695	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+4441557	R512-PK23940477	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+4442162	R512-PK23997946	http://purl.obolibrary.org/obo/ENVO_00000016	PRM and REP
+4441949	R512-PK23547318	http://purl.obolibrary.org/obo/ENVO_00000303	REP
+4441949	R512-PK23626771	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559198	R512-PK24416520	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559198	R512-PK23942694	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559198	R512-PK24404830	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559198	R512-PK23911016	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559198	R512-PK24352228	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559198	R512-PK24235231	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559197	R512-PK24578320	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559197	R512-PK24214589	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559197	R512-PK24208932	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559197	R512-PK24460350	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559197	R512-PK23586397	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559202	R512-PK24410722	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559202	R512-PK24374475	http://purl.obolibrary.org/obo/ENVO_01000231	REP
+46559202	R512-PK24513006	http://purl.obolibrary.org/obo/ENVO_01000243	REP
+46559202	R512-PK23921499	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559202	R512-PK24379718	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559202	R512-PK24519876	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559202	R512-PK24397863	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559194	R512-PK24344307	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559194	R512-PK24296768	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559194	R512-PK23623929	http://purl.obolibrary.org/obo/ENVO_00000394	REP
+46559194	R512-PK24146875	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559194	R512-PK23634449	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559200	R512-PK23538710	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559200	R512-PK23809350	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559200	R512-PK23609396	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559200	R512-PK24203651	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559200	R512-PK23782283	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559200	R512-PK23706901	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559193	R512-PK24386271	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559193	R512-PK23737555	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559193	R512-PK24072320	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559193	R512-PK24129784	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559193	R512-PK24499512	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+328621	R512-PK24427380	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328621	R512-PK23497061	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328621	R512-PK24179045	http://purl.obolibrary.org/obo/ENVO_00000394	REP
+328621	R512-PK23854452	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+328621	R512-PK24065544	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+328621	R512-PK24199986	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+328621	R512-PK24466916	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+328626	R512-PK23871923	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328626	R512-PK24048624	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328626	R512-PK24482969	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+328626	R512-PK24366028	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+328626	R512-PK23800697	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559204	R512-PK24276643	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559204	R512-PK24224971	http://purl.obolibrary.org/obo/ENVO_00002139	REP
+46559204	R512-PK23760986	http://purl.obolibrary.org/obo/ENVO_01000243	REP
+46559204	R512-PK24324598	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559204	R512-PK23734037	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559204	R512-PK23948790	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559204	R512-PK24290378	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559204	R512-PK24129835	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559214	R512-PK24156894	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559214	R512-PK23579730	http://purl.obolibrary.org/obo/ENVO_00002031	REP
+46559214	R512-PK23808332	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559214	R512-PK24523067	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559214	R512-PK23671664	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559214	R512-PK24446999	http://purl.obolibrary.org/obo/ENVO_00002019	REP
+46559214	R512-PK24211440	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559214	R512-PK23896237	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559212	R512-PK24084601	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559212	R512-PK23712862	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559212	R512-PK24553072	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559212	R512-PK24148528	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559212	R512-PK24197385	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559212	R512-PK24186927	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559213	R512-PK24550776	http://purl.obolibrary.org/obo/ENVO_00000016	REP
+46559213	R512-PK23705928	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559213	R512-PK24275819	http://purl.obolibrary.org/obo/ENVO_00000303	REP
+46559213	R512-PK24364887	http://purl.obolibrary.org/obo/ENVO_00000305	REP
+46559213	R512-PK23629249	http://purl.obolibrary.org/obo/ENVO_00002199	REP
+46559210	R512-PK23768250	http://purl.obolibrary.org/obo/ENVO_00000091	REP
+46559210	R512-PK23840391	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559210	R512-PK23737719	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559210	R512-PK24076060	http://purl.obolibrary.org/obo/ENVO_00000394	REP
+46559210	R512-PK24557828	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559210	R512-PK23468942	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559210	R512-PK24510516	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559210	R512-PK23900904	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559191	R512-PK23610775	http://purl.obolibrary.org/obo/ENVO_00000091	REP
+46559191	R512-PK23519734	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559191	R512-PK23622380	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559191	R512-PK24432574	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559191	R512-PK23752900	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559206	R512-PK23507834	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559206	R512-PK23517605	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559206	R512-PK24349993	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559206	R512-PK23898480	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559206	R512-PK24529682	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559208	R512-PK24222013	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559208	R512-PK23759679	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559208	R512-PK24152806	http://purl.obolibrary.org/obo/ENVO_00000394	REP
+46559208	R512-PK24194241	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559208	R512-PK23632378	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559208	R512-PK24559856	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559208	R512-PK24515362	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+46559147	R512-PK24471261	http://purl.obolibrary.org/obo/ENVO_00000091	REP
+46559147	R512-PK24084507	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559147	R512-PK24342760	http://purl.obolibrary.org/obo/ENVO_00002007	REP
+46559147	R512-PK24185416	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559147	R512-PK24197882	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559147	R512-PK24475479	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559147	R512-PK23759724	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559147	R512-PK23480610	http://purl.obolibrary.org/obo/ENVO_00000486	REP
+4442159	R512-PK24464588	http://purl.obolibrary.org/obo/ENVO_00000016	REP
+4442159	R512-PK23437914	http://purl.obolibrary.org/obo/ENVO_00000303	REP
+46559130	R512-PK24368556	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+46559130	R512-PK23974044	http://purl.obolibrary.org/obo/ENVO_00002007	REP
+46559130	R512-PK24152858	http://purl.obolibrary.org/obo/ENVO_00002031	REP
+46559130	R512-PK24310776	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+46559130	R512-PK24419508	http://purl.obolibrary.org/obo/ENVO_00000447	REP
+46559130	R512-PK23878803	http://purl.obolibrary.org/obo/ENVO_00002010	REP
+46559130	R512-PK24292487	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+46559130	R512-PK24224677	http://purl.obolibrary.org/obo/ENVO_00000486	REP

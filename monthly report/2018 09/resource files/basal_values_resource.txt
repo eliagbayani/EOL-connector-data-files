@@ -1,0 +1,7 @@
+Page ID	eol_pk	Value URI	Label
+328598	R553-PK43226693	http://purl.obolibrary.org/obo/ENVO_00000446	REP
+328598	R512-PK24137238	http://purl.obolibrary.org/obo/ENVO_01000206	REP
+328598	R512-PK24459192	http://purl.obolibrary.org/obo/ENVO_00000043	REP
+328598	R512-PK24311125	http://purl.obolibrary.org/obo/ENVO_00000144	REP
+328598	R512-PK23523929	http://purl.obolibrary.org/obo/ENVO_00000304	REP
+328598	R512-PK23558350	http://purl.obolibrary.org/obo/ENVO_00000486	REP

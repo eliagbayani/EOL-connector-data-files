@@ -1,0 +1,130 @@
+==================================================================================
+Method: lifestage & statMeth
+page_id: 347436 | predicate: [http://purl.obolibrary.org/obo/VT_0001259]
+
+/Volumes/AKiTiO4/web/cp/summary data resources/page_ids/db/22/347436.txt
+
+recs: 2
+Array
+(
+    [label] => PRM and REP
+    [recs] => Array
+        (
+            [0] => Array
+                (
+                    [eol_pk] => R261-PK22085940
+                    [page_id] => 347436
+                    [scientific_name] => <i>Eupleres goudotii</i>
+                    [resource_pk] => AdultBodyMass730
+                    [predicate] => http://purl.obolibrary.org/obo/VT_0001259
+                    [sex] => 
+                    [lifestage] => http://www.ebi.ac.uk/efo/EFO_0001272
+                    [statistical_method] => http://eol.org/schema/terms/average
+                    [source] => http://esapubs.org/archive/ecol/E090/184/
+                    [object_page_id] => 
+                    [target_scientific_name] => 
+                    [value_uri] => 
+                    [literal] => 
+                    [measurement] => 2763.34
+                    [units] => http://purl.obolibrary.org/obo/UO_0000021
+                    [normal_measurement] => 2763.34
+                    [normal_units_uri] => http://purl.obolibrary.org/obo/UO_0000021
+                    [resource_id] => 173
+                )
+
+        )
+
+    [step] => 2
+    [recs_total] => 1
+)
+
+==================================================================================
+Method: lifestage & statMeth
+page_id: 347438 | predicate: [http://purl.obolibrary.org/obo/VT_0001259]
+
+/Volumes/AKiTiO4/web/cp/summary data resources/page_ids/a1/4f/347438.txt
+
+recs: 3
+Array
+(
+    [label] => PRM and REP
+    [recs] => Array
+        (
+            [0] => Array
+                (
+                    [eol_pk] => R261-PK22085621
+                    [page_id] => 347438
+                    [scientific_name] => <i>Cryptoprocta ferox</i>
+                    [resource_pk] => AdultBodyMass443
+                    [predicate] => http://purl.obolibrary.org/obo/VT_0001259
+                    [sex] => 
+                    [lifestage] => http://www.ebi.ac.uk/efo/EFO_0001272
+                    [statistical_method] => http://eol.org/schema/terms/average
+                    [source] => http://esapubs.org/archive/ecol/E090/184/
+                    [object_page_id] => 
+                    [target_scientific_name] => 
+                    [value_uri] => 
+                    [literal] => 
+                    [measurement] => 9500
+                    [units] => http://purl.obolibrary.org/obo/UO_0000021
+                    [normal_measurement] => 9500
+                    [normal_units_uri] => http://purl.obolibrary.org/obo/UO_0000021
+                    [resource_id] => 173
+                )
+
+        )
+
+    [step] => 2
+    [recs_total] => 1
+)
+
+==================================================================================
+Method: lifestage & statMeth
+page_id: 46559130 | predicate: [http://purl.obolibrary.org/obo/VT_0001259]
+
+/Volumes/AKiTiO4/web/cp/summary data resources/page_ids/39/44/46559130.txt
+
+recs: 4
+Array
+(
+    [label] => PRM and REP
+    [recs] => Array
+        (
+            [0] => Array
+                (
+                    [eol_pk] => R261-PK22085053
+                    [page_id] => 46559130
+                    [scientific_name] => <i>Enhydra lutris</i>
+                    [resource_pk] => AdultBodyMass312
+                    [predicate] => http://purl.obolibrary.org/obo/VT_0001259
+                    [sex] => 
+                    [lifestage] => http://www.ebi.ac.uk/efo/EFO_0001272
+                    [statistical_method] => http://eol.org/schema/terms/average
+                    [source] => http://esapubs.org/archive/ecol/E090/184/
+                    [object_page_id] => 
+                    [target_scientific_name] => 
+                    [value_uri] => 
+                    [literal] => 
+                    [measurement] => 27410.93
+                    [units] => http://purl.obolibrary.org/obo/UO_0000021
+                    [normal_measurement] => 27410.93
+                    [normal_units_uri] => http://purl.obolibrary.org/obo/UO_0000021
+                    [resource_id] => 173
+                )
+
+        )
+
+    [step] => 2
+    [recs_total] => 1
+)
+
+
+
+
+Writing resource file:
+
+Page ID	eol_pk	Predicate	Label
+347436	R261-PK22085940	http://purl.obolibrary.org/obo/VT_0001259	PRM and REP
+347438	R261-PK22085621	http://purl.obolibrary.org/obo/VT_0001259	PRM and REP
+46559130	R261-PK22085053	http://purl.obolibrary.org/obo/VT_0001259	PRM and REP
+
