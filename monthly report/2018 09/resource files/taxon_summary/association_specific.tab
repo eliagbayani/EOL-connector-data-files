@@ -1,3 +1,0 @@
-associationID	occurrenceID	associationType	targetOccurrenceID	measurementDeterminedDate	measurementMethod	source	referenceID	label
-b02f0bd2bad459e3f858acb366358a03_taxon_summary	328598_RO_0002470	http://purl.obolibrary.org/obo/RO_0002470	46557930_328598_RO_0002470	2018-Oct-07	summary of records available in EOL	https://beta.eol.org/pages/328598/data?predicate=http://purl.obolibrary.org/obo/RO_0002470	Reference-569234	PRM
-f51dbb625a0dd085d970d353b3d5bd22_taxon_summary	328598_RO_0002470	http://purl.obolibrary.org/obo/RO_0002470	207661_328598_RO_0002470	2018-Oct-07	summary of records available in EOL	https://beta.eol.org/pages/328598/data?predicate=http://purl.obolibrary.org/obo/RO_0002470	Reference-569234	REP
