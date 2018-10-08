@@ -1,6 +1,5 @@
-================================================================
-page_id:  | predicate: []
-
+================================================================ parent basal values
+page_id: 7662  | predicate: [http://eol.org/schema/terms/Habitat]
 
 initial shared values ancestry tree: 167
 
