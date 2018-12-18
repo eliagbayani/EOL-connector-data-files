@@ -1,0 +1,56 @@
+uid	parent_uid	name	rank
+0021def7-fa27-4202-8251-34bb65920f45	6b2b2c59-b725-466c-b7d7-51e732845a80	Insecta	class
+02ec45a1-ec93-445c-b60d-702c3de82172	773f89c1-841a-4bd6-949c-35c2bc9538c4	Chlorophyta	phylum
+07f10e80-e6bc-4641-a938-e81be739ad5b	4771438e-849c-4c58-bff8-d14d70e6ba0b	Actinopterygii	class
+10d6e898-8508-47c5-99e7-f18d3306e8cd	e61a111a-621e-4155-b320-6f8f2c78003d	Bacteria	no rank
+121d4ef2-141f-4a20-8e33-c407b205a4db	0021def7-fa27-4202-8251-34bb65920f45	Diptera	order
+122010ce-c49c-4b26-aef1-c2142ebea37b	b04981ef-538e-40ba-b501-a6868f1b4cfb	Porifera	phylum
+16992503-1221-4d88-992d-a97ec0bb3fd9	b04981ef-538e-40ba-b501-a6868f1b4cfb	Onychophora	phylum
+1c660855-3ac2-4785-811e-db58776293c1	0021def7-fa27-4202-8251-34bb65920f45	Psocodea	order
+28efdbe0-1b9f-4fea-9767-7433cfc64594	3b5138ef-c25c-4a25-9f1c-ffd85bd342e1	Haptophyta	phylum
+29bee85d-1a82-4411-82a4-f3cf98f1aa57	6b2b2c59-b725-466c-b7d7-51e732845a80	Chilopoda	class
+3488a150-bbcb-44cd-b7cf-af758ef8686e		Life	no rank
+3b5138ef-c25c-4a25-9f1c-ffd85bd342e1	e61a111a-621e-4155-b320-6f8f2c78003d	Eukaryota	no rank
+44b7bdfd-e34a-4aca-939b-481705ae5039	3b5138ef-c25c-4a25-9f1c-ffd85bd342e1	Amoebozoa	no rank
+45d91e54-495c-4eda-bea9-c71923afce2d	0021def7-fa27-4202-8251-34bb65920f45	Coleoptera	order
+4771438e-849c-4c58-bff8-d14d70e6ba0b	b04981ef-538e-40ba-b501-a6868f1b4cfb	Chordata	phylum
+47b31f50-bd30-4538-b6e0-857bb19d6e8e	b04981ef-538e-40ba-b501-a6868f1b4cfb	Annelida	phylum
+52b40831-53dc-4d0d-b2ce-99e2ece237e2	f0c754f6-6604-402e-8bc3-8207d829e321	Alveolata	no rank
+59007c77-6c4f-4e13-865e-e10ed6952ee0	6404ed05-0848-4383-b0ea-9fbc621f130a	Neornithes	no rank
+5bd6027c-1bf9-41ec-9ace-528e15c563c1	0021def7-fa27-4202-8251-34bb65920f45	Hymenoptera	order
+5eedcf9f-f143-4dc4-b6f9-4fad3271c463	4771438e-849c-4c58-bff8-d14d70e6ba0b	Crocodylia	order
+6404ed05-0848-4383-b0ea-9fbc621f130a	4771438e-849c-4c58-bff8-d14d70e6ba0b	Aves	class
+6547cf88-d111-4099-9909-7829c1535b95	0021def7-fa27-4202-8251-34bb65920f45	Orthoptera	order
+6b2b2c59-b725-466c-b7d7-51e732845a80	b04981ef-538e-40ba-b501-a6868f1b4cfb	Arthropoda	phylum
+6e07599b-ac23-4dfb-aca9-c269323ac60a	4771438e-849c-4c58-bff8-d14d70e6ba0b	Squamata	order
+773f89c1-841a-4bd6-949c-35c2bc9538c4	3b5138ef-c25c-4a25-9f1c-ffd85bd342e1	Archaeplastida	kingdom
+7c4b1930-06b8-4ce8-9ddb-6f325ec529d0	0021def7-fa27-4202-8251-34bb65920f45	Blattodea	order
+83a6358e-0e26-4c83-b746-b7699558b640	4771438e-849c-4c58-bff8-d14d70e6ba0b	Testudines	order
+9f23a031-97b0-4a72-952a-ffb748124059	b04981ef-538e-40ba-b501-a6868f1b4cfb	Mollusca	phylum
+9fcdad54-2fed-409c-b067-37fb9fb51adb	6b2b2c59-b725-466c-b7d7-51e732845a80	Diplopoda	class
+a15d0920-8621-4ff8-9257-8645af2beaa9	773f89c1-841a-4bd6-949c-35c2bc9538c4	Glaucophyta	phylum
+a25ecce5-1fef-4e20-9a9a-6d32719720aa	4771438e-849c-4c58-bff8-d14d70e6ba0b	Mammalia	class
+a3350ef6-abe7-4293-8601-fd90df517da7	bee62802-b495-4c4f-80ea-0ecc27ff902b	Fungi	kingdom
+b04981ef-538e-40ba-b501-a6868f1b4cfb	bee62802-b495-4c4f-80ea-0ecc27ff902b	Metazoa	kingdom
+b429ff56-06fd-4a8c-8dc4-cc2783459754	6b2b2c59-b725-466c-b7d7-51e732845a80	Arachnida	class
+b5dbfd1f-4230-49c9-ba7b-70755d52efa2	0021def7-fa27-4202-8251-34bb65920f45	Hemiptera	order
+ba78dc32-122e-443e-9c18-38d59c1e055c	4771438e-849c-4c58-bff8-d14d70e6ba0b	Lissamphibia	no rank
+bc820c58-2239-4fbb-b134-cb1bd593e2e4	e61a111a-621e-4155-b320-6f8f2c78003d	Archaea	no rank
+be725292-d6d1-4cc7-8091-99f97610a859	b04981ef-538e-40ba-b501-a6868f1b4cfb	Cnidaria	phylum
+bee62802-b495-4c4f-80ea-0ecc27ff902b	3b5138ef-c25c-4a25-9f1c-ffd85bd342e1	Opisthokonta	no rank
+bf9106bd-4102-4d65-a805-e13142c583db	b04981ef-538e-40ba-b501-a6868f1b4cfb	Echinodermata	phylum
+c97531f3-a520-4d26-ad7f-1f0df23b594b	0021def7-fa27-4202-8251-34bb65920f45	Odonata	order
+d1cf2f54-560c-4ca5-9885-050e94a41153	f0c754f6-6604-402e-8bc3-8207d829e321	Stramenopiles	no rank
+d7663716-b494-43e5-a326-8d0fceb89796	773f89c1-841a-4bd6-949c-35c2bc9538c4	Tracheophyta	phylum
+e3464cf8-d2c9-4098-a24e-bfe88e9d969d	47b31f50-bd30-4538-b6e0-857bb19d6e8e	Crassiclitellata	order
+e51c46a3-c346-4e0d-9def-336b6863c072	b04981ef-538e-40ba-b501-a6868f1b4cfb	Ctenophora	phylum
+e5f65a01-f5ff-473a-8219-b8f61b664c43	773f89c1-841a-4bd6-949c-35c2bc9538c4	Rhodophyta	phylum
+e61a111a-621e-4155-b320-6f8f2c78003d	3488a150-bbcb-44cd-b7cf-af758ef8686e	Cellular Organisms	no rank
+eb986dcd-b09b-4f21-9450-1c82dac22cbc	6b2b2c59-b725-466c-b7d7-51e732845a80	Ostracoda	class
+ebb0f799-4e90-49f1-b923-02e078eab855	f0c754f6-6604-402e-8bc3-8207d829e321	Rhizaria	no rank
+ebeaf07f-e0db-49f8-8416-b664c3015bcd	b04981ef-538e-40ba-b501-a6868f1b4cfb	Platyhelminthes	phylum
+ed305a18-32e1-4dd1-800f-96830d643a63	0021def7-fa27-4202-8251-34bb65920f45	Lepidoptera	order
+f0c754f6-6604-402e-8bc3-8207d829e321	3b5138ef-c25c-4a25-9f1c-ffd85bd342e1	SAR (Stramenopiles, Alveolates, Rhizaria)	no rank
+f3da8c3f-3f19-49ef-af4d-50a04b565238	3488a150-bbcb-44cd-b7cf-af758ef8686e	Viruses	no rank
+fa2877d5-9d87-42d1-95b0-fafe8c42d526	b04981ef-538e-40ba-b501-a6868f1b4cfb	Nematoda	phylum
+fd82c9f3-8ee7-4b98-b0ca-2ad106359082	6b2b2c59-b725-466c-b7d7-51e732845a80	Malacostraca	class
