@@ -145,6 +145,7 @@ Flags to add: unplaced
 |   new/import: 33346
 | Ended with: 1 roots, 48216 taxa
 (Life 3488a150-bbcb-44cd-b7cf-af758ef8686e=trunk:309e36b5-c6be-4663-80fc-e52b9002d574+2?)
+** No taxon found in ASW with this name or id: Amphibia Linnaeus, 1758
 --- Aligning ASW-8 to target ---
 | 3 quasi-tips
 | LUB match: 1 graft: 688 differ: 3 bad: 0
@@ -259,12 +260,19 @@ Flags to add: unplaced
 |   sibling-sink mismatch: 7
 | Ended with: 1 roots, 168720 taxa
 (Life 3488a150-bbcb-44cd-b7cf-af758ef8686e=trunk:309e36b5-c6be-4663-80fc-e52b9002d574+2?)
+** No taxon found in WOR with this name or id: Alveolata Cavalier-Smith
+** No taxon found in WOR with this name or id: Bacillariophyceae Haeckel, 1878
+** No taxon found in WOR with this name or id: Discosea Cavalier-Smith et al., 2004
+** No taxon found in WOR with this name or id: Echinamoebida Cavalier-Smith, 2004
+** No taxon found in WOR with this name or id: Endomyxa Cavalier-Smith, 2002, emend. 2009
 ** Ambiguous taxon name: Euglenozoa (WOR)
 **   Euglenozoa (phylum 536202) = (Euglenozoa WOR:536202+4) in -
 **   Euglenozoa (subkingdom 582161) = (Euglenozoa WOR:582161+1?) in -
 ** Ambiguous taxon name: Euglenozoa (WOR)
 **   Euglenozoa (phylum 536202) = (Euglenozoa WOR:536202+4) in -
 **   Euglenozoa (subkingdom 582161) = (Euglenozoa WOR:582161+1?) in -
+** No taxon found in WOR with this name or id: Flabellinia Smirnov et al., 2005
+** No taxon found in WOR with this name or id: Phaeodaria Haeckel, 1879
 ** No taxon found in WOR with this name or id: Polycystina Ehrenberg, 1838
 ** No taxon found in WOR with this name or id: Tubulinea Smirnov et al., 2005
 ** Ambiguous taxon name: Ctenophora (dwh)
