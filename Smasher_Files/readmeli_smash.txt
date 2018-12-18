@@ -12,11 +12,10 @@ https://editors.eol.org/eol_php_code/applications/content_server/resources/WoRMS
 https://editors.eol.org/eol_php_code/applications/content_server/resources/Catalogue_of_Life_Protists_DH.tar.gz
 https://editors.eol.org/eol_php_code/applications/content_server/resources/Catalogue_of_Life_DH.tar.gz
 
-
 Below is from: https://docs.google.com/document/d/1OHOKPZz-wNGFPkcQ8EcJWoyjXy3lZLim5pUuX9zpi5c/edit
 
 To execute python file that builds dwh on the server type this into command line:
-bin/jython build_dwh.py
+$ bin/jython build_dwh.py
 
 1. There are three folders in smasher. The one you want is reference-taxonomy
 2. Inside this directory are several files and folder. Including build_dwh.py, which is the code that actually runs smasher and brings all the individual hierarchies together
@@ -27,6 +26,10 @@ bin/jython build_dwh.py
 5. One thing smasher does use to help it merge hierarchies is rank. But, it needs to know about all the ranks and their order or it doesn’t know what to do. Our hierarchies had a lot of odd ranks, 
   so I had to add them to the list of known ranks for smasher to use. There is a Rank.java file where I’ve added new ranks. If you need to add more ranks, this is where you would do so. 
   The file is in /home/annethessen/reference-taxonomy/org/opentreeoflife/taxa
+  
+  ELI: after updating Rank.java, you must compile this file to create a new Rank.class file.
+  $ javac Rank.java
+  
 
 6. In the ‘t’ directory is another directory called ‘tax’. This is where all the input hierarchies go. Each version of each hierarchy should have its own directory.
 
@@ -45,7 +48,20 @@ reference-taxonomy/
     /separation/
   /t/
     /tax/
-    
+===============================================================================================================================================================
+now I'm able to scp from local to eol-smasher
+scp filename.ext smasher:~/temp/.
+scp smash_v1.zip smasher:~/temp/.
+scp build_dwh.py smasher:~/temp/.
 
+scp from eol-smasher to local MacMini:
+scp smasher:~/temp/synonyms.tsv ~/Desktop/eee/
+scp smasher:~/temp/taxonomy.tsv ~/Desktop/eee/
+scp smasher:~/temp/build_dwh.py.bak ~/Desktop/eee/
+scp smasher:~/temp/Rank.java ~/Desktop/eee/
 
-
+===============================================================================================================================================================
+===============================================================================================================================================================
+===============================================================================================================================================================
+===============================================================================================================================================================
+===============================================================================================================================================================

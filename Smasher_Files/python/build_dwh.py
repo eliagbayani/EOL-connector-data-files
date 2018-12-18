@@ -24,19 +24,19 @@ dwh.setSkeleton(Taxonomy.getTaxonomy('tax/separation/', 'separation'))
 
 #use this to load the taxonomies
 
-trunk = Taxonomy.getTaxonomy('t/tax/2018_12/trunk/', 'trunk')
-ictv = Taxonomy.getTaxonomy('t/tax/2018_12/ictv/', 'ictv')
-IOC = Taxonomy.getTaxonomy('t/tax/2018_12/IOC/', 'IOC')
-ASW = Taxonomy.getTaxonomy('t/tax/2018_12/ASW/', 'ASW')
-ODO = Taxonomy.getTaxonomy('t/tax/2018_12/ODO/', 'ODO')
-BOM = Taxonomy.getTaxonomy('t/tax/2018_12/BOM/', 'BOM')
-ERE = Taxonomy.getTaxonomy('t/tax/2018_12/ERE/', 'ERE')
-ONY = Taxonomy.getTaxonomy('t/tax/2018_12/ONY/', 'ONY')
-EET = Taxonomy.getTaxonomy('t/tax/2018_12/EET/', 'EET')
-NCBI = Taxonomy.getTaxonomy('t/tax/2018_12/NCBI/', 'NCBI')
-WOR = Taxonomy.getTaxonomy('t/tax/2018_12/WOR/', 'WOR')
-CLP = Taxonomy.getTaxonomy('t/tax/2018_12/CLP/', 'CLP')
-COL = Taxonomy.getTaxonomy('t/tax/2018_12/COL/', 'COL')
+trunk = Taxonomy.getTaxonomy('t/tax_2018_12/trunk/', 'trunk')
+ictv = Taxonomy.getTaxonomy('t/tax_2018_12/ictv/', 'ictv')
+IOC = Taxonomy.getTaxonomy('t/tax_2018_12/IOC/', 'IOC')
+ASW = Taxonomy.getTaxonomy('t/tax_2018_12/ASW/', 'ASW')
+ODO = Taxonomy.getTaxonomy('t/tax_2018_12/ODO/', 'ODO')
+BOM = Taxonomy.getTaxonomy('t/tax_2018_12/BOM/', 'BOM')
+ERE = Taxonomy.getTaxonomy('t/tax_2018_12/ERE/', 'ERE')
+ONY = Taxonomy.getTaxonomy('t/tax_2018_12/ONY/', 'ONY')
+EET = Taxonomy.getTaxonomy('t/tax_2018_12/EET/', 'EET')
+NCBI = Taxonomy.getTaxonomy('t/tax_2018_12/NCBI/', 'NCBI')
+WOR = Taxonomy.getTaxonomy('t/tax_2018_12/WOR/', 'WOR')
+CLP = Taxonomy.getTaxonomy('t/tax_2018_12/CLP/', 'CLP')
+COL = Taxonomy.getTaxonomy('t/tax_2018_12/COL/', 'COL')
 
 #Use this to absorb one taxonomy into another
 
