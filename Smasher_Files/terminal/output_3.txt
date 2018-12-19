@@ -313,7 +313,6 @@ Flags to add: unplaced
 ** Ambiguous taxon name: Acidobacteria (WOR)
 **   Acidobacteria (phylum 564402) = (Acidobacteria WOR:564402+2) in -
 **   Acidobacteria (class 571177) = (Acidobacteria WOR:571177+1) in -
-** No taxon found in dwh with this name or id: Fredericqia 
 --- Aligning WOR-3 to target ---
 | 4581 quasi-tips
 | LUB match: 2162 graft: 7138 differ: 409 bad: 0
@@ -487,10 +486,6 @@ Flags to add: unplaced
 ** Ambiguous taxon name: Diplura (dwh)
 **   Diplura (class in clade Opisthokonta) = (Diplura =trunk:02259fc5-8d31-4c96-9d10-3870f51aba6a+6) in Arthropoda
 **   Diplura (genus in clade SAR (Stramenopiles, Alveolates, Rhizaria)) = (Diplura =NCBI:371965+1) in Stramenopiles
-** No taxon found in dwh with this name or id: Limacodidae 
-** No taxon found in dwh with this name or id: Osteoglossidae 
-** No taxon found in dwh with this name or id: Percichthyidae 
-** No taxon found in dwh with this name or id: Rhombosoleidae 
 ** Ambiguous taxon name: Cephalorhyncha (COL)
 **   Cephalorhyncha (phylum 42981583) = (Cephalorhyncha COL:42981583+3) in -
 **   Cephalorhyncha (genus 43096708) = (Cephalorhyncha COL:43096708+3) in -

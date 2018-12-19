@@ -63,6 +63,8 @@ scp filename.ext smasher:~/temp/.
 scp smash_v3.zip smasher:~/temp/.
 scp build_dwh.py smasher:~/temp/.
 
+scp results_2018_12_19.zip archive:~/temp/.
+
 scp from eol-smasher to local MacMini:
 scp smasher:~/temp/synonyms.tsv ~/Desktop/eee/
 scp smasher:~/temp/taxonomy.tsv ~/Desktop/eee/
