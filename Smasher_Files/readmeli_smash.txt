@@ -48,6 +48,15 @@ reference-taxonomy/
     /separation/
   /t/
     /tax/
+
+run in eol-smasher:
+zip -r test_2018_12_19.zip test/
+run in local:
+scp smasher:~/temp/test_2018_12_19.zip ~/Desktop/eee/
+
+
+
+
 ===============================================================================================================================================================
 now I'm able to scp from local to eol-smasher
 scp filename.ext smasher:~/temp/.
@@ -61,6 +70,14 @@ scp smasher:~/temp/build_dwh.py.bak ~/Desktop/eee/
 scp smasher:~/temp/Rank.java ~/Desktop/eee/
 
 ===============================================================================================================================================================
+How do I use zip command to compress a folder?
+The syntax is
+zip -r filename.zip folder
+zip -r filename.zip folder1 folder2
+zip -r filename.zip /path/to/folder1 /path/to/file2
+
+To create compressed archive named data.zip of data folder in the current directory, run:
+zip -r data.zip data/
 ===============================================================================================================================================================
 ===============================================================================================================================================================
 ===============================================================================================================================================================
