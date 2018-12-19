@@ -51,7 +51,7 @@ reference-taxonomy/
 ===============================================================================================================================================================
 now I'm able to scp from local to eol-smasher
 scp filename.ext smasher:~/temp/.
-scp smash_v2.zip smasher:~/temp/.
+scp smash_v3.zip smasher:~/temp/.
 scp build_dwh.py smasher:~/temp/.
 
 scp from eol-smasher to local MacMini:

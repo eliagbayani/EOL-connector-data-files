@@ -1,0 +1,571 @@
+[root@eol-smasher reference-taxonomy]# bin/jython build_dwh.py
+. align-forests: 1
+ -> 
+--- Reading tax/separation/ ---
+| 7 synonym rows, 7 synonyms, 0 patched
+| 1 roots + 11 internal + 43 tips = 55 total, 7 synonyms
+. align-forests: 1
+. lumped: 1
+| Added 7 synonyms
+--- Reading t/tax_2018_12/trunk/ ---
+| 1 unrecognized parent ids, 1 nodes that have them
+| 1 roots + 1813 internal + 7213 tips = 9027 total, 0 synonyms
+--- Reading t/tax_2018_12/ictv/ ---
+| 1 roots + 990 internal + 4853 tips = 5844 total, 0 synonyms
+--- Reading t/tax_2018_12/IOC/ ---
+| 1 roots + 7569 internal + 25956 tips = 33526 total, 0 synonyms
+--- Reading t/tax_2018_12/ASW/ ---
+| 1 roots + 691 internal + 7886 tips = 8578 total, 0 synonyms
+--- Reading t/tax_2018_12/ODO/ ---
+| 1 homonym pairs, of which 0 siblings, 0 cousins, 0 parent/child, 0 aunt/niece
+| 1 roots + 732 internal + 6298 tips = 7031 total, 0 synonyms
+--- Reading t/tax_2018_12/BOM/ ---
+| 1 roots + 1041 internal + 6152 tips = 7194 total, 0 synonyms
+--- Reading t/tax_2018_12/ERE/ ---
+| 1 roots + 61 internal + 1385 tips = 1447 total, 0 synonyms
+--- Reading t/tax_2018_12/ONY/ ---
+| 1 roots + 55 internal + 180 tips = 236 total, 0 synonyms
+--- Reading t/tax_2018_12/EET/ ---
+| 1 unrecognized parent ids, 1 nodes that have them
+| 1 roots + 440 internal + 5315 tips = 5756 total, 0 synonyms
+--- Reading t/tax_2018_12/NCBI/ ---
+** Taxon is its own parent: 1 root
+* Setting flags on (root NCBI:1+1), size 72662
+Flags to add: unplaced
+ Preexisting flags: 
+ Lineage: (root NCBI:1+1)
+| Monotypic parent/child (Chrysiogenetes NCBI:200938+1) (Chrysiogenetes NCBI:118001+1)
+| Monotypic parent/child (Thermodesulfobacteria NCBI:200940+1) (Thermodesulfobacteria NCBI:67799+1)
+| Monotypic parent/child (Thermotogae NCBI:200918+1) (Thermotogae NCBI:188708+4)
+| Set name of (Leishmania subgenus Leishmania NCBI:38568+10) (was Leishmania)
+| Monotypic parent/child (Aquificae NCBI:200783+1) (Aquificae NCBI:187857+2)
+| Monotypic parent/child (Deferribacteres NCBI:200930+1) (Deferribacteres NCBI:68337+1)
+| NCBI-2: elided 0 nodes, fixed 1 subgenus names, 5 monotypic p/c homs, 3 nonmonotypic
+# homonym parent/child (Thermotogae NCBI:188708+4) (Thermotogae NCBI:200918+1)
+# homonym parent/child (Actinobacteria NCBI:1760+22) (Actinobacteria NCBI:201174+6)
+# homonym parent/child (Elusimicrobia NCBI:641853+1) (Elusimicrobia NCBI:74152+2)
+# homonym parent/child (Thermodesulfobacteria NCBI:200940+1) (Thermodesulfobacteria NCBI:67799+1)
+# homonym parent/child (Deferribacteres NCBI:200930+1) (Deferribacteres NCBI:68337+1)
+# homonym parent/child (Gemmatimonadetes NCBI:142182+2) (Gemmatimonadetes NCBI:219685+1)
+# homonym parent/child (Chrysiogenetes NCBI:118001+1) (Chrysiogenetes NCBI:200938+1)
+# homonym parent/child (Aquificae NCBI:187857+2) (Aquificae NCBI:200783+1)
+| 19 homonym pairs, of which 0 siblings, 0 cousins, 8 parent/child, 0 aunt/niece
+| 1 roots + 16637 internal + 73985 tips = 90623 total, 0 synonyms
+--- Reading t/tax_2018_12/WOR/ ---
+* Nontrivial forest: biggest is 36696, 2nd biggest is 5136
+| Monotypic parent/child (Deferribacteres WOR:564353+1) (Deferribacteres WOR:564354+1)
+| Monotypic parent/child (Fibrobacteres WOR:571284+1) (Fibrobacteres WOR:571285+1)
+| Monotypic parent/child (Nucleohelea WOR:590586+1) (Nucleohelea WOR:590587+1)
+| Monotypic parent/child (Fusobacteria WOR:565446+1) (Fusobacteria WOR:565447+1)
+| Monotypic parent/child (Elusimicrobia WOR:571254+1) (Elusimicrobia WOR:571255+1)
+| Monotypic parent/child (Thermodesulfobacteria WOR:567370+1) (Thermodesulfobacteria WOR:567371+1)
+| Monotypic parent/child (Euglenozoa WOR:582161+1?) (Euglenozoa WOR:536202+4)
+| Monotypic parent/child (Gemmatimonadetes WOR:571298+1) (Gemmatimonadetes WOR:571299+1)
+| Monotypic parent/child (Actinobacteria WOR:178057+1) (Actinobacteria WOR:559510+8)
+| Monotypic parent/child (Aquificae WOR:559819+1) (Aquificae WOR:559820+1)
+| Monotypic parent/child (Thermotogae WOR:414721+1) (Thermotogae WOR:414722+1)
+| WOR-3: elided 0 nodes, fixed 0 subgenus names, 11 monotypic p/c homs, 3 nonmonotypic
+# homonym parent/child (Thermotogae WOR:414721+1) (Thermotogae WOR:414722+1)
+# homonym parent/child (Fusobacteria WOR:565446+1) (Fusobacteria WOR:565447+1)
+# homonym parent/child (Acidobacteria WOR:564402+2) (Acidobacteria WOR:571177+1)
+# homonym parent/child (Euglenozoa WOR:536202+4) (Euglenozoa WOR:582161+1?)
+# homonym parent/child (Chloroflexi WOR:564342+6) (Chloroflexi WOR:564346+2)
+# homonym parent/child (Ceramioideae WOR:368722+10) (Ceramioideae WOR:493996)
+# homonym parent/child (Actinobacteria WOR:178057+1) (Actinobacteria WOR:559510+8)
+# homonym parent/child (Elusimicrobia WOR:571254+1) (Elusimicrobia WOR:571255+1)
+# homonym parent/child (Thermodesulfobacteria WOR:567370+1) (Thermodesulfobacteria WOR:567371+1)
+# homonym parent/child (Deferribacteres WOR:564353+1) (Deferribacteres WOR:564354+1)
+| 26 homonym pairs, of which 0 siblings, 0 cousins, 14 parent/child, 0 aunt/niece
+| 26 roots + 9688 internal + 42709 tips = 52423 total, 0 synonyms
+--- Reading t/tax_2018_12/CLP/ ---
+* Nontrivial forest: biggest is 10337, 2nd biggest is 3727
+| 25 homonym pairs, of which 0 siblings, 0 cousins, 0 parent/child, 0 aunt/niece
+| 8 roots + 3185 internal + 17000 tips = 20193 total, 0 synonyms
+--- Reading t/tax_2018_12/COL/ ---
+500000
+1000000
+1500000
+2000000
+| Normalized 2 names
+* Nontrivial forest: biggest is 1434121, 2nd biggest is 434715
+| COL-4: elided 0 nodes, fixed 0 subgenus names, 0 monotypic p/c homs, 10 nonmonotypic
+# homonym parent/child (Stegopterum COL:40709540) (Stegopterum COL:43202923+3)
+# homonym parent/child (Coraebus COL:37419985) (Coraebus COL:42997263+227)
+# homonym parent/child (Polychelidae COL:42982554+9) (Polychelidae COL:43004724+7)
+# homonym parent/child (Sympycnus COL:43071818+307) (Sympycnus COL:8637830)
+# homonym parent/child (Megakhosara COL:40709514) (Megakhosara COL:43202887+3)
+# homonym parent/child (Sphenoptera COL:37431247) (Sphenoptera COL:43240902+1001)
+# homonym parent/child (Callimicra COL:37426237) (Callimicra COL:43241007+60)
+# homonym parent/child (Antianthe COL:43130985+6) (Antianthe COL:8030891)
+# homonym parent/child (Nocaracris COL:40748914) (Nocaracris COL:43046166+41)
+# homonym parent/child (Chrysosoma COL:43072056+402) (Chrysosoma COL:8637886)
+| 2111 homonym pairs, of which 21 siblings, 0 cousins, 10 parent/child, 0 aunt/niece
+| 3 roots + 224746 internal + 1791026 tips = 2015775 total, 2 synonyms
+. new/import: 55
+--- Aligning trunk-5 to target ---
+| 43 quasi-tips
+| LUB match: 7 graft: 1772 differ: 35 bad: 0
+| align-forests: 1
+| lumped: 1
+| same/by-division-name: 55
+| Of 9027 nodes in trunk-5: 55 with name in common, of which 55 matched with existing, 0 blocked
+--- Merging nodes from trunk-5 into union ---
+| Started with: 1 roots, 55 taxa + 1 source roots, 9027 source taxa
+|   new/import: 8944
+|   new/refinement: 28
+|   rank inversion: 1912
+| Ended with: 1 roots, 9027 taxa
+(Life 3488a150-bbcb-44cd-b7cf-af758ef8686e=trunk:309e36b5-c6be-4663-80fc-e52b9002d574+2?)
+--- Aligning ictv-6 to target ---
+| 1 quasi-tips
+| LUB match: 0 graft: 990 differ: 1 bad: 0
+| align-forests: 1
+| lumped: 1
+| same/by-division-name: 1
+| same/curated: 1
+| Of 5844 nodes in ictv-6: 1 with name in common, of which 1 matched with existing, 0 blocked
+--- Merging nodes from ictv-6 into union ---
+| Started with: 1 roots, 9027 taxa + 1 source roots, 5844 source taxa
+|   new/import: 5843
+|   rank inversion: 10
+| Ended with: 1 roots, 14870 taxa
+(Life 3488a150-bbcb-44cd-b7cf-af758ef8686e=trunk:309e36b5-c6be-4663-80fc-e52b9002d574+2?)
+--- Aligning IOC-7 to target ---
+| 161 quasi-tips
+| LUB match: 19 graft: 7390 differ: 161 bad: 0
+| align-forests: 1
+| lumped: 1
+| same/by-division-name: 1
+| same/curated: 2
+| Of 33526 nodes in IOC-7: 180 with name in common, of which 179 matched with existing, 1 blocked
+--- Merging nodes from IOC-7 into union ---
+| Added 1 synonyms
+| Started with: 1 roots, 14870 taxa + 1 source roots, 33526 source taxa
+|   new/import: 33346
+| Ended with: 1 roots, 48216 taxa
+(Life 3488a150-bbcb-44cd-b7cf-af758ef8686e=trunk:309e36b5-c6be-4663-80fc-e52b9002d574+2?)
+--- Aligning ASW-8 to target ---
+| 3 quasi-tips
+| LUB match: 1 graft: 688 differ: 3 bad: 0
+| align-forests: 1
+| lumped: 1
+| same/by-division-name: 1
+| same/curated: 1
+| Of 8578 nodes in ASW-8: 4 with name in common, of which 4 matched with existing, 0 blocked
+--- Merging nodes from ASW-8 into union ---
+| Added 1 synonyms
+| Started with: 1 roots, 48216 taxa + 1 source roots, 8578 source taxa
+|   new/import: 8574
+| Ended with: 1 roots, 56790 taxa
+(Life 3488a150-bbcb-44cd-b7cf-af758ef8686e=trunk:309e36b5-c6be-4663-80fc-e52b9002d574+2?)
+--- Aligning ODO-9 to target ---
+| 1 quasi-tips
+| LUB match: 0 graft: 732 differ: 1 bad: 0
+| align-forests: 1
+| lumped: 1
+| same/by-division-name: 1
+| same/curated: 1
+| Of 7031 nodes in ODO-9: 1 with name in common, of which 1 matched with existing, 0 blocked
+--- Merging nodes from ODO-9 into union ---
+| Started with: 1 roots, 56790 taxa + 1 source roots, 7031 source taxa
+|   new/import: 7030
+| Ended with: 1 roots, 63820 taxa
+(Life 3488a150-bbcb-44cd-b7cf-af758ef8686e=trunk:309e36b5-c6be-4663-80fc-e52b9002d574+2?)
+--- Aligning BOM-10 to target ---
+| 10 quasi-tips
+| LUB match: 1 graft: 1031 differ: 10 bad: 0
+| align-forests: 1
+| lumped: 1
+| same/curated: 1
+| Of 7194 nodes in BOM-10: 11 with name in common, of which 11 matched with existing, 0 blocked
+--- Merging nodes from BOM-10 into union ---
+| Started with: 1 roots, 63820 taxa + 1 source roots, 7194 source taxa
+|   new/import: 7183
+| Ended with: 1 roots, 71003 taxa
+(Life 3488a150-bbcb-44cd-b7cf-af758ef8686e=trunk:309e36b5-c6be-4663-80fc-e52b9002d574+2?)
+--- Aligning ERE-11 to target ---
+| 1 quasi-tips
+| LUB match: 0 graft: 61 differ: 1 bad: 0
+| align-forests: 1
+| lumped: 1
+| same/curated: 1
+| Of 1447 nodes in ERE-11: 1 with name in common, of which 1 matched with existing, 0 blocked
+--- Merging nodes from ERE-11 into union ---
+| Started with: 1 roots, 71003 taxa + 1 source roots, 1447 source taxa
+|   new/import: 1446
+| Ended with: 1 roots, 72449 taxa
+(Life 3488a150-bbcb-44cd-b7cf-af758ef8686e=trunk:309e36b5-c6be-4663-80fc-e52b9002d574+2?)
+--- Aligning ONY-12 to target ---
+| 5 quasi-tips
+| LUB match: 3 graft: 48 differ: 5 bad: 0
+| align-forests: 1
+| lumped: 1
+| same/by-division-name: 1
+| same/curated: 1
+| Of 236 nodes in ONY-12: 8 with name in common, of which 8 matched with existing, 0 blocked
+--- Merging nodes from ONY-12 into union ---
+| Started with: 1 roots, 72449 taxa + 1 source roots, 236 source taxa
+|   new/import: 228
+| Ended with: 1 roots, 72677 taxa
+(Life 3488a150-bbcb-44cd-b7cf-af758ef8686e=trunk:309e36b5-c6be-4663-80fc-e52b9002d574+2?)
+--- Aligning EET-13 to target ---
+| 20 quasi-tips
+| LUB match: 1 graft: 420 differ: 20 bad: 0
+| align-forests: 1
+| lumped: 1
+| same/by-division-name: 1
+| same/curated: 1
+| Of 5756 nodes in EET-13: 25 with name in common, of which 21 matched with existing, 4 blocked
+--- Merging nodes from EET-13 into union ---
+| Started with: 1 roots, 72677 taxa + 1 source roots, 5756 source taxa
+|   new/import: 5735
+| Ended with: 1 roots, 78412 taxa
+(Life 3488a150-bbcb-44cd-b7cf-af758ef8686e=trunk:309e36b5-c6be-4663-80fc-e52b9002d574+2?)
+--- Aligning NCBI-2 to target ---
+| 261 quasi-tips
+| LUB match: 49 graft: 16335 differ: 253 bad: 0
+| align-forests: 1
+| lumped: 3
+| same/by-division-name: 13
+| same/curated: 73
+| Of 90623 nodes in NCBI-2: 306 with name in common, of which 291 matched with existing, 15 blocked
+--- Merging nodes from NCBI-2 into union ---
+* Parent of (Acrasida NCBI:43693+2)'s children's images, (Sainouroidea =trunk:3ed473d0-715a-425f-ae2f-c96c8870fa9f+3), is an ancestor of (Heterolobosea =trunk:5e1d30ec-4b1e-4633-8c82-136beb63ea62)
+| conflict 1 (Apusozoa NCBI:554296+7)
+| conflict 2 (Cavosteliaceae NCBI:435412+5)
+| conflict 3 (Protosteliaceae NCBI:435418+9)
+| conflict 4 (Longamoebia NCBI:1485168+3)
+* Parent of (Goceviidae NCBI:1078847+1)'s children's images, (Pellitida =trunk:3f3b93b6-46bc-49c9-a8ee-5f7997b98141+4), is an ancestor of (Himatismenida =trunk:72aca766-a27a-4873-9cc6-be5761dfa25e+1)
+* Parent of (Pellitidae NCBI:1485080+1)'s children's images, (Pellitida =trunk:3f3b93b6-46bc-49c9-a8ee-5f7997b98141+4), is an ancestor of (Flabellinia =trunk:e5acbc0a-9350-4752-940f-9318cda020ee+6)
+| conflict 5 (Entamoebidae NCBI:33084+3)
+| conflict 6 (Hartmannellidae NCBI:5776+6)
+| conflict 7 (Echinamoebidae NCBI:136448+3)
+* Parent of (Microcoryciidae NCBI:318510+1)'s children's images, (Corycida =trunk:5f2ef310-4b8d-447c-b624-21f6ad179781+3), is an ancestor of (Arcellinida =trunk:e0b4aa70-2b6a-4726-b6c5-754c486de607+5)
+| conflict 8 (Arcellina NCBI:318506+4)
+| conflict 9 (Hyalospheniidae NCBI:318530+15)
+| conflict 10 (Bangiophyceae NCBI:2797+7)
+| conflict 11 (prasinophytes NCBI:3152+13)
+* Parent of (Plasmodiophoridae NCBI:37358+9)'s children's images, (Phagomyxida =trunk:6b69b8d8-489d-4923-934d-3d1fee61975d+2), is an ancestor of (Plasmodiophorida =trunk:b5581122-e216-471c-b7ce-73d853182ef5)
+* Parent of (Oxyrrhinaceae NCBI:174810+1)'s children's images, (Colponemidia =trunk:38dd4bff-9c93-421c-85c6-06b99a12c7f4+4), is an ancestor of (Dinophyceae =trunk:80ec4092-8f80-4c38-b8fa-d67fbf92ddeb)
+* Parent of (Coccidia NCBI:5796+3)'s children's images, (Apicomplexa =trunk:494bfe5a-7a1f-4397-9ffb-b727eb5d7bc1+4), is an ancestor of (Conoidasida =trunk:f76e2c2f-b3f7-4040-88b4-0ab97e500d8e)
+| Added 28 synonyms
+| Started with: 1 roots, 78412 taxa + 1 source roots, 90623 source taxa
+|   new/import: 90259
+|   new/refinement: 2
+|   rank inversion: 35
+|   reject/absorbed: 34
+|   reject/inconsistent: 13
+|   reported conflict: 13
+|   sibling-sink mismatch: 7
+| Ended with: 1 roots, 168720 taxa
+(Life 3488a150-bbcb-44cd-b7cf-af758ef8686e=trunk:309e36b5-c6be-4663-80fc-e52b9002d574+2?)
+** Ambiguous taxon name: Euglenozoa (WOR)
+**   Euglenozoa (phylum 536202) = (Euglenozoa WOR:536202+4) in -
+**   Euglenozoa (subkingdom 582161) = (Euglenozoa WOR:582161+1?) in -
+** Ambiguous taxon name: Euglenozoa (WOR)
+**   Euglenozoa (phylum 536202) = (Euglenozoa WOR:536202+4) in -
+**   Euglenozoa (subkingdom 582161) = (Euglenozoa WOR:582161+1?) in -
+** Ambiguous taxon name: Ctenophora (dwh)
+**   Ctenophora (phylum in clade Opisthokonta) = (Ctenophora e51c46a3-c346-4e0d-9def-336b6863c072=trunk:bb9c27c1-fb0b-4367-9c18-3324d598f123) in Ctenophora
+**   Ctenophora (genus in clade SAR (Stramenopiles, Alveolates, Rhizaria)) = (Ctenophora =NCBI:1003038+1) in Stramenopiles
+** Ambiguous taxon name: Ctenophora (dwh)
+**   Ctenophora (phylum in clade Opisthokonta) = (Ctenophora e51c46a3-c346-4e0d-9def-336b6863c072=trunk:bb9c27c1-fb0b-4367-9c18-3324d598f123) in Ctenophora
+**   Ctenophora (genus in clade SAR (Stramenopiles, Alveolates, Rhizaria)) = (Ctenophora =NCBI:1003038+1) in Stramenopiles
+** Ambiguous taxon name: Diplura (dwh)
+**   Diplura (class in clade Opisthokonta) = (Diplura =trunk:02259fc5-8d31-4c96-9d10-3870f51aba6a+6) in Arthropoda
+**   Diplura (genus in clade SAR (Stramenopiles, Alveolates, Rhizaria)) = (Diplura =NCBI:371965+1) in Stramenopiles
+** Ambiguous taxon name: Vertebrata (dwh)
+**   Vertebrata (subphylum in clade Opisthokonta) = (Vertebrata =trunk:9b03d0ca-fb17-47cc-bea9-0dd19978ea44+4) in Chordata
+**   Vertebrata (genus in kingdom Archaeplastida) = (Vertebrata =NCBI:1261581+8) in Rhodophyta
+** Ambiguous taxon name: Diplonema (WOR)
+**   Diplonema (genus in subkingdom Euglenozoa (subkingdom 582161)) = (Diplonema WOR:146174+2) in -
+**   Diplonema (genus in kingdom Bacteria) = (Diplonema WOR:601568) in -
+** Ambiguous taxon name: Thermotogae (WOR)
+**   Thermotogae (phylum 414721) = (Thermotogae WOR:414721+1) in -
+**   Thermotogae (class 414722) = (Thermotogae WOR:414722+1) in -
+** Ambiguous taxon name: Thermotogae (dwh)
+**   Thermotogae (class NCBI:188708) = (Thermotogae =NCBI:188708+4) in Bacteria
+**   Thermotogae (phylum NCBI:200918) = (Thermotogae =NCBI:200918+1) in Bacteria
+** Ambiguous taxon name: Actinobacteria (WOR)
+**   Actinobacteria (phylum 178057) = (Actinobacteria WOR:178057+1) in -
+**   Actinobacteria (class 559510) = (Actinobacteria WOR:559510+8) in -
+** Ambiguous taxon name: Actinobacteria (dwh)
+**   Actinobacteria (class NCBI:1760) = (Actinobacteria =NCBI:1760+22) in Bacteria
+**   Actinobacteria (phylum NCBI:201174) = (Actinobacteria =NCBI:201174+6) in Bacteria
+** Ambiguous taxon name: Actinobacteria (WOR)
+**   Actinobacteria (phylum 178057) = (Actinobacteria WOR:178057+1) in -
+**   Actinobacteria (class 559510) = (Actinobacteria WOR:559510+8) in -
+** Ambiguous taxon name: Actinobacteria (dwh)
+**   Actinobacteria (class NCBI:1760) = (Actinobacteria =NCBI:1760+22) in Bacteria
+**   Actinobacteria (phylum NCBI:201174) = (Actinobacteria =NCBI:201174+6) in Bacteria
+** Ambiguous taxon name: Elusimicrobia (WOR)
+**   Elusimicrobia (phylum 571254) = (Elusimicrobia WOR:571254+1) in -
+**   Elusimicrobia (class 571255) = (Elusimicrobia WOR:571255+1) in -
+** Ambiguous taxon name: Elusimicrobia (dwh)
+**   Elusimicrobia (class NCBI:641853) = (Elusimicrobia =NCBI:641853+1) in Bacteria
+**   Elusimicrobia (phylum NCBI:74152) = (Elusimicrobia =NCBI:74152+2) in Bacteria
+** Ambiguous taxon name: Gemmatimonadetes (WOR)
+**   Gemmatimonadetes (phylum 571298) = (Gemmatimonadetes WOR:571298+1) in -
+**   Gemmatimonadetes (class 571299) = (Gemmatimonadetes WOR:571299+1) in -
+** Ambiguous taxon name: Gemmatimonadetes (dwh)
+**   Gemmatimonadetes (class NCBI:219685) = (Gemmatimonadetes =NCBI:219685+1) in Bacteria
+**   Gemmatimonadetes (phylum NCBI:142182) = (Gemmatimonadetes =NCBI:142182+2) in Bacteria
+** Ambiguous taxon name: Acidobacteria (WOR)
+**   Acidobacteria (phylum 564402) = (Acidobacteria WOR:564402+2) in -
+**   Acidobacteria (class 571177) = (Acidobacteria WOR:571177+1) in -
+** No taxon found in dwh with this name or id: Fredericqia 
+--- Aligning WOR-3 to target ---
+| 4581 quasi-tips
+| LUB match: 2162 graft: 7138 differ: 409 bad: 0
+| align-forests: 1
+| lumped: 10
+| same/by-division-name: 7
+| same/curated: 64
+| Of 52423 nodes in WOR-3: 6826 with name in common, of which 6779 matched with existing, 47 blocked
+--- Merging nodes from WOR-3 into union ---
+* Parent of (Streptomycineae WOR:559773+1)'s children's images, (Streptomycetales =NCBI:85011+1), is an ancestor of (Actinomycetales =NCBI:2037+1)
+* Parent of (Kineosporiineae WOR:559570+1)'s children's images, (Kineosporiales =NCBI:622452+1), is an ancestor of (Actinomycetales =NCBI:2037+2)
+* Parent of (Catenulisporineae WOR:559523+1)'s children's images, (Catenulisporales =NCBI:414714+2), is an ancestor of (Actinomycetales =NCBI:2037+2)
+* Parent of (Pseudonocardineae WOR:559764+1)'s children's images, (Pseudonocardiales =NCBI:85010+1), is an ancestor of (Actinomycetales =NCBI:2037+3)
+* Parent of (Micromonosporineae WOR:559573+1)'s children's images, (Micromonosporales =NCBI:85008+1), is an ancestor of (Actinomycetales =NCBI:2037+4)
+| conflict 14 (Frankineae WOR:559557+4)
+* Parent of (Propionibacterineae WOR:559752+2)'s children's images, (Propionibacteriales =NCBI:85009+2), is an ancestor of (Actinomycetales =NCBI:2037+6)
+* Parent of (Corynebacterineae WOR:559526+7)'s children's images, (Corynebacteriales =NCBI:85007+8), is an ancestor of (Actinomycetales =NCBI:2037+7)
+* Parent of (Yaniellaceae WOR:559750+1)'s children's images, (Micrococcaceae =NCBI:1268+25), is an ancestor of (Actinomycetales =NCBI:2037+8)
+| conflict 15 (Micrococcineae WOR:393927+13)
+* Parent of (Actinopolysporineae WOR:559519+1)'s children's images, (Actinopolysporales =NCBI:622450+1), is an ancestor of (Actinomycetales =NCBI:2037+10)
+* Parent of (Streptosporangineae WOR:559775+3)'s children's images, (Streptosporangiales =NCBI:85012+3), is an ancestor of (Actinomycetales =NCBI:2037+11)
+* Parent of (Glycomycineae WOR:559567+1)'s children's images, (Glycomycetales =NCBI:85014+1), is an ancestor of (Actinomycetales =NCBI:2037+12)
+| conflict 16 (unplaced Alphaproteobacteria WOR:393093+4)
+| conflict 17 (unplaced Gammaproteobacteria WOR:393076+6)
+| conflict 18 (Thermoanaerobacteriaceae WOR:391949+6)
+| conflict 19 (Synechococcoideae WOR:160571+13)
+| conflict 20 (Pseudanabaenoideae WOR:177498+9)
+| conflict 21 (Synechococcophycideae WOR:493819+3)
+| conflict 22 (Microchaetoideae WOR:493992+5)
+| conflict 23 (Microchaetaceae WOR:147015+8)
+| conflict 24 (unplaced Oscillatoriales WOR:707592+3)
+| Added 22 synonyms
+| Started with: 1 roots, 168720 taxa + 26 source roots, 52423 source taxa
+|   move to parent of former container, instead of to container: 11
+|   new/import: 45234
+|   new/refinement: 31
+|   not-placed/already-unplaced: 6
+|   not-placed/does-not-descend: 22
+|   promoted/internal: 18
+|   rank inversion: 48
+|   reject/absorbed: 304
+|   reject/inconsistent: 57
+|   reported conflict: 57
+|   sibling-sink mismatch: 45
+| Ended with: 1 roots, 214346 taxa
+(Life 3488a150-bbcb-44cd-b7cf-af758ef8686e=trunk:309e36b5-c6be-4663-80fc-e52b9002d574+2?)
+** Ambiguous taxon name: Spongopyle (CLP)
+**   Spongopyle (genus in order Spumellaria) = (Spongopyle CLP:43140040+1) in -
+**   Spongopyle (genus in order Paleo radiozoa) = (Spongopyle CLP:43253951+1) in -
+** Ambiguous taxon name: Spirocyrtis (CLP)
+**   Spirocyrtis (genus in order Nassellaria) = (Spirocyrtis CLP:43140062+2) in -
+**   Spirocyrtis (genus in order Spumellaria) = (Spirocyrtis CLP:43253557+1) in -
+** Ambiguous taxon name: Siphocampe (CLP)
+**   Siphocampe (genus in order Nassellaria) = (Siphocampe CLP:43140064+2) in -
+**   Siphocampe (genus in order Spumellaria) = (Siphocampe CLP:43253556+1) in -
+** Ambiguous taxon name: Eucyrtidium (CLP)
+**   Eucyrtidium (genus in order Nassellaria) = (Eucyrtidium CLP:43140087+9) in -
+**   Eucyrtidium (genus in order Paleo radiozoa) = (Eucyrtidium CLP:43253581+1) in -
+** Ambiguous taxon name: Tetraplecta (CLP)
+**   Tetraplecta (genus in family Plagiacanthidae) = (Tetraplecta CLP:43140120+2) in -
+**   Tetraplecta (genus in family Collozoidae) = (Tetraplecta CLP:43254639+2) in -
+** Ambiguous taxon name: Theocorys (CLP)
+**   Theocorys (genus in order Nassellaria) = (Theocorys CLP:43140149+1) in -
+**   Theocorys (genus in order Paleo radiozoa) = (Theocorys CLP:43253589+5) in -
+** Ambiguous taxon name: Stylosphaera (CLP)
+**   Stylosphaera (genus in order Spumellaria) = (Stylosphaera CLP:43140154+1) in -
+**   Stylosphaera (genus in order Paleo radiozoa) = (Stylosphaera CLP:43254095+1) in -
+** Ambiguous taxon name: Stylodictya (CLP)
+**   Stylodictya (genus in order Spumellaria) = (Stylodictya CLP:43140156+4) in -
+**   Stylodictya (genus in order Nassellaria) = (Stylodictya CLP:43253953+1) in -
+** Ambiguous taxon name: Spongodiscus (CLP)
+**   Spongodiscus (genus in order Spumellaria) = (Spongodiscus CLP:43140168+3) in -
+**   Spongodiscus (genus in order Nassellaria) = (Spongodiscus CLP:43253588+2) in -
+** Ambiguous taxon name: Octodendron (CLP)
+**   Octodendron (genus in order Spumellaria) = (Octodendron CLP:43140201+1) in -
+**   Octodendron (genus in order Paleo radiozoa) = (Octodendron CLP:43253806+1) in -
+** Ambiguous taxon name: Lophocyrtis (CLP)
+**   Lophocyrtis (genus in order Nassellaria) = (Lophocyrtis CLP:43140206+1) in -
+**   Lophocyrtis (genus in order Paleo radiozoa) = (Lophocyrtis CLP:43253576+1) in -
+** Ambiguous taxon name: Lithostrobus (CLP)
+**   Lithostrobus (genus in order Nassellaria) = (Lithostrobus CLP:43140208+3) in -
+**   Lithostrobus (genus in order Paleo radiozoa) = (Lithostrobus CLP:43253944+1) in -
+** Ambiguous taxon name: Lithocampe (CLP)
+**   Lithocampe (genus in order Nassellaria) = (Lithocampe CLP:43140212+1) in -
+**   Lithocampe (genus in order Paleo radiozoa) = (Lithocampe CLP:43253453+3) in -
+** Ambiguous taxon name: Hexastylus (CLP)
+**   Hexastylus (genus in order Spumellaria) = (Hexastylus CLP:43140218+2) in -
+**   Hexastylus (genus in order Paleo radiozoa) = (Hexastylus CLP:43253668+3) in -
+** Ambiguous taxon name: Hexacontium (CLP)
+**   Hexacontium (genus in order Spumellaria) = (Hexacontium CLP:43140221+10) in -
+**   Hexacontium (genus in order Paleo radiozoa) = (Hexacontium CLP:43254136+1) in -
+** Ambiguous taxon name: Haliomma (CLP)
+**   Haliomma (genus in order Spumellaria) = (Haliomma CLP:43140225+1) in -
+**   Haliomma (genus in order Paleo radiozoa) = (Haliomma CLP:43253666+2) in -
+** Ambiguous taxon name: Dictyophimus (CLP)
+**   Dictyophimus (genus in order Nassellaria) = (Dictyophimus CLP:43140236+7) in -
+**   Dictyophimus (genus in order Paleo radiozoa) = (Dictyophimus CLP:43253564+1) in -
+** Ambiguous taxon name: Dictyocoryne (CLP)
+**   Dictyocoryne (genus in order Spumellaria) = (Dictyocoryne CLP:43215511+3) in -
+**   Dictyocoryne (genus in order Nassellaria) = (Dictyocoryne CLP:43254143+2) in -
+** Ambiguous taxon name: Dendrospyris (CLP)
+**   Dendrospyris (genus in order Nassellaria) = (Dendrospyris CLP:43215512+1) in -
+**   Dendrospyris (genus in order Paleo radiozoa) = (Dendrospyris CLP:43253571+1) in -
+** Ambiguous taxon name: Cornutella (CLP)
+**   Cornutella (genus in order Nassellaria) = (Cornutella CLP:43215520+1) in -
+**   Cornutella (genus in order Paleo radiozoa) = (Cornutella CLP:43254099+2) in -
+** Ambiguous taxon name: Ceratospyris (CLP)
+**   Ceratospyris (genus in order Nassellaria) = (Ceratospyris CLP:43216124+2) in -
+**   Ceratospyris (genus in order Paleo radiozoa) = (Ceratospyris CLP:43253565+1) in -
+** Ambiguous taxon name: Calocyclas (CLP)
+**   Calocyclas (genus in order Nassellaria) = (Calocyclas CLP:43235609+1) in -
+**   Calocyclas (genus in order Paleo radiozoa) = (Calocyclas CLP:43253566+1) in -
+** Ambiguous taxon name: Bathropyramis (CLP)
+**   Bathropyramis (genus in order Nassellaria) = (Bathropyramis CLP:43235614+1) in -
+**   Bathropyramis (genus in order Paleo radiozoa) = (Bathropyramis CLP:43254104+1) in -
+** Ambiguous taxon name: Amphisphaera (CLP)
+**   Amphisphaera (genus in order Spumellaria) = (Amphisphaera CLP:43250129+1) in -
+**   Amphisphaera (genus in order Paleo radiozoa) = (Amphisphaera CLP:43254137+1) in -
+--- Aligning CLP-14 to target ---
+| 3636 quasi-tips
+| LUB match: 1119 graft: 1780 differ: 292 bad: 0
+| align-forests: 1
+| lumped: 26
+| same/curated: 16
+| Of 20193 nodes in CLP-14: 4759 with name in common, of which 4759 matched with existing, 0 blocked
+--- Merging nodes from CLP-14 into union ---
+* Parent of (Microsporea CLP:42985692+46)'s children's images, (Naviculaceae =NCBI:67474+57), is an ancestor of (Microsporidia =trunk:b853e371-892f-48c4-a21d-48cd7a04e6ee)
+| conflict 71 (Peritrichida CLP:42986367+17)
+* Parent of (Frontonidae CLP:42986410+1)'s children's images, (Stokesiidae =NCBI:984056+2), is an ancestor of (Hymenostomatida =NCBI:31277+3)
+| conflict 72 (Anophryidae CLP:42986362+2)
+| conflict 73 (Scuticociliatida CLP:42984772+12)
+* Parent of (Trichospiridae CLP:42987383+1)'s children's images, (unplaced Cyanobacteria =WOR:177180+120), is an ancestor of (Ciliophora =trunk:732c289d-d2fc-4c2f-b033-e4d7ff0b93f8+4)
+| conflict 74 (Trichostomatida CLP:42987381+4)
+| conflict 75 (Suctorida CLP:42987386+27)
+| conflict 76 (Kinetofragminophora CLP:42987380+4)
+* Parent of (Trochiliopsidae CLP:42987363+1)'s children's images, (Microthoracidae =NCBI:502088+6), is an ancestor of (Nassulida =NCBI:39563+5)
+* Parent of (Leptopharynidae CLP:42987369+1)'s children's images, (Microthoracidae =NCBI:502088+9), is an ancestor of (Nassulida =NCBI:39563+6)
+| conflict 77 (Neokeronopsidae CLP:42987459+2)
+| conflict 78 (Oxytrichida CLP:42987454+5)
+| conflict 79 (Orthoamphisiellidae CLP:42987448+3)
+| conflict 80 (Rigidothrichidae CLP:42987437+3)
+* Parent of (Psilotrichidae CLP:42987438+2)'s children's images, (Kahliellidae =NCBI:1513333+20), is an ancestor of (Urostylida =NCBI:486728+11)
+| conflict 81 (Hypotrichea CLP:42987433+4)
+* Parent of (Cyttarocylidae CLP:42987635+2)'s children's images, (Cyttarocylididae =NCBI:1176357+2), is an ancestor of (Oligotrichida =WOR:595083?)
+* Parent of (Phacodiniidae CLP:42987676+1)'s children's images, (Heterotrichida =NCBI:5957+14), is an ancestor of (Phacodiniida =WOR:582430?)
+* Parent of (Ducellieriaceae CLP:42990675+1)'s children's images, (Botryochloridaceae =NCBI:240560+10), is an ancestor of (Leptomitales =NCBI:92979+5)
+* Parent of (Developayellaceae CLP:42990699+1)'s children's images, (Developea =trunk:896c935a-1dd4-41a7-a794-5985f242a819+4), is an ancestor of (Developayellales =WOR:590488?)
+* Parent of (Ceratiomyxales CLP:42987205+1)'s children's images, (Protosporangiida =trunk:a037392c-febb-4721-b961-f255bdb7808e+2), is an ancestor of (Variosea =trunk:f8c41aac-cb61-458d-9d69-aec876555d51+20)
+| Added 11 synonyms
+| Started with: 1 roots, 214346 taxa + 8 source roots, 20193 source taxa
+|   move to parent of former container, instead of to container: 17
+|   new/import: 15353
+|   new/refinement: 2
+|   not-placed/does-not-descend: 11
+|   not-placed/same-taxon: 1
+|   promoted/internal: 5
+|   rank inversion: 4
+|   reject/absorbed: 54
+|   reject/inconsistent: 21
+|   reported conflict: 21
+|   sibling-sink mismatch: 13
+| Ended with: 1 roots, 229776 taxa
+(Life 3488a150-bbcb-44cd-b7cf-af758ef8686e=trunk:309e36b5-c6be-4663-80fc-e52b9002d574+2?)
+** Ambiguous taxon name: Axiidae (COL)
+**   Axiidae (family in superfamily Axioidea (superfamily in class Malacostraca)) = (Axiidae COL:42983421+23) in -
+**   Axiidae (family in class Insecta) = (Axiidae COL:42987787+2) in -
+**   Axiidae (family in superfamily Callianassoidea) = (Axiidae COL:42992199+12) in -
+** Ambiguous taxon name: Diplura (COL)
+**   Diplura (order in class Entognatha) = (Diplura COL:42985121+3) in -
+**   Diplura (genus in class Arachnida) = (Diplura COL:43106381+17) in -
+** Ambiguous taxon name: Diplura (dwh)
+**   Diplura (class in clade Opisthokonta) = (Diplura =trunk:02259fc5-8d31-4c96-9d10-3870f51aba6a+6) in Arthropoda
+**   Diplura (genus in clade SAR (Stramenopiles, Alveolates, Rhizaria)) = (Diplura =NCBI:371965+1) in Stramenopiles
+** No taxon found in dwh with this name or id: Limacodidae 
+** No taxon found in dwh with this name or id: Osteoglossidae 
+** No taxon found in dwh with this name or id: Percichthyidae 
+** No taxon found in dwh with this name or id: Rhombosoleidae 
+** Ambiguous taxon name: Cephalorhyncha (COL)
+**   Cephalorhyncha (phylum 42981583) = (Cephalorhyncha COL:42981583+3) in -
+**   Cephalorhyncha (genus 43096708) = (Cephalorhyncha COL:43096708+3) in -
+** Ambiguous taxon name: Bdelloidea (COL)
+**   Bdelloidea (superfamily in phylum Arthropoda) = (Bdelloidea COL:42984420+2) in -
+**   Bdelloidea (order in phylum Rotifera) = (Bdelloidea COL:42988242+4) in -
+** Ambiguous taxon name: Ctenophora (COL)
+**   Ctenophora (phylum 42980990) = (Ctenophora COL:42980990+8) in -
+**   Ctenophora (genus in phylum Arthropoda) = (Ctenophora COL:43053467+22) in -
+** Ambiguous taxon name: Ctenophora (dwh)
+**   Ctenophora (phylum in clade Opisthokonta) = (Ctenophora e51c46a3-c346-4e0d-9def-336b6863c072=trunk:bb9c27c1-fb0b-4367-9c18-3324d598f123) in Ctenophora
+**   Ctenophora (genus in clade SAR (Stramenopiles, Alveolates, Rhizaria)) = (Ctenophora =NCBI:1003038+1) in Stramenopiles
+** Ambiguous taxon name: Asterococcus (COL)
+**   Asterococcus (genus in kingdom Plantae) = (Asterococcus COL:43070487) in -
+**   Asterococcus (genus in kingdom Animalia) = (Asterococcus COL:43079170+9) in -
+** Ambiguous taxon name: Varichaetadrilus (COL)
+**   Varichaetadrilus (genus in family Opistocystidae) = (Varichaetadrilus COL:43060937+1) in -
+**   Varichaetadrilus (genus in family Naididae) = (Varichaetadrilus COL:43168983+10) in -
+--- Aligning COL-4 to target ---
+| 6134 quasi-tips
+| LUB match: 778 graft: 218445 differ: 5512 bad: 0
+| align-forests: 1
+| lumped: 85
+| same/by-division-name: 37
+| same/curated: 112
+| Of 2015775 nodes in COL-4: 7480 with name in common, of which 6853 matched with existing, 627 blocked
+--- Merging nodes from COL-4 into union ---
+* Parent of (Diaporthales COL:42986130+56)'s children's images, (Caudosporidae =CLP:42988774+6), is an ancestor of (Ascomycota =trunk:1bda6574-19a2-4b9d-b2c1-08b0a56206f8)
+* Parent of (Phragmidiaceae COL:42994875+16)'s children's images, (Nosematidae =CLP:42988769+11), is an ancestor of (Basidiomycota =trunk:cbb2bc26-13be-41a2-bac1-b7d0edac03b1)
+* Parent of (Chytridiomycetes COL:42994962+15)'s children's images, (Fungi a3350ef6-abe7-4293-8601-fd90df517da7=trunk:22f4fe4b-7640-458a-a1f1-5044bee7a22d+11), is an ancestor of (Chytridiomycota =trunk:4d3c5804-62e4-4439-add3-87c04fa55e86)
+| conflict 92 (Zoopagomycetes COL:42983072+2)
+* Parent of (Entomophthorales COL:42987061+6)'s children's images, (Neozygitales =trunk:50ab8d27-e455-480a-a075-31e352588a20+1), is an ancestor of (Entomophthoromycetes =trunk:2bfcfbc0-876c-4039-9db6-67d888be7494)
+| conflict 93 (Zygomycota COL:42983071+20)
+* Parent of (Electrentomidae COL:42983633+10)'s children's images, (Manicapsocidae =trunk:259e4b41-b42f-4674-9bc8-9d634d02939d+5), is an ancestor of (Electrentomoidea =trunk:cff9ebf1-887d-4a8f-a99d-a2f35f486f19)
+| conflict 94 (Incurvarioidea COL:42987684+6)
+| conflict 95 (Cosmochthonioidea COL:42984467+5)
+| conflict 96 (Eremelloidea COL:42984465+7)
+| conflict 97 (Eremaeoidea COL:42984547+4)
+| conflict 98 (Unduloribatoidea COL:42984435+3)
+| conflict 99 (Charassobatoidea COL:42984523+3)
+| conflict 100 (Pygophora COL:42981855+3)
+| conflict 101 (Pedunculata COL:42981894+12)
+| conflict 102 (Maxillopoda COL:42981812+13)
+* Parent of (Pararotatoria COL:42988247+1)'s children's images, (Syndermata =trunk:8d2f5252-7324-4aff-ab85-e159f2851c5d+3), is an ancestor of (Rotifera =trunk:d7cd9c0a-1400-4fda-a135-b5a9e9798f93)
+* Parent of (Capsosiphonaceae COL:42993346+1)'s children's images, (Ulotrichaceae =NCBI:205394+8), is an ancestor of (Ulvales =NCBI:3113+20)
+* Parent of (Capparaceae COL:42988910+33)'s children's images, (unplaced Eudicots =trunk:9a21f189-934d-4827-9b4d-4ef022211c5c+3), is an ancestor of (Brassicales =trunk:026aa473-35b8-47c7-b597-440f91590e22+4)
+| Added 86 synonyms
+| Started with: 1 roots, 229776 taxa + 3 source roots, 2015775 source taxa
+|   new/import: 2008684
+|   new/refinement: 8
+|   not-placed/does-not-descend: 12
+|   not-placed/same-taxon: 3
+|   promoted/internal: 12
+|   rank inversion: 628
+|   reject/absorbed: 108
+|   reject/inconsistent: 30
+|   reported conflict: 30
+|   sibling-sink mismatch: 8
+| Ended with: 1 roots, 2238606 taxa
+(Life 3488a150-bbcb-44cd-b7cf-af758ef8686e=trunk:309e36b5-c6be-4663-80fc-e52b9002d574+2?)
+-- Dumping to test/
+| prepare flags for dump
+| 210780 nodes inheriting flags
+| 6095 barren nodes
+| finished inferring
+| Root is Life 
+Writing test/log.tsv
+| Names to log: 1372
+| 39 choice reports
+Writing test/choices.tsv
+Writing test/conflicts.tsv
+121 conflicts
+Writing test/about.json
+Writing test/taxonomy.tsv
+Writing test/synonyms.tsv
+Writing test/forwards.tsv
+| 0 id aliases
+[root@eol-smasher reference-taxonomy]# 
