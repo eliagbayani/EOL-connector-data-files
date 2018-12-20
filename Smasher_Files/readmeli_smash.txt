@@ -54,9 +54,6 @@ zip -r test_2018_12_19.zip test/
 run in local:
 scp smasher:~/temp/test_2018_12_19.zip ~/Desktop/eee/
 
-
-
-
 ===============================================================================================================================================================
 now I'm able to scp from local to eol-smasher
 scp filename.ext smasher:~/temp/.
@@ -81,6 +78,15 @@ zip -r filename.zip /path/to/folder1 /path/to/file2
 To create compressed archive named data.zip of data folder in the current directory, run:
 zip -r data.zip data/
 ===============================================================================================================================================================
+$ mysql -u root -p --local-infile DWH;
+
+to load from txt file:
+mysql> load data local infile '/Users/eliagbayani/Desktop/eee/write2mysql.txt' into table ids_scinames;
+
+to truncate: delete all rows
+TRUNCATE TABLE ids_scinames;
+
+
 ===============================================================================================================================================================
 ===============================================================================================================================================================
 ===============================================================================================================================================================
