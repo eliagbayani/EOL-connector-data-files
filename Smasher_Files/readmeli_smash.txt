@@ -61,6 +61,8 @@ scp smash_v3.zip smasher:~/temp/.
 scp build_dwh.py smasher:~/temp/.
 
 scp results_2018_12_19.zip archive:~/temp/.
+scp 2018_12_19.tar.gz archive:~/temp/.
+scp taxon_with_higherClassification.tab.zip archive:~/temp/.
 
 scp from eol-smasher to local MacMini:
 scp smasher:~/temp/synonyms.tsv ~/Desktop/eee/
@@ -85,8 +87,6 @@ mysql> load data local infile '/Users/eliagbayani/Desktop/eee/write2mysql.txt' i
 
 to truncate: delete all rows
 TRUNCATE TABLE ids_scinames;
-
-
 ===============================================================================================================================================================
 ===============================================================================================================================================================
 ===============================================================================================================================================================
