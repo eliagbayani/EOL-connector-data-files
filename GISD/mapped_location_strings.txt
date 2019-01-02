@@ -143,3 +143,32 @@ West Africa	http://www.geonames.org/6255146
 West Mediterranean Coast	http://eol.org/schema/terms/MediterraneanRegion
 freshwater_terrestrial	http://eol.org/schema/terms/terrestrialAndFreshwater
 marine_terrestrial	http://eol.org/schema/terms/terrestrialAndMarine
+
+added from AntWeb on Jan 2, 2019 start ------------	
+United States of America	http://www.wikidata.org/entity/Q30
+Dutch West Indies 	http://www.wikidata.org/entity/Q25227
+Democratic Republic of Congo 	http://www.wikidata.org/entity/Q974
+Myanmar 	http://www.wikidata.org/entity/Q836
+Congo	http://www.wikidata.org/entity/Q974
+C?te d Ivoirereturn	http://www.wikidata.org/entity/Q1008
+Côte d'Ivoirereturn	http://www.wikidata.org/entity/Q1008
+United States Virgin Islands 	http://www.wikidata.org/entity/Q11703
+Netherlands Antillesreturn	http://www.wikidata.org/entity/Q25227
+Bonaire, Sint Eustatius and Saba	http://www.wikidata.org/entity/Q25227
+Rhodesia	http://www.wikidata.org/entity/Q954
+Timor-Leste	http://www.wikidata.org/entity/Q574
+Europa Islandreturn	http://www.wikidata.org/entity/Q193089
+Juan de Nova Islandreturn	http://www.wikidata.org/entity/Q237034
+Kerguelen Islands 	http://www.wikidata.org/entity/Q46772
+Santa Lucia	http://www.wikidata.org/entity/Q760
+Macaronesia	http://www.wikidata.org/entity/Q105472
+Chagos Islands 	http://www.wikidata.org/entity/Q192188
+Cabo Verde 	http://www.wikidata.org/entity/Q1011
+Siam Thailandreturn	http://www.wikidata.org/entity/Q869
+ECUADOR 	http://www.wikidata.org/entity/Q736
+Federated States of Micronesiareturn	http://www.wikidata.org/entity/Q702
+French Equatorial Africa 	http://www.wikidata.org/entity/Q271894
+Palmyra Atollreturn	http://www.wikidata.org/entity/Q123076
+Cura ao 	http://www.wikidata.org/entity/Q25279
+Mariana Islands	http://www.wikidata.org/entity/Q153732
+added from AntWeb on Jan 2, 2019 end ------------	
