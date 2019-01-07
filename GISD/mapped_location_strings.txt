@@ -172,3 +172,42 @@ Palmyra Atollreturn	http://www.wikidata.org/entity/Q123076
 Cura ao 	http://www.wikidata.org/entity/Q25279
 Mariana Islands	http://www.wikidata.org/entity/Q153732
 added from AntWeb on Jan 2, 2019 end ------------	
+
+added from CITES on Jan 6, 2019 start ------------	
+Bolivia (Plurinational State of)	http://www.geonames.org/3923057
+Democratic People's Republic of Korea	http://www.geonames.org/1873107
+Eswatini	https://www.wikidata.org/entity/Q1050
+Former Serbia and Montenegro	http://www.geonames.org/6290252
+Guinea Bissau	http://www.geonames.org/2372248
+Iran (Islamic Republic of)	http://www.geonames.org/130758
+Micronesia (Federated States of)	http://www.geonames.org/2081918
+Republic of Moldova	http://www.geonames.org/617790
+Sudan [prior to secession of South Sudan]	http://www.geonames.org/366755
+The former Yugoslav Republic of Macedonia	http://www.geonames.org/718075
+Timor-Leste	http://www.geonames.org/1966436
+United Kingdom of Great Britain and Northern Ireland	http://www.geonames.org/2635167
+Venezuela (Bolivarian Republic of)	http://www.geonames.org/3625428
+Anguilla (United Kingdom)	http://www.geonames.org/3573512
+Bermuda (United Kingdom)	http://www.geonames.org/3573345
+British Indian Ocean Territory (United Kingdom)	http://www.geonames.org/1282588
+British Virgin Islands (United Kingdom)	http://www.geonames.org/3577718
+Cayman Islands (United Kingdom)	http://www.geonames.org/3580718
+Clipperton	https://www.wikidata.org/entity/Q161258
+Cocos (Keeling) Islands	http://www.geonames.org/1547376
+Falkland Islands (Malvinas)	http://www.geonames.org/3474414
+French Guiana [FR]	http://www.geonames.org/3381670
+Gibraltar (United Kingdom)	http://www.geonames.org/2411586
+Hong Kong, SAR	http://www.geonames.org/1819730
+Isle of Man (United Kingdom)	http://www.geonames.org/3042225
+Jersey (United Kingdom)	http://www.geonames.org/3042143
+Montserrat (United Kingdom)	http://www.geonames.org/3578097
+Pitcairn Islands (United Kingdom)	http://www.geonames.org/4030699
+Saint Helena and Dependencies (United Kingdom)	http://www.geonames.org/6930057
+South Georgia and South Sandwich Islands (United Kingdom)	http://www.geonames.org/3474415
+Svalbard and Jan Mayen Islands	http://www.geonames.org/607072
+Taiwan, Province of China	http://www.geonames.org/1668284
+Turks and Caicos Islands (United Kingdom)	http://www.geonames.org/3576916
+United States Minor Outlying Islands	http://www.geonames.org/5854968
+Virgin Islands of the USA	http://www.geonames.org/4796775
+added from CITES on Jan 6, 2019 end ------------	
+
