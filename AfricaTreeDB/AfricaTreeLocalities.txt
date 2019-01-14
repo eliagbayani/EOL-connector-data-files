@@ -1,0 +1,113 @@
+distribution.csv	measurementType	measurementValue	measurementRemarks
+Arabian Peninsula to Iran	http://eol.org/schema/terms/Present	http://www.geonames.org/6957698	
+Cameroon Highlands	http://eol.org/schema/terms/Present	http://www.geonames.org/2233387	
+Central Africa (Democratic Republic of Congo, Central African Republic)	http://eol.org/schema/terms/Present	http://www.geonames.org/7729886	
+Central southern Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/SouthernCentralAfrica	
+Eastern Arc Mountains	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/Eastern_Arc_mountains	
+Eastern Arc Mountains: East Usambara Mts	http://eol.org/schema/terms/Present	http://www.geonames.org/10860734	
+Eastern Arc Mountains: Introduced	http://eol.org/schema/terms/IntroducedRange	http://eol.org/schema/terms/Eastern_Arc_mountains	
+Eastern Arc Mountains: Kimboza	http://eol.org/schema/terms/Present	https://www.geonames.org/157337	
+Eastern Arc Mountains: Lower altitudes	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/Eastern_Arc_mountains	Lower altitudes
+Eastern Arc Mountains: Mahenge	http://eol.org/schema/terms/Present	https://www.geonames.org/11004341	
+Eastern Arc Mountains: Malundwe	http://eol.org/schema/terms/Present	https://www.geonames.org/154999	
+Eastern Arc Mountains: Nguru Mts	http://eol.org/schema/terms/Present	https://www.geonames.org/151565	
+Eastern Arc Mountains: Nguru Mts (southern)	http://eol.org/schema/terms/Present	https://www.geonames.org/151565	southern
+Eastern Arc Mountains: Pare Mts	http://eol.org/schema/terms/Present	https://www.geonames.org/151385	
+Eastern Arc Mountains: Rubeho Mts	http://eol.org/schema/terms/Present	https://www.geonames.org/11005633	
+Eastern Arc Mountains: South Pare	http://eol.org/schema/terms/Present	http://www.geonames.org/149747	
+Eastern Arc Mountains: South Pare Mts	http://eol.org/schema/terms/Present	http://www.geonames.org/149747	
+Eastern Arc Mountains: Taita Hills	http://eol.org/schema/terms/Present	http://www.geonames.org/179640	
+Eastern Arc Mountains: Udzungwa Mts	http://eol.org/schema/terms/Present	https://www.geonames.org/9587363	
+Eastern Arc Mountains: Ukaguru	http://eol.org/schema/terms/Present	https://www.geonames.org/149276	
+Eastern Arc Mountains: Ulanga	http://eol.org/schema/terms/Present	https://www.geonames.org/149253	
+Eastern Arc Mountains: Uluguru Mts	http://eol.org/schema/terms/Present	https://www.geonames.org/149228	
+Eastern Arc Mountains: Uluguru Mts (Kimboza)	http://eol.org/schema/terms/Present	https://www.geonames.org/149228	
+Eastern Arc Mountains: Usambara Mts	http://eol.org/schema/terms/Present	https://www.geonames.org/149148	
+Eastern Arc Mountains: West Usambara Mts	http://eol.org/schema/terms/Present	https://www.geonames.org/149148	
+Equatorial Guinea (Bioko)	http://eol.org/schema/terms/Present	http://www.geonames.org/2309096	(Bioko)
+Ethiopia to Zimbabwe	http://eol.org/schema/terms/Present	"http://www.geonames.org/337996, http://www.geonames.org/878675"	
+Horn of Africa	http://eol.org/schema/terms/Present	http://www.geonames.org/11820342	
+Lake Malawi	http://eol.org/schema/terms/Present	http://www.geonames.org/927384	
+Lake Malawi region	http://eol.org/schema/terms/Present	http://www.geonames.org/927384	
+Lake Tangan	http://eol.org/schema/terms/Present	http://www.geonames.org/175122	
+Lake Tanganyika	http://eol.org/schema/terms/Present	http://www.geonames.org/175122	
+Lake Tanganyika region	http://eol.org/schema/terms/Present	http://www.geonames.org/175122	
+Lake Tanganyika region (Mbizi)	http://eol.org/schema/terms/Present	http://www.geonames.org/175122	(Mbizi)
+Lake Victoria region	http://eol.org/schema/terms/Present	http://www.geonames.org/148996	
+Lake Victoria region (possible)	http://eol.org/schema/terms/Present	http://www.geonames.org/148996	(possible)
+Madagascar and islands	http://eol.org/schema/terms/Present	http://www.geonames.org/1062947	
+Malesia	http://eol.org/schema/terms/Present	http://www.geonames.org/1643084	Malesia
+Neotropics	http://eol.org/schema/terms/Present	https://www.wikidata.org/entity/Q217151	
+Nigeria to Uganda	http://eol.org/schema/terms/Present	"http://www.geonames.org/2328926, http://www.geonames.org/226074"	
+Pemba Island (Ngezi Forest Reserve)	http://eol.org/schema/terms/Present	https://www.geonames.org/150737	
+Somalia to Mozambique and Malawi	http://eol.org/schema/terms/Present	"http://www.geonames.org/51537, http://www.geonames.org/1036973, http://www.geonames.org/927384"	
+Tanzania to southern Africa	http://eol.org/schema/terms/Present	"http://www.geonames.org/149590, http://www.geonames.org/9406051"	
+Zambia-Malawi border	http://eol.org/schema/terms/Present	"http://www.geonames.org/895949, http://www.geonames.org/927384"	
+Central Africa	http://eol.org/schema/terms/Present	http://www.geonames.org/7729886	
+Central Kenya	http://eol.org/schema/terms/Present	http://www.geonames.org/192950	central Kenya
+Central tropical Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/TropicalAfrica	central tropical Africa
+coastal Kenya	http://eol.org/schema/terms/Present	http://www.geonames.org/192950	coastal
+coastal Mozambique	http://eol.org/schema/terms/Present	http://www.geonames.org/1036973	coastal
+coastal Tanzania	http://eol.org/schema/terms/Present	http://www.geonames.org/149590	coastal
+"coastal Tanzania (Matumbi Hills, Namakutwa, Ruawa Forest Reserve)"	http://eol.org/schema/terms/Present	http://www.geonames.org/149590	"coastal (Matumbi Hills, Namakutwa, Ruawa Forest Reserve)"
+coastal Tanzania (Pande)	http://eol.org/schema/terms/Present	http://www.geonames.org/149590	coastal (Pande)
+coastal Tanzania (Pemba)	http://eol.org/schema/terms/Present	http://www.geonames.org/149590	coastal (Pemba)
+"coastal Tanzania (Pugu, Kazimzumbwi, Matumbi)"	http://eol.org/schema/terms/Present	http://www.geonames.org/149590	"coastal (Pugu, Kazimzumbwi, Matumbi)"
+coastal Eastern Africa	http://eol.org/schema/terms/Present	http://www.geonames.org/7729889	coastal
+disjunct to Angola	http://eol.org/schema/terms/Present	http://www.geonames.org/3351879	disjunct population
+disjunct to Cameroon	http://eol.org/schema/terms/Present	http://www.geonames.org/2233387	disjunct population
+disjunct to Central Africa	http://eol.org/schema/terms/Present	http://www.geonames.org/7729886	disjunct population
+disjunct to Sao Tomð	http://eol.org/schema/terms/Present	http://www.geonames.org/2410764	disjunct population
+disjunct to Uganda	http://eol.org/schema/terms/Present	http://www.geonames.org/226074	disjunct population
+disjunct to Central and western Africa	http://eol.org/schema/terms/Present	"http://www.geonames.org/7729886, http://www.geonames.org/7729885"	disjunct population
+disjunct to South tropical Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/TropicalAfrica	"disjunct population, Southern Tropical Africa"
+disjunct to western Africa	http://eol.org/schema/terms/Present	http://www.geonames.org/7729885	disjunct population
+East-Central Africa	http://eol.org/schema/terms/Present	http://www.geonames.org/7729889	East-central
+Eastern Africa	http://eol.org/schema/terms/Present	http://www.geonames.org/7729889	
+Eastern Democratic Republic of Congo	http://eol.org/schema/terms/Present	http://www.wikidata.org/entity/Q974	Eastern
+Eastern Kenya	http://eol.org/schema/terms/Present	http://www.geonames.org/192950	Eastern
+Eastern tropical Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/TropicalAfrica	Eastern
+Eastern tropical Africa to India	http://eol.org/schema/terms/Present	"http://eol.org/schema/terms/TropicalAfrica, http://www.geonames.org/1269750"	
+eastwards to Madagascar	http://eol.org/schema/terms/Present	"http://www.geonames.org/7729889, http://www.geonames.org/1062947"	
+islands in Indian Ocean	http://eol.org/schema/terms/Present	http://www.marineregions.org/mrgid/1904	
+islands in Pacific Ocean	http://eol.org/schema/terms/Present	http://www.marineregions.org/mrgid/1903	
+north-Eastern Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/NortheastAfrica	
+north-Eastern tropical Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/TropicalAfrica	Northeastern
+northern Africa	http://eol.org/schema/terms/Present	http://www.geonames.org/7729887	
+northern Malawi	http://eol.org/schema/terms/Present	http://www.geonames.org/927384	Northern
+northern Malawi-Zambia border	http://eol.org/schema/terms/Present	"http://www.geonames.org/927384, http://www.geonames.org/895949"	
+northern Somalia	http://eol.org/schema/terms/Present	http://www.geonames.org/51537	Northern
+northern Tanzania	http://eol.org/schema/terms/Present	http://www.geonames.org/149590	Northern
+northern Tanzania (Mbulu)	http://eol.org/schema/terms/Present	http://www.geonames.org/149590	Northern (Mbulu)
+South to Natal (South Africa)	http://eol.org/schema/terms/Present	http://www.geonames.org/953987	South to Natal
+South tropical Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/TropicalAfrica	Southern
+South-Central Africa	http://eol.org/schema/terms/Present	http://www.geonames.org/9406051	South-Central
+South-Central Kenya	http://eol.org/schema/terms/Present	http://www.geonames.org/192950	South-Central
+South-Central tropical Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/TropicalAfrica	South-Central
+South-Eastern Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/SoutheasternAfrica	
+South-Eastern Kenya	http://eol.org/schema/terms/Present	http://www.geonames.org/192950	Southeastern
+South-Eastern tropical Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/TropicalAfrica	Southeastern
+South-western Arabian Peninsula	http://eol.org/schema/terms/Present	http://www.geonames.org/6957698	Southwestern
+South-western Uganda	http://eol.org/schema/terms/Present	http://www.geonames.org/226074	Southwestern
+southeast Kenya	http://eol.org/schema/terms/Present	http://www.geonames.org/192950	Southeastern
+southeastern Africa to southern Africa	http://eol.org/schema/terms/Present	"http://www.geonames.org/9406051, http://eol.org/schema/terms/SoutheasternAfrica"	
+southern Africa	http://eol.org/schema/terms/Present	http://www.geonames.org/9406051	
+southern Africa to Madagascar	http://eol.org/schema/terms/Present	"http://www.geonames.org/9406051, http://www.geonames.org/1062947"	
+southern Asiatic Coast	DISCARD		
+southern Eastern tropical Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/TropicalAfrica	Southeastern
+southern Europe	http://eol.org/schema/terms/Present	http://www.geonames.org/9408658	
+southern Somalia	http://eol.org/schema/terms/Present	http://www.geonames.org/51537	Southern
+southern Sudan	http://eol.org/schema/terms/Present	http://www.geonames.org/7909807	
+southern Uganda	http://eol.org/schema/terms/Present	http://www.geonames.org/226074	Southern
+southern tropical Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/TropicalAfrica	Southern
+subtropics worldwide	http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/ENVO_01000205	
+tropical Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/TropicalAfrica	
+tropical Asia	http://eol.org/schema/terms/Present	http://www.wikidata.org/entity/Q7845753	
+tropical East Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/TropicalAfrica	East-central
+tropical Central Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/TropicalAfrica	Central
+tropical South-Eastern Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/TropicalAfrica	Southeastern
+tropical southern Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/TropicalAfrica	Southern
+tropics worldwide	http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/ENVO_01000204	
+West-Central Africa	http://eol.org/schema/terms/Present	http://www.geonames.org/7729886	West-central
+western Africa	http://eol.org/schema/terms/Present	http://www.geonames.org/7729885	
+western Kenya	http://eol.org/schema/terms/Present	http://www.geonames.org/192950	Western
