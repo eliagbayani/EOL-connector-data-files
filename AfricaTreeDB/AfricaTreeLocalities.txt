@@ -57,7 +57,7 @@ coastal Eastern Africa	http://eol.org/schema/terms/Present	http://www.geonames.o
 disjunct to Angola	http://eol.org/schema/terms/Present	http://www.geonames.org/3351879	disjunct population
 disjunct to Cameroon	http://eol.org/schema/terms/Present	http://www.geonames.org/2233387	disjunct population
 disjunct to Central Africa	http://eol.org/schema/terms/Present	http://www.geonames.org/7729886	disjunct population
-disjunct to Sao Tomð	http://eol.org/schema/terms/Present	http://www.geonames.org/2410764	disjunct population
+disjunct to Sao Tomé	http://eol.org/schema/terms/Present	http://www.geonames.org/2410764	disjunct population
 disjunct to Uganda	http://eol.org/schema/terms/Present	http://www.geonames.org/226074	disjunct population
 disjunct to Central and western Africa	http://eol.org/schema/terms/Present	"http://www.geonames.org/7729886, http://www.geonames.org/7729885"	disjunct population
 disjunct to South tropical Africa	http://eol.org/schema/terms/Present	http://eol.org/schema/terms/TropicalAfrica	"disjunct population, Southern Tropical Africa"
