@@ -211,3 +211,43 @@ United States Minor Outlying Islands	http://www.geonames.org/5854968
 Virgin Islands of the USA	http://www.geonames.org/4796775
 added from CITES on Jan 6, 2019 end ------------	
 
+added from Diptera Central America (DATA-1769) on Feb 21, 2019 start ------------	
+Abyssinia	http://www.geonames.org/337996
+Neotropics	https://www.wikidata.org/entity/Q217151
+Trinidad	http://www.geonames.org/3573591
+southern USA	http://www.wikidata.org/entity/Q578170
+Amazon	http://www.geonames.org/3407731
+Georgia (USA)	http://www.geonames.org/614540
+northern Amazon	http://www.geonames.org/3407731
+Bismark	http://www.geonames.org/2099398
+German East Africa	http://www.geonames.org/7729889
+Bismark Archipelago	http://www.geonames.org/2099398
+BismarkArchipelago	http://www.geonames.org/2099398
+Ind	
+Krakatau	
+BZ	
+Western Amazon	http://www.geonames.org/3407731
+Condul?????	
+widespread Neotropical	https://www.wikidata.org/entity/Q217151
+Fernando Po Island	
+Finaland	http://www.geonames.org/660013
+Middle Asia	http://marineregions.org/mrgid/1921
+nearly cosmopolitan	
+Domin	
+Western USA	http://www.wikidata.org/entity/Q578170
+New World	http://www.geonames.org/10861432
+Majorca	http://www.geonames.org/2510769
+RSA	
+Juan Fernandez Is (Chile)	http://www.geonames.org/3886788
+Neotropical Region	https://www.wikidata.org/entity/Q217151
+neotropics	https://www.wikidata.org/entity/Q217151
+Amazon Region	http://www.geonames.org/3407731
+St. Kitts	http://www.geonames.org/3575174
+Indochina	http://www.geonames.org/6255147
+Andes	http://www.geonames.org/6255150
+Texas (USA)	http://www.geonames.org/4736286
+pantropical	http://www.wikidata.org/entity/Q42530
+Indo-China	http://www.geonames.org/6255147
+Erythraea???	
+added from Diptera Central America (DATA-1769) on Feb 21, 2019 end ------------	
+
