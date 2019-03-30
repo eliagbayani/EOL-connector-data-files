@@ -30,6 +30,7 @@ Coasts Of The Caribbean	http://www.geonames.org/7729891
 Columbia River	
 Congo	http://www.geonames.org/2260494
 Congo, The Democratic Republic Of The	http://www.wikidata.org/entity/Q974
+Congo, the Democratic Republic of the	http://www.wikidata.org/entity/Q974
 Cote D'ivoire	http://www.geonames.org/2287781
 Danube River (ex-yugoslavia)	
 Dneiper River	
