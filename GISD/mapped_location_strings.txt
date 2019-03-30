@@ -58,6 +58,7 @@ Indian - Ocean Western	http://www.marineregions.org/mrgid/1904
 Indo-china	http://www.geonames.org/6942346
 Indo-pacific Region	http://www.marineregions.org/mrgid/14289
 Iran, Islamic Republic Of	http://www.geonames.org/130758
+Iran, Islamic Republic of	http://www.geonames.org/130758
 Isle Of Man	http://www.geonames.org/3042225
 Korea, Democratic People's Republic Of	http://www.geonames.org/1873107
 Korea, Republic Of	http://www.geonames.org/1835841 
