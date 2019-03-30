@@ -139,7 +139,7 @@ Upper Lake Constance
 Ural River	
 Viet Nam	http://www.geonames.org/1562822
 Virgin Islands, British	http://www.geonames.org/3577718
-Virgin Islands, U.s.	http://www.geonames.org/4796775
+Virgin Islands, U.S.	http://www.geonames.org/4796775
 Wallis And Futuna	http://www.geonames.org/4034749
 West Africa	http://www.geonames.org/6255146
 West Mediterranean Coast	http://eol.org/schema/terms/MediterraneanRegion
