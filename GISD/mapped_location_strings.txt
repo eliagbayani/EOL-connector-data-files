@@ -251,3 +251,259 @@ Indo-China	http://www.geonames.org/6255147
 Erythraea???	
 added from Diptera Central America (DATA-1769) on Feb 21, 2019 end ------------	
 
+added from AmphibiaWeb (DATA-1806) on Mar 30, 2019 start ------------	
+Afghanistan	http://www.geonames.org/1149361
+Albania	http://www.geonames.org/783754
+Algeria	http://www.geonames.org/2589581
+Andorra	http://www.geonames.org/3041565
+Angola	http://www.geonames.org/3351879
+Anguilla	http://www.geonames.org/3573512
+Antigua and Barbuda	http://www.geonames.org/3576396
+Argentina	http://www.geonames.org/3865483
+Armenia	http://www.geonames.org/174982
+Aruba	http://www.geonames.org/3577279
+Australia	http://www.geonames.org/2077456
+Austria	http://www.geonames.org/2782113
+Azerbaijan	http://www.geonames.org/587116
+Bahamas	http://www.geonames.org/3572887
+Bangladesh	http://www.geonames.org/1210997
+Barbados	http://www.geonames.org/3374084
+Belarus	http://www.geonames.org/630336
+Belgium	http://www.geonames.org/2802361
+Belize	http://www.geonames.org/3582678
+Benin	http://www.geonames.org/2395170
+Bhutan	http://www.geonames.org/1252634
+Bolivia	http://www.geonames.org/3923057
+Bosnia and Herzegovina	http://www.geonames.org/3277605
+Botswana	http://www.geonames.org/933860
+Brazil	http://www.geonames.org/3469034
+Brunei Darussalam	http://www.geonames.org/1820814
+Bulgaria	http://www.geonames.org/732800
+Burkina Faso	http://www.geonames.org/2361809
+Burundi	http://www.geonames.org/433561
+Cambodia	http://www.geonames.org/1831722
+Cameroon	http://www.geonames.org/2233387
+Canada	http://www.geonames.org/6251999
+Cayman Islands	http://www.geonames.org/3580718
+Central African Republic	http://www.geonames.org/239880
+Chad	http://www.geonames.org/2434508
+Chile	http://www.geonames.org/3895114
+China	http://www.geonames.org/1814991
+Colombia	http://www.geonames.org/3686110
+Congo	http://www.geonames.org/2260494
+"Congo	 the Democratic Republic of the"	http://www.wikidata.org/entity/Q974
+Costa Rica	http://www.geonames.org/3624060
+Croatia	http://www.geonames.org/3202326
+Cuba	http://www.geonames.org/3562981
+Cyprus	http://www.geonames.org/146669
+Czech Republic	http://www.geonames.org/3077311
+Denmark	http://www.geonames.org/2623032
+Djibouti	http://www.geonames.org/223816
+Dominica	http://www.geonames.org/3575830
+Dominican Republic	http://www.geonames.org/3508796
+Ecuador	http://www.geonames.org/3658394
+Egypt	http://www.geonames.org/357994
+El Salvador	http://www.geonames.org/3585968
+Equatorial Guinea	http://www.geonames.org/2309096
+Eritrea	http://www.geonames.org/338010
+Estonia	http://www.geonames.org/453733
+Ethiopia	http://www.geonames.org/337996
+Fiji	http://www.geonames.org/2205218
+Finland	http://www.geonames.org/660013
+France	http://www.geonames.org/3017382
+French Guiana	http://www.geonames.org/3381670
+Gabon	http://www.geonames.org/2400553
+Gambia	http://www.geonames.org/2413451
+Georgia	http://www.geonames.org/614540
+Germany	http://www.geonames.org/2921044
+Ghana	http://www.geonames.org/2300660
+Greece	http://www.geonames.org/390903
+Grenada	http://www.geonames.org/3580239
+Guadeloupe	http://www.geonames.org/3579143
+Guam	http://www.geonames.org/4043988
+Guatemala	http://www.geonames.org/3595528
+Guinea	http://www.geonames.org/2420477
+Guinea-Bissau	http://www.geonames.org/2372248
+Guyana	http://www.geonames.org/3378535
+Haiti	http://www.geonames.org/3723988
+Honduras	http://www.geonames.org/3608932
+Hong Kong	http://www.geonames.org/1819730
+Hungary	http://www.geonames.org/719819
+India	http://www.geonames.org/1269750
+Indonesia	http://www.geonames.org/1643084
+"Iran	 Islamic Republic of"	http://www.geonames.org/130758
+Iraq	http://www.geonames.org/99237
+Ireland	http://www.geonames.org/2963597
+Israel	http://www.geonames.org/294640
+Italy	http://www.geonames.org/3175395
+Jamaica	http://www.geonames.org/3489940
+Japan	http://www.geonames.org/1861060
+Jordan	http://www.geonames.org/248816
+Kazakhstan	http://www.geonames.org/1522867
+Kenya	http://www.geonames.org/192950
+"Korea	 Republic of"	http://www.geonames.org/1835841
+Kyrgyzstan	http://www.geonames.org/1527747
+Lao People's Democratic Republic	http://www.geonames.org/1655842
+Latvia	http://www.geonames.org/458258
+Lebanon	http://www.geonames.org/272103
+Lesotho	http://www.geonames.org/932692
+Liberia	http://www.geonames.org/2275384
+Libyan Arab Jamahiriya	http://www.geonames.org/2215636
+Liechtenstein	http://www.geonames.org/3042058
+Lithuania	http://www.geonames.org/597427
+Luxembourg	http://www.geonames.org/2960313
+Macau	http://www.geonames.org/1821275
+"Macedonia	 the Former Yugoslav Republic of"	http://www.geonames.org/718075
+Madagascar	http://www.geonames.org/1062947
+Malawi	http://www.geonames.org/927384
+Malaysia	http://www.geonames.org/1733045
+Maldives	http://www.geonames.org/1282028
+Mali	http://www.geonames.org/2453866
+Malta	http://www.geonames.org/2562770
+Martinique	http://www.geonames.org/3570311
+Mauritania	http://www.geonames.org/2378080
+Mauritius	http://www.geonames.org/934292
+Mexico	http://www.geonames.org/3996063
+"Moldova	 Republic of"	http://www.geonames.org/617790
+Monaco	http://www.geonames.org/2993457
+Mongolia	http://www.geonames.org/2029969
+Montenegro	http://www.geonames.org/3194884
+Montserrat	http://www.geonames.org/3578097
+Morocco	http://www.geonames.org/2542007
+Mozambique	http://www.geonames.org/1036973
+Myanmar	https://www.wikidata.org/entity/Q836
+Namibia	http://www.geonames.org/3355338
+Nepal	http://www.geonames.org/1282988
+Netherlands	http://www.geonames.org/2750405
+Netherlands Antilles	https://www.wikidata.org/entity/Q25227
+New Zealand	http://www.geonames.org/2186224
+Nicaragua	http://www.geonames.org/3617476
+Niger	http://www.geonames.org/2440476
+Nigeria	http://www.geonames.org/2328926
+Norway	http://www.geonames.org/3144096
+Oman	http://www.geonames.org/286963
+Pakistan	http://www.geonames.org/1168579
+Panama	http://www.geonames.org/3703430
+Papua New Guinea	http://www.geonames.org/2088628
+Paraguay	http://www.geonames.org/3437598
+Peru	http://www.geonames.org/3932488
+Philippines	http://www.geonames.org/1694008
+Poland	http://www.geonames.org/798544
+Portugal	http://www.geonames.org/2264397
+Puerto Rico	http://www.geonames.org/4566966
+Romania	http://www.geonames.org/798549
+Russian Federation	http://www.geonames.org/2017370
+Rwanda	http://www.geonames.org/49518
+Saint Kitts and Nevis	http://www.geonames.org/3575174
+Saint Lucia	http://www.geonames.org/3576468
+Saint Vincent and the Grenadines	http://www.geonames.org/3577815
+Sao Tome and Principe	http://www.geonames.org/2410758
+Saudi Arabia	http://www.geonames.org/102358
+Senegal	http://www.geonames.org/2245662
+Serbia	http://www.geonames.org/6290252
+Seychelles	http://www.geonames.org/241170
+Sierra Leone	http://www.geonames.org/2403846
+Singapore	http://www.geonames.org/1880251
+Slovakia	http://www.geonames.org/3057568
+Slovenia	http://www.geonames.org/3190538
+Solomon Islands	http://www.geonames.org/2103350
+Somalia	http://www.geonames.org/51537
+South Africa	http://www.geonames.org/953987
+Spain	http://www.geonames.org/2510769
+Sri Lanka	http://www.geonames.org/1227603
+Sudan	http://www.geonames.org/366755
+Suriname	http://www.geonames.org/3382998
+Swaziland	http://www.geonames.org/934841
+Sweden	http://www.geonames.org/2661886
+Switzerland	http://www.geonames.org/2658434
+Syrian Arab Republic	http://www.geonames.org/163843
+Taiwan	http://www.geonames.org/1668284
+Tajikistan	http://www.geonames.org/1220409
+"Tanzania	 United Republic of"	http://www.geonames.org/149590
+Thailand	http://www.geonames.org/1605651
+Togo	http://www.geonames.org/2363686
+Trinidad and Tobago	http://www.geonames.org/3573591
+Tunisia	http://www.geonames.org/2464461
+Turkey	http://www.geonames.org/298795
+Turkmenistan	http://www.geonames.org/1218197
+Turks and Caicos Islands	http://www.geonames.org/3576916
+Uganda	http://www.geonames.org/226074
+Ukraine	http://www.geonames.org/690791
+United Arab Emirates	http://www.geonames.org/290557
+United Kingdom	http://www.geonames.org/2635167
+United States	http://www.geonames.org/6252001
+Uruguay	http://www.geonames.org/3439705
+Uzbekistan	http://www.geonames.org/1512440
+Venezuela	http://www.geonames.org/3625428
+Viet Nam	http://www.geonames.org/1562822
+"Virgin Islands	 British"	http://www.geonames.org/3577718
+"Virgin Islands	 U.S."	https://www.wikidata.org/entity/Q11703
+Western Sahara	http://www.geonames.org/2461445
+Yemen	http://www.geonames.org/69543
+Zambia	http://www.geonames.org/895949
+Zimbabwe	http://www.geonames.org/878675
+AK	http://www.geonames.org/5879092
+HI	http://www.geonames.org/5855797
+WA	http://www.geonames.org/5815135
+OR	http://www.geonames.org/5744337
+CA	http://www.geonames.org/5332921
+MT	http://www.geonames.org/5667009
+ID	http://www.geonames.org/5596512
+UT	http://www.geonames.org/5549030
+AZ	http://www.geonames.org/5551752
+WY	http://www.geonames.org/5843591
+CO	http://www.geonames.org/5417618
+NM	http://www.geonames.org/5481136
+ND	http://www.geonames.org/5690763
+SD	http://www.geonames.org/5769223
+NE	http://www.geonames.org/5073708
+KS	http://www.geonames.org/4273857
+OK	http://www.geonames.org/4544379
+TX	http://www.geonames.org/4736286
+MN	http://www.geonames.org/5037779
+IA	http://www.geonames.org/4862182
+MO	http://www.geonames.org/4398678
+AR	http://www.geonames.org/4099753
+LA	http://www.geonames.org/4331987
+WI	http://www.geonames.org/5279468
+IL	http://www.geonames.org/4896861
+TN	http://www.geonames.org/4662168
+MS	http://www.geonames.org/4436296
+MI	http://www.geonames.org/5001836
+IN	http://www.geonames.org/4921868
+KY	http://www.geonames.org/6254925
+AL	http://www.geonames.org/4829764
+OH	http://www.geonames.org/5165418
+WV	http://www.geonames.org/4826850
+VA	http://www.geonames.org/6254928
+NC	http://www.geonames.org/4482348
+SC	http://www.geonames.org/4597040
+GA	https://www.geonames.org/4197000
+FL	http://www.geonames.org/4155751
+ME	http://www.geonames.org/4971068
+NH	http://www.geonames.org/5090174
+VT	http://www.geonames.org/5242283
+MA	http://www.geonames.org/6254926
+RI	http://www.geonames.org/5224323
+CT	http://www.geonames.org/4831725
+NY	http://www.geonames.org/5128638
+PA	http://www.geonames.org/6254927
+NJ	http://www.geonames.org/5101760
+DE	http://www.geonames.org/4142224
+MD	http://www.geonames.org/4361885
+DC	http://www.geonames.org/4138106
+Yukon	https://www.wikidata.org/entity/Q2009
+Northwest+Territories	https://www.wikidata.org/entity/Q2007
+Nunavut	https://www.wikidata.org/entity/Q2023
+British+Columbia	http://www.geonames.org/5909050
+Alberta	http://www.geonames.org/5883102
+Saskatchewan	http://www.geonames.org/6141242
+Manitoba	http://www.geonames.org/6065171
+Ontario	http://www.geonames.org/6093943
+Quebec	http://www.wikidata.org/entity/Q176
+New+Brunswick	http://www.geonames.org/6087430
+Newfoundland+and+Labrador	http://www.geonames.org/6354959
+Nova+Scotia	http://www.geonames.org/6091530
+Prince+Edward+Island	http://www.geonames.org/6113358
+added from AmphibiaWeb (DATA-1806) on Mar 30, 2019 end ------------	
+
