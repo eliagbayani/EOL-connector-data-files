@@ -509,3 +509,21 @@ Nova+Scotia	http://www.geonames.org/6091530
 Prince+Edward+Island	http://www.geonames.org/6113358
 added from AmphibiaWeb (DATA-1806) on Mar 30, 2019 end ------------	
 
+added from CABI Invasive Species Compendium (DATA-1806) on Apr 2, 2019 start ------------	
+Africa South of Sahara	http://www.geonames.org/9406051
+Finland (mainland)	http://www.geonames.org/660013
+Kermadec Islands	http://www.geonames.org/4032961
+Line Islands	http://www.geonames.org/4030940
+Maharashtra	http://www.geonames.org/1264418
+Maine	http://www.geonames.org/4971068
+Mediterranean countries	http://eol.org/schema/terms/MediterraneanRegion
+Midway Islands	http://www.geonames.org/5854943
+Odisha	http://www.geonames.org/1261029
+Phoenix Islands	http://www.geonames.org/7521379
+Prince Edward Island	http://www.geonames.org/6113358
+Rhode Island	http://www.geonames.org/5224323
+US Minor Outlying Islands	http://www.geonames.org/5854968
+Wake Island	http://www.geonames.org/4041685
+added from CABI Invasive Species Compendium (DATA-1806) on Apr 2, 2019 end ------------	
+
+
