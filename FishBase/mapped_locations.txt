@@ -1,0 +1,285 @@
+﻿North Western Atlantic	http://eol.org/schema/terms/NorthWestAtlantic
+North Western Pacific	http://eol.org/schema/terms/NorthWestAtlantic
+Northwest Atlantic	http://eol.org/schema/terms/NorthWestAtlantic
+Northwestern Atlantic	http://eol.org/schema/terms/NorthWestAtlantic
+Nortwest Atlantic	http://eol.org/schema/terms/NorthWestAtlantic
+Nowthwestern Atlantic	http://eol.org/schema/terms/NorthWestAtlantic
+the northwestern Atlantic	http://eol.org/schema/terms/NorthWestAtlantic
+Also Lake Nyasa basin	http://marineregions.org/mrgid/2231
+Occurs on Malawi shores	http://marineregions.org/mrgid/2231
+Central-western Atlantic	http://marineregions.org/mrgid/5165
+Weatern Atlantic	http://marineregions.org/mrgid/5165
+West Atlantic	http://marineregions.org/mrgid/5165
+West Central Atlantic	http://marineregions.org/mrgid/5165
+Western  Atlantic	http://marineregions.org/mrgid/5165
+Western Atlanic Ocean	http://marineregions.org/mrgid/5165
+Western Atlantci	http://marineregions.org/mrgid/5165
+Western Atlantic	http://marineregions.org/mrgid/5165
+western Atlantic	http://marineregions.org/mrgid/5165
+Western Atlantic (88°45 W-38°19 W	http://marineregions.org/mrgid/5165
+Western Atlantic Ocean	http://marineregions.org/mrgid/5165
+Western Central Atlantic	http://marineregions.org/mrgid/5165
+western Central Atlantic	http://marineregions.org/mrgid/5165
+Western central Atlantic	http://marineregions.org/mrgid/5165
+Westren Atlantic	http://marineregions.org/mrgid/5165
+Central Eastern Atlantic	http://marineregions.org/mrgid/9237
+East Atlantic	http://marineregions.org/mrgid/9237
+Eastern Atlantic	http://marineregions.org/mrgid/9237
+eastern Atlantic	http://marineregions.org/mrgid/9237
+Eastern Atlantic Ocean	http://marineregions.org/mrgid/9237
+Eastern Central  Atlantic	http://marineregions.org/mrgid/9237
+Eastern Central Atlantic	http://marineregions.org/mrgid/9237
+Eastern tropical Atlantic	http://marineregions.org/mrgid/9237
+Reported in eastern Atlantic	http://marineregions.org/mrgid/9237
+America	http://www.geonames.org/10861432
+Americas	http://www.geonames.org/10861432
+North-west Pacific	http://www.geonames.org/2113242
+Northwest Pacifc	http://www.geonames.org/2113242
+Northwest Pacific	http://www.geonames.org/2113242
+Northwest Pacific Ocean	http://www.geonames.org/2113242
+Northwestern Pacific	http://www.geonames.org/2113242
+Nortwest Pacific	http://www.geonames.org/2113242
+Western North Pacific	http://www.geonames.org/2113242
+North  Atlantic	http://www.geonames.org/3411923
+North of Eastern Central Atlantic	http://www.geonames.org/3411923
+North-eastern Atlantic	http://www.geonames.org/3411923
+Northeast  Atlantic	http://www.geonames.org/3411923
+Northeast Atlantic	http://www.geonames.org/3411923
+Northeast Atlantic 	http://www.geonames.org/3411923
+Northeastern Atlantic	http://www.geonames.org/3411923
+Northern Atlantic (temperate	http://www.geonames.org/3411923
+Populations from Brazil	http://www.geonames.org/3469034
+Northeast Pacific	http://www.geonames.org/4019877
+NorthEast Pacific	http://www.geonames.org/4019877
+northeast Pacific	http://www.geonames.org/4019877
+Northeastern Pacific	http://www.geonames.org/4019877
+Central Pacific	http://www.geonames.org/4030959
+Northwestern Central Pacific	http://www.geonames.org/4030959
+West Central Pacific	http://www.geonames.org/4030959
+Western Cental Pacific	http://www.geonames.org/4030959
+Western Central Pacific	http://www.geonames.org/4030959
+Afrika	http://www.geonames.org/6255146
+East Indo-West Pacific	http://www.marineregions.org/mrgid/14289
+Indo Pacific	http://www.marineregions.org/mrgid/14289
+Indo West Pacific	http://www.marineregions.org/mrgid/14289
+Indo- West Pacific	http://www.marineregions.org/mrgid/14289
+Indo-East-Pacific	http://www.marineregions.org/mrgid/14289
+Indo-Malay	http://www.marineregions.org/mrgid/14289
+Indo-Malay Archipelago	http://www.marineregions.org/mrgid/14289
+Indo-Pacifc	http://www.marineregions.org/mrgid/14289
+Indo-Pacific	http://www.marineregions.org/mrgid/14289
+Indo-Pacific 	http://www.marineregions.org/mrgid/14289
+Indo-pan-Pacific	http://www.marineregions.org/mrgid/14289
+Indo-West Central Pacific	http://www.marineregions.org/mrgid/14289
+Indo-West Pacific	http://www.marineregions.org/mrgid/14289
+Indo-west Pacific	http://www.marineregions.org/mrgid/14289
+Indo-West Pacific Ocean	http://www.marineregions.org/mrgid/14289
+Indo-west-central Pacific	http://www.marineregions.org/mrgid/14289
+Indo-west-central Pacific Ocean	http://www.marineregions.org/mrgid/14289
+Indo-West-Pacific	http://www.marineregions.org/mrgid/14289
+Indo-Western Central Pacific	http://www.marineregions.org/mrgid/14289
+Indo-Western Pacific	http://www.marineregions.org/mrgid/14289
+Indo-western Pacific	http://www.marineregions.org/mrgid/14289
+Probably Indo-Pacific	http://www.marineregions.org/mrgid/14289
+Atlantic	http://www.marineregions.org/mrgid/1902
+Central Atlantic	http://www.marineregions.org/mrgid/1902
+Tropical Atlantic Ocean	http://www.marineregions.org/mrgid/1902
+and Pacific	http://www.marineregions.org/mrgid/1903
+Pacific (Western)	http://www.marineregions.org/mrgid/1903
+Pacific Ocean 	http://www.marineregions.org/mrgid/1903
+Pacific Ocean drainages	http://www.marineregions.org/mrgid/1903
+Pacific Oceans	http://www.marineregions.org/mrgid/1903
+Pacific oceans	http://www.marineregions.org/mrgid/1903
+Pacific Western Central	http://www.marineregions.org/mrgid/1903
+Pacifique	http://www.marineregions.org/mrgid/1903
+Pasific Ocean	http://www.marineregions.org/mrgid/1903
+West Pacific	http://www.marineregions.org/mrgid/1903
+West Pacific Ocean	http://www.marineregions.org/mrgid/1903
+Western  Pacific	http://www.marineregions.org/mrgid/1903
+Western Pacific	http://www.marineregions.org/mrgid/1903
+western Pacific	http://www.marineregions.org/mrgid/1903
+Western Pacific Ocean	http://www.marineregions.org/mrgid/1903
+Western Paciific	http://www.marineregions.org/mrgid/1903
+Western South	http://www.marineregions.org/mrgid/1903
+WesternPacific	http://www.marineregions.org/mrgid/1903
+Also known from the western Indian Ocean	http://www.marineregions.org/mrgid/1904
+Easrtern Indian Ocean	http://www.marineregions.org/mrgid/1904
+East Indian	http://www.marineregions.org/mrgid/1904
+East Indian Ocean	http://www.marineregions.org/mrgid/1904
+East indian Ocean	http://www.marineregions.org/mrgid/1904
+Easten Indian Ocean	http://www.marineregions.org/mrgid/1904
+Eastern Indian	http://www.marineregions.org/mrgid/1904
+Eastern Indian Ocean	http://www.marineregions.org/mrgid/1904
+eastern Indian Ocean	http://www.marineregions.org/mrgid/1904
+Indian	http://www.marineregions.org/mrgid/1904
+Indian Oean	http://www.marineregions.org/mrgid/1904
+Indiant Ocean	http://www.marineregions.org/mrgid/1904
+North-Western Indian Ocean	http://www.marineregions.org/mrgid/1904
+Northeast Indian Ocean	http://www.marineregions.org/mrgid/1904
+Northern Indian Ocean	http://www.marineregions.org/mrgid/1904
+Northwestern Indian Ocean	http://www.marineregions.org/mrgid/1904
+Southern Indian	http://www.marineregions.org/mrgid/1904
+Southern Indian Ocean	http://www.marineregions.org/mrgid/1904
+Southwest  Indian Ocean	http://www.marineregions.org/mrgid/1904
+Southwest Indian Ocean	http://www.marineregions.org/mrgid/1904
+Southwestern Indian Ocean	http://www.marineregions.org/mrgid/1904
+West Indian Ocean	http://www.marineregions.org/mrgid/1904
+Westen Indian Ocean	http://www.marineregions.org/mrgid/1904
+Western  Indian Ocean	http://www.marineregions.org/mrgid/1904
+Western Central  Indian Ocean	http://www.marineregions.org/mrgid/1904
+Western Indian	http://www.marineregions.org/mrgid/1904
+Western Indian Ocea	http://www.marineregions.org/mrgid/1904
+Western Indian Ocean	http://www.marineregions.org/mrgid/1904
+western Indian Ocean	http://www.marineregions.org/mrgid/1904
+Western Indian Ocean aand East Africa	http://www.marineregions.org/mrgid/1904
+western Indian Oceans	http://www.marineregions.org/mrgid/1904
+Also known in the southern parts of Mediterranean	http://www.marineregions.org/mrgid/1905
+Mediteranean Sea or Red Sea	http://www.marineregions.org/mrgid/1905
+Mediterranean basin	http://www.marineregions.org/mrgid/1905
+Meditteranean	http://www.marineregions.org/mrgid/1905
+the Mediterranean	http://www.marineregions.org/mrgid/1905
+Antarctic 	http://www.marineregions.org/mrgid/1907
+Antarctic (Pacific)	http://www.marineregions.org/mrgid/1907
+Antarctic Indian Ocean	http://www.marineregions.org/mrgid/1907
+Antarctic Ocean	http://www.marineregions.org/mrgid/1907
+Antartic	http://www.marineregions.org/mrgid/1907
+Circumglobal in southern waters	http://www.marineregions.org/mrgid/1907
+East Antarctica	http://www.marineregions.org/mrgid/1907
+North Central Pacific	http://www.marineregions.org/mrgid/1908
+Northern Pacific	http://www.marineregions.org/mrgid/1908
+Pacific South West	http://www.marineregions.org/mrgid/1910
+Southeast Pacfiic	http://www.marineregions.org/mrgid/1910
+Southeast Pacific	http://www.marineregions.org/mrgid/1910
+Southeast Pacific (Ref. 27540)	http://www.marineregions.org/mrgid/1910
+Southeastern Pacific	http://www.marineregions.org/mrgid/1910
+Southern Pacific	http://www.marineregions.org/mrgid/1910
+Southwest Pacific	http://www.marineregions.org/mrgid/1910
+southwest Pacific	http://www.marineregions.org/mrgid/1910
+Southwest Pacific 	http://www.marineregions.org/mrgid/1910
+Southwestern Pacific	http://www.marineregions.org/mrgid/1910
+Southwestern Pacific Ocean	http://www.marineregions.org/mrgid/1910
+and Northeast Atlantic	http://www.marineregions.org/mrgid/1912
+(Ref. 89357);  Southwest Atlantic	http://www.marineregions.org/mrgid/1914
+Also found in Southwestern Atlantic	http://www.marineregions.org/mrgid/1914
+Also recorded from Southeast Atlantic	http://www.marineregions.org/mrgid/1914
+and Southeast Atlantic	http://www.marineregions.org/mrgid/1914
+Antarctic Atlantic	http://www.marineregions.org/mrgid/1914
+Austral Atlantic	http://www.marineregions.org/mrgid/1914
+Southeast  Atlantic	http://www.marineregions.org/mrgid/1914
+Southeast Atlantic	http://www.marineregions.org/mrgid/1914
+Southern Atlantic	http://www.marineregions.org/mrgid/1914
+Southwest  Atlantic	http://www.marineregions.org/mrgid/1914
+Southwest Atlantic	http://www.marineregions.org/mrgid/1914
+Southwest Atlantic (Ref. 6077)	http://www.marineregions.org/mrgid/1914
+Southwest Atlantic Ocean	http://www.marineregions.org/mrgid/1914
+Southwestern Atlantic	http://www.marineregions.org/mrgid/1914
+Souutheast Atlantic	http://www.marineregions.org/mrgid/1914
+Western South Atlantic	http://www.marineregions.org/mrgid/1914
+Aegean basin	http://www.marineregions.org/mrgid/3315
+Sub-Antarctic	http://www.wikidata.org/entity/Q1141556
+adjacent Arctic	https://www.wikidata.org/entity/Q25322
+and further north in meridional currents	
+and Western Pacific	http://www.marineregions.org/mrgid/1903
+Artic	http://www.geonames.org/2960860
+Atlantic Western Indian Ocean	
+Caspian basin	http://www.geonames.org/630671
+Central	
+central America	http://www.geonames.org/7729892
+Central eastern  Pacific	http://marineregions.org/mrgid/14288
+Central Eastern Pacific	http://marineregions.org/mrgid/14288
+Central eastern Pacific	http://marineregions.org/mrgid/14288
+Central Indian Ocean	http://www.marineregions.org/mrgid/1904
+Circumarctic	http://www.geonames.org/2960860
+Circumglobal	
+Circumglobal in equatorial	
+Circumglobal in subtropical waters	
+Circumglobal in temperate	
+Circumtropical	http://www.wikidata.org/entity/Q42530
+Circumtropicam	http://www.wikidata.org/entity/Q42530
+coincide with the geographic location of the Subtropical Convergence)	
+Cosmopolitan in tropical	http://www.wikidata.org/entity/Q42530
+Currently known only from southern Japan	http://www.geonames.org/1861060
+East	
+East Central	
+East Pacific	http://marineregions.org/mrgid/14288
+Easten Central Pacific	http://marineregions.org/mrgid/14288
+Eastern	
+Eastern (south of the Cape Verde	
+Eastern Arctic Ocean	http://www.geonames.org/2960860
+Eastern Central Indian Ocean	http://www.marineregions.org/mrgid/1904
+Eastern Central Pacfic	http://marineregions.org/mrgid/14288
+Eastern Central Pacific	http://marineregions.org/mrgid/14288
+Eastern Indo-West Pacific	http://www.marineregions.org/mrgid/14289
+Eastern Pacific	http://marineregions.org/mrgid/14288
+Eastern Pacific Ocean	http://marineregions.org/mrgid/14288
+Euorope	http://www.geonames.org/6255148
+Euorpe	http://www.geonames.org/6255148
+few specimens from the Mid-Atlantic Ridge) Atlantic	http://www.marineregions.org/mrgid/1902
+Former distribution of Hawaii	
+Four populations are recognized in the Amur River basin	
+further north in meridional currents	
+In Anatolia	
+In Europe	http://www.geonames.org/6255148
+In the Etowah River it occurs in the main channel in Dawson	
+including Okinawa-jima Island in the RyukyuPacific Ocean	
+including the following most southern localities of the northern coast	
+Introduced in Mediterranean Sea	
+Kermadec Islands (Ref. 8879);  Southeast Pacific	http://www.geonames.org/4032961
+Known exclusively from subterranean waters in at least three caves in Serra da Bodoquena karst area	http://www.geonames.org/3469034
+larger tributaries of western	
+Lower Guinea	
+Marmara Sea	http://www.marineregions.org/mrgid/3369
+marmoratus	
+New Zealand population	http://www.geonames.org/2186224
+Norrth America	http://www.geonames.org/6255149
+North	
+northern part of the subtropical zone)	
+Northwest	
+Occurrence in the Mediterranean (Ref. 50345)   Indian Ocean	
+Patagonian population	http://www.geonames.org/3841798
+Ranges from the Antarctic Divergence/Weddell-Scotia Confluence	
+Reported from Africa	http://www.geonames.org/6255146
+Sout America	http://www.geonames.org/6255150
+South	
+South Amercia	http://www.geonames.org/6255150
+South Americ	http://www.geonames.org/6255150
+South America 	http://www.geonames.org/6255150
+South Amreica	http://www.geonames.org/6255150
+South Amrerica	http://www.geonames.org/6255150
+South Asia	http://www.geonames.org/7729895
+South East Asia 	http://www.geonames.org/6942346
+South East Atlantic	http://www.marineregions.org/mrgid/1914
+South eastern Pacific	http://www.marineregions.org/mrgid/1910
+South Indian Ocean	http://www.marineregions.org/mrgid/1904
+Southeast North Sea Basin	http://www.marineregions.org/mrgid/2350
+Southeastern Atlantic	http://www.marineregions.org/mrgid/1914
+Southeastern Indian Ocean	http://www.marineregions.org/mrgid/1904
+Southern circumglobal	https://www.wikidata.org/entity/Q41228
+southern coasts	
+Southern hemisphere	https://www.wikidata.org/entity/Q41228
+Southern Oceans	https://www.wikidata.org/entity/Q41228
+subpolar regions	
+subtropical Eastern Atlantic	http://marineregions.org/mrgid/9237
+subtropical waters	
+subtropical waters (Ref. 81283)	
+temperate regions	
+the Conasauga River	
+the east coast of Africa	http://www.geonames.org/7729889
+the Indian Ocean	http://www.marineregions.org/mrgid/1904
+the northern boundary limits (usually considered	
+the Red Sea	http://www.marineregions.org/mrgid/4264
+There are four substantiated records of this subspecies in the southern hemisphere	
+Trichomycterus megantoni has been collected at several localities from southeastern Perú atthe Santuario Nacional Machiguenga Megantoni	http://www.geonames.org/3932488
+Tropical areas in all three oceans	http://www.wikidata.org/entity/Q42530
+tropical waters	http://www.wikidata.org/entity/Q42530
+Tropical waters of all three oceans with extensions into higher latitudes in western boundary currents	http://www.wikidata.org/entity/Q42530
+two subspecies were recognized in Russian waters	http://www.geonames.org/2017370
+West	
+West-Africa	http://www.geonames.org/7729885
+Western	
+Western Black Sea basin	http://www.marineregions.org/mrgid/3319
+Western Central	
+Widelspread	
+Widespread	
+Widespread in the  Indo-West Pacific	http://www.marineregions.org/mrgid/14289
+with western boundary current extensions	
