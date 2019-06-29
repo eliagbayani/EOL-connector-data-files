@@ -34,4 +34,8 @@
 <property name="PATO_0000146" namespace="http://purl.obolibrary.org/obo/terms/" qualName="http://purl.obolibrary.org/obo/PATO_0000146" dc:description=""/>
 <property name="EO_0007196"   namespace="http://purl.obolibrary.org/obo/terms/" qualName="http://purl.obolibrary.org/obo/EO_0007196"   dc:description=""/>
 
+<!-- For DATA-1812 -->
+<property name="physiologicalState" namespace="http:/eol.org/globi/terms/"  qualName="http:/eol.org/globi/terms/physiologicalState" dc:description=""/>
+<property name="bodyPart"           namespace="http:/eol.org/globi/terms/"  qualName="http:/eol.org/globi/terms/bodyPart"           dc:description=""/>
+
 </extension>
