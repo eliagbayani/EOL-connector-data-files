@@ -1,0 +1,48 @@
+measurementValue	valueURI
+Female	http://purl.obolibrary.org/obo/PATO_0000383
+Female 	http://purl.obolibrary.org/obo/PATO_0000383
+Male	http://purl.obolibrary.org/obo/PATO_0000384
+adult	http://www.ebi.ac.uk/efo/EFO_0001272
+male & female	http://eol.org/schema/terms/maleAndFemale
+male and female	http://eol.org/schema/terms/maleAndFemale
+male/unsexed	http://eol.org/schema/terms/maleOrUnsexed
+undetermined	http://eol.org/schema/terms/unknown
+1-year old	http://eol.org/schema/terms/yearling
+Gametophyte	http://purl.obolibrary.org/obo/PO_0025340
+Macrothallus	
+Medusa	https://eol.org/schema/terms/medusoid
+Microthallus	
+Sporophyte	http://purl.obolibrary.org/obo/PO_0007134
+copepodite VI	http://eol.org/schema/terms/copepodid6
+egg	http://eol.org/schema/terms/eggStage
+fetus	http://purl.obolibrary.org/obo/UBERON_0000068
+hatchling	http://eol.org/schema/terms/hatchling
+hydroid	https://www.wikidata.org/entity/Q61994851
+juvenile	http://purl.obolibrary.org/obo/PATO_0001190
+larva	http://purl.obolibrary.org/obo/PATO_0001185
+larvae	http://purl.obolibrary.org/obo/PATO_0001185
+larvae (cyphonautes)	http://purl.obolibrary.org/obo/PATO_0001185
+length	http://semanticscience.org/resource/SIO_000041
+manca	https://eol.org/schema/terms/manca
+neonate	http://purl.obolibrary.org/obo/UBERON_0007221
+subadult	http://eol.org/schema/terms/subadult
+Maximum	http://semanticscience.org/resource/SIO_001114
+Minimum	http://semanticscience.org/resource/SIO_001113
+average	http://eol.org/schema/terms/average
+common	http://eol.org/schema/terms/average
+mean	http://semanticscience.org/resource/SIO_001109
+mm	http://purl.obolibrary.org/obo/UO_0000016
+standard mean	http://semanticscience.org/resource/SIO_001109
+unknown	http://eol.org/schema/terms/unknown
+nauplius	http://purl.obolibrary.org/obo/UBERON_0014406
+polyp	https://www.wikidata.org/entity/Q61994851
+postlarva	http://purl.obolibrary.org/obo/PATO_0001190
+ephyra	
+planula	https://www.wikidata.org/entity/Q943388
+zoea	https://www.wikidata.org/entity/Q1968233
+Body size > Gender	http://rs.tdwg.org/dwc/terms/sex
+Body size > Stage	http://rs.tdwg.org/dwc/terms/lifeStage
+Body size > Type	http://eol.org/schema/terms/statisticalMethod
+Feedingtype > Stage	http://rs.tdwg.org/dwc/terms/lifeStage
+Functional group > Stage	http://rs.tdwg.org/dwc/terms/lifeStage
+Body size > Locality (MRGID)	http://rs.tdwg.org/dwc/terms/locality
