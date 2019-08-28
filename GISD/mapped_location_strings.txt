@@ -526,4 +526,8 @@ US Minor Outlying Islands	http://www.geonames.org/5854968
 Wake Island	http://www.geonames.org/4041685
 added from CABI Invasive Species Compendium (DATA-1806) on Apr 2, 2019 end ------------	
 
-
+added from USDA Plants (DATA-1819) on Aug 28, 2019 start ------------	
+Québec	http://www.wikidata.org/entity/Q176
+Quebec	http://www.wikidata.org/entity/Q176
+Qu&eacute;bec	http://www.wikidata.org/entity/Q176
+added from USDA Plants (DATA-1819) on Aug 28, 2019 end ------------	
