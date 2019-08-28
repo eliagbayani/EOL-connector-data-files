@@ -530,4 +530,5 @@ added from USDA Plants (DATA-1819) on Aug 28, 2019 start ------------
 Québec	http://www.wikidata.org/entity/Q176
 Quebec	http://www.wikidata.org/entity/Q176
 Qu&eacute;bec	http://www.wikidata.org/entity/Q176
+St. Pierre and Miquelon	http://www.geonames.org/3424932
 added from USDA Plants (DATA-1819) on Aug 28, 2019 end ------------	
