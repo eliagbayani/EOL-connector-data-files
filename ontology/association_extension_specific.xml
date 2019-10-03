@@ -15,5 +15,4 @@
 
 <!-- For 'summary data resources' task -->
 <property name="label" namespace="http://eol.org/schema/terms/" qualName="http://purl.obolibrary.org/obo/IAO_0000009" dc:description="A label."/>
-<property name="parentMeasurementID" namespace="http://eol.org/schema/" qualName="http://eol.org/schema/parentMeasurementID" dc:description="An identifier for a parent MeasurementOrFact. This can be used to provide additional key/value metadata to a Measurement whose key is not already a field in this extension."/>
 </extension>
