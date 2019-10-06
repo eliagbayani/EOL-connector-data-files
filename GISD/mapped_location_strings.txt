@@ -532,3 +532,8 @@ Quebec	http://www.wikidata.org/entity/Q176
 Qu&eacute;bec	http://www.wikidata.org/entity/Q176
 St. Pierre and Miquelon	http://www.geonames.org/3424932
 added from USDA Plants (DATA-1819) on Aug 28, 2019 end ------------	
+
+added from GBIF country nodes (DATA-1809) on Oct 6, 2019 start ------------	
+secondarytype	http://rs.tdwg.org/ontology/voc/TaxonName#SecondaryType
+supplementarytype	http://rs.tdwg.org/ontology/voc/TaxonName#SupplementaryType
+added from GBIF country nodes (DATA-1809) on Oct 6, 2019 end ------------	
