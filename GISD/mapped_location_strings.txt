@@ -631,5 +631,30 @@ TL	http://www.geonames.org/1966436
 PS	http://www.geonames.org/6254930
 SJ	http://www.geonames.org/7521757
 AD	http://www.geonames.org/3041565
+
+brackish	http://purl.obolibrary.org/obo/ENVO_00002019
+coastal water	http://purl.obolibrary.org/obo/ENVO_00002150
+acuatic	http://purl.obolibrary.org/obo/ENVO_00002030
+intermareal	http://purl.obolibrary.org/obo/ENVO_00000316
+agriculture	http://purl.obolibrary.org/obo/ENVO_00000077
+disturbed areas	http://eol.org/schema/terms/disturbedArea
+coastal waters	http://purl.obolibrary.org/obo/ENVO_00002150
+oceanic	http://purl.obolibrary.org/obo/ENVO_00000447
+coastal	http://purl.obolibrary.org/obo/ENVO_01000687
+disturbe	http://eol.org/schema/terms/disturbedArea
+waterways	http://purl.obolibrary.org/obo/ENVO_00002030
+lake	http://purl.obolibrary.org/obo/ENVO_01000252
+lagoon	http://purl.obolibrary.org/obo/ENVO_00000038
+shrubland	http://purl.obolibrary.org/obo/ENVO_01000176
+forest	http://purl.obolibrary.org/obo/ENVO_01000174
+grasslands	http://purl.obolibrary.org/obo/ENVO_01000177
+periurban	http://purl.obolibrary.org/obo/ENVO_01000249
+estuarine	http://purl.obolibrary.org/obo/ENVO_01000020
+coast	http://purl.obolibrary.org/obo/ENVO_01000687
+rocky coast	http://purl.obolibrary.org/obo/ENVO_01000687
+riparia	http://purl.obolibrary.org/obo/ENVO_01000253
+pelagic	http://purl.obolibrary.org/obo/ENVO_00000208
+wetlands	http://purl.obolibrary.org/obo/ENVO_00000043
+urban	http://purl.obolibrary.org/obo/ENVO_01000249
 added from Global Register of Introduced and Invasive Species (DATA-1838) on Oct 17, 2019 end ------------	
 
