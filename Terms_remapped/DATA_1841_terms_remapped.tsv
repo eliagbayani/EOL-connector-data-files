@@ -142,3 +142,6 @@ http://eol.org/schema/terms/fodderYes	http://eol.org/schema/terms/yes
 http://eol.org/schema/terms/pulpwoodYes	http://eol.org/schema/terms/yes
 http://eol.org/schema/terms/mangroves	http://purl.obolibrary.org/obo/ENVO_01000181
 http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/RO_0002303
+http://www.marineregions.org/gazetteer.php?p=details&id=mexico	http://www.geonames.org/3996063
+http://www.marineregions.org/gazetteer.php?p=details&id=indonesia	http://www.geonames.org/1643084
+http://www.marineregions.org/gazetteer.php?p=details&id=united_states	http://www.geonames.org/6252001
