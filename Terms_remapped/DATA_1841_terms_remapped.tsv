@@ -146,3 +146,7 @@ http://www.marineregions.org/gazetteer.php?p=details&id=mexico	http://www.geonam
 http://www.marineregions.org/gazetteer.php?p=details&id=indonesia	http://www.geonames.org/1643084
 http://www.marineregions.org/gazetteer.php?p=details&id=united_states	http://www.geonames.org/6252001
 http://eol.org/schema/terms/PlantHabit	http://purl.obolibrary.org/obo/FLOPO_0900032
+
+For Environments-EOL: https://eol-jira.bibalex.org/browse/DATA-1739?focusedCommentId=64564&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-64564
+http://purl.obolibrary.org/obo/ENVO_00000047	http://purl.obolibrary.org/obo/ENVO_01001240
+http://purl.obolibrary.org/obo/ENVO_01001242	http://purl.obolibrary.org/obo/ENVO_01001240
