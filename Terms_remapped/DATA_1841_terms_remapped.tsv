@@ -150,3 +150,6 @@ http://eol.org/schema/terms/PlantHabit	http://purl.obolibrary.org/obo/FLOPO_0900
 For Environments-EOL: https://eol-jira.bibalex.org/browse/DATA-1739?focusedCommentId=64564&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-64564
 http://purl.obolibrary.org/obo/ENVO_00000047	http://purl.obolibrary.org/obo/ENVO_01001240
 http://purl.obolibrary.org/obo/ENVO_01001242	http://purl.obolibrary.org/obo/ENVO_01001240
+
+For PaleoDB: https://eol-jira.bibalex.org/browse/DATA-1831?focusedCommentId=64616&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-64616
+http://eol.org/schema/terms/arboreal	http://purl.obolibrary.org/obo/ENVO_00000571
