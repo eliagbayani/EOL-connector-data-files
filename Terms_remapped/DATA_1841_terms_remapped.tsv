@@ -155,3 +155,4 @@ For PaleoDB: https://eol-jira.bibalex.org/browse/DATA-1831?focusedCommentId=6461
 http://eol.org/schema/terms/arboreal	http://purl.obolibrary.org/obo/ENVO_00000571
 
 http://purl.obolibrary.org/obo/ECOCORE_00000013	http://purl.obolibrary.org/obo/ECOCORE_00000130
+http://www.wikidata.org/entity/Q50621879	http://eol.org/schema/terms/photosymbiotroph
