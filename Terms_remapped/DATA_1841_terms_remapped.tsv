@@ -50,7 +50,7 @@ http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/RO_0002303
 http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/RO_0002303
 http://eol.org/schema/terms/SeawaterTemperature	http://eol.org/schema/terms/WaterTemperature
 http://eol.org/schema/terms/TrophicLevel	http://www.wikidata.org/entity/Q1053008
-http://eol.org/schema/terms/photoautotrophy	http://purl.obolibrary.org/obo/ECOCORE_00000013
+http://eol.org/schema/terms/photoautotrophy	http://purl.obolibrary.org/obo/ECOCORE_00000130
 http://www.wikidata.org/entity/Q59099	https://www.wikidata.org/entity/Q59099
 http://eol.org/schema/terms/Habitat	http://purl.obolibrary.org/obo/RO_0002303
 http://eol.org/schema/terms/freshwaterLake	http://purl.obolibrary.org/obo/ENVO_01000252
@@ -153,3 +153,5 @@ http://purl.obolibrary.org/obo/ENVO_01001242	http://purl.obolibrary.org/obo/ENVO
 
 For PaleoDB: https://eol-jira.bibalex.org/browse/DATA-1831?focusedCommentId=64616&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-64616
 http://eol.org/schema/terms/arboreal	http://purl.obolibrary.org/obo/ENVO_00000571
+
+http://purl.obolibrary.org/obo/ECOCORE_00000013	http://purl.obolibrary.org/obo/ECOCORE_00000130
