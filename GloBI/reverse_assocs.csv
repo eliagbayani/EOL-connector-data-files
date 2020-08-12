@@ -1,0 +1,22 @@
+preferred.name,preferred.uri,reverse.name,reverse.uri,notes
+commensal with,http://purl.obolibrary.org/obo/RO_0002441,,,symmetrical
+creates habitat for,http://purl.obolibrary.org/obo/RO_0008505,,,
+eats,http://purl.obolibrary.org/obo/RO_0002470,is eaten by,http://purl.obolibrary.org/obo/RO_0002471,
+ectoparasite of,http://purl.obolibrary.org/obo/RO_0002632,has ectoparasite,http://purl.obolibrary.org/obo/RO_0002633,
+endoparasite of,http://purl.obolibrary.org/obo/RO_0002634,has endoparasite,http://purl.obolibrary.org/obo/RO_0002635,
+has dispersal vector,http://eol.org/schema/terms/HasDispersalVector,,,
+has host,http://purl.obolibrary.org/obo/RO_0002454,host of,http://purl.obolibrary.org/obo/RO_0002453,reverse term not seen yet
+hyperparasite of,http://purl.obolibrary.org/obo/RO_0002553,has hyperparasite,http://purl.obolibrary.org/obo/RO_0002554,
+interacts with,http://purl.obolibrary.org/obo/RO_0002437,,,symmetrical
+is vector for,http://purl.obolibrary.org/obo/RO_0002459,has vector,http://purl.obolibrary.org/obo/RO_0002460,
+kills,http://purl.obolibrary.org/obo/RO_0002626,is killed by,http://purl.obolibrary.org/obo/RO_0002627,
+kleptoparasite of,http://purl.obolibrary.org/obo/RO_0008503,kleptoparasitized by,http://purl.obolibrary.org/obo/RO_0008504,reverse term not seen yet
+lays eggs on,http://purl.obolibrary.org/obo/RO_0008507,has eggs laid on by,http://purl.obolibrary.org/obo/RO_0008508,
+mutualistic with,http://purl.obolibrary.org/obo/RO_0002442,,,symmetrical
+parasite of,http://purl.obolibrary.org/obo/RO_0002444,parasitized by,http://purl.obolibrary.org/obo/RO_0002445,
+parasitoid of,http://purl.obolibrary.org/obo/RO_0002208,has parasitoid,http://purl.obolibrary.org/obo/RO_0002209,
+pathogen of,http://purl.obolibrary.org/obo/RO_0002556,has pathogen,http://purl.obolibrary.org/obo/RO_0002557,
+preys on,http://purl.obolibrary.org/obo/RO_0002439,preyed upon by,http://purl.obolibrary.org/obo/RO_0002458,
+symbiont of,http://purl.obolibrary.org/obo/RO_0002440,,,
+visits,http://purl.obolibrary.org/obo/RO_0002618,visited by,http://purl.obolibrary.org/obo/RO_0002619,
+visits flowers of,http://purl.obolibrary.org/obo/RO_0002622,flowers visited by,http://purl.obolibrary.org/obo/RO_0002623,
