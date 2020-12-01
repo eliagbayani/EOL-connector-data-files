@@ -771,3 +771,68 @@ wetlands	http://purl.obolibrary.org/obo/ENVO_00000043
 urban	http://purl.obolibrary.org/obo/ENVO_01000249
 added from Global Register of Introduced and Invasive Species (DATA-1838) on Oct 17, 2019 end ------------	
 
+added from AntWeb (DATA-1713) on Dec 02, 2020 START ------------	
+Vietnam	http://www.geonames.org/1562822
+Curaçao	http://www.geonames.org/7626836
+Tanzania	http://www.geonames.org/149590
+Palau	http://www.geonames.org/1559582
+Niue	http://www.geonames.org/4036232
+Tonga	http://www.geonames.org/4032283
+Vanuatu	http://www.geonames.org/2134431
+Ivory Coast	http://www.geonames.org/2287781
+Laos	http://www.geonames.org/1655842
+South Sudan	http://www.geonames.org/7909807
+Brunei	http://www.geonames.org/1820814
+Russia	http://www.geonames.org/2017370
+Micronesia	http://www.geonames.org/2081918
+New Caledonia	http://www.geonames.org/2139685
+Norfolk Island	http://www.geonames.org/2155115
+Cook Islands	http://www.geonames.org/1899402
+Mayotte	http://www.geonames.org/1024031
+Comoros	http://www.geonames.org/921929
+Wallis and Futuna	http://www.geonames.org/4034749
+Kiribati	http://www.geonames.org/4030945
+Marshall Islands	http://www.geonames.org/2080185
+French Polynesia	http://www.geonames.org/4030656
+Reunion	http://www.geonames.org/935317
+Gibraltar	http://www.geonames.org/2411586
+Syria	http://www.geonames.org/163843
+Palestine	http://www.geonames.org/6254930
+Tromelin Island	https://www.geonames.org/933907
+Christmas Island	http://www.geonames.org/2078138
+North Korea	http://www.geonames.org/1873107
+Grande Glorieuse	https://www.wikidata.org/entity/Q3593084
+Ile du Lys	https://www.geonames.org/1024034
+Libya	http://www.geonames.org/2215636
+Saint Helena	http://www.geonames.org/3370751
+Europa Island	https://www.geonames.org/933910
+Juan de Nova Island	https://www.wikidata.org/entity/Q237034
+Arabia	http://www.geonames.org/6957698
+Cape Verde	http://www.geonames.org/3374766
+British Virgin Islands	http://www.geonames.org/3577718
+Kuwait	http://www.geonames.org/285570
+Borneo	http://www.geonames.org/1648148
+South Korea	http://www.geonames.org/1835841
+Risavalda	http://www.geonames.org/3686110
+Panam�	http://www.geonames.org/3703430
+Scotland	http://www.geonames.org/2638360
+England	http://www.geonames.org/6269131
+American Samoa	http://www.geonames.org/5880801
+Bermuda	http://www.geonames.org/3573345
+Macedonia	http://www.geonames.org/718075
+Palmyra Atoll	https://www.wikidata.org/entity/Q123076
+Nauru	http://www.geonames.org/2110425
+St. Paul	http://www.geonames.org/8643336
+Panam·	http://www.geonames.org/3703430
+N'goundere	http://www.geonames.org/2233387
+Sint Maarten	http://www.geonames.org/7609695
+Tuvalu	http://www.geonames.org/2110297
+Moldova	http://www.geonames.org/617790
+Federated States of Micronesia	http://www.geonames.org/2081918
+Qatar	http://www.geonames.org/289688
+Cleveland	http://www.geonames.org/5165418
+G.D.	DISCARD
+Fco. Morazan	DISCARD
+Chipas	DISCARD
+added from AntWeb (DATA-1713) on Dec 02, 2020 END ------------	
+
