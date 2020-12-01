@@ -772,6 +772,9 @@ urban	http://purl.obolibrary.org/obo/ENVO_01000249
 added from Global Register of Introduced and Invasive Species (DATA-1838) on Oct 17, 2019 end ------------	
 
 added from AntWeb (DATA-1713) on Dec 02, 2020 START ------------	
+Republic of Congo	http://www.wikidata.org/entity/Q974
+Cote d'Ivoire	http://www.wikidata.org/entity/Q1008
+C�te d'Ivoire	http://www.wikidata.org/entity/Q1008
 Vietnam	http://www.geonames.org/1562822
 Curaçao	http://www.geonames.org/7626836
 Tanzania	http://www.geonames.org/149590
