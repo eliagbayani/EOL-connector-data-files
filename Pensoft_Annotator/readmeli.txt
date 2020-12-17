@@ -3,6 +3,11 @@
 came from DATA-1713 (AntWeb task).
 https://eol-jira.bibalex.org/browse/DATA-1713?focusedCommentId=65443&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-65443
 Eli will add it to the list of generally excluded URIs.
+LATER ON THIS WAS DISCARDED BY JEN.
 ====================================================================================================================================================================
+- terms_to_remove.txt
+came from DATA-1870 (also AntWeb task but to be used for all resources)
+https://eol-jira.bibalex.org/browse/DATA-1870?focusedCommentId=65451&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-65451
+Eli added it to the list of generally excluded URIs in [Pensoft2EOLAPI.php]
 ====================================================================================================================================================================
 ====================================================================================================================================================================
