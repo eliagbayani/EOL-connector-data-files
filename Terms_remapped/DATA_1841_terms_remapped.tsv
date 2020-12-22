@@ -289,4 +289,8 @@ http://purl.obolibrary.org/obo/ENVO_01000392	http://purl.obolibrary.org/obo/ENVO
 http://purl.obolibrary.org/obo/ENVO_01000628	http://purl.obolibrary.org/obo/ENVO_01000628
 http://purl.obolibrary.org/obo/ENVO_00000303	http://purl.obolibrary.org/obo/ENVO_01000687
 http://purl.obolibrary.org/obo/ENVO_01001379	http://purl.obolibrary.org/obo/ENVO_01001386
-http://purl.obolibrary.org/obo/ENVO_01000251	http://www.wikidata.org/entity/Q1342399
+
+When textmining WoRMS Habitat articles: https://eol-jira.bibalex.org/browse/DATA-1870?focusedCommentId=65469&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-65469
+http://purl.obolibrary.org/obo/ENVO_00000130	http://purl.obolibrary.org/obo/ENVO_01000143
+
+
