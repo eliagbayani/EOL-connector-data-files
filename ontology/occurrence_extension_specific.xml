@@ -35,8 +35,8 @@
 <property name="EO_0007196"   namespace="http://purl.obolibrary.org/obo/terms/" qualName="http://purl.obolibrary.org/obo/EO_0007196"   dc:description=""/>
 
 <!-- For DATA-1812 -->
-<property name="basisOfRecord"      namespace="http://rs.tdwg.org/dwc/terms/" qualName="http://rs.tdwg.org/dwc/terms/basisOfRecord"   dc:description=""/>
-<property name="physiologicalState" namespace="http:/eol.org/globi/terms/"    qualName="http:/eol.org/globi/terms/physiologicalState" dc:description=""/>
-<property name="bodyPart"           namespace="http:/eol.org/globi/terms/"    qualName="http:/eol.org/globi/terms/bodyPart"           dc:description=""/>
+<property name="basisOfRecord"      namespace="http://rs.tdwg.org/dwc/terms/" qualName="http://rs.tdwg.org/dwc/terms/basisOfRecord"     dc:description=""/>
+<property name="physiologicalState" namespace="http://eol.org/schema/terms/"  qualName="http://eol.org/schema/terms/physiologicalState" dc:description=""/>
+<property name="bodyPart"           namespace="http://eol.org/schema/terms/"  qualName="http://eol.org/schema/terms/bodyPart"           dc:description=""/>
 
 </extension>
