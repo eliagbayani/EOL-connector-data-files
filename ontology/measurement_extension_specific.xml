@@ -37,4 +37,7 @@
 <property name="SIO_000769"    namespace="http://semanticscience.org/resource/terms/" qualName="http://semanticscience.org/resource/SIO_000769" dc:description="not_given"/>
 <property name="STATO_0000231" namespace="http://purl.obolibrary.org/obo/terms/"      qualName="http://purl.obolibrary.org/obo/STATO_0000231" dc:description="95_ci"/>
 
+<!--- For consolidating resources in Summary Data Resources --->
+<property name="parentMeasurementEolPk" namespace="http://eol.org/schema/terms/" qualName="http://eol.org/schema/parentMeasurementEolPk" dc:description=""/>
+
 </extension>
