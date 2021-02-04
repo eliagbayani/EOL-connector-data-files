@@ -10,9 +10,7 @@ male/unsexed	http://eol.org/schema/terms/maleOrUnsexed
 undetermined	http://eol.org/schema/terms/unknown
 1-year old	http://eol.org/schema/terms/yearling
 Gametophyte	http://purl.obolibrary.org/obo/PO_0025340
-Macrothallus	
 Medusa	https://eol.org/schema/terms/medusoid
-Microthallus	
 Sporophyte	http://purl.obolibrary.org/obo/PO_0007134
 copepodite VI	http://eol.org/schema/terms/copepodid6
 egg	http://eol.org/schema/terms/eggStage
@@ -38,7 +36,10 @@ unknown	http://eol.org/schema/terms/unknown
 nauplius	http://purl.obolibrary.org/obo/UBERON_0014406
 polyp	https://www.wikidata.org/entity/Q61994851
 postlarva	http://purl.obolibrary.org/obo/PATO_0001190
-ephyra	
+ephyra	http://purl.obolibrary.org/obo/BTO_0006391
+podocyst	DISCARD
+Macrothallus	DISCARD
+Microthallus	DISCARD
 planula	https://www.wikidata.org/entity/Q943388
 zoea	https://www.wikidata.org/entity/Q1968233
 Body size > Gender	http://rs.tdwg.org/dwc/terms/sex
