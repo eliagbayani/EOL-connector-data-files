@@ -40,6 +40,9 @@ ephyra	http://purl.obolibrary.org/obo/BTO_0006391
 podocyst	http://eol.org/schema/terms/podocyst
 Macrothallus	http://eol.org/schema/terms/macrothallus
 Microthallus	http://eol.org/schema/terms/microthallus
+eudoxid	http://eol.org/schema/terms/eudoxid
+polygastric	http://eol.org/schema/terms/polygastric
+colony	http://eol.org/schema/terms/colony
 planula	https://www.wikidata.org/entity/Q943388
 zoea	https://www.wikidata.org/entity/Q1968233
 Body size > Gender	http://rs.tdwg.org/dwc/terms/sex
