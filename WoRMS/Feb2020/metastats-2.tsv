@@ -37,9 +37,9 @@ nauplius	http://purl.obolibrary.org/obo/UBERON_0014406
 polyp	https://www.wikidata.org/entity/Q61994851
 postlarva	http://purl.obolibrary.org/obo/PATO_0001190
 ephyra	http://purl.obolibrary.org/obo/BTO_0006391
-podocyst	DISCARD
-Macrothallus	DISCARD
-Microthallus	DISCARD
+podocyst	http://eol.org/schema/terms/podocyst
+Macrothallus	http://eol.org/schema/terms/macrothallus
+Microthallus	http://eol.org/schema/terms/microthallus
 planula	https://www.wikidata.org/entity/Q943388
 zoea	https://www.wikidata.org/entity/Q1968233
 Body size > Gender	http://rs.tdwg.org/dwc/terms/sex
