@@ -14,5 +14,5 @@
 <property name="referenceID" namespace="http://eol.org/schema/reference/" qualName="http://eol.org/schema/reference/referenceID" dc:description="An identifier for a related resource that is referenced, cited, or otherwise pointed to by the described resource."/>
 
 <!-- For 'summary data resources' task -->
-<property name="label" namespace="http://eol.org/schema/terms/" qualName="http://purl.obolibrary.org/obo/IAO_0000009" dc:description="A label."/>
+<property name="label" namespace="http://purl.obolibrary.org/obo/terms/" qualName="http://purl.obolibrary.org/obo/IAO_0000009" dc:description="A label."/>
 </extension>

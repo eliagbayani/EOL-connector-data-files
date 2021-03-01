@@ -25,7 +25,7 @@
 <property name="SampleSize"   namespace="http://eol.org/schema/terms/"          qualName="http://eol.org/schema/terms/SampleSize"      dc:description="A SampleSize."/>
 
 <!-- For 'summary data resources' task -->
-<property name="IAO_0000009" namespace="http://purl.obolibrary.org/obo/terms/" qualName="http://purl.obolibrary.org/obo/IAO_0000009" dc:description="A label."/>
+<property name="label" namespace="http://purl.obolibrary.org/obo/terms/" qualName="http://purl.obolibrary.org/obo/IAO_0000009" dc:description="A label."/>
 
 <!-- For 'MAD NatDB - TraitGeneric.php' task -->
 <property name="lifeStage" namespace="http://rs.tdwg.org/dwc/terms/" qualName="http://rs.tdwg.org/dwc/terms/lifeStage" dc:description="The age class or life stage of the biological individual(s) at the time the Occurrence was recorded. Recommended best practice is to use a controlled vocabulary."/>
