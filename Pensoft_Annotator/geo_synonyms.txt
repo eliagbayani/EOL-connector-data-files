@@ -65,3 +65,4 @@ https://www.wikidata.org/entity/Q159
 http://www.wikidata.org/entity/Q1342399
 https://www.wikidata.org/entity/Q25231
 http://www.geonames.org/8449601
+http://www.geonames.org/6252001
