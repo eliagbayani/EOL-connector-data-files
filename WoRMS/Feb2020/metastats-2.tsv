@@ -51,3 +51,6 @@ Body size > Type	http://eol.org/schema/terms/statisticalMethod
 Feedingtype > Stage	http://rs.tdwg.org/dwc/terms/lifeStage
 Functional group > Stage	http://rs.tdwg.org/dwc/terms/lifeStage
 Body size > Locality (MRGID)	http://rs.tdwg.org/dwc/terms/locality
+hermaphrodite	http://purl.obolibrary.org/obo/UBERON_0007197
+cerinula	https://species-id.net/zooterms/cerinula_larva
+medusoid	https://eol.org/schema/terms/medusoid
