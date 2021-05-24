@@ -990,3 +990,38 @@ Dutch Exclusive Economic Zone	http://marineregions.org/mrgid/5668
 Amazon River	http://www.geonames.org/3407731
 Norwegian West Coast	http://marineregions.org/mrgid/5686
 added from WoRMS (DATA-1827) on May 13, 2021 END ------------	
+
+added from GBIF country nodes on May 24, 2021 START ------------
+ISOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Isotype
+SYNTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Syntype
+HOLOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Holotype
+LECTOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Lectotype
+PARATYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Paratype
+NEOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Neotype
+EXTYPE	http://eol.org/schema/terms/extype
+TOPOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Topotype
+TYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Type
+ISOSYNTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Isosyntype
+ISOLECTOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Isolectotype
+ORIGINALMATERIAL	http://eol.org/schema/terms/originalMaterial
+PARALECTOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Paralectotype
+ICONOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Iconotype
+EXHOLOTYPE	http://eol.org/schema/terms/exholotype
+EPITYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Epitype
+EXPARATYPE	http://eol.org/schema/terms/exparatype
+ALLOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Allotype
+ISONEOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Isoneotype
+COTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Cotype
+EXEPITYPE	http://eol.org/schema/terms/exepitype
+PARANEOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Paraneotype
+PLASTONEOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Plastoneotype
+ALLOLECTOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Allolectotype
+SUPPLEMENTARYTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Type
+SECONDARYTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Type
+EXISOTYPE	http://eol.org/schema/terms/exisotype
+COTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Cotype
+EXEPITYPE	http://eol.org/schema/terms/exepitype
+PARANEOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Paraneotype
+PLASTONEOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Plastoneotype
+ALLOLECTOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Allolectotype
+added from GBIF country nodes on May 24, 2021 END ------------	
