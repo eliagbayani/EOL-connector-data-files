@@ -1024,4 +1024,14 @@ EXEPITYPE	http://eol.org/schema/terms/exepitype
 PARANEOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Paraneotype
 PLASTONEOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Plastoneotype
 ALLOLECTOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Allolectotype
+ISOPARATYPE	http://eol.org/schema/terms/isoparatype
+HYPOTYPE	http://eol.org/schema/terms/hypotype
+HAPANTOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Hapantotype
+PLESIOTYPE	http://eol.org/schema/terms/plesiotype
+PLASTOTYPE	http://eol.org/schema/terms/plastotype
+HYPOTYPE	http://eol.org/schema/terms/hypotype
+exlectotype	http://eol.org/schema/terms/exlectotype
+PLESIOTYPE	http://eol.org/schema/terms/plesiotype
+---sex terms---	
+HERMAPHRODITE	http://purl.obolibrary.org/obo/PATO_0001340
 added from GBIF country nodes on May 24, 2021 END ------------	
