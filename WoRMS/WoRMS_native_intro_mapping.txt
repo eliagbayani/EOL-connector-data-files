@@ -1,0 +1,856 @@
+Galicia	http://www.geonames.org/2510769
+Southeastern Brazil	http://www.geonames.org/3469034
+South African part of the Indian Ocean	http://www.marineregions.org/mrgid/1904
+Celtic Sea	http://www.marineregions.org/mrgid/2351
+Inner Seas off the West Coast of Scotland	http://marineregions.org/mrgid/5696
+Saint-Vaast-la-Hougue	
+Natal	
+Guinea Bissau Exclusive Economic Zone	http://marineregions.org/mrgid/8685
+Senegalese Exclusive Economic Zone	http://marineregions.org/mrgid/8371
+Mauritanian Exclusive Economic Zone	http://marineregions.org/mrgid/8369
+Western Saharan Exclusive Economic Zone	http://marineregions.org/mrgid/8368
+Cape Verdean Exclusive Economic Zone	http://marineregions.org/mrgid/8362
+Canary Islands Exclusive Economic Zone	http://marineregions.org/mrgid/8364
+Madeiran Exclusive Economic Zone	http://marineregions.org/mrgid/8363
+Moroccan Exclusive Economic Zone	http://marineregions.org/mrgid/8367
+South Coast of South Africa	http://marineregions.org/mrgid/8396
+Petermann Island	
+Ionian sea	http://www.marineregions.org/mrgid/3351
+Virginia	http://www.geonames.org/6254928
+North Carolina	http://www.geonames.org/4482348
+Georgia (US State)	https://www.geonames.org/4197000
+Rio De Janeiro	https://www.geonames.org/3451189
+Osaka Bay	http://marineregions.org/mrgid/4307
+East China Sea	http://www.marineregions.org/mrgid/4302
+Korea	http://www.geonames.org/11494804
+Baltic sea	http://www.geonames.org/2633321
+Agulhas Bank	
+Japanese part of the Philippine Sea	http://www.marineregions.org/mrgid/4300
+Gulf of Mannar	
+Magellan Strait	
+St. Helena Exclusive Economic Zone	http://www.marineregions.org/mrgid/1914
+Ascension Exclusive Economic Zone	http://marineregions.org/mrgid/8379
+Indonesian part of the Ceram Sea	http://www.marineregions.org/mrgid/4351
+South Kuroshio	
+Malacca Strait	http://www.marineregions.org/mrgid/4275
+Crozet Islands	
+Halmahera	
+South India and Sri Lanka	http://www.geonames.org/7729895
+Southwestern Caribbean	http://www.marineregions.org/mrgid/4287
+Trieste	http://www.geonames.org/3165187
+Bismarck Sea	http://www.marineregions.org/mrgid/4360
+Central Kuroshio Current	
+Brazilian Exclusive Economic Zone	http://marineregions.org/mrgid/8464
+Sagami Bay	
+Oyashio Current	
+Indian part of the Laccadive Sea	http://www.marineregions.org/mrgid/4269
+Kenyan Exclusive Economic Zone	http://marineregions.org/mrgid/8349
+Mozambican Exclusive Economic Zone	http://marineregions.org/mrgid/8347
+East Tropical Africa	http://www.geonames.org/7729889
+Indian Subcontinent	http://www.geonames.org/1269750
+Northeast Tropical Africa	http://eol.org/schema/terms/NortheastAfrica
+Central America	http://www.geonames.org/7729892
+Southern Africa	http://www.geonames.org/9406051
+Southern South America	http://marineregions.org/mrgid/1925
+Vatican City	http://marineregions.org/mrgid/21447
+Sinai	
+Subantarctic Islands	http://www.wikidata.org/entity/Q1141556
+Greenland	http://www.geonames.org/3425505
+Honshu	
+Louisiana	http://www.geonames.org/4331987
+Maryland	http://www.geonames.org/4361885
+Texas	http://www.geonames.org/4736286
+Mexico Gulf	http://www.marineregions.org/mrgid/4288
+Queensland	http://www.geonames.org/2152274
+Tasmania	http://www.geonames.org/2147291
+Middle Atlantic Ocean	http://www.marineregions.org/mrgid/1902
+Northern Africa	http://www.geonames.org/7729887
+West Tropical Africa	http://www.geonames.org/7729885
+Western South America	http://marineregions.org/mrgid/36309
+Malesia	http://www.geonames.org/7729896
+Africa	http://www.geonames.org/6255146
+Føroyar	
+Hokkaido	http://marineregions.org/mrgid/8487
+Baltic States	http://www.geonames.org/2633321
+Transcaucasus	http://www.geonames.org/615318
+New Jersey	http://www.geonames.org/5101760
+New York	http://www.geonames.org/5128638
+Mexico Northeast	http://www.geonames.org/3996063
+Cape Provinces	
+Northern Provinces	
+South Carolina	http://www.geonames.org/4597040
+Oklahoma	http://www.geonames.org/4544379
+Gruziya	
+San Marino	
+Mexico Southeast	http://www.geonames.org/3996063
+North Caucasus	http://www.geonames.org/615318
+Arkansas	http://www.geonames.org/4099753
+North-Central U.S.A.	http://www.wikidata.org/entity/Q578170
+Caspian Sea	http://www.geonames.org/630671
+Tampa Bay	http://www.geonames.org/4155751
+New South Wales	http://www.geonames.org/2155400
+East Coast of South Africa	http://marineregions.org/mrgid/8396
+Campbell Island	
+Namibian Exclusive Economic Zone	http://marineregions.org/mrgid/2218
+Vanuatu (Nation)	http://marineregions.org/mrgid/8313
+New Ireland Province	
+Panamanian Exclusive Economic Zone	http://marineregions.org/mrgid/8423
+Black Sea Region	http://www.marineregions.org/mrgid/3319
+Zanzibar Archipelago	http://www.geonames.org/148726
+Mexican Exclusive Economic Zone	http://marineregions.org/mrgid/8429
+Florida Keys	http://www.geonames.org/4155751
+California	http://www.geonames.org/5332921
+Delagoa	
+Still Bay	
+South Korean part of the Japan Sea	http://marineregions.org/mrgid/4307
+Yugoslavia (ex)	http://www.geonames.org/7500737
+Durban Bay	
+Bengal	http://www.marineregions.org/mrgid/4273
+Maui Island	http://www.geonames.org/5855811
+Magellanic region	
+Misaki	
+Alaskan Exclusive Economic Zone	http://marineregions.org/mrgid/8463
+Alboran Sea	http://www.marineregions.org/mrgid/3324
+Somali part of the Indian Ocean	http://marineregions.org/mrgid/8350
+Mozambican Coast	http://marineregions.org/mrgid/8347
+South African Coast	http://marineregions.org/mrgid/8396
+Darwin Harbour	
+Brazil Northeast	http://marineregions.org/mrgid/2143
+Northeastern Brazil	http://marineregions.org/mrgid/2143
+Eastern Brazil	http://marineregions.org/mrgid/2143
+Fernando de Noronha and Atoll das Rocas	
+Ross Sea	http://marineregions.org/mrgid/4370
+Australian part of the Bass Strait	http://www.marineregions.org/mrgid/4366
+Peru Basin	http://marineregions.org/mrgid/7091
+South China	http://www.marineregions.org/mrgid/4332
+Chesapeake Bay	http://marineregions.org/mrgid/17443
+Réunion Exclusive Economic Zone	http://marineregions.org/mrgid/8338
+Caracas Bay	https://www.wikidata.org/entity/Q25279
+Madagascan part of the Mozambique Channel	http://www.marineregions.org/mrgid/4261
+South Korean Exclusive Economic Zone	http://marineregions.org/mrgid/8327
+South China Sea	http://www.marineregions.org/mrgid/4332
+Monterey Canyon	
+Potiguar basin	
+Guanabara, Baía de	
+Manning-Hawkesbury	
+Haitian part of the Caribbean Sea	http://www.marineregions.org/mrgid/4287
+New Caledonian Exclusive Economic Zone	http://marineregions.org/mrgid/8312
+Norfolk Island Exclusive Economic Zone	http://marineregions.org/mrgid/8310
+Indonesian Exclusive Economic Zone	http://marineregions.org/mrgid/8492
+Australian part of the Great Australian Bight	http://www.marineregions.org/mrgid/4276
+Patagonian Shelf	
+Norfolk Island part of the South Pacific Ocean	
+Vanuatu Exclusive Economic Zone	http://marineregions.org/mrgid/8313
+Indonesian part of the North Pacific Ocean	http://www.geonames.org/4030875
+Lord Howe Rise	
+South Tasman Rise	
+Hawaiian Exclusive Economic Zone	http://marineregions.org/mrgid/8453
+Tuamotus	
+Panama Bight	http://marineregions.org/mrgid/8423
+Kermadec Trench	
+China Sea	
+Fijian part of the South Pacific Ocean	http://marineregions.org/mrgid/8325
+Norfolk Ridge	
+Tuvaluan Exclusive Economic Zone	http://marineregions.org/mrgid/8326
+Austral Islands	
+Tongan Exclusive Economic Zone	http://marineregions.org/mrgid/8674
+Wallis and Futuna Exclusive Economic Zone	http://www.geonames.org/4034749
+Solomon Islands Exclusive Economic Zone	http://marineregions.org/mrgid/8314
+Prince Edward Islands Exclusive Economic Zone	
+Andaman and Nicobar Islands Exclusive Economic Zone	http://marineregions.org/mrgid/8333
+Juan Fernandez and Desventuradas	
+Hawaii	http://www.geonames.org/5855811
+Lord Howe and Norfolk Islands	
+Guam Exclusive Economic Zone	
+Azores Exclusive Economic Zone	http://marineregions.org/mrgid/8361
+Grenadian Exclusive Economic Zone	
+Indonesian part of the Banda Sea	http://www.marineregions.org/mrgid/4349
+French Polynesian Exclusive Economic Zone	http://marineregions.org/mrgid/8440
+Indonesian part of the Molukka Sea	http://www.marineregions.org/mrgid/4354
+Gulf of Oman	http://www.marineregions.org/mrgid/4354
+Malaysian part of the Singapore Strait	http://www.marineregions.org/mrgid/4336
+Molucca Sea	http://marineregions.org/mrgid/4354
+Indonesian part of the Makassar Strait	http://www.marineregions.org/mrgid/4339
+Omani part of the Gulf of Oman	http://www.marineregions.org/mrgid/4267
+Jeffreys Bay	
+Falklands Islands Exclusive Economic Zone	http://www.geonames.org/3474414
+Indonesian part of the Arafura Sea	http://www.marineregions.org/mrgid/4347
+Port Elizabeth	
+Tanzanian Exclusive Economic Zone	http://marineregions.org/mrgid/2205
+Japanese part of the Sea of Japan	http://marineregions.org/mrgid/4307
+Lord Howe Island	
+Comoran part of the Mozambique Channel	http://www.marineregions.org/mrgid/4261
+Mayotte part of the Mozambique Channel	http://www.marineregions.org/mrgid/4261
+St. Helena and Ascension Islands	https://www.wikidata.org/entity/Q192184
+Angolan Exclusive Economic Zone	
+Gough Island	
+Gulf of Suez	http://www.marineregions.org/mrgid/4262
+Yemeni Exclusive Economic Zone	http://marineregions.org/mrgid/8353
+Celebes Sea	http://www.marineregions.org/mrgid/4359
+Port Alfred	
+Omani Exclusive Economic Zone	http://marineregions.org/mrgid/8354
+Comoran part of the Indian Ocean	http://www.marineregions.org/mrgid/1904
+Mayotte part of the Indian Ocean	http://www.marineregions.org/mrgid/1904
+Torres Strait Northern Great Barrier Reef	http://www.geonames.org/2164628
+Gulf of Carpentaria	
+Arnhem Coast to Gulf of Carpenteria	
+Southeast Papua New Guinea	http://marineregions.org/mrgid/8324
+Persian Gulf	http://www.marineregions.org/mrgid/4266
+Mascareignes Archipelago	
+Samoan Exclusive Economic Zone	http://marineregions.org/mrgid/8445
+Namibian part of the South Atlantic Ocean	http://marineregions.org/mrgid/2218
+Malaysian part of the Celebes Sea	http://www.marineregions.org/mrgid/4359
+Tuamotu Islands	
+Malaysian part of the Malacca Strait	http://www.marineregions.org/mrgid/4275
+Cape Howe	
+Flores Sea	http://www.marineregions.org/mrgid/4341
+Solomon Archipelago	http://marineregions.org/mrgid/8314
+Fiji Islands	http://www.geonames.org/2205218
+Wallis and Futuna part of the South Pacific Ocean	http://www.geonames.org/4034749
+Tonga Islands	http://marineregions.org/mrgid/8674
+False Bay (South Africa)	http://marineregions.org/mrgid/8396
+South Coast of Africa	http://marineregions.org/mrgid/8396
+Sri Lankan Exclusive Economic Zone	http://marineregions.org/mrgid/8346
+Society Islands	http://www.geonames.org/4033681
+Laccadive islands	
+Java Sea	http://www.marineregions.org/mrgid/4338
+Cape Peninsula	
+Walters shoals	
+Cape Basin	
+Mactan Island	
+Cocos Islands part of the Indian Ocean	http://www.marineregions.org/mrgid/1904
+Luderitzbuch Bay	
+Walvis Bay	
+Bazaruto Archipelago	
+Transkei	
+Palawan/North Borneo	
+Kenyan coast	http://marineregions.org/mrgid/8349
+Tanzanian Coast	http://marineregions.org/mrgid/2205
+Seychellois Coast	http://marineregions.org/mrgid/8337
+Somali Coast	http://marineregions.org/mrgid/8350
+Algoa Bay	
+Karachi Coast	
+South Mozambique	http://marineregions.org/mrgid/2220
+Conducia bay	
+Quirimba Archipelago	
+Calcutta	
+Zululand	
+Bassas da India Exclusive Economic Zone	http://marineregions.org/mrgid/8340
+Madagascan Coast	http://marineregions.org/mrgid/8348
+Delagoa Bay	
+Warm Temperate Southwestern Atlantic	
+Durban	
+Tosa Bay	
+Equatorial Guinean Exclusive Economic Zone	
+Djiboutian Exclusive Economic Zone	http://marineregions.org/mrgid/8352
+Ryukyu Islands	
+Democratic Republic of the Congo Exclusive Economic Zone	
+Gabonese Exclusive Economic Zone	
+Congolese Exclusive Economic Zone	
+Isipingo	
+Diego Garcia Atoll	
+Chagos	
+Oahu Island	http://www.geonames.org/5855811
+Zanzibar	http://www.geonames.org/148726
+Pernambuco	
+Glorioso part of the Indian Ocean	http://www.marineregions.org/mrgid/1904
+Madagascan part of the Indian Ocean	http://www.marineregions.org/mrgid/1904
+Comores and Mayotte	http://marineregions.org/mrgid/8335
+Réunion Coast	http://marineregions.org/mrgid/8338
+Amirantes	
+Rodriguez	
+Tristan Da Cunha Exclusive Economic Zone	http://www.geonames.org/3370684
+Andaman Islands	http://www.geonames.org/1278646
+Zanzibar Channel	http://www.geonames.org/148726
+Canary Islands	http://www.geonames.org/2520308
+Masirah Island	
+Indian part of the Bay of Bengal	http://www.marineregions.org/mrgid/4273
+Namibe	
+Yemeni part of the Gulf of Aden	http://www.marineregions.org/mrgid/4265
+Langebaan	
+Tuticorin	
+Cape Point	
+West Coast of South Africa	http://marineregions.org/mrgid/8396
+Cape Cross	
+St. Lucia	http://marineregions.org/mrgid/8647
+Somali Exclusive Economic Zone	http://marineregions.org/mrgid/8350
+Cargados Carajos	
+Luzon	
+Negros	
+Java	http://www.geonames.org/1642673
+Argentinean part of the South Atlantic Ocean	http://marineregions.org/mrgid/8466
+Marquesas Islands	http://www.geonames.org/4019977
+Italian part of the Mediterranean Sea - Western Basin	http://marineregions.org/mrgid/4279
+Canadian part of the Gulf of St-Lawrence	http://www.marineregions.org/mrgid/4290
+Iranian part of the Persian Gulf	http://www.marineregions.org/mrgid/4266
+Ceylon	
+Red Sea and Gulf of Aden	http://www.marineregions.org/mrgid/4265
+Iranian part of the Arabian Sea	http://www.marineregions.org/mrgid/4268
+Pakistani part of the Arabian Sea	http://www.marineregions.org/mrgid/4268
+Arabian (Persian) Gulf	http://www.marineregions.org/mrgid/4266
+Faroes	
+Icelandic Exclusive Economic Zone	http://marineregions.org/mrgid/5680
+Sahul Shelf	
+Tahiti	
+Central Indo-Pacific	http://www.marineregions.org/mrgid/14289
+Galapagos Exclusive Economic Zone	http://marineregions.org/mrgid/8403
+Ecuadorean Exclusive Economic Zone	http://marineregions.org/mrgid/8431
+Papua	
+Samoa Islands	http://marineregions.org/mrgid/8671
+Panamanian part of the North Pacific Ocean	http://marineregions.org/mrgid/8423
+French Exclusive Economic Zone	http://marineregions.org/mrgid/5677
+Eastern India	http://www.geonames.org/1269750
+Maltese Exclusive Economic Zone	http://marineregions.org/mrgid/5685
+Weddell Sea	http://www.geonames.org/4036624
+Amami-Oshima Island	
+South Korean part of the Eastern China Sea	http://www.marineregions.org/mrgid/4302
+Galapagos	http://marineregions.org/mrgid/8403
+Hawaiian Islands	http://www.geonames.org/5855811
+Uruguay-Buenos Aires Shelf	
+Panamanian part of the Caribbean Sea	http://www.marineregions.org/mrgid/4287
+Alaska	http://www.geonames.org/5879092
+Cuban part of the Caribbean Sea	http://www.marineregions.org/mrgid/4287
+French part of the Mediterranean Sea - Western Basin	http://marineregions.org/mrgid/4279
+Southwest Australian Shelf	
+Norwegian Exclusive Economic Zone	http://marineregions.org/mrgid/5686
+Mauritian Exclusive Economic Zone	http://marineregions.org/mrgid/8343
+West Central Australian Shelf	
+South Africa (country)	http://marineregions.org/mrgid/2176
+Western Indo-Pacific	http://www.marineregions.org/mrgid/14289
+Inhaca	
+Mozambican part of the Mozambique Channel	http://www.marineregions.org/mrgid/4261
+Comoro Islands	
+Namaqua	
+Bergen	
+Ascensión	
+South Atlantic	http://www.marineregions.org/mrgid/1914
+South Australia (state)	
+Bass Strait	http://www.marineregions.org/mrgid/4366
+Coral Sea	http://www.marineregions.org/mrgid/4364
+Moreton Bay	
+Western Australia (state)	
+South Australian Gulfs	
+Victoria (Australian state)	
+South East Australia	
+Menorca	
+Tropical West Pacific	
+New Zealand part of the Tasman Sea	http://www.marineregions.org/mrgid/4365
+Mayotte Disputed area: France / Comoros	
+East Central Australian Shelf	
+Clipperton Exclusive Economic Zone	
+St. Helena part of the South Atlantic Ocean	
+Balleny Islands	
+Victoria Land	
+Japan Trench	http://marineregions.org/mrgid/4307
+Atlantic Coast of South America	http://marineregions.org/mrgid/17376
+Northeastern New Zealand	
+West Mediterranean	
+Caribbean Coast Colombia	http://www.marineregions.org/mrgid/4287
+Holbox	
+Lake Mjösa	
+Irish part of the Irish Sea and St. George's Channel	http://www.marineregions.org/mrgid/2357
+Cortezian	
+Revillagigedos	
+Western Caribbean	http://www.marineregions.org/mrgid/4287
+North American Pacific Fijordland	
+Oregon, Washington, Vancouver Coast and Shelf	
+Puget Trough/Georgia Basin	
+Southern California Bight	http://www.geonames.org/5332921
+United Kingdom part of the English Channel	http://marineregions.org/mrgid/5696
+Guayaquil	
+Monterey Bay	
+Campos Basin	
+Northern Atlantic Boreal Lower Bathyal Province	
+United States Exclusive Economic Zone	
+Sea of Japan/East Sea	http://marineregions.org/mrgid/4307
+Vietnamese Exclusive Economic Zone	
+Somali/Arabian	http://marineregions.org/mrgid/8350
+West and South Indian Shelf	http://marineregions.org/mrgid/8480
+Central Indian Ocean Islands	http://www.marineregions.org/mrgid/1904
+Andaman	
+Sunda Shelf	
+Java Transitional	
+Northwest Australian Shelf	
+Western Coral Triangle	
+Warm Temperate Northwest Pacific	
+Tropical Northwestern Pacific	
+Eastern Coral Triangle	
+Tropical Southwestern Pacific	
+Northeast Australian Shelf	
+Northern New Zealand	
+Marshall, Gilbert and Ellis Islands	http://marineregions.org/mrgid/2226
+Philippines part of the South China Sea	http://www.marineregions.org/mrgid/4332
+Kermadec Ridge	
+New Caledonian part of the Coral Sea	http://www.marineregions.org/mrgid/4364
+Alboran Ridge	
+Northern Gulf of Mexico	http://www.marineregions.org/mrgid/4288
+Leeuwin	
+Western Bassian	
+Bassian	
+South European Atlantic Shelf	http://www.marineregions.org/mrgid/1912
+Ningaloo	
+Jameos del Agua Cave	
+Polish Exclusive Economic Zone	http://marineregions.org/mrgid/5687
+Danube delta	
+Bulgarian part of the Black Sea	http://www.marineregions.org/mrgid/3319
+Azov sea	
+Table Bay	
+Flores Island [Lesser Sunda Islands]	
+Sulawesi	
+Sumba	
+Tenerife	
+Lanzarote	
+Grand Canary	
+South California	http://www.geonames.org/5332921
+Madang	
+Jeju Island	
+Bali Sea	http://www.marineregions.org/mrgid/4340
+Ambon Bay	
+Tuléar	
+Yap Islands	http://www.geonames.org/1558582
+Mid-Atlantic Ridge	
+Hainan	
+South Georgian part of the Southern Ocean	http://www.marineregions.org/mrgid/1907
+South Georgian part of the South Atlantic Ocean	
+Lazarev Sea	
+Cosmonauts Sea	
+Papua New Guinean Exclusive Economic Zone	http://marineregions.org/mrgid/8324
+Southern Ocean	http://www.marineregions.org/mrgid/1907
+Auckland Island	
+Argentinean Exclusive Economic Zone	http://marineregions.org/mrgid/8466
+Western Sumatra	
+North East Atlantic	http://www.marineregions.org/mrgid/1912
+Osumi Islands	
+Port Jackson	
+Mljet	
+Poor Knights Islands	
+Johnston Atoll Exclusive Economic Zone	
+Westerschelde	
+Baltic sea	http://www.geonames.org/2633321
+Southeastern Brazil	http://marineregions.org/mrgid/2143
+Israeli part of the Mediterranean Sea - Eastern Basin	http://marineregions.org/mrgid/4280
+Scheldt estuary	
+Oostende Harbour	
+port of Bruges-Zeebrugge	
+Baai van Heist	
+Blankenberge Harbour	
+Bredene	
+Koksijde	
+De Panne	
+Zeebrugge	
+Oostende	
+Spuikom	
+Belgian Exclusive Economic Zone	http://marineregions.org/mrgid/3293
+Nieuwpoort Harbour	
+Coastal Polders	
+Antwerp harbour	
+Port of Ghent	
+Kanaal Gent - Terneuzen	
+San Francisco Bay	
+British Columbia	
+Oregon	
+Washington (State)	
+Shenzhen bay	
+Cap de Creus	
+Ligurian Sea	http://www.marineregions.org/mrgid/3363
+Spanish part of the Mediterranean Sea - Western Basin	http://marineregions.org/mrgid/4279
+Maltese part of the Mediterranean Sea - Eastern Basin	http://marineregions.org/mrgid/4280
+Mossel bay	
+Saldanha Bay	
+East London	
+Hout Bay	
+North Adriatic	http://www.marineregions.org/mrgid/3314
+Knysna Estuary	
+Brittany	
+Italian part of the Mediterranean Sea - Eastern Basin	http://marineregions.org/mrgid/4280
+Lebanese part of the Mediterranean Sea - Eastern Basin	http://marineregions.org/mrgid/4280
+Aegean Sea	http://www.marineregions.org/mrgid/3315
+Cypriote part of the Mediterranean Sea - Eastern Basin	http://marineregions.org/mrgid/4280
+Tunisian part of the Mediterranean Sea - Eastern Basin	http://marineregions.org/mrgid/4280
+Turkish part of the Mediterranean Sea - Eastern Basin	http://marineregions.org/mrgid/4280
+Greek part of the Aegean Sea	http://www.marineregions.org/mrgid/3315
+Egyptian part of the Mediterranean Sea - Eastern Basin	http://marineregions.org/mrgid/4280
+Algerian part of the Mediterranean Sea - Western Basin	http://marineregions.org/mrgid/4279
+Italian part of the Ionian Sea	http://www.marineregions.org/mrgid/3351
+Levantine Sea	
+Brazil Southeast	http://marineregions.org/mrgid/2143
+Western Mediterranean	
+Greece, with Cyclades and more islands	
+Tunisian part of the Mediterranean Sea - Western Basin	http://marineregions.org/mrgid/4279
+Syrian part of the Mediterranean Sea - Eastern Basin	http://marineregions.org/mrgid/4280
+Libyan part of the Mediterranean Sea - Eastern Basin	http://marineregions.org/mrgid/4280
+Argentina Northwest	http://marineregions.org/mrgid/2149
+Neuquén	
+Valparaíso	
+Chile Central	
+Juan Fernández Is.	
+Rio Grande do Sul	
+Washington	
+Argentina South	http://marineregions.org/mrgid/2149
+Southern South America	
+Arizona	
+New South Wales	
+Vatican City	
+Azores	
+Madeira	
+Biobío	
+Chile North	
+Tasmania	http://www.geonames.org/2147291
+Southwestern Europe	
+Argentina Northeast	http://marineregions.org/mrgid/2149
+Entre Ríos	
+Queensland	
+Israeli Exclusive Economic Zone	http://marineregions.org/mrgid/8375
+Ustica Island	
+Vulcano Island	
+Ponza	
+Salina	
+Genoa Gulf	
+Alexandria Harbour	
+Biograd na Moru	
+Crete	http://www.geonames.org/6697802
+Strait of Sicily	
+Lampedusa	
+Taranto Gulf	
+Italian part of the Ligurian Sea	http://www.marineregions.org/mrgid/3363
+Port Said	
+Rhodes	
+Galicia	
+North Coast of Spain	http://marineregions.org/mrgid/5693
+Martinican Exclusive Economic Zone	
+Turkish part of the Aegean Sea	http://www.marineregions.org/mrgid/3315
+Dutch Exclusive  Economic Zone	
+Izmir Bay	
+East Mediterranean	http://marineregions.org/mrgid/4280
+Casco Bay	
+Turkish Aegean Sea	http://www.marineregions.org/mrgid/3315
+Spanish part of the Alboran Sea	http://www.marineregions.org/mrgid/3324
+Moroccan part of the Alboran Sea	http://www.marineregions.org/mrgid/3324
+East Coast of Spain	http://marineregions.org/mrgid/5693
+Irish part of the North Atlantic Ocean	http://www.geonames.org/3411923
+Canary Islands Exclusive Economic Zone	http://marineregions.org/mrgid/8364
+Cypriote Exclusive Economic Zone	http://marineregions.org/mrgid/8376
+Syrian Exclusive Economic Zone	http://marineregions.org/mrgid/8373
+Coast of Catalane	
+Australian part of the Bass Strait	http://www.marineregions.org/mrgid/4366
+Namibian Exclusive Economic Zone	http://marineregions.org/mrgid/2218
+United Kingdom part of the Celtic Sea	http://www.marineregions.org/mrgid/2351
+United Kingdom part of the North Sea	http://marineregions.org/mrgid/5696
+Madeiran part of the North Atlantic Ocean	
+Chinese part of the Eastern China Sea	http://www.marineregions.org/mrgid/4302
+Chinese part of the South China Sea	http://www.marineregions.org/mrgid/4332
+Chinese part of the Yellow Sea	http://marineregions.org/mrgid/4303
+French part of the English Channel	
+Chinese Exclusive Economic Zone	
+Finnish part of the Baltic Sea	http://www.geonames.org/2633321
+Argentinean part of the Rio de La Plata	
+United States part of the North Atlantic Ocean	http://www.geonames.org/3411923
+United States part of the Gulf of Mexico	http://www.marineregions.org/mrgid/4288
+Ukrainian part of the Black Sea	http://www.marineregions.org/mrgid/3319
+Russian part of the Sea of Azov	
+Uruguayan part of the Rio de La Plata	
+Portuguese part of the North Atlantic Ocean	http://www.geonames.org/3411923
+Lithuanian part of the Baltic Sea	http://www.geonames.org/2633321
+Danish part of the Baltic Sea	http://www.geonames.org/2633321
+French part of the North Sea	http://www.marineregions.org/mrgid/2350
+Danish part of the North Sea	http://www.marineregions.org/mrgid/2350
+Estonian part of the Gulf of Riga	http://www.marineregions.org/mrgid/2409
+United Kingdom part of the North Atlantic Ocean	http://marineregions.org/mrgid/5696
+Dutch part of the North Sea	http://www.marineregions.org/mrgid/2350
+Finnish part of the Gulf of Bothnia	http://www.marineregions.org/mrgid/2402
+South African part of the Indian Ocean	http://marineregions.org/mrgid/8396
+French part of the Bay of Biscay	http://www.marineregions.org/mrgid/2359
+Canadian part of the North Atlantic Ocean	http://www.geonames.org/3411923
+Estonian part of the Baltic Sea	http://www.geonames.org/2633321
+Costa Rican part of the North Pacific Ocean	
+Greek part of the Mediterranean Sea - Eastern Basin	http://marineregions.org/mrgid/4280
+Hawaiian part of the North Pacific Ocean	http://marineregions.org/mrgid/8453
+Spanish part of the North Atlantic Ocean	http://www.geonames.org/3411923
+Norwegian part of the Skagerrak	http://www.marineregions.org/mrgid/2379
+Swedish part of the Skagerrak	http://www.marineregions.org/mrgid/2379
+Galapagos part of the South Pacific Ocean	http://marineregions.org/mrgid/8403
+Galapagos part of the North Pacific Ocean	http://marineregions.org/mrgid/8403
+Singaporean part of the Singapore Strait	http://www.marineregions.org/mrgid/4336
+Canadian part of the The Coastal Waters of Southeast Alaska and British Columbia	
+United Kingdom part of the Irish Sea and St. George's Channel	http://marineregions.org/mrgid/5696
+United Kingdom part of the Inner Seas off the West Coast of Scotland	http://marineregions.org/mrgid/5696
+South West Atlantic	http://www.marineregions.org/mrgid/1914
+Uruguayan part of the South Atlantic Ocean	http://marineregions.org/mrgid/2216
+Brazilian part of the North Atlantic Ocean	http://marineregions.org/mrgid/8464
+Mexican part of the Gulf of Mexico	http://www.marineregions.org/mrgid/4288
+Indian part of the Arabian Sea	http://www.marineregions.org/mrgid/4268
+Guadeloupe & Martinique part of the North Atlantic Ocean	
+German part of the Baltic Sea	http://www.geonames.org/2633321
+Falkland Islands part of the South Atlantic Ocean	http://www.geonames.org/3474414
+Ukrainian part of the Sea of Azov	
+United States part of the The Coastal Waters of Southeast Alaska and British Columbia	
+Mexican part of the Gulf of California	http://www.marineregions.org/mrgid/4314
+Russian part of the Gulf of Finland	http://www.marineregions.org/mrgid/2407
+Latvian part of the Gulf of Riga	http://www.marineregions.org/mrgid/2409
+Polish part of the Baltic Sea	http://www.geonames.org/2633321
+Russian part of the Baltic Sea	http://www.geonames.org/2633321
+French Guiana part of the North Atlantic Ocean	http://www.geonames.org/3411923
+Greek part of the Adriatic Sea	http://www.marineregions.org/mrgid/3314
+Greek part of the Ionian Sea	http://www.marineregions.org/mrgid/3351
+Latvian part of the Baltic Sea	http://www.geonames.org/2633321
+Estonian part of the Gulf of Finland	http://www.marineregions.org/mrgid/2407
+Italian part of the Adriatic Sea	http://www.marineregions.org/mrgid/3314
+Malaysian part of the Sulu Sea	http://www.marineregions.org/mrgid/4358
+Spanish part of the Bay of Biscay	http://www.marineregions.org/mrgid/2359
+Guadeloupe & Martinique part of the Caribbean Sea	http://www.marineregions.org/mrgid/4287
+United Kingdom part of the Bristol Channel	http://marineregions.org/mrgid/5696
+Iranian part of the Gulf of Oman	http://www.marineregions.org/mrgid/4267
+Norwegian part of the Norwegian Sea	http://www.marineregions.org/mrgid/2353
+Moroccan part of the North Atlantic Ocean	
+Azores part of the North Atlantic Ocean	
+Alaskan part of the North Pacific Ocean	http://www.marineregions.org/mrgid/1908
+Canadian part of the North Pacific Ocean	http://www.geonames.org/4030875
+Angolan part of the South Atlantic Ocean	
+Danish part of the Kattegat	
+Swedish part of the Gulf of Bothnia	http://www.marineregions.org/mrgid/2402
+Canadian part of the Bay of Fundy	http://www.marineregions.org/mrgid/4289
+Costa Rican part of the Caribbean Sea	http://www.marineregions.org/mrgid/4287
+Colombian part of the North Pacific Ocean	
+Irish part of the Inner Seas off the West Coast of Scotland	
+Taiwanese part of the South China Sea	http://www.marineregions.org/mrgid/4332
+Mexican part of the Caribbean Sea	http://www.marineregions.org/mrgid/4287
+Indian part of the Laccadive Sea	http://www.marineregions.org/mrgid/4269
+Swedish part of the Baltic Sea	http://www.geonames.org/2633321
+Sri Lankan part of the Laccadive Sea	http://www.marineregions.org/mrgid/4269
+Alaskan part of the Gulf of Alaska	http://www.marineregions.org/mrgid/4312
+Thailand part of the Gulf of Thailand	http://www.marineregions.org/mrgid/4334
+Lebanese Exclusive Economic Zone	http://marineregions.org/mrgid/8374
+Irish part of the Celtic Sea	http://www.marineregions.org/mrgid/2351
+Icelandic part of the North Atlantic Ocean	http://www.geonames.org/3411923
+French part of the Celtic Sea	http://www.marineregions.org/mrgid/2351
+Trinidad and Tobago part of the Caribbean Sea	http://www.marineregions.org/mrgid/4287
+French part of the Ligurian Sea	http://www.marineregions.org/mrgid/3363
+Finnish part of the Gulf of Finland	http://www.marineregions.org/mrgid/2407
+French Polynesian part of the South Pacific Ocean	
+Cook Islands part of the South Pacific Ocean	http://www.geonames.org/1899402
+New Caledonian part of the South Pacific Ocean	
+Samoan part of the South Pacific Ocean	
+Japanese part of the Philippine Sea	http://www.marineregions.org/mrgid/4300
+Slovenian part of the Adriatic Sea	http://www.marineregions.org/mrgid/3314
+Turkish part of the Black Sea	http://www.marineregions.org/mrgid/3319
+Norwegian part of the Barentsz Sea	http://www.marineregions.org/mrgid/4247
+French part of the Tyrrhenian Sea	http://www.marineregions.org/mrgid/3386
+Serbia-Montenegrian part of the Adriatic Sea	http://www.marineregions.org/mrgid/3314
+Albanian part of the Adriatic Sea	http://www.marineregions.org/mrgid/3314
+Venezuelan part of the North Atlantic Ocean	
+Venezuelan part of the Caribbean Sea	http://www.marineregions.org/mrgid/4287
+Andaman and Nicobar Islands part of the Andaman or Burma Sea	http://marineregions.org/mrgid/8333
+Canary Islands part of the North Atlantic Ocean	http://marineregions.org/mrgid/8364
+Turkish Exclusive Economic Zone	http://marineregions.org/mrgid/5697
+Bermudian part of the North Atlantic Ocean	
+Spanish part of the Strait of Gibraltar	http://www.marineregions.org/mrgid/3346
+Romanian part of the Black Sea	http://www.marineregions.org/mrgid/3319
+Algerian part of the Alboran Sea	http://www.marineregions.org/mrgid/3324
+Oosterschelde	
+Espírito Santo	
+Greek Exclusive Economic Zone	
+European waters (ERMS scope)	
+Dunkerque	
+Atlantic Europe	
+Wimereux	
+Algerian Exclusive Economic Zone	http://marineregions.org/mrgid/8378
+German Exclusive Economic Zone	http://marineregions.org/mrgid/5669
+Venice lagoon	
+North Coast of France	
+Waddeneilanden	
+South Coast of England	
+Firth of Tay	
+Northumberland	
+Atlantic Coast of Spain	http://marineregions.org/mrgid/5693
+Troon	
+Port Edgar	
+Peterhead	
+Lossiemouth	
+Craobh Haven	
+Dunstaffnage	
+Ardrossan	
+Mersin Bay	
+German Bight	
+Belt Sea	
+Suez canal	
+Langebaan Lagoon	
+Alexandria	
+South Turkey	
+Alboran Sea	http://www.marineregions.org/mrgid/3324
+Cobscook Bay	
+Burghsluis	
+Den Helder	
+Voormalige Zuiderzee	
+Scharendijke	
+Dutch Coast	
+Brouwersdam	
+Zeeland	
+Texel	
+Meer van Goes	
+Breskens	
+Katwijk	
+Schouwen	
+Blankenberge	
+Oostduinkerke	
+Goesse Sas	
+Yerseke	
+Kattendijke	
+Veerse Meer	
+Granville	
+Pléneuf-Val-André	
+St-Jacut	
+Guernsey part of the English Channel	
+Plymouth	
+Arcachon Bay	
+Knokke-Heist	
+North East Spain	http://marineregions.org/mrgid/2185
+Bahia	
+Bizerte Lagoon	
+Sfax	
+Ria de Arosa	
+North Atlantic	http://www.marineregions.org/mrgid/1912
+Japanese Sea	http://marineregions.org/mrgid/4307
+North Pacific	http://www.marineregions.org/mrgid/1908
+Coastal Waters of Southeast Alaska and British Columbia	
+Ionian sea	http://www.marineregions.org/mrgid/3351
+Palau part of the North Pacific Ocean	
+Laccadive Sea	http://www.marineregions.org/mrgid/4269
+Yellow Sea	http://marineregions.org/mrgid/4303
+Great Australian Bight	http://www.marineregions.org/mrgid/4276
+Arafura Sea	http://www.marineregions.org/mrgid/4347
+Rio de la Plata	
+East China Sea	http://www.marineregions.org/mrgid/4302
+Ecuadorean part of the North Pacific Ocean	
+South Pacific	http://www.marineregions.org/mrgid/1910
+Corsica	
+Makassar Strait	http://www.marineregions.org/mrgid/4339
+Rio Grande	
+Spanish part of Gulf of Cadiz	
+Belizean Exclusive Economic Zone	
+Celtic Sea	http://www.marineregions.org/mrgid/2351
+Manche	
+Malacca Strait	http://www.marineregions.org/mrgid/4275
+French part of the North Atlantic Ocean	http://www.geonames.org/3411923
+Barents Sea	http://www.marineregions.org/mrgid/4247
+Bermuda Islands	
+United Kingdom Exclusive Economic Zone	http://marineregions.org/mrgid/5696
+Spanish Exclusive Economic Zone [Mediterranean part]	http://marineregions.org/mrgid/5693
+French Exclusive Economic Zone [Mediterranean part]	http://marineregions.org/mrgid/5677
+Spanish Exclusive Economic Zone	http://marineregions.org/mrgid/5693
+Gulf of St. Lawrence	http://www.marineregions.org/mrgid/4290
+Peruvian part of the South Pacific Ocean	
+Nigerian part of the Gulf of Guinea	http://www.marineregions.org/mrgid/4286
+Canadian Exclusive Economic Zone	
+Cameroonian part of the Gulf of Guinea	http://www.marineregions.org/mrgid/4286
+Senegalese part of the North Atlantic Ocean	
+Gulf of Bothnia	http://www.marineregions.org/mrgid/2402
+Archipel malais	
+Sierra Leonian part of the North Atlantic Ocean	
+Line Group part of the South Pacific Ocean	
+Bosporus	
+Atlantic Coast of France	
+Atlantic coast of Morocco	
+Palestinian Territory	
+Australian part of the Timor Sea	http://www.marineregions.org/mrgid/4344
+Northern California	http://www.geonames.org/5332921
+Spain - Demarcación Marina Sudatlántica	http://marineregions.org/mrgid/5693
+Spain - Demarcación Marina Noratlántica	http://marineregions.org/mrgid/5693
+Spain - Demarcación Marina Levantino-Balear	http://marineregions.org/mrgid/5693
+Gulf of Gascogne	
+Greenlandic part of the Labrador Sea	http://www.marineregions.org/mrgid/4291
+Russian part of the Japan Sea	http://marineregions.org/mrgid/4307
+Gulf of Riga	http://www.marineregions.org/mrgid/2409
+Kenyan part of the Indian Ocean	http://www.marineregions.org/mrgid/1904
+Sudanese part of the Red Sea	http://www.marineregions.org/mrgid/4264
+Formosa	
+Basque Coast of Spain	http://marineregions.org/mrgid/5693
+Odra Estuary	
+Tasman Sea	http://www.marineregions.org/mrgid/4365
+Virgin Islands part of the Caribbean Sea	http://www.marineregions.org/mrgid/4287
+Northern Mariana Islands and Guam part of the Philippine Sea	http://www.geonames.org/4041468
+United States part of the Bay of Fundy	http://www.marineregions.org/mrgid/4289
+Texas	http://www.geonames.org/4736286
+Louisiana	http://www.geonames.org/4331987
+Marshall Islands part of the North Pacific Ocean	http://marineregions.org/mrgid/8318
+Caspian Sea	http://www.geonames.org/630671
+Turks and Caicos part of the North Atlantic Ocean	
+Santos	
+Elkhorn Slough	
+Fundy Bay	
+Ecuadorean part of the South Pacific Ocean	
+Gambian part of the North Atlantic Ocean	
+Pacific Coast of Panama	http://marineregions.org/mrgid/8423
+Johnston Atoll part of the North Pacific Ocean	
+Alaskan part of the The Coastal Waters of Southeast Alaska and British Columbia	
+Saint-Pierre and Miquelon part of the North Atlantic Ocean	
+Iraqi part of the Persian Gulf	http://www.marineregions.org/mrgid/4266
+Chukchi Sea	http://www.marineregions.org/mrgid/4257
+South Korean part of the Yellow Sea	http://marineregions.org/mrgid/4303
+Beninese part of the Gulf of Guinea	http://www.marineregions.org/mrgid/4286
+North Carolina	http://www.geonames.org/4482348
+Aral Sea	
+Congolese part of the South Atlantic Ocean	
+Kiribati part of the North Pacific Ocean	
+Bay of Ilha Grande	
+Virgin Islands	
+Barbuda	
+Sint-Maarten part of the Caribbean Sea	http://www.marineregions.org/mrgid/4287
+Anguilla part of the Caribbean Sea	http://www.marineregions.org/mrgid/4287
+Saint Kitts	
+Clyde Sea	
+Curaçaoan part of the Caribbean Sea	http://www.marineregions.org/mrgid/4287
+Bonaire part of the Caribbean Sea	http://www.marineregions.org/mrgid/4287
+West Coast of North America	
+Pacific Coast of the United States	
+Wadden Sea	
+Japanese part of the Inland Sea	
+Yemeni part of the Red Sea	http://www.marineregions.org/mrgid/4264
+Yemeni part of the Arabian Sea	http://www.marineregions.org/mrgid/4268
+Algarve	
+Hossegor Lake	
+Brest	
+Guadalquivir Estuary	
+Normandy	
+Auckland	
+North China	
+Newport Bay	
+Central Chile	
+Thau Lagoon	
+Portuguese Atlantic Coast	
+Lakoni Bay	
+Saronic Gulf	
+Argos Bay	
+Karpathos	
+Coast of Israel	
+Yugoslavia	
+Gibraltarian part of the Strait of Gibraltar	http://www.marineregions.org/mrgid/3346
+Lambert's Bay	
+Milnerton Lagoon	
+Berg Rivier	
+Cape Town Docks	
+Cape Town	
+Hermanus	
+Mozambican part of the Indian Ocean	http://marineregions.org/mrgid/8347
+Richards Bay	
+Port Elizaberth (Harbour)	
+Langebaan Bay	
+Simon's Town Harbour	
+False Bay (South Shetland Islands)	
+Knysna	
+Groenriviersmond	
+Bloubergstrand	
+St. Helena Bay	
+Port Nolloth	
+Zandvlei Estuary	
+Alexander Bay	
+Gansbaai	
+Great Lakes	
+Baleares coast	
+Amsterdam Island	
+Saint Paul Island	
+Antipodes Islands	
+Possession Island	
+Inaccessible Island	
+Nightingale Island	
+Marion Island	
+Spain - SW coast	http://marineregions.org/mrgid/5693
