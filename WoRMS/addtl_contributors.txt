@@ -89,3 +89,19 @@ Fondo, Esther	http://www.marinespecies.org/imis.php?module=person&persid=4160
 Depew, Lorna	
 Vermaercke, Sigrid	
 Garcia, Maria	
+Marilyn Schotte	http://www.marinespecies.org/imis.php?module=person&persid=15780
+Niel L. Bruce	http://www.marinespecies.org/imis.php?module=person&persid=15814
+George D.F. Wilson	http://www.marinespecies.org/imis.php?module=person&persid=16182
+Jacob van der Land	http://www.marinespecies.org/imis.php?module=person&persid=5866
+Ju-shey Ho	http://www.marinespecies.org/imis.php?module=person&persid=18404
+Øjvind Moestrup	http://www.marinespecies.org/imis.php?module=person&persid=7246
+Claude De Broyer	http://www.marinespecies.org/imis.php?module=person&persid=274
+Patrice Bail	http://www.marinespecies.org/imis.php?module=person&persid=19335
+Messing, Charles, C.G.	http://www.marinespecies.org/imis.php?module=person&persid=15628
+Schuchert, Peter, P.	http://www.marinespecies.org/imis.php?module=person&persid=9184
+Read, Geoffrey, G.B.	http://www.marinespecies.org/imis.php?module=person&persid=20048
+Vanhoorne, Bart, B.	http://www.marinespecies.org/imis.php?module=person&persid=8162
+Walter, T. Chad, T.C.	http://www.marinespecies.org/imis.php?module=person&persid=17774
+Kroh, Andreas, A.	http://www.marinespecies.org/imis.php?module=person&persid=19332
+Moretzsohn, Fabio, F.	http://www.marinespecies.org/imis.php?module=person&persid=24980
+Vos, Chris, C.	http://www.marinespecies.org/imis.php?module=person&persid=19925
