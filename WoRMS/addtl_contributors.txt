@@ -105,3 +105,25 @@ Walter, T. Chad, T.C.	http://www.marinespecies.org/imis.php?module=person&persid
 Kroh, Andreas, A.	http://www.marinespecies.org/imis.php?module=person&persid=19332
 Moretzsohn, Fabio, F.	http://www.marinespecies.org/imis.php?module=person&persid=24980
 Vos, Chris, C.	http://www.marinespecies.org/imis.php?module=person&persid=19925
+Tucker, John, J.	http://www.marinespecies.org/imis.php?module=person&persid=19990
+Christopher B. Boyko	http://www.marinespecies.org/imis.php?module=person&persid=16184
+Erik V. Thuesen	http://www.marinespecies.org/imis.php?module=person&persid=17987
+João Gil	http://www.marinespecies.org/imis.php?module=person&persid=24171
+Horton, Tammy, T.	http://www.marinespecies.org/imis.php?module=person&persid=7567
+Vonk, Ronald, R.	http://www.marinespecies.org/imis.php?module=person&persid=28138
+Mario H. Londoño Mesa	http://www.marinespecies.org/imis.php?module=person&persid=26768
+Bezerra, Tania Nara, T.N.	http://www.marinespecies.org/imis.php?module=person&persid=12430
+van Haaren, Ton, T.	http://www.marinespecies.org/imis.php?module=person&persid=23534
+Ng Kee Lin, Peter, P.	http://www.marinespecies.org/imis.php?module=person&persid=21163
+Allen G. Collins	http://www.marinespecies.org/imis.php?module=person&persid=10646
+Gómez-Noguera, Samuel Enrique, S.E.	http://www.marinespecies.org/imis.php?module=person&persid=28433
+Molodtsova, Tina, T.N.	http://www.marinespecies.org/imis.php?module=person&persid=20084
+Guiry, Michael D.	http://www.marinespecies.org/imis.php?module=person&persid=3063
+Esther Fondo	http://www.marinespecies.org/imis.php?module=person&persid=4160
+Eunice Onyango	http://www.marinespecies.org/imis.php?module=person&persid=26308
+Sigrid Vermaercke	
+David Herbert	
+Maria Garcia	
+Le Coze, François, F.	http://www.marinespecies.org/imis.php?module=person&persid=33941
+Silvi Edith Nsiangango	http://www.marinespecies.org/imis.php?module=person&persid=15296
+Siegel, Volker, V.	http://www.marinespecies.org/imis.php?module=person&persid=13091
