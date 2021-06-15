@@ -40,4 +40,7 @@
 <!-- For consolidating resources in Summary Data Resources -->
 <property name="parentMeasurementEolPk" namespace="http://eol.org/schema/terms/" qualName="http://eol.org/schema/parentMeasurementEolPk" dc:description=""/>
 
+<!-- For 'compiler Anne Thessen' -->
+<property name="compiler" namespace="https://www.wikidata.org/entity/" qualName="https://www.wikidata.org/entity/Q29514511" dc:description="compiler"/>
+
 </extension>
