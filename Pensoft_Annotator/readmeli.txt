@@ -10,4 +10,7 @@ came from DATA-1870 (also AntWeb task but to be used for all resources)
 https://eol-jira.bibalex.org/browse/DATA-1870?focusedCommentId=65451&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-65451
 Eli added it to the list of generally excluded URIs in [Pensoft2EOLAPI.php]
 ====================================================================================================================================================================
+- life_history.txt
+came from DATA-1893: new patterns for all textmined resources: life history ontology
+Eli: this can be a placeholder for all strings that will be assigned its own measurementType and/or measurementValue
 ====================================================================================================================================================================
