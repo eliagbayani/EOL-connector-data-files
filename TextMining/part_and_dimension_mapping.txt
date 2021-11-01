@@ -1,0 +1,22 @@
+Body Part string	dimension term	dimension term (noun form)	URI
+plant	high	height	http://purl.obolibrary.org/obo/TO_0000207
+body	long	length	http://purl.obolibrary.org/obo/CMO_0000013
+body	wide	width	http://purl.obolibrary.org/obo/VT_0015039
+leaf	long	length	http://purl.obolibrary.org/obo/FLOPO_0001133
+lamina	long	length	http://purl.obolibrary.org/obo/FLOPO_0001133
+rhizome	long	length	http://purl.obolibrary.org/obo/TO_0000553
+trunk	high	height	http://purl.obolibrary.org/obo/TO_0000576
+stem	high	height	http://purl.obolibrary.org/obo/TO_0000576
+stem	long	length	http://purl.obolibrary.org/obo/TO_0000576
+trunk	in diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0000875
+stem	in diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0000875
+	wingspan	wingspan	http://www.wikidata.org/entity/Q245097
+	long	length	http://purl.obolibrary.org/obo/CMO_0000013
+	high	height	http://semanticscience.org/resource/SIO_000040
+carapace	long	length	http://eol.org/schema/terms/CarapaceLength
+snout vent	long	length	http://eol.org/schema/terms/HeadBodyLength
+snout-vent	long	length	http://eol.org/schema/terms/HeadBodyLength
+head body	long	length	http://eol.org/schema/terms/HeadBodyLength
+head-body	long	length	http://eol.org/schema/terms/HeadBodyLength
+head	wide	width	http://eol.org/schema/HeadWidth
+head	long	length	http://purl.obolibrary.org/obo/OBA_VT0000038

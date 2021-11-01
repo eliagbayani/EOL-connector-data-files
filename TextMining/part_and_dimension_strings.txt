@@ -1,0 +1,30 @@
+body part string
+plant
+body
+leaf
+lamina
+rhizome
+trunk
+stem
+carapace
+snout vent
+snout-vent
+head body
+head-body
+head
+
+
+dimension string
+high
+long
+wide
+diameter
+wingspan
+
+
+dimension string (noun form)
+height
+length
+width
+in diameter
+wingspan

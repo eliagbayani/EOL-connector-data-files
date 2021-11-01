@@ -1,0 +1,25 @@
+units string	uri
+mm	http://purl.obolibrary.org/obo/UO_0000016
+mm.	http://purl.obolibrary.org/obo/UO_0000016
+millimeter	http://purl.obolibrary.org/obo/UO_0000016
+millimeters	http://purl.obolibrary.org/obo/UO_0000016
+
+cm	http://purl.obolibrary.org/obo/UO_0000015
+cm.	http://purl.obolibrary.org/obo/UO_0000015
+centimeter	http://purl.obolibrary.org/obo/UO_0000015
+centimeters	http://purl.obolibrary.org/obo/UO_0000015
+
+m	http://purl.obolibrary.org/obo/UO_0000008
+m.	http://purl.obolibrary.org/obo/UO_0000008
+meter	http://purl.obolibrary.org/obo/UO_0000008
+meters	http://purl.obolibrary.org/obo/UO_0000008
+
+in	http://purl.obolibrary.org/obo/EFO_0004387
+in.	http://purl.obolibrary.org/obo/EFO_0004387
+inch	http://purl.obolibrary.org/obo/EFO_0004387
+inches	http://purl.obolibrary.org/obo/EFO_0004387
+
+ft	http://mimi.case.edu/ontologies/2009/1/UnitsOntology#foot
+ft.	http://mimi.case.edu/ontologies/2009/1/UnitsOntology#foot
+foot	http://mimi.case.edu/ontologies/2009/1/UnitsOntology#foot
+feet	http://mimi.case.edu/ontologies/2009/1/UnitsOntology#foot
