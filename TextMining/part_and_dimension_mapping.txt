@@ -21,3 +21,5 @@ head-body	long	length	http://eol.org/schema/terms/HeadBodyLength
 head	wide	width	http://eol.org/schema/HeadWidth
 head	long	length	http://purl.obolibrary.org/obo/OBA_VT0000038
 head	in_diameter	diameter	http://eol.org/schema/HeadWidth
+Eli added:
+stem	thick	thickness	http://purl.obolibrary.org/obo/FLOPO_0000875
