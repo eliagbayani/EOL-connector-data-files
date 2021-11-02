@@ -18,7 +18,7 @@ dimension string
 high
 long
 wide
-diameter
+in_diameter
 wingspan
 
 
@@ -26,5 +26,5 @@ dimension string (noun form)
 height
 length
 width
-in diameter
+diameter
 wingspan

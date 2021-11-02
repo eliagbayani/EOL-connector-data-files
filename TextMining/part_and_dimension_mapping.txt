@@ -8,8 +8,8 @@ rhizome	long	length	http://purl.obolibrary.org/obo/TO_0000553
 trunk	high	height	http://purl.obolibrary.org/obo/TO_0000576
 stem	high	height	http://purl.obolibrary.org/obo/TO_0000576
 stem	long	length	http://purl.obolibrary.org/obo/TO_0000576
-trunk	in diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0000875
-stem	in diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0000875
+trunk	in_diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0000875
+stem	in_diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0000875
 	wingspan	wingspan	http://www.wikidata.org/entity/Q245097
 	long	length	http://purl.obolibrary.org/obo/CMO_0000013
 	high	height	http://semanticscience.org/resource/SIO_000040
@@ -20,4 +20,4 @@ head body	long	length	http://eol.org/schema/terms/HeadBodyLength
 head-body	long	length	http://eol.org/schema/terms/HeadBodyLength
 head	wide	width	http://eol.org/schema/HeadWidth
 head	long	length	http://purl.obolibrary.org/obo/OBA_VT0000038
-head	in diameter	diameter	http://eol.org/schema/HeadWidth
+head	in_diameter	diameter	http://eol.org/schema/HeadWidth
