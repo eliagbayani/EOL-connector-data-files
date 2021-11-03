@@ -7,9 +7,9 @@ rhizome
 trunk
 stem
 carapace
-snout vent
+snout_vent
 snout-vent
-head body
+head_body
 head-body
 head
 

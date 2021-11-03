@@ -14,12 +14,13 @@ stem	in_diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0000875
 	long	length	http://purl.obolibrary.org/obo/CMO_0000013
 	high	height	http://semanticscience.org/resource/SIO_000040
 carapace	long	length	http://eol.org/schema/terms/CarapaceLength
-snout vent	long	length	http://eol.org/schema/terms/HeadBodyLength
+snout_vent	long	length	http://eol.org/schema/terms/HeadBodyLength
 snout-vent	long	length	http://eol.org/schema/terms/HeadBodyLength
-head body	long	length	http://eol.org/schema/terms/HeadBodyLength
+head_body	long	length	http://eol.org/schema/terms/HeadBodyLength
 head-body	long	length	http://eol.org/schema/terms/HeadBodyLength
 head	wide	width	http://eol.org/schema/HeadWidth
 head	long	length	http://purl.obolibrary.org/obo/OBA_VT0000038
+Newly added:
 head	in_diameter	diameter	http://eol.org/schema/HeadWidth
-Eli added:
 stem	thick	thickness	http://purl.obolibrary.org/obo/FLOPO_0000875
+Eli added:
