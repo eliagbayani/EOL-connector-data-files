@@ -7,6 +7,7 @@ lamina	long	length	http://purl.obolibrary.org/obo/FLOPO_0001133
 rhizome	long	length	http://purl.obolibrary.org/obo/TO_0000553
 trunk	high	height	http://purl.obolibrary.org/obo/TO_0000576
 stem	high	height	http://purl.obolibrary.org/obo/TO_0000576
+stems	high	height	http://purl.obolibrary.org/obo/TO_0000576
 stem	long	length	http://purl.obolibrary.org/obo/TO_0000576
 trunk	in_diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0000875
 stem	in_diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0000875

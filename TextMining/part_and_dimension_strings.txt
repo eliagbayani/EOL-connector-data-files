@@ -20,11 +20,13 @@ long
 wide
 in_diameter
 wingspan
-
+thick
 
 dimension string (noun form)
 height
 length
 width
 diameter
+in_diameter
 wingspan
+thickness
