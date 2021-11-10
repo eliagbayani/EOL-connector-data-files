@@ -24,3 +24,22 @@ Newly added:
 head	in_diameter	diameter	http://eol.org/schema/HeadWidth
 stem	thick	thickness	http://purl.obolibrary.org/obo/FLOPO_0000875
 Eli added:
+Jen added: Nov 9, 2021
+thalli	long	length	http://eol.org/schema/terms/thallusLength
+thallus	long	length	http://eol.org/schema/terms/thallusLength
+thalli	in_diameter	diameter	http://eol.org/schema/terms/thallusDiameter
+thallus	in_diameter	diameter	http://eol.org/schema/terms/thallusDiameter
+thalli	wide	width	http://eol.org/schema/terms/thallusWidth
+thallus	wide	width	http://eol.org/schema/terms/thallusWidth
+
+capsule	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
+fruit	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
+achene	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
+berry	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
+drupe	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
+samara	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
+
+stromata	high	height	http://eol.org/schema/terms/fruitingBodyHeight
+stroma	high	height	http://eol.org/schema/terms/fruitingBodyHeight
+stromata	long	length	http://eol.org/schema/terms/fruitingBodyHeight
+stroma	long	length	http://eol.org/schema/terms/fruitingBodyHeight
