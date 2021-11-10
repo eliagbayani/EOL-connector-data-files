@@ -3,7 +3,7 @@ plant	high	height	http://purl.obolibrary.org/obo/TO_0000207
 body	long	length	http://purl.obolibrary.org/obo/CMO_0000013
 body	wide	width	http://purl.obolibrary.org/obo/VT_0015039
 leaf	long	length	http://purl.obolibrary.org/obo/FLOPO_0001133
-lamina	long	length	http://purl.obolibrary.org/obo/FLOPO_0001133
+lamina (ditched)	long	length	http://purl.obolibrary.org/obo/FLOPO_0001133
 rhizome	long	length	http://purl.obolibrary.org/obo/TO_0000553
 trunk	high	height	http://purl.obolibrary.org/obo/TO_0000576
 stem	high	height	http://purl.obolibrary.org/obo/TO_0000576
@@ -43,3 +43,13 @@ stromata	high	height	http://eol.org/schema/terms/fruitingBodyHeight
 stroma	high	height	http://eol.org/schema/terms/fruitingBodyHeight
 stromata	long	length	http://eol.org/schema/terms/fruitingBodyHeight
 stroma	long	length	http://eol.org/schema/terms/fruitingBodyHeight
+
+type	long	length	http://purl.obolibrary.org/obo/CMO_0000013
+individual	long	length	http://purl.obolibrary.org/obo/CMO_0000013
+specimen	long	length	http://purl.obolibrary.org/obo/CMO_0000013
+
+type	wide	width	http://purl.obolibrary.org/obo/VT_0015039
+individual	wide	width	http://purl.obolibrary.org/obo/VT_0015039
+specimen	wide	width	http://purl.obolibrary.org/obo/VT_0015039
+
+
