@@ -32,6 +32,8 @@ thallus	in_diameter	diameter	http://eol.org/schema/terms/thallusDiameter
 thalli	wide	width	http://eol.org/schema/terms/thallusWidth
 thallus	wide	width	http://eol.org/schema/terms/thallusWidth
 
+thallus	in_greatest_width	width	http://eol.org/schema/terms/thallusWidth
+
 capsule	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
 fruit	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
 achene	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
