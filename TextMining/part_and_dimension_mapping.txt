@@ -58,9 +58,12 @@ Jen added: Nov 15, 2021
 archegonial_thallus	long	length	http://eol.org/schema/terms/thallusLength
 archegonial_thallus	in_diameter	diameter	http://eol.org/schema/terms/thallusDiameter
 archegonial_thallus	wide	width	http://eol.org/schema/terms/thallusWidth
+archegonial_thallus	in_greatest_width	width	http://eol.org/schema/terms/thallusWidth
+
 antheridial_thallus	long	length	http://eol.org/schema/terms/thallusLength
 antheridial_thallus	in_diameter	diameter	http://eol.org/schema/terms/thallusDiameter
 antheridial_thallus	wide	width	http://eol.org/schema/terms/thallusWidth
+antheridial_thallus	in_greatest_width	width	http://eol.org/schema/terms/thallusWidth
 
 caudex	high	height	http://eol.org/schema/terms/caudexHeight
 frond	long	length	http://eol.org/schema/terms/frondLength
