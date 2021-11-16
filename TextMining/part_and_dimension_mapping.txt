@@ -27,6 +27,7 @@ stem	thick	thickness	http://purl.obolibrary.org/obo/FLOPO_0000875
 Eli added: Nov 16, 2021
 stem	or_more_long	length	http://purl.obolibrary.org/obo/TO_0000576
 leaf	in_length	length	http://purl.obolibrary.org/obo/FLOPO_0001133
+plant	or_more_in_height	height	http://purl.obolibrary.org/obo/TO_0000207
 
 Jen added: Nov 9, 2021
 thalli	long	length	http://eol.org/schema/terms/thallusLength
