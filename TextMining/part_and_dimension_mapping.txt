@@ -32,6 +32,7 @@ thallus	in_diameter	diameter	http://eol.org/schema/terms/thallusDiameter
 thalli	wide	width	http://eol.org/schema/terms/thallusWidth
 thallus	wide	width	http://eol.org/schema/terms/thallusWidth
 
+thalli	in_greatest_width	width	http://eol.org/schema/terms/thallusWidth
 thallus	in_greatest_width	width	http://eol.org/schema/terms/thallusWidth
 
 capsule	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
@@ -59,11 +60,19 @@ archegonial_thallus	long	length	http://eol.org/schema/terms/thallusLength
 archegonial_thallus	in_diameter	diameter	http://eol.org/schema/terms/thallusDiameter
 archegonial_thallus	wide	width	http://eol.org/schema/terms/thallusWidth
 archegonial_thallus	in_greatest_width	width	http://eol.org/schema/terms/thallusWidth
-
 antheridial_thallus	long	length	http://eol.org/schema/terms/thallusLength
 antheridial_thallus	in_diameter	diameter	http://eol.org/schema/terms/thallusDiameter
 antheridial_thallus	wide	width	http://eol.org/schema/terms/thallusWidth
 antheridial_thallus	in_greatest_width	width	http://eol.org/schema/terms/thallusWidth
+
+archegonial_thalli	long	length	http://eol.org/schema/terms/thallusLength
+archegonial_thalli	in_diameter	diameter	http://eol.org/schema/terms/thallusDiameter
+archegonial_thalli	wide	width	http://eol.org/schema/terms/thallusWidth
+archegonial_thalli	in_greatest_width	width	http://eol.org/schema/terms/thallusWidth
+antheridial_thalli	long	length	http://eol.org/schema/terms/thallusLength
+antheridial_thalli	in_diameter	diameter	http://eol.org/schema/terms/thallusDiameter
+antheridial_thalli	wide	width	http://eol.org/schema/terms/thallusWidth
+antheridial_thalli	in_greatest_width	width	http://eol.org/schema/terms/thallusWidth
 
 caudex	high	height	http://eol.org/schema/terms/caudexHeight
 frond	long	length	http://eol.org/schema/terms/frondLength
