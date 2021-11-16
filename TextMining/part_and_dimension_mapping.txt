@@ -75,6 +75,8 @@ antheridial_thalli	wide	width	http://eol.org/schema/terms/thallusWidth
 antheridial_thalli	in_greatest_width	width	http://eol.org/schema/terms/thallusWidth
 
 caudex	high	height	http://eol.org/schema/terms/caudexHeight
+caudex	in_diameter	diameter	http://eol.org/schema/terms/caudexDiameter
+
 frond	long	length	http://eol.org/schema/terms/frondLength
 
 sporophyl	high	height	http://eol.org/schema/terms/sporophyllHeight
