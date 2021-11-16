@@ -23,7 +23,11 @@ head	long	length	http://purl.obolibrary.org/obo/OBA_VT0000038
 Newly added:
 head	in_diameter	diameter	http://eol.org/schema/HeadWidth
 stem	thick	thickness	http://purl.obolibrary.org/obo/FLOPO_0000875
-Eli added:
+
+Eli added: Nov 16, 2021
+stem	or_more_long	length	http://purl.obolibrary.org/obo/TO_0000576
+leaf	in_length	length	http://purl.obolibrary.org/obo/FLOPO_0001133
+
 Jen added: Nov 9, 2021
 thalli	long	length	http://eol.org/schema/terms/thallusLength
 thallus	long	length	http://eol.org/schema/terms/thallusLength
