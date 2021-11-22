@@ -41,6 +41,8 @@ thalli	in_greatest_width	width	http://eol.org/schema/terms/thallusWidth
 thallus	in_greatest_width	width	http://eol.org/schema/terms/thallusWidth
 
 capsule	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
+capsule	in_diameter	diameter	http://eol.org/schema/terms/capsuleDiameter
+
 fruit	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
 achene	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
 berry	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366

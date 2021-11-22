@@ -19,6 +19,7 @@ high
 long
 wide
 in_diameter
+in_length
 wingspan
 thick
 
