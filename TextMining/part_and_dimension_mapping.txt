@@ -41,13 +41,25 @@ thalli	in_greatest_width	width	http://eol.org/schema/terms/thallusWidth
 thallus	in_greatest_width	width	http://eol.org/schema/terms/thallusWidth
 
 capsule	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
-capsule	in_diameter	diameter	http://eol.org/schema/terms/capsuleDiameter
-
 fruit	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
 achene	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
 berry	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
 drupe	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
 samara	long	length	http://purl.obolibrary.org/obo/FLOPO_0001366
+
+capsule	in_diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0015921
+fruit	in_diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0015921
+achene	in_diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0015921
+berry	in_diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0015921
+drupe	in_diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0015921
+samara	in_diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0015921
+
+capsule	wide	width	http://purl.obolibrary.org/obo/FLOPO_0015921
+fruit	wide	width	http://purl.obolibrary.org/obo/FLOPO_0015921
+achene	wide	width	http://purl.obolibrary.org/obo/FLOPO_0015921
+berry	wide	width	http://purl.obolibrary.org/obo/FLOPO_0015921
+drupe	wide	width	http://purl.obolibrary.org/obo/FLOPO_0015921
+samara	wide	width	http://purl.obolibrary.org/obo/FLOPO_0015921
 
 stromata	high	height	http://eol.org/schema/terms/fruitingBodyHeight
 stroma	high	height	http://eol.org/schema/terms/fruitingBodyHeight
