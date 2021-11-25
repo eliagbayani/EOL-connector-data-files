@@ -106,3 +106,6 @@ sporophyll	long	length	http://eol.org/schema/terms/sporophyllHeight
 phyllodia	long	length	http://purl.obolibrary.org/obo/FLOPO_0001133
 phyllode	long	length	http://purl.obolibrary.org/obo/FLOPO_0001133
 leaf-blade	long	length	http://purl.obolibrary.org/obo/FLOPO_0001133
+
+seta	long	length	http://purl.obolibrary.org/obo/FLOPO_0023821
+setae	long	length	http://purl.obolibrary.org/obo/FLOPO_0023821

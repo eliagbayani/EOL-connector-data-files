@@ -9,10 +9,10 @@ cm.	http://purl.obolibrary.org/obo/UO_0000015
 centimeter	http://purl.obolibrary.org/obo/UO_0000015
 centimeters	http://purl.obolibrary.org/obo/UO_0000015
 
-m	http://purl.obolibrary.org/obo/UO_0000008
-m.	http://purl.obolibrary.org/obo/UO_0000008
-meter	http://purl.obolibrary.org/obo/UO_0000008
-meters	http://purl.obolibrary.org/obo/UO_0000008
+excluded m	http://purl.obolibrary.org/obo/UO_0000008
+excluded m.	http://purl.obolibrary.org/obo/UO_0000008
+excluded meter	http://purl.obolibrary.org/obo/UO_0000008
+excluded meters	http://purl.obolibrary.org/obo/UO_0000008
 
 in	http://purl.obolibrary.org/obo/EFO_0004387
 in.	http://purl.obolibrary.org/obo/EFO_0004387
