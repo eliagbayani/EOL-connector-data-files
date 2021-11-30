@@ -3,6 +3,7 @@ plant	high	height	http://purl.obolibrary.org/obo/TO_0000207
 body (ignored)	long	length	http://purl.obolibrary.org/obo/CMO_0000013
 body (ignored)	wide	width	http://purl.obolibrary.org/obo/VT_0015039
 leaf	long	length	http://purl.obolibrary.org/obo/FLOPO_0001133
+leaf	wide	width	http://eol.org/schema/terms/leafWidth
 lamina (ignored)	long	length	http://purl.obolibrary.org/obo/FLOPO_0001133
 rhizome	long	length	http://purl.obolibrary.org/obo/TO_0000553
 trunk	high	height	http://purl.obolibrary.org/obo/TO_0000576
