@@ -22,11 +22,16 @@ head	long	length	http://purl.obolibrary.org/obo/OBA_VT0000038
 Newly added:
 head	in_diameter	diameter	http://eol.org/schema/HeadWidth
 
-stem	high	height	http://purl.obolibrary.org/obo/TO_0000576
+# another tweak: I'd like to distinguish stem height from stem length. 
+# Stem height can be used as a subclass of whole plant height, but stem length could mean many things. 
+# Let's leave stem length as is, but
+# stem with high/height => http://purl.obolibrary.org/obo/FLOPO_0022260
+
+stem	high	height	http://purl.obolibrary.org/obo/FLOPO_0022260
 stem	long	length	http://purl.obolibrary.org/obo/TO_0000576
+stem	or_more_long	length	http://purl.obolibrary.org/obo/TO_0000576
 stem	in_diameter	diameter	http://purl.obolibrary.org/obo/FLOPO_0000875
 stem	thick	thickness	http://purl.obolibrary.org/obo/FLOPO_0000875
-stem	or_more_long	length	http://purl.obolibrary.org/obo/TO_0000576
 
 Eli added: Nov 16, 2021
 leaf	in_length	length	http://purl.obolibrary.org/obo/FLOPO_0001133
