@@ -24,8 +24,7 @@ ft.	http://mimi.case.edu/ontologies/2009/1/UnitsOntology#foot
 foot	http://mimi.case.edu/ontologies/2009/1/UnitsOntology#foot
 feet	http://mimi.case.edu/ontologies/2009/1/UnitsOntology#foot
 
-dm	https://www.wikidata.org/wiki/Q200323
-dm.	https://www.wikidata.org/wiki/Q200323
-decimeter	https://www.wikidata.org/wiki/Q200323
-decimeters	https://www.wikidata.org/wiki/Q200323
-
+dm	https://www.wikidata.org/entity/Q200323
+dm.	https://www.wikidata.org/entity/Q200323
+decimeter	https://www.wikidata.org/entity/Q200323
+decimeters	https://www.wikidata.org/entity/Q200323
