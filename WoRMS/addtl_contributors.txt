@@ -1,60 +1,60 @@
-van Soest, Rob W.M.	http://www.marinespecies.org/imis.php?module=person&persid=5008
-Glasby, Chris	http://www.marinespecies.org/imis.php?module=person&persid=10965
+van Soest, Rob W.M.	https://www.marinespecies.org/imis.php?module=person&persid=5008
+Glasby, Chris	https://www.marinespecies.org/imis.php?module=person&persid=10965
 db_admin	
-Hooper, John N.A.	http://www.marinespecies.org/imis.php?module=person&persid=13035
-Ng, Peter	http://www.marinespecies.org/imis.php?module=person&persid=21163
-Gil, João	http://www.marinespecies.org/imis.php?module=person&persid=24171
-Pugh, Phil	http://www.marinespecies.org/imis.php?module=person&persid=9191
+Hooper, John N.A.	https://www.marinespecies.org/imis.php?module=person&persid=13035
+Ng, Peter	https://www.marinespecies.org/imis.php?module=person&persid=21163
+Gil, João	https://www.marinespecies.org/imis.php?module=person&persid=24171
+Pugh, Phil	https://www.marinespecies.org/imis.php?module=person&persid=9191
 Verleye, Thomas	
-Poore, Gary C.B.	http://www.marinespecies.org/imis.php?module=person&persid=16183
-Brandão, Simone Nunes	http://www.marinespecies.org/imis.php?module=person&persid=16117
+Poore, Gary C.B.	https://www.marinespecies.org/imis.php?module=person&persid=16183
+Brandão, Simone Nunes	https://www.marinespecies.org/imis.php?module=person&persid=16117
 Demo, Account (TE)	
 Fanini, Lucia	
 Herbert, David	
-Kotov, Alexey	http://www.marinespecies.org/imis.php?module=person&persid=20494
+Kotov, Alexey	https://www.marinespecies.org/imis.php?module=person&persid=20494
 Corbari, Laure	
-Bezerra, Tânia Nara	http://www.marinespecies.org/imis.php?module=person&persid=12430
-Glenner, Henrick	http://www.marinespecies.org/imis.php?module=person&persid=39304
-Rodríguez, Estefanía	http://www.marinespecies.org/imis.php?module=person&persid=39258
+Bezerra, Tânia Nara	https://www.marinespecies.org/imis.php?module=person&persid=12430
+Glenner, Henrick	https://www.marinespecies.org/imis.php?module=person&persid=39304
+Rodríguez, Estefanía	https://www.marinespecies.org/imis.php?module=person&persid=39258
 Melo da Silva, Débora Cristina	
-Chan, Benny K.K.	http://www.marinespecies.org/imis.php?module=person&persid=17994
+Chan, Benny K.K.	https://www.marinespecies.org/imis.php?module=person&persid=17994
 Espinel, Nadjejda	
 Aracina, Claudia	
 Camba Reu, Cibran	
 Estensoro, Itziar	
 Martinez, Olga	
-Pepple, Peace	http://www.marinespecies.org/imis.php?module=person&persid=12790
-Hopcroft, Russ	http://www.marinespecies.org/imis.php?module=person&persid=17135
-Noel, Pierre	http://www.marinespecies.org/imis.php?module=person&persid=7657
-Munilla, Tomás	http://www.marinespecies.org/imis.php?module=person&persid=4275
+Pepple, Peace	https://www.marinespecies.org/imis.php?module=person&persid=12790
+Hopcroft, Russ	https://www.marinespecies.org/imis.php?module=person&persid=17135
+Noel, Pierre	https://www.marinespecies.org/imis.php?module=person&persid=7657
+Munilla, Tomás	https://www.marinespecies.org/imis.php?module=person&persid=4275
 Barber, A.D.	
-Massó i Alemán, Sergi	http://www.marinespecies.org/imis.php?module=person&persid=20069
-D'Hondt, Sophie	http://www.marinespecies.org/imis.php?module=person&persid=19973
+Massó i Alemán, Sergi	https://www.marinespecies.org/imis.php?module=person&persid=20069
+D'Hondt, Sophie	https://www.marinespecies.org/imis.php?module=person&persid=19973
 Belmarco Marine Species Consortium, VLIZ	
-Verbeken, Mieke	http://www.marinespecies.org/imis.php?module=person&persid=3676
-Hostens, Kris	http://www.marinespecies.org/imis.php?module=person&persid=226
-Caballer, Manuel	http://www.marinespecies.org/imis.php?module=person&persid=23990
-Glover, Adrian	http://www.marinespecies.org/imis.php?module=person&persid=8468
-Londoño Mesa, Mario H.	http://www.marinespecies.org/imis.php?module=person&persid=26768
-Blazewicz, Magdalena	http://www.marinespecies.org/imis.php?module=person&persid=13092
-Sartori, André F.	http://www.marinespecies.org/imis.php?module=person&persid=26483
-van der Meij, Sancia E.T.	http://www.marinespecies.org/imis.php?module=person&persid=29364
+Verbeken, Mieke	https://www.marinespecies.org/imis.php?module=person&persid=3676
+Hostens, Kris	https://www.marinespecies.org/imis.php?module=person&persid=226
+Caballer, Manuel	https://www.marinespecies.org/imis.php?module=person&persid=23990
+Glover, Adrian	https://www.marinespecies.org/imis.php?module=person&persid=8468
+Londoño Mesa, Mario H.	https://www.marinespecies.org/imis.php?module=person&persid=26768
+Blazewicz, Magdalena	https://www.marinespecies.org/imis.php?module=person&persid=13092
+Sartori, André F.	https://www.marinespecies.org/imis.php?module=person&persid=26483
+van der Meij, Sancia E.T.	https://www.marinespecies.org/imis.php?module=person&persid=29364
 Kremenetskaia, Antonina	
-Carraro, João Luís de Fraga	http://www.marinespecies.org/imis.php?module=person&persid=32596
-Hyžný, Matús	http://www.marinespecies.org/imis.php?module=person&persid=33227
+Carraro, João Luís de Fraga	https://www.marinespecies.org/imis.php?module=person&persid=32596
+Hyžný, Matús	https://www.marinespecies.org/imis.php?module=person&persid=33227
 Flores, Hauke	
-González-Solís, David	http://www.marinespecies.org/imis.php?module=person&persid=34470
+González-Solís, David	https://www.marinespecies.org/imis.php?module=person&persid=34470
 Natural History Museum Rotterdam	
 Slieker, Frans	
 A. Anker	
 Giragosov, Vitaly	
 T. Bennett & D. Paul	
-Simone Nunes Brandao	http://www.marinespecies.org/imis.php?module=person&persid=16117
-Yanli Lei	http://www.marinespecies.org/imis.php?module=person&persid=30840
+Simone Nunes Brandao	https://www.marinespecies.org/imis.php?module=person&persid=16117
+Yanli Lei	https://www.marinespecies.org/imis.php?module=person&persid=30840
 Yilan Lei	
-Hayward, Bruce	http://www.marinespecies.org/imis.php?module=person&persid=21190
+Hayward, Bruce	https://www.marinespecies.org/imis.php?module=person&persid=21190
 Ax, 2008	
-Nicole J. de Voogd	http://www.marinespecies.org/imis.php?module=person&persid=16327
+Nicole J. de Voogd	https://www.marinespecies.org/imis.php?module=person&persid=16327
 NOAA-Pelagic Research Services	
 Patrick Beckers	
 Ketabi, Ramin;Jamili, Shahla	
@@ -63,67 +63,67 @@ Neil McDaniel
 Bilal ÖZTÜRK	
 Utrilla, Olga	
 Bhave, Vishal	
-Serge Gofas	http://www.marinespecies.org/imis.php?module=person&persid=7205
+Serge Gofas	https://www.marinespecies.org/imis.php?module=person&persid=7205
 Mouna Antit	
-Brandao, Simone Nunes	http://www.marinespecies.org/imis.php?module=person&persid=16117
+Brandao, Simone Nunes	https://www.marinespecies.org/imis.php?module=person&persid=16117
 Fisheries and Oceans Canada	
 NIWA/ DTIS seabed image	
-Tomas Cedhagen	http://www.marinespecies.org/imis.php?module=person&persid=23743
+Tomas Cedhagen	https://www.marinespecies.org/imis.php?module=person&persid=23743
 Fisheries and Oceans Canada, Moira Galbraith	
-Fisheries and Oceans Canada, Claude Nozères	http://www.marinespecies.org/imis.php?module=person&persid=23344
+Fisheries and Oceans Canada, Claude Nozères	https://www.marinespecies.org/imis.php?module=person&persid=23344
 BIOMARE Newsletter	
 Mazza, Fred	
 Mendes, Isabel	
 wj, Chen	
-Fisheries and Oceans Canada, Roberta Miller	http://www.marinespecies.org/imis.php?module=person&persid=23751
+Fisheries and Oceans Canada, Roberta Miller	https://www.marinespecies.org/imis.php?module=person&persid=23751
 Liza Gomez Daglio	
 Dr. Dola Bhattacharjee	
-Martin Angel	http://www.marinespecies.org/imis.php?module=person&persid=9541
+Martin Angel	https://www.marinespecies.org/imis.php?module=person&persid=9541
 Cheryl Hopcroft	
-Russ Hopcroft	http://www.marinespecies.org/imis.php?module=person&persid=17135
+Russ Hopcroft	https://www.marinespecies.org/imis.php?module=person&persid=17135
 Cheryl Angel	
 Ch. Battershill	
 Angus Wilson	
-Onyango, Eunice	http://www.marinespecies.org/imis.php?module=person&persid=26308
-Fondo, Esther	http://www.marinespecies.org/imis.php?module=person&persid=4160
+Onyango, Eunice	https://www.marinespecies.org/imis.php?module=person&persid=26308
+Fondo, Esther	https://www.marinespecies.org/imis.php?module=person&persid=4160
 Depew, Lorna	
 Vermaercke, Sigrid	
 Garcia, Maria	
-Marilyn Schotte	http://www.marinespecies.org/imis.php?module=person&persid=15780
-Niel L. Bruce	http://www.marinespecies.org/imis.php?module=person&persid=15814
-George D.F. Wilson	http://www.marinespecies.org/imis.php?module=person&persid=16182
-Jacob van der Land	http://www.marinespecies.org/imis.php?module=person&persid=5866
-Ju-shey Ho	http://www.marinespecies.org/imis.php?module=person&persid=18404
-Øjvind Moestrup	http://www.marinespecies.org/imis.php?module=person&persid=7246
-Claude De Broyer	http://www.marinespecies.org/imis.php?module=person&persid=274
-Patrice Bail	http://www.marinespecies.org/imis.php?module=person&persid=19335
-Messing, Charles, C.G.	http://www.marinespecies.org/imis.php?module=person&persid=15628
-Schuchert, Peter, P.	http://www.marinespecies.org/imis.php?module=person&persid=9184
-Read, Geoffrey, G.B.	http://www.marinespecies.org/imis.php?module=person&persid=20048
-Vanhoorne, Bart, B.	http://www.marinespecies.org/imis.php?module=person&persid=8162
-Walter, T. Chad, T.C.	http://www.marinespecies.org/imis.php?module=person&persid=17774
-Kroh, Andreas, A.	http://www.marinespecies.org/imis.php?module=person&persid=19332
-Moretzsohn, Fabio, F.	http://www.marinespecies.org/imis.php?module=person&persid=24980
-Vos, Chris, C.	http://www.marinespecies.org/imis.php?module=person&persid=19925
-Tucker, John, J.	http://www.marinespecies.org/imis.php?module=person&persid=19990
-Christopher B. Boyko	http://www.marinespecies.org/imis.php?module=person&persid=16184
-Erik V. Thuesen	http://www.marinespecies.org/imis.php?module=person&persid=17987
-João Gil	http://www.marinespecies.org/imis.php?module=person&persid=24171
-Horton, Tammy, T.	http://www.marinespecies.org/imis.php?module=person&persid=7567
-Vonk, Ronald, R.	http://www.marinespecies.org/imis.php?module=person&persid=28138
-Mario H. Londoño Mesa	http://www.marinespecies.org/imis.php?module=person&persid=26768
-Bezerra, Tania Nara, T.N.	http://www.marinespecies.org/imis.php?module=person&persid=12430
-van Haaren, Ton, T.	http://www.marinespecies.org/imis.php?module=person&persid=23534
-Ng Kee Lin, Peter, P.	http://www.marinespecies.org/imis.php?module=person&persid=21163
-Allen G. Collins	http://www.marinespecies.org/imis.php?module=person&persid=10646
-Gómez-Noguera, Samuel Enrique, S.E.	http://www.marinespecies.org/imis.php?module=person&persid=28433
-Molodtsova, Tina, T.N.	http://www.marinespecies.org/imis.php?module=person&persid=20084
-Guiry, Michael D.	http://www.marinespecies.org/imis.php?module=person&persid=3063
-Esther Fondo	http://www.marinespecies.org/imis.php?module=person&persid=4160
-Eunice Onyango	http://www.marinespecies.org/imis.php?module=person&persid=26308
+Marilyn Schotte	https://www.marinespecies.org/imis.php?module=person&persid=15780
+Niel L. Bruce	https://www.marinespecies.org/imis.php?module=person&persid=15814
+George D.F. Wilson	https://www.marinespecies.org/imis.php?module=person&persid=16182
+Jacob van der Land	https://www.marinespecies.org/imis.php?module=person&persid=5866
+Ju-shey Ho	https://www.marinespecies.org/imis.php?module=person&persid=18404
+Øjvind Moestrup	https://www.marinespecies.org/imis.php?module=person&persid=7246
+Claude De Broyer	https://www.marinespecies.org/imis.php?module=person&persid=274
+Patrice Bail	https://www.marinespecies.org/imis.php?module=person&persid=19335
+Messing, Charles, C.G.	https://www.marinespecies.org/imis.php?module=person&persid=15628
+Schuchert, Peter, P.	https://www.marinespecies.org/imis.php?module=person&persid=9184
+Read, Geoffrey, G.B.	https://www.marinespecies.org/imis.php?module=person&persid=20048
+Vanhoorne, Bart, B.	https://www.marinespecies.org/imis.php?module=person&persid=8162
+Walter, T. Chad, T.C.	https://www.marinespecies.org/imis.php?module=person&persid=17774
+Kroh, Andreas, A.	https://www.marinespecies.org/imis.php?module=person&persid=19332
+Moretzsohn, Fabio, F.	https://www.marinespecies.org/imis.php?module=person&persid=24980
+Vos, Chris, C.	https://www.marinespecies.org/imis.php?module=person&persid=19925
+Tucker, John, J.	https://www.marinespecies.org/imis.php?module=person&persid=19990
+Christopher B. Boyko	https://www.marinespecies.org/imis.php?module=person&persid=16184
+Erik V. Thuesen	https://www.marinespecies.org/imis.php?module=person&persid=17987
+João Gil	https://www.marinespecies.org/imis.php?module=person&persid=24171
+Horton, Tammy, T.	https://www.marinespecies.org/imis.php?module=person&persid=7567
+Vonk, Ronald, R.	https://www.marinespecies.org/imis.php?module=person&persid=28138
+Mario H. Londoño Mesa	https://www.marinespecies.org/imis.php?module=person&persid=26768
+Bezerra, Tania Nara, T.N.	https://www.marinespecies.org/imis.php?module=person&persid=12430
+van Haaren, Ton, T.	https://www.marinespecies.org/imis.php?module=person&persid=23534
+Ng Kee Lin, Peter, P.	https://www.marinespecies.org/imis.php?module=person&persid=21163
+Allen G. Collins	https://www.marinespecies.org/imis.php?module=person&persid=10646
+Gómez-Noguera, Samuel Enrique, S.E.	https://www.marinespecies.org/imis.php?module=person&persid=28433
+Molodtsova, Tina, T.N.	https://www.marinespecies.org/imis.php?module=person&persid=20084
+Guiry, Michael D.	https://www.marinespecies.org/imis.php?module=person&persid=3063
+Esther Fondo	https://www.marinespecies.org/imis.php?module=person&persid=4160
+Eunice Onyango	https://www.marinespecies.org/imis.php?module=person&persid=26308
 Sigrid Vermaercke	
 David Herbert	
 Maria Garcia	
-Le Coze, François, F.	http://www.marinespecies.org/imis.php?module=person&persid=33941
-Silvi Edith Nsiangango	http://www.marinespecies.org/imis.php?module=person&persid=15296
-Siegel, Volker, V.	http://www.marinespecies.org/imis.php?module=person&persid=13091
+Le Coze, François, F.	https://www.marinespecies.org/imis.php?module=person&persid=33941
+Silvi Edith Nsiangango	https://www.marinespecies.org/imis.php?module=person&persid=15296
+Siegel, Volker, V.	https://www.marinespecies.org/imis.php?module=person&persid=13091
