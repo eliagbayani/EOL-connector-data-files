@@ -906,7 +906,7 @@ Mediterranean Sea Area	http://www.marineregions.org/mrgid/1905
 Britain	http://marineregions.org/mrgid/5696
 Ionian Sea	http://www.marineregions.org/mrgid/3351
 North East Pacific	http://www.marineregions.org/mrgid/1908
-French Exclusive Economic Zone Atlantic part]	http://marineregions.org/mrgid/5677
+French Exclusive Economic Zone Atlantic part	http://marineregions.org/mrgid/5677
 Arabian Sea	http://www.marineregions.org/mrgid/4268
 Bay of Fundy	http://www.marineregions.org/mrgid/4289
 Mozambique Channel	http://www.marineregions.org/mrgid/4261
@@ -922,7 +922,7 @@ Spanish (Canary Islands) part of the North Atlantic Ocean	http://www.marineregio
 Danish Exclusive Economic Zone	http://marineregions.org/mrgid/5674
 Caribbean Sea	http://www.marineregions.org/mrgid/4287
 Japanese part of the North Pacific Ocean	http://marineregions.org/mrgid/8487
-Mexican Exclusive Economic Zone Caribbean part]	http://www.marineregions.org/mrgid/4287
+Mexican Exclusive Economic Zone Caribbean part	http://www.marineregions.org/mrgid/4287
 Guadeloupean Exclusive Economic Zone	http://marineregions.org/mrgid/8434
 Madagascan Exclusive Economic Zone	http://marineregions.org/mrgid/8348
 Taiwanese Exclusive Economic Zone	http://marineregions.org/mrgid/8321
@@ -990,6 +990,31 @@ Dutch Exclusive Economic Zone	http://marineregions.org/mrgid/5668
 Amazon River	http://www.geonames.org/3407731
 Norwegian West Coast	http://marineregions.org/mrgid/5686
 added from WoRMS (DATA-1827) on May 13, 2021 END ------------	
+
+added from WoRMS (DATA-1827) on Dec 20, 2022 START ------------	
+Falkland Islands Exclusive Economic Zone	http://www.marineregions.org/mrgid/1914
+Marshall Islands Exclusive Economic Zone	http://marineregions.org/mrgid/8318
+Eastern Caribbean	http://www.marineregions.org/mrgid/4287
+East Coast of United States of America	http://www.marineregions.org/mrgid/1912
+Northern Bay of Bengal	http://www.marineregions.org/mrgid/4273
+Gulf of Guinea West	http://www.marineregions.org/mrgid/4286
+Gulf of Guinea Upwelling	http://www.marineregions.org/mrgid/4286
+Gulf of Guinea Central	http://www.marineregions.org/mrgid/4286
+Gulf of Guinea South	http://www.marineregions.org/mrgid/4286
+Southern Caribbean	http://www.marineregions.org/mrgid/4287
+Central and Southern Great Barrier Reef	http://www.geonames.org/2164628
+Northern and Central Red Sea	http://www.marineregions.org/mrgid/4264
+Andaman Sea Coral Coast	http://www.marineregions.org/mrgid/4274
+Arctic Lower Bathyal Province	http://www.marineregions.org/mrgid/1906
+Southern Red Sea	http://www.marineregions.org/mrgid/4264
+Mauritanian continental shelf	http://marineregions.org/mrgid/8369
+Sea of Japan	http://www.marineregions.org/mrgid/4307
+Thailand Exclusive Economic Zone	http://marineregions.org/mrgid/8332
+Okinawa Island	http://www.geonames.org/1854345
+East Australian Coastal Province	http://marineregions.org/mrgid/8323
+Northern Grand Banks - Southern Labrador	http://www.marineregions.org/mrgid/1912
+added from WoRMS (DATA-1827) on Dec 20, 2022 END ------------	
+
 
 added from GBIF country nodes on May 24, 2021 START ------------
 ISOTYPE	http://rs.tdwg.org/ontology/voc/TaxonName#Isotype
