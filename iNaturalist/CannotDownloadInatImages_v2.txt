@@ -6310,7 +6310,6 @@ https://static.inaturalist.org/photos/117973176/original.jpeg
 https://static.inaturalist.org/photos/68004154/original.jpg
 https://static.inaturalist.org/photos/189625886/original.jpg
 https://static.inaturalist.org/photos/189626055/original.jpg
-https://inaturalist-open-data.s3.amazonaws.com/photos/259262273/original.jpeg
 https://static.inaturalist.org/photos/182801910/original.jpeg
 https://static.inaturalist.org/photos/182801964/original.jpeg
 https://static.inaturalist.org/photos/182801938/original.jpeg
@@ -10804,7 +10803,6 @@ https://static.inaturalist.org/photos/151043093/original.jpg
 https://static.inaturalist.org/photos/151043119/original.jpg
 https://static.inaturalist.org/photos/175706362/original.jpeg
 https://static.inaturalist.org/photos/175705982/original.jpeg
-https://inaturalist-open-data.s3.amazonaws.com/photos/240203488/original.jpg
 https://static.inaturalist.org/photos/244753732/original.jpg
 https://static.inaturalist.org/photos/244753721/original.jpg
 https://static.inaturalist.org/photos/244753699/original.jpg
