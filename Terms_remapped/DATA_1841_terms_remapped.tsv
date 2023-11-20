@@ -154,12 +154,12 @@ http://purl.obolibrary.org/obo/ENVO_01001242	http://purl.obolibrary.org/obo/ENVO
 For PaleoDB: https://eol-jira.bibalex.org/browse/DATA-1831?focusedCommentId=64616&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-64616
 http://eol.org/schema/terms/arboreal	http://purl.obolibrary.org/obo/ENVO_00000571
 
-http://purl.obolibrary.org/obo/ECOCORE_00000013	http://purl.obolibrary.org/obo/ECOCORE_00000130
+http://purl.obolibrary.org/obo/ECOCORE_00000013 ---REMOVED--- http://purl.obolibrary.org/obo/ECOCORE_00000130
 http://www.wikidata.org/entity/Q50621879	http://eol.org/schema/terms/photosymbiotroph
 
 From: https://eol-jira.bibalex.org/secure/attachment/74319/ALL_remap_replace_remove.txt
-http://purl.obolibrary.org/obo/ENVO_00000264	http://purl.obolibrary.org/obo/ENVO_01000342
-http://purl.obolibrary.org/obo/ENVO_00000550	http://purl.obolibrary.org/obo/ENVO_01000342
+http://purl.obolibrary.org/obo/ENVO_00000264 ---REMOVED--- http://purl.obolibrary.org/obo/ENVO_01000342
+http://purl.obolibrary.org/obo/ENVO_00000550 ---REMOVED--- http://purl.obolibrary.org/obo/ENVO_01000342
 
 http://purl.obolibrary.org/obo/ENVO_00000303	http://purl.obolibrary.org/obo/ENVO_01000687
 http://purl.obolibrary.org/obo/ENVO_00000144	http://purl.obolibrary.org/obo/ENVO_00002030
@@ -178,13 +178,16 @@ http://purl.obolibrary.org/obo/ENVO_00000030	http://purl.obolibrary.org/obo/ENVO
 http://purl.obolibrary.org/obo/ENVO_00000150	http://purl.obolibrary.org/obo/ENVO_01000049
 http://purl.obolibrary.org/obo/ENVO_01000240	http://purl.obolibrary.org/obo/ENVO_01000196
 http://purl.obolibrary.org/obo/ENVO_02000049	http://purl.obolibrary.org/obo/ENVO_00002150
-http://purl.obolibrary.org/obo/ENVO_00002019	http://purl.obolibrary.org/obo/ENVO_01000322
-http://purl.obolibrary.org/obo/ENVO_00000570	http://purl.obolibrary.org/obo/ENVO_01000322
+http://purl.obolibrary.org/obo/ENVO_00002019 ---REMOVED--- http://purl.obolibrary.org/obo/ENVO_01000322
+
+http://purl.obolibrary.org/obo/ENVO_00000570 ---REMOVED--- http://purl.obolibrary.org/obo/ENVO_01000322
+http://purl.obolibrary.org/obo/ENVO_00000570	http://purl.obolibrary.org/obo/ENVO_00002019
+
 http://purl.obolibrary.org/obo/ENVO_00000190	http://purl.obolibrary.org/obo/ENVO_01000027
 
 http://purl.obolibrary.org/obo/ENVO_00002031	http://purl.obolibrary.org/obo/ENVO_00000002
 http://purl.obolibrary.org/obo/ENVO_00000106	http://purl.obolibrary.org/obo/ENVO_01000177
-http://purl.obolibrary.org/obo/ENVO_00000181	http://purl.obolibrary.org/obo/ENVO_00000081
+http://purl.obolibrary.org/obo/ENVO_00000181 ---REMOVED--- http://purl.obolibrary.org/obo/ENVO_00000081
 http://purl.obolibrary.org/obo/ENVO_00002009	http://purl.obolibrary.org/obo/ENVO_00000446
 http://purl.obolibrary.org/obo/ENVO_00000109	http://purl.obolibrary.org/obo/ENVO_01000175
 http://purl.obolibrary.org/obo/ENVO_00000104	http://purl.obolibrary.org/obo/ENVO_00000447
@@ -232,7 +235,7 @@ http://purl.obolibrary.org/obo/ENVO_01000980	http://purl.obolibrary.org/obo/ENVO
 http://purl.obolibrary.org/obo/ENVO_00002011	http://purl.obolibrary.org/obo/ENVO_00000873
 http://purl.obolibrary.org/obo/ENVO_01000306	http://purl.obolibrary.org/obo/ENVO_00000873
 http://purl.obolibrary.org/obo/ENVO_01001320	http://purl.obolibrary.org/obo/ENVO_00000873
-http://purl.obolibrary.org/obo/ENVO_01000339	http://purl.obolibrary.org/obo/ENVO_00000894
+http://purl.obolibrary.org/obo/ENVO_01000339 ---REMOVED--- http://purl.obolibrary.org/obo/ENVO_00000894
 http://purl.obolibrary.org/obo/ENVO_01001037	http://purl.obolibrary.org/obo/ENVO_00002010
 http://purl.obolibrary.org/obo/ENVO_01001040	http://purl.obolibrary.org/obo/ENVO_00002010
 http://purl.obolibrary.org/obo/ENVO_01000317	http://purl.obolibrary.org/obo/ENVO_00002030
