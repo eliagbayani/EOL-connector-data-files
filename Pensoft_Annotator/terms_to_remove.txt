@@ -106,3 +106,9 @@ http://purl.obolibrary.org/obo/ENVO_01001110
 http://purl.obolibrary.org/obo/ENVO_02500013
 
 http://purl.obolibrary.org/obo/ENVO_01000772
+
+http://purl.obolibrary.org/obo/ENVO_00000429
+http://purl.obolibrary.org/obo/ENVO_00000418
+http://purl.obolibrary.org/obo/ENVO_01000155
+http://purl.obolibrary.org/obo/ENVO_00000231
+http://purl.obolibrary.org/obo/ENVO_00000463
