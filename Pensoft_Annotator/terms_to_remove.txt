@@ -112,3 +112,4 @@ http://purl.obolibrary.org/obo/ENVO_00000418
 http://purl.obolibrary.org/obo/ENVO_01000155
 http://purl.obolibrary.org/obo/ENVO_00000231
 http://purl.obolibrary.org/obo/ENVO_00000463
+http://purl.obolibrary.org/obo/ENVO_00000232
