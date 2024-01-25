@@ -23,6 +23,7 @@
 <property name="meanlog10"    namespace="http://eol.org/schema/terms/"          qualName="http://eol.org/schema/terms/meanlog10"       dc:description="A meanlog10."/>
 <property name="SDlog10"      namespace="http://eol.org/schema/terms/"          qualName="http://eol.org/schema/terms/SDlog10"         dc:description="A SDlog10."/>
 <property name="SampleSize"   namespace="http://eol.org/schema/terms/"          qualName="http://eol.org/schema/terms/SampleSize"      dc:description="A SampleSize."/>
+<property name="bodyPart"     namespace="http://eol.org/schema/terms/"          qualName="http://eol.org/schema/terms/bodyPart"        dc:description="A bodyPart."/>
 
 <!-- For 'summary data resources' task -->
 <property name="label" namespace="http://purl.obolibrary.org/obo/terms/" qualName="http://purl.obolibrary.org/obo/IAO_0000009" dc:description="A label."/>
