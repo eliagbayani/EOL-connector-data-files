@@ -145,7 +145,7 @@ monsoon forests	http://purl.obolibrary.org/obo/ENVO_00000879
 thornforest	http://purl.obolibrary.org/obo/ENVO_01000174
 reforested areas	http://purl.obolibrary.org/obo/ENVO_01000174
 
-// per https://eol-jira.bibalex.org/browse/DATA-1739?focusedCommentId=64619&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-64619 */
+/* per https://eol-jira.bibalex.org/browse/DATA-1739?focusedCommentId=64619&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-64619 */
 seamounts	http://purl.obolibrary.org/obo/ENVO_00000264
 seamount	http://purl.obolibrary.org/obo/ENVO_00000264
 seamount chain	http://purl.obolibrary.org/obo/ENVO_00000264
