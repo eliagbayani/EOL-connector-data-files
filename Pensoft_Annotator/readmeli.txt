@@ -4,7 +4,7 @@ https://github.com/eliagbayani/EOL-connector-data-files/raw/master/Pensoft_Annot
 came from DATA-1713 (AntWeb task).
 https://eol-jira.bibalex.org/browse/DATA-1713?focusedCommentId=65443&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-65443
 Eli will add it to the list of generally excluded URIs.
-LATER ON THIS LIST WAS DISCARDED, AND WAS DISTRIBUTED ELSEWHERE - TO THOSE REMAINING .txt FILES BELOW.
+LATER ON, THIS LIST WAS DISCARDED, AND WAS DISTRIBUTED ELSEWHERE - TO THOSE REMAINING .txt FILES BELOW.
 ====================================================================================================================================================================
 - life_history.txt
 https://github.com/eliagbayani/EOL-connector-data-files/raw/master/Pensoft_Annotator/life_history.txt
@@ -21,4 +21,7 @@ Eli added it to the list of generally excluded URIs in [Pensoft2EOLAPI.php]
 https://github.com/eliagbayani/EOL-connector-data-files/raw/master/Pensoft_Annotator/geo_synonyms.txt
 came from: https://eol-jira.bibalex.org/browse/DATA-1870?focusedCommentId=65780&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-65780
 Another set of URIs to be removed
+====================================================================================================================================================================
+- 2024_2remove.tsv
+All these were now added to: terms_to_remove.txt
 ====================================================================================================================================================================
