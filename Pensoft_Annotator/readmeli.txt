@@ -6,8 +6,8 @@ https://eol-jira.bibalex.org/browse/DATA-1713?focusedCommentId=65443&page=com.at
 Eli will add it to the list of generally excluded URIs.
 LATER ON, THIS LIST WAS DISCARDED, AND WAS DISTRIBUTED ELSEWHERE - TO THOSE REMAINING .txt FILES BELOW.
 ====================================================================================================================================================================
-- life_history.txt
-https://github.com/eliagbayani/EOL-connector-data-files/raw/master/Pensoft_Annotator/life_history.txt
+- life_history.tsv
+https://github.com/eliagbayani/EOL-connector-data-files/raw/master/Pensoft_Annotator/life_history.tsv
 came from DATA-1893: new patterns for all textmined resources: life history ontology
 Eli: this can be a placeholder for all strings that will be assigned its own measurementType and/or measurementValue
 ====================================================================================================================================================================
