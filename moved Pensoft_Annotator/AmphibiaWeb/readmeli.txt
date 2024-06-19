@@ -2,6 +2,5 @@ While I'm at it, for AntWeb: ants should not be aquatic, so that resource can ha
 
 Different groups with respective resources it caters for:
 
-descendants_of_aquatic: AntWeb
-
-descendants_of_salt_water: AmphibiaWeb
+- descendants_of_aquatic: AntWeb
+- descendants_of_salt_water: AmphibiaWeb
