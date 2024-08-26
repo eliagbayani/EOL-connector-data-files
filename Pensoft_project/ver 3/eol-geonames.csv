@@ -1,6 +1,6 @@
 t.name,t.uri
 Nevada,http://www.geonames.org/5509151
-Newfoundland,http://www.wikidata.org/entity/Q48335
+Newfoundland,https://www.wikidata.org/entity/Q48335
 Ascension,http://www.geonames.org/5887479
 Tristan Da Cunha,http://www.geonames.org/3370684
 Tropical Atlantic,http://marineregions.org/mrgid/21726
@@ -48,8 +48,8 @@ Selat Karimata,http://www.geonames.org/1641097
 Gulf Of California,http://www.geonames.org/4016118
 Kerguelen,http://www.geonames.org/1546558
 Scotland,http://www.geonames.org/2638360
-Kerguelen Islands,http://www.wikidata.org/entity/Q46772
-Sea Of Okhotsk,http://www.wikidata.org/entity/Q41602
+Kerguelen Islands,https://www.wikidata.org/entity/Q46772
+Sea Of Okhotsk,https://www.wikidata.org/entity/Q41602
 Great Britain,http://www.geonames.org/2648147
 Jammu-Kashmir,http://www.geonames.org/1269320
 Czechoslovakia,http://www.geonames.org/8505031
@@ -58,17 +58,17 @@ Mozambique Channel,http://www.geonames.org/8426502
 Virgin Islands,http://www.geonames.org/3577322
 Clipperton,https://www.wikidata.org/entity/Q161258
 CuraçAo,https://www.wikidata.org/entity/Q25279
-Cabo Verde,http://www.wikidata.org/entity/Q1011
+Cabo Verde,https://www.wikidata.org/entity/Q1011
 Eswatini,https://www.wikidata.org/entity/Q1050
 Caucasus Region,http://www.geonames.org/615318
 Canary Islands,http://www.geonames.org/2520308
-Macaronesia,http://www.wikidata.org/entity/Q105472
+Macaronesia,https://www.wikidata.org/entity/Q105472
 Middle America,http://eol.org/schema/terms/MiddleAmerica
 Tasmania,http://www.geonames.org/2147291
 Western Australia,http://www.geonames.org/2058645
 Queensland,http://www.geonames.org/2152274
 Southwest Africa,http://eol.org/schema/terms/SouthwestAfrica
-"Northern Territory, Australia",https://www.geonames.org/2064513
+"Northern Territory, Australia",http://www.geonames.org/2064513
 South Australia,http://www.geonames.org/2061327
 New South Wales,http://www.geonames.org/2155400
 Sokotra,http://www.geonames.org/70302
@@ -80,7 +80,7 @@ Tropical Africa,http://eol.org/schema/terms/TropicalAfrica
 Eastern Mediterranean,http://www.geonames.org/6947194
 Tanganika,http://www.geonames.org/205253
 Atlantic Coast Of South America,http://marineregions.org/mrgid/17376
-Tropical Asia,http://www.wikidata.org/entity/Q7845753
+Tropical Asia,https://www.wikidata.org/entity/Q7845753
 North West Atlantic,http://eol.org/schema/terms/NorthWestAtlantic
 Jersey,http://www.geonames.org/3042143
 Lake Victoria,http://www.geonames.org/148996
@@ -141,7 +141,7 @@ Bouvet Island,http://www.geonames.org/3371123
 Tokelau,http://www.geonames.org/4031074
 Western Europe,http://www.geonames.org/9408659
 Zambezi,http://eol.org/schema/terms/Zambezi
-Balkans,http://www.wikidata.org/entity/Q23522
+Balkans,https://www.wikidata.org/entity/Q23522
 Sunda Islands,http://www.geonames.org/1626052
 Maluku,http://www.geonames.org/1636627
 Malaya,http://www.geonames.org/1756245
@@ -173,7 +173,7 @@ Central Pacific Basin,http://www.geonames.org/4030959
 South China Sea,http://www.geonames.org/1567570
 Indian Ocean,http://www.geonames.org/1545739
 Gulf Of Mexico,http://www.geonames.org/3523271
-subantarctic,http://www.wikidata.org/entity/Q1141556
+subantarctic,https://www.wikidata.org/entity/Q1141556
 Gulf Of Guinea,http://www.geonames.org/2363255
 Northeast Pacific Basin,http://www.geonames.org/4019877
 South Pacific Ocean,http://www.geonames.org/4030483
@@ -200,10 +200,10 @@ Spitsbergen,https://www.wikidata.org/entity/Q21162
 British Indian Ocean Territory,http://www.geonames.org/1282588
 American Samoa,http://www.geonames.org/5880801
 Atlantic Coast Of North America,http://marineregions.org/mrgid/33452
-central europe,http://www.wikidata.org/entity/Q27509
+central europe,https://www.wikidata.org/entity/Q27509
 East Europe,http://www.geonames.org/7729884
 Yugoslavia,http://www.geonames.org/7500737
-mayotte,http://www.wikidata.org/entity/Q3110238
+mayotte,https://www.wikidata.org/entity/Q3110238
 Wallis Et Futuna Islands,http://www.geonames.org/4034749
 Southern Europe,http://www.geonames.org/9408658
 Soviet Union,http://www.geonames.org/8354411
@@ -213,11 +213,11 @@ Nauru,http://www.geonames.org/2110425
 Southeast Asia,http://www.geonames.org/6942346
 Saint-Pierre Et Miquelon,http://www.geonames.org/3424932
 RéUnion,http://www.geonames.org/935317
-Yukon,http://www.wikidata.org/entity/Q2009
-Northwest Territories,http://www.wikidata.org/entity/Q2007
-Kotzebue Sound,http://www.wikidata.org/entity/Q943234
+Yukon,https://www.wikidata.org/entity/Q2009
+Northwest Territories,https://www.wikidata.org/entity/Q2007
+Kotzebue Sound,https://www.wikidata.org/entity/Q943234
 Chukchi Sea,http://www.geonames.org/4031753
-Seward Peninsula,http://www.wikidata.org/entity/Q971586
+Seward Peninsula,https://www.wikidata.org/entity/Q971586
 Western Sahara,http://www.geonames.org/2461445
 Anguilla,http://www.geonames.org/3573512
 Anguilla,http://www.geonames.org/3573511
@@ -289,7 +289,7 @@ Wisconsin,http://www.geonames.org/5279468
 South-Central Us,http://eol.org/schema/terms/South_central_US
 Washington,http://www.geonames.org/5815135
 Missouri,http://www.geonames.org/4398678
-Georgia (Us State),https://www.geonames.org/4197000
+Georgia (Us State),http://www.geonames.org/4197000
 Antilles,http://www.geonames.org/3491552
 Hungary,http://www.geonames.org/719819
 Netherlands Antilles,https://www.wikidata.org/entity/Q25227
@@ -302,7 +302,7 @@ Hawaii,http://www.geonames.org/5855797
 Mississippi,http://www.geonames.org/4436296
 Sao Tome And Principe Exclusive Economic Zone,http://marineregions.org/mrgid/8397
 Saskatchewan,http://www.geonames.org/6141242
-Korea,http://www.wikidata.org/entity/Q18097
+Korea,https://www.wikidata.org/entity/Q18097
 Switzerland,http://www.geonames.org/2658434
 Gulf Of Guinea,http://www.marineregions.org/mrgid/4286
 Red Sea,http://www.marineregions.org/mrgid/4264
@@ -334,13 +334,13 @@ Cape Verde,https://www.wikidata.org/entity/Q1011
 English Channel,http://www.marineregions.org/mrgid/2389
 North Sea,http://www.marineregions.org/mrgid/2350
 Belgium,http://www.geonames.org/2802361
-Democratic Republic Of The Congo,http://www.wikidata.org/entity/Q974
+Democratic Republic Of The Congo,https://www.wikidata.org/entity/Q974
 Bulgaria,http://www.geonames.org/732800
 Kayin,http://www.geonames.org/1320233
 Sagaing,http://www.geonames.org/1298480
 Yangon,http://www.geonames.org/1298824
 Rakhine,http://www.geonames.org/1298852
-Mon,http://www.geonames.org/1308528
+Mon State,http://www.geonames.org/1308528
 Magway,http://www.geonames.org/1312604
 Taninthayi,http://www.geonames.org/1293118
 Shan State,http://www.geonames.org/1297099
@@ -590,7 +590,7 @@ high arctic,http://eol.org/schema/terms/highArctic
 North Atlantic,http://www.marineregions.org/mrgid/1912
 Greenland,http://www.geonames.org/3425505
 low arctic,http://eol.org/schema/terms/lowArctic
-subarctic,http://www.wikidata.org/entity/Q1342399
+subarctic,https://www.wikidata.org/entity/Q1342399
 Kolyma,https://www.wikidata.org/entity/Q1774112
 Disko Bay,https://www.wikidata.org/entity/Q1135227
 Olenyok,https://www.wikidata.org/entity/Q1025881
@@ -647,8 +647,8 @@ High Arctic Tundra,http://eol.org/schema/terms/High_Arctic_tundra
 Islas Revillagigedo Dry Forests,http://eol.org/schema/terms/Islas_Revillagigedo_dry_forests
 Queen Charlotte Islands,http://eol.org/schema/terms/Queen_Charlotte_Islands
 Nunavut,http://www.geonames.org/6091732
-Canadian Arctic Archipelago,http://www.wikidata.org/entity/Q85377
-Nunavut,http://www.wikidata.org/entity/Q2023
+Canadian Arctic Archipelago,https://www.wikidata.org/entity/Q85377
+Nunavut,https://www.wikidata.org/entity/Q2023
 tropical ocean,http://eol.org/schema/terms/TropicalOcean
 Azores Temperate Mixed Forests,http://eol.org/schema/terms/Azores_temperate_mixed_forests
 Eastern Pacific,http://marineregions.org/mrgid/14288
@@ -666,7 +666,7 @@ GaláPagos Islands,http://www.geonames.org/3658931
 Nicobar Islands Rain Forests,http://eol.org/schema/terms/Nicobar_Islands_rain_forests
 Mindoro Rain Forests,http://eol.org/schema/terms/Mindoro_rain_forests
 Greater Negros-Panay Rain Forests,http://eol.org/schema/terms/Greater_Negros-Panay_rain_forests
-Tropical Eastern Pacific,http://www.wikidata.org/entity/Q7845790
+Tropical Eastern Pacific,https://www.wikidata.org/entity/Q7845790
 fiji tropical dry forests,http://eol.org/schema/terms/Fiji_tropical_dry_forests
 French Polynesia,http://www.geonames.org/4030656
 Santa Marta PáRamo,http://eol.org/schema/terms/Santa_Marta_paramo
@@ -693,7 +693,7 @@ Caatinga Enclaves Moist Forests,http://eol.org/schema/terms/Caatinga_Enclaves_mo
 Northern Andean PáRamo,http://eol.org/schema/terms/Northern_Andean_paramo
 Tristan Da Cunha-Gough Islands Shrub And Grasslands,http://eol.org/schema/terms/Tristan_Da_Cunha-Gough_Islands_shrub_and_grasslands
 "saint helena, ascension and tristan da cunha",https://www.wikidata.org/entity/Q192184
-Quebec,http://www.wikidata.org/entity/Q176
+Quebec,https://www.wikidata.org/entity/Q176
 Solomon Islands Rain Forests,http://eol.org/schema/terms/Solomon_Islands_rain_forests
 Chile,http://www.geonames.org/3895114
 New Guinea Mangroves,http://eol.org/schema/terms/New_Guinea_mangroves
@@ -840,7 +840,7 @@ Andaman Islands Rain Forests,http://eol.org/schema/terms/Andaman_Islands_rain_fo
 Apure-Villavicencio Dry Forests,http://eol.org/schema/terms/Apure-Villavicencio_dry_forests
 Central Pacific Coastal Forests,http://eol.org/schema/terms/Central_Pacific_coastal_forests
 Philippine Sea,http://www.marineregions.org/mrgid/4300
-chita oblast,http://www.wikidata.org/entity/Q182902
+chita oblast,https://www.wikidata.org/entity/Q182902
 Mesopotamian Shrub Desert,http://eol.org/schema/terms/Mesopotamian_shrub_desert
 Kazakhstan,http://www.geonames.org/1522867
 Low Arctic Tundra,http://eol.org/schema/terms/Low_Arctic_tundra
@@ -936,7 +936,7 @@ Karakoram-West Tibetan Plateau Alpine Steppe,http://eol.org/schema/terms/Karakor
 Okhotsk-Manchurian Taiga,http://eol.org/schema/terms/Okhotsk-Manchurian_taiga
 bering tundra,http://eol.org/schema/terms/Bering_tundra
 Tibetan Plateau Alpine Shrub And Meadows,http://eol.org/schema/terms/Tibetan_Plateau_alpine_shrub_and_meadows
-russia,http://www.wikidata.org/entity/Q159
+russia,https://www.wikidata.org/entity/Q159
 Suiphun-Khanka Meadows And Forest Meadows,http://eol.org/schema/terms/Suiphun-Khanka_meadows_and_forest_meadows
 Interior Yukon-Alaska Alpine Tundra,http://eol.org/schema/terms/Interior_Yukon-Alaska_alpine_tundra
 Jamaican Dry Forests,http://eol.org/schema/terms/Jamaican_dry_forests
@@ -1122,6 +1122,9 @@ Southern Africa Mangroves,http://eol.org/schema/terms/Southern_Africa_mangroves
 Blue Mountains Forests,http://eol.org/schema/terms/Blue_Mountains_forests
 Guianan Freshwater Swamp Forests,http://eol.org/schema/terms/Guianan_Freshwater_swamp_forests
 Malabar,http://eol.org/schema/terms/Malabar
+Malabar Coast (India),https://www.wikidata.org/entity/Q473181
+"Malabar (New South Wales, Australia)",https://www.wikidata.org/entity/Q2915709
+"Malabar (Florida, USA)",https://www.wikidata.org/wiki/Q1022772
 Dinaric Mountains Mixed Forests,http://eol.org/schema/terms/Dinaric_Mountains_mixed_forests
 scandinavian and russian taiga,http://eol.org/schema/terms/Scandinavian_and_Russian_taiga
 United Kingdom,http://www.geonames.org/2635167
@@ -1595,7 +1598,7 @@ South Atlantic,http://www.marineregions.org/mrgid/1914
 South Georgia And South Sandwich Islands,http://www.geonames.org/3474415
 Turks And Caicos Islands,http://www.geonames.org/3576916
 southern hemisphere,https://www.wikidata.org/entity/Q41228
-Contiguous United States,http://www.wikidata.org/entity/Q578170
+Contiguous United States,https://www.wikidata.org/entity/Q578170
 polar regions,https://www.wikidata.org/entity/Q60670
 antarctic region,https://www.wikidata.org/entity/Q1555938
 Southern Ocean,http://www.marineregions.org/mrgid/1907
@@ -1615,12 +1618,12 @@ Caribbean Islands,http://www.geonames.org/7729891
 Caribbean Sea,http://www.marineregions.org/mrgid/4287
 Palearctic,https://www.wikidata.org/entity/Q106447
 northern hemisphere,https://www.wikidata.org/entity/Q39061
-palearctic,http://www.wikidata.org/entity/Q106447
+palearctic,https://www.wikidata.org/entity/Q106447
 Asia,http://www.geonames.org/6255147
 Saint Kitts And Nevis,http://www.geonames.org/3575174
 Turkmenistan,http://www.geonames.org/1218197
 China,http://www.geonames.org/1814991
-eurasia,http://www.wikidata.org/entity/Q5401
+eurasia,https://www.wikidata.org/entity/Q5401
 Middle America,http://www.geonames.org/3496393
 Rio Grande Do Norte,http://www.geonames.org/3390290
 Alagoas,http://www.geonames.org/3408096
@@ -1635,33 +1638,33 @@ Amapá,http://www.geonames.org/3407762
 AmazôNia,https://www.wikidata.org/entity/Q2841453
 Neotropics,https://www.wikidata.org/entity/Q217151
 South America,http://www.geonames.org/6255150
-Pará,https://www.geonames.org/3393129
-Mato Grosso,https://www.geonames.org/3457419
-Distrito Federal,https://www.geonames.org/3463504
+Pará,http://www.geonames.org/3393129
+Mato Grosso,http://www.geonames.org/3457419
+Distrito Federal,http://www.geonames.org/3463504
 vegetated area,http://purl.obolibrary.org/obo/ENVO_01001305
 Acre (Brazil),http://www.geonames.org/3665474
-Espirito Santo,https://www.geonames.org/3463930
+Espirito Santo,http://www.geonames.org/3463930
 Restinga,https://www.wikidata.org/entity/Q3305106
 Americas,http://www.geonames.org/10861432
 Mata AtlâNtica,https://www.wikidata.org/entity/Q477047
 terrestrial,http://purl.obolibrary.org/obo/ENVO_00000446
 Pernambuco,http://www.geonames.org/3392268
-Rio Grande Do Sul,https://www.geonames.org/3451133
-tropics,http://www.wikidata.org/entity/Q42530
+Rio Grande Do Sul,http://www.geonames.org/3451133
+tropics,https://www.wikidata.org/entity/Q42530
 Sergipe,http://www.geonames.org/3447799
-Minas Gerais,https://www.geonames.org/3457153
-Rio De Janeiro,https://www.geonames.org/3451189
-SãO Paulo,https://www.geonames.org/3448433
+Minas Gerais,http://www.geonames.org/3457153
+Rio De Janeiro,http://www.geonames.org/3451189
+SãO Paulo,http://www.geonames.org/3448433
 Cerrado,https://www.wikidata.org/entity/Q278512
 Brazil,http://www.geonames.org/3469034
-Paraná,https://www.geonames.org/3455077
+Paraná,http://www.geonames.org/3455077
 Caatinga,https://www.wikidata.org/entity/Q375816
 GoiáS,http://www.geonames.org/3462372
 Maranhao,http://www.geonames.org/3395443
 Pampa,https://www.wikidata.org/entity/Q184382
-Mato Grosso Do Sul,https://www.geonames.org/3457415
-Bahia,https://www.geonames.org/3471168
-Santa Catarina,https://www.geonames.org/3450387
+Mato Grosso Do Sul,http://www.geonames.org/3457415
+Bahia,http://www.geonames.org/3471168
+Santa Catarina,http://www.geonames.org/3450387
 woodland,http://purl.obolibrary.org/obo/ENVO_01000175
 Ceará,http://www.geonames.org/3402362
 savanna,http://purl.obolibrary.org/obo/ENVO_01000178
