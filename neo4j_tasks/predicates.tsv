@@ -1,0 +1,58 @@
+EOL_predicate_id	Label	URI
+12748	Body symmetry	http://eol.org/schema/terms/body_symmetry
+1204	are eaten by	http://purl.obolibrary.org/obo/RO_0002471
+1092	are host of	http://purl.obolibrary.org/obo/RO_0002453
+1832	are parasitized by	http://purl.obolibrary.org/obo/RO_0002445
+2001	are preyed upon by	http://purl.obolibrary.org/obo/RO_0002458
+2438	are symbionts of	http://purl.obolibrary.org/obo/RO_0002440
+8154	auditory system	http://purl.obolibrary.org/obo/UBERON_0016490
+255	body length	http://purl.obolibrary.org/obo/VT_0001256
+260	body mass	http://purl.obolibrary.org/obo/VT_0001259
+262	body shape	http://eol.org/schema/terms/BodyShape
+13171	cellularity	http://purl.obolibrary.org/obo/PATO_0001992
+3891	commercially harvested	http://eol.org/schema/terms/commerciallyHarvested
+500	conservation status	http://rs.tdwg.org/ontology/voc/SPMInfoItems#ConservationStatus
+3986	cultivated in	https://eol.org/schema/terms/cultivated_in
+622	diet includes	http://eol.org/schema/terms/Diet
+696	eat	http://purl.obolibrary.org/obo/RO_0002470
+941	geographic distribution	http://eol.org/schema/terms/Present
+1002	habitat	http://rs.tdwg.org/dwc/terms/habitat
+1023	harvested in	https://eol.org/schema/terms/harvested_in
+4817	have endoparasite	http://purl.obolibrary.org/obo/RO_0002635
+1025	have pathogen	http://purl.obolibrary.org/obo/RO_0002557
+8156	hearing range	https://www.wikidata.org/entity/Q351087
+8157	hearing threshold	https://www.wikidata.org/entity/Q1504201
+1288	latitude	http://rs.tdwg.org/dwc/terms/decimalLatitude
+1329	life span	http://purl.obolibrary.org/obo/PATO_0000050
+1357	locomotion	http://purl.obolibrary.org/obo/GO_0040011
+1360	longitude	http://rs.tdwg.org/dwc/terms/decimalLongitude
+1456	mass	http://purl.obolibrary.org/obo/PATO_0000125
+1460	mating system	http://eol.org/schema/terms/MatingSystem
+5681	migration	http://purl.obolibrary.org/obo/IDOMAL_0002084
+1562	mineralized skeleton contains	https://eol.org/schema/terms/mineralizedSkeletonContains
+1563	mineralized tissue contains	http://purl.obolibrary.org/obo/UBERON_4000013
+1616	motility	http://www.wikidata.org/entity/Q33596
+1648	native range includes	http://eol.org/schema/terms/NativeRange
+6204	number of dna records in ggbn	http://eol.org/schema/terms/NumberDNARecordsInGGBN
+6208	number of records in gbif	http://eol.org/schema/terms/NumberRecordsInGBIF
+13553	number of records in iNat	http://eol.org/schema/terms/NumberOfiNaturalistObservations
+13558	number of research grade records in iNat	http://eol.org/schema/terms/NumberOfRGiNatObservations
+6211	number of specimens in ggbn	http://eol.org/schema/terms/NumberSpecimensInGGBN
+1770	onset of fertility	http://purl.obolibrary.org/obo/VT_0002683
+1837	parental care	http://purl.obolibrary.org/obo/GO_0060746
+2002	prey on	http://purl.obolibrary.org/obo/RO_0002439
+2072	reproduction	http://purl.obolibrary.org/obo/GO_0000003
+2312	social system	http://eol.org/schema/terms/SocialSystem
+2561	trophic guild	http://eol.org/schema/terms/TrophicGuild
+2608	type specimen repository	http://eol.org/schema/terms/TypeSpecimenRepository
+2655	used for	http://eol.org/schema/terms/Uses
+7922	visual system	http://purl.obolibrary.org/obo/UBERON_0002104
+2712	water depth	http://rs.tdwg.org/dwc/terms/verbatimDepth
+2713	water dissolved o2 concentration	http://eol.org/schema/terms/DissolvedOxygen
+2715	water nitrate concentration	http://eol.org/schema/terms/DissolvedNitrate
+2716	water o2 saturation	http://eol.org/schema/terms/OxygenSaturation
+2717	water phosphate concentration	http://eol.org/schema/terms/DissolvedPhosphate
+2718	water salinity	http://eol.org/schema/terms/Salinity
+2720	water silicate concentration	http://eol.org/schema/terms/DissolvedSilicate
+2721	water temperature	http://eol.org/schema/terms/WaterTemperature
+2738	wet body mass	http://eol.org/schema/terms/bodyMassWet
