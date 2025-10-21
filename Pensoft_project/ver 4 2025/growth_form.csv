@@ -1,0 +1,54 @@
+value.name,value.uri
+herb,http://purl.obolibrary.org/obo/FLOPO_0022142
+shrub,http://purl.obolibrary.org/obo/FLOPO_0900034
+tree,http://purl.obolibrary.org/obo/FLOPO_0900033
+grass,http://purl.obolibrary.org/obo/FLOPO_0900036
+climber,http://purl.obolibrary.org/obo/FLOPO_0900035
+subshrub,http://eol.org/schema/terms/subshrub
+trailing,http://eol.org/schema/terms/trailing
+woody,https://www.wikidata.org/entity/Q757163
+cushion-like,https://www.wikidata.org/entity/Q1508694
+branched,http://purl.obolibrary.org/obo/PATO_0000402
+tuft,https://eol.org/schema/terms/tuft
+reticulate,https://www.wikidata.org/entity/Q16868813
+weeping,https://eol.org/schema/terms/weeping
+cane,https://www.wikidata.org/entity/Q20660322
+succulent plant,http://www.wikidata.org/entity/Q189939
+palm tree,https://www.wikidata.org/entity/Q29582371
+dracaenoid,https://eol.org/schema/terms/dracaenoid
+forb,http://purl.obolibrary.org/obo/FLOPO_0900037
+decumbent,http://purl.obolibrary.org/obo/PATO_0002343
+procumbent,http://purl.obolibrary.org/obo/PATO_0002389
+suffrutescent,http://eol.org/schema/terms/suffrutescent
+nonvascular,http://eol.org/schema/terms/nonvascular
+lichenous,http://eol.org/schema/terms/lichenous
+herb,https://www.wikidata.org/entity/Q190903
+self-supporting,http://eol.org/schema/terms/self-supportingGrowthForm
+obligate climber,http://eol.org/schema/terms/obligateClimber
+liana,https://www.wikidata.org/entity/Q14079
+facultative climber,http://eol.org/schema/terms/facultativeClimber
+rhizomatous plant,http://purl.obolibrary.org/obo/FLOPO_0005532
+geophyte,http://purl.obolibrary.org/obo/FLOPO_0900024
+evergreen,http://purl.obolibrary.org/obo/PATO_0001733
+lithophyte,http://www.wikidata.org/entity/Q1321691
+epiphyte,http://purl.obolibrary.org/obo/FLOPO_0900030
+hemiepiphyte,http://eol.org/schema/terms/hemiepiphyte
+epiphyte,https://www.wikidata.org/entity/Q188238
+bryophyte,http://www.wikidata.org/entity/Q29993
+helophyte,http://purl.obolibrary.org/obo/FLOPO_0900025
+pleustophyte,http://eol.org/schema/terms/pleustophyte
+hydrophyte,http://purl.obolibrary.org/obo/FLOPO_0900026
+mesophyte,http://www.wikidata.org/entity/Q1922484
+epihydate,http://eol.org/schema/terms/epihydate
+hyperhydate,http://eol.org/schema/terms/hyperhydate
+tenagophyte,http://eol.org/schema/terms/tenagophyte
+sudd hydrophyte,http://eol.org/schema/terms/suddHydrophyte
+xerophyte,http://www.wikidata.org/entity/Q212337
+terrestrial plant,http://eol.org/schema/terms/terrestrialPlant
+non-woody epiphyte,http://eol.org/schema/terms/non-woodyEpipyte
+aquatic plant,http://purl.obolibrary.org/obo/FLOPO_0900044
+obligate epiphyte,http://eol.org/schema/terms/obligateEpiphyte
+woody epiphyte,http://eol.org/schema/terms/woodyEpipyte
+facultative epiphyte,http://eol.org/schema/terms/facultativeEpiphyte
+stoloniferous,http://eol.org/schema/terms/stoloniferous
+semi-woody,http://eol.org/schema/terms/semi-woody

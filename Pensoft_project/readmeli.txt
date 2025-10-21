@@ -1,8 +1,8 @@
 cypher.csv
-This is the first version. This is the file we sent to Pensoft to generate the eol-geonames ontology.
+- This is the first version. This is the file we sent to Pensoft to generate the eol-geonames ontology.
 
 eol-geonames.csv
-This is the 2nd version.
+- This is the 2nd version.
 
 ===============================================================================================================================================================
 On Tue, Jan 19, 2021 at 3:42 PM <m.dimitrova@pensoft.net> wrote:
