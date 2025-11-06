@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension xmlns="http://rs.gbif.org/extension/"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://rs.gbif.org/extension/ http://rs.gbif.org/schema/extension.xsd"
+            xmlns:dc="http://purl.org/dc/terms/"
+            dc:title="EOL Associations Extension 1.0"
+            name="EOL Associations Extension"
+            namespace="http://www.eol.org/schema/transfer#"
+            rowType="http://eol.org/schema/Association">
+<property name="associationID" namespace="http://eol.org/schema/" qualName="http://eol.org/schema/associationID" dc:description="An identifier for the Association"/>
+<property name="occurrenceID" namespace="http://rs.tdwg.org/dwc/terms/" qualName="http://rs.tdwg.org/dwc/terms/occurrenceID" dc:description="An identifier for the Occurrence (as opposed to a particular digital record of the occurrence). In the absence of a persistent global unique identifier, construct one from a combination of identifiers in the record that will most closely make the occurrenceID globally unique." required="true"/>
+<property name="associationType" namespace="http://eol.org/schema/" qualName="http://eol.org/schema/associationType" dc:description="A term representing the nature of the relationship between the subject and target of the Association" required="true"/>
+<property name="targetOccurrenceID" namespace="http://eol.org/schema/" qualName="http://eol.org/schema/targetOccurrenceID" dc:description="An identifier for the Occurrence representing the target of the Association" required="true"/>
+<property name="measurementDeterminedDate" namespace="http://rs.tdwg.org/dwc/terms/" qualName="http://rs.tdwg.org/dwc/terms/measurementDeterminedDate" dc:description="The date on which the MeasurementOrFact was made. Recommended best practice is to use an encoding scheme, such as ISO 8601:2004(E)."/>
+<property name="measurementDeterminedBy" namespace="http://rs.tdwg.org/dwc/terms/" qualName="http://rs.tdwg.org/dwc/terms/measurementDeterminedBy" dc:description="A list (concatenated and separated) of names of people, groups, or organizations who determined the value of the MeasurementOrFact."/>
+<property name="measurementMethod" namespace="http://rs.tdwg.org/dwc/terms/" qualName="http://rs.tdwg.org/dwc/terms/measurementMethod" dc:description="A description of or reference to (publication, URI) the method or protocol used to determine the measurement, fact, characteristic, or assertion."/>
+<property name="measurementRemarks" namespace="http://rs.tdwg.org/dwc/terms/" qualName="http://rs.tdwg.org/dwc/terms/measurementRemarks" dc:description="Comments or notes accompanying the MeasurementOrFact."/>
+<property name="source" namespace="http://purl.org/dc/terms/" qualName="http://purl.org/dc/terms/source" dc:description="A related resource from which the described resource is derived."/>
+<property name="bibliographicCitation" namespace="http://purl.org/dc/terms/" qualName="http://purl.org/dc/terms/bibliographicCitation" dc:description="A bibliographic reference for the resource."/>
+<property name="contributor" namespace="http://purl.org/dc/terms/" qualName="http://purl.org/dc/terms/contributor" dc:description="An entity responsible for making contributions to the resource."/>
+<property name="referenceID" namespace="http://eol.org/schema/reference/" qualName="http://eol.org/schema/reference/referenceID" dc:description="An identifier for a related resource that is referenced, cited, or otherwise pointed to by the described resource."/>
+</extension>
