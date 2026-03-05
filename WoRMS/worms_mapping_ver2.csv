@@ -1,7 +1,7 @@
 measurementType,measurementTypeURL,measurementValue,measurementValueURL,measurementRemarks
-
-###formerly 'Feedingtype',,,,
-
+###Comment: --------------------------------------
+###Comment: formerly 'Feedingtype',,,,
+###Comment: --------------------------------------
 Trophic level,http://www.wikidata.org/entity/Q1053008,carnivore,https://www.wikidata.org/entity/Q81875,
 Trophic level,http://www.wikidata.org/entity/Q1053008,herbivore,https://www.wikidata.org/entity/Q59099,
 Trophic level,http://www.wikidata.org/entity/Q1053008,omnivore,https://www.wikidata.org/entity/Q164509,
@@ -23,12 +23,9 @@ Feeding method,http://eol.org/schema/terms/TrophicGuild,scavenger,http://www.wik
 Feeding method,http://www.wikidata.org/entity/Q1053008,subsurface,http://eol.org/schema/terms/subsurfaceDepositFeeder,
 Feeding method,http://eol.org/schema/terms/TrophicGuild,surface,http://eol.org/schema/terms/surfaceDepositFeeder,
 Feeding method,http://eol.org/schema/terms/TrophicGuild,suspension feeder,http://eol.org/schema/terms/suspensionFeeder,
-###-not found-,http://www.wikidata.org/entity/Q1053008,detritus feeder,http://wikidata.org/entity/Q2750657,
-###-not found-,http://eol.org/schema/terms/TrophicGuild,kleptivore,https://www.wikidata.org/entity/Q1479109,
-###-not found-,http://www.wikidata.org/entity/Q1053008,xylophagous,http://www.wikidata.org/entity/Q45879481,
-
-###-continued-,,,,
-
+###Comment: --------------------------------------
+###Comment: -continued-,,,,
+###Comment: --------------------------------------
 Functional group,http://rs.tdwg.org/dwc/terms/habitat,benthos,http://purl.obolibrary.org/obo/ENVO_01000024,
 Functional group,http://rs.tdwg.org/dwc/terms/habitat,edaphofauna,http://purl.obolibrary.org/obo/ENVO_00001998,
 Functional group,http://eol.org/schema/terms/EcomorphologicalGuild,epibenthos,http://www.wikidata.org/entity/Q640114,
