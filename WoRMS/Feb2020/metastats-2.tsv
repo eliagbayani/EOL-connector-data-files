@@ -54,3 +54,48 @@ Body size > Locality (MRGID)	http://rs.tdwg.org/dwc/terms/locality
 hermaphrodite	http://purl.obolibrary.org/obo/UBERON_0007197
 cerinula	https://species-id.net/zooterms/cerinula_larva
 medusoid	https://eol.org/schema/terms/medusoid
+-- below from: https://github.com/EOL/ContentImport/issues/42#issuecomment-4239797507 ---
+1-year old
+Adult	http://www.ebi.ac.uk/efo/EFO_0001272
+Copepodite stage I	http://purl.obolibrary.org/obo/UBERON_8200002
+Copepodite stage II	http://purl.obolibrary.org/obo/UBERON_8200003
+Copepodite stage III	http://purl.obolibrary.org/obo/UBERON_8200004
+Copepodite stage IV	http://purl.obolibrary.org/obo/UBERON_8200005
+Copepodite stage V	http://purl.obolibrary.org/obo/UBERON_8200006
+Copepodite stage, not further specified	http://purl.obolibrary.org/obo/UBERON_0014860
+Larva	http://purl.obolibrary.org/obo/PATO_0001185
+Macrothallus	http://eol.org/schema/terms/macrothallus
+Medusa	https://www.wikidata.org/entity/Q4376770
+Microthallus	http://eol.org/schema/terms/microthallus
+Nauplius	http://purl.obolibrary.org/obo/UBERON_0014406
+adult	http://www.ebi.ac.uk/efo/EFO_0001272
+akinetes
+cerinula	https://species-id.net/zooterms/cerinula_larva
+colony	http://purl.obolibrary.org/obo/IDO_0000615
+copepodite VI	http://purl.obolibrary.org/obo/UBERON_8200007
+egg	https://www.wikidata.org/entity/Q17147
+ephyra	http://purl.obolibrary.org/obo/BTO_0006391
+eudoxid	http://eol.org/schema/terms/eudoxid
+fetus	http://www.ebi.ac.uk/efo/EFO_0001323
+gametophyte	http://purl.obolibrary.org/obo/PO_0025340
+hatchling	http://eol.org/schema/terms/hatchling
+hydroid	https://www.wikidata.org/entity/Q61994851
+juvenile	http://purl.obolibrary.org/obo/PATO_0001190
+larva	http://purl.obolibrary.org/obo/PATO_0001185
+length	http://semanticscience.org/resource/SIO_000041
+manca	https://eol.org/schema/terms/manca","http://eol.org/schema/terms/manca
+medusa	https://www.wikidata.org/entity/Q4376770
+medusoid	https://eol.org/schema/terms/medusoid
+nauplius	http://purl.obolibrary.org/obo/UBERON_0014406
+neonate	http://purl.obolibrary.org/obo/UBERON_0007221
+planula	https://www.wikidata.org/entity/Q943388
+podocyst	http://eol.org/schema/terms/podocyst
+polygastric
+polyp	https://www.wikidata.org/entity/Q689884
+post-cystacanth
+postlarva	http://purl.obolibrary.org/obo/PATO_0001501
+spat	http://purl.obolibrary.org/obo/PATO_0001501
+sporophyte	http://purl.obolibrary.org/obo/PO_0007134
+stage
+subadult	http://eol.org/schema/terms/subadult
+zoea	https://www.wikidata.org/entity/Q1968233
