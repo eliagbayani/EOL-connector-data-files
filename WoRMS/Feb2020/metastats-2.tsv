@@ -34,8 +34,6 @@ mm	http://purl.obolibrary.org/obo/UO_0000016
 standard mean	http://semanticscience.org/resource/SIO_001109
 unknown	http://eol.org/schema/terms/unknown
 nauplius	http://purl.obolibrary.org/obo/UBERON_0014406
-polyp	https://www.wikidata.org/entity/Q61994851
-postlarva	http://purl.obolibrary.org/obo/PATO_0001190
 ephyra	http://purl.obolibrary.org/obo/BTO_0006391
 podocyst	http://eol.org/schema/terms/podocyst
 Macrothallus	http://eol.org/schema/terms/macrothallus
@@ -55,7 +53,6 @@ hermaphrodite	http://purl.obolibrary.org/obo/UBERON_0007197
 cerinula	https://species-id.net/zooterms/cerinula_larva
 medusoid	https://eol.org/schema/terms/medusoid
 -- below from: https://github.com/EOL/ContentImport/issues/42#issuecomment-4239797507 ---
-1-year old
 Adult	http://www.ebi.ac.uk/efo/EFO_0001272
 Copepodite stage I	http://purl.obolibrary.org/obo/UBERON_8200002
 Copepodite stage II	http://purl.obolibrary.org/obo/UBERON_8200003
@@ -69,7 +66,7 @@ Medusa	https://www.wikidata.org/entity/Q4376770
 Microthallus	http://eol.org/schema/terms/microthallus
 Nauplius	http://purl.obolibrary.org/obo/UBERON_0014406
 adult	http://www.ebi.ac.uk/efo/EFO_0001272
-akinetes
+akinetes	
 cerinula	https://species-id.net/zooterms/cerinula_larva
 colony	http://purl.obolibrary.org/obo/IDO_0000615
 copepodite VI	http://purl.obolibrary.org/obo/UBERON_8200007
