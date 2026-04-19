@@ -770,7 +770,6 @@ Angiosperms	.*?\|Plantae\|(.*?\|)?Arum\|.*?
 Angiosperms	.*?\|Plantae\|(.*?\|)?Atractylis\|.*?
 Angiosperms	.*?\|Plantae\|(.*?\|)?Avena\|.*?
 Angiosperms	.*?\|Plantae\|(.*?\|)?Bellonia\|.*?
-Angiosperms	.*?\|Plantae\|(.*?\|)?Bellonia\|.*?
 Angiosperms	.*?\|Plantae\|(.*?\|)?Beta\|.*?
 Angiosperms	.*?\|Plantae\|(.*?\|)?Bidens\|.*?
 Angiosperms	.*?\|Plantae\|(.*?\|)?Breynia\|.*?
@@ -2019,7 +2018,6 @@ Chlorophyta	.*?\|Spondylomorum\|.*?
 Chlorophyta	.*?\|Stigeoclonium\|.*?
 Chlorophyta	.*?\|Tetraedoron\|.*?
 Chlorophyta	.*?\|Tetraedron\|.*?
-Chlorophyta	.*?\|Tetraedron\|.*?
 Chlorophyta	.*?\|Tetraflagellochloris\|.*?
 Chlorophyta	.*?\|Tetragonis\|.*?
 Chlorophyta	.*?\|Tetrallantos\|.*?
@@ -2207,7 +2205,6 @@ Diptera	.*?\|Dimeretes\|.*?
 Diptera	.*?\|Elasmoscolex\|.*?
 Diptera	.*?\|Empis\|.*?
 Diptera	.*?\|Epimetrophora\|.*?
-Diptera	.*?\|Fanniidae\|.*?
 Diptera	.*?\|Griphoconion\|.*?
 Diptera	.*?\|Hexapoda\|(.*?\|)?Diptera\|.*?
 Diptera	.*?\|Hippoboscidae\|.*?
@@ -2291,7 +2288,6 @@ Fungi	.*?\|Ambisporaceae\|.*?
 Fungi	.*?\|Amphisphaeriaceae\|.*?
 Fungi	.*?\|Aphelida\|.*?
 Fungi	.*?\|Aphelidea\|.*?
-Fungi	.*?\|Aphelidiomycota\|.*?
 Fungi	.*?\|Aphelidiomycota\|.*?
 Fungi	.*?\|Appianoporites\|.*?
 Fungi	.*?\|Archaeosporaceae\|.*?
