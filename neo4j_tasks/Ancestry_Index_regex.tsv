@@ -4770,7 +4770,6 @@ Tetrapoda	.*?\|Aotidae\|.*?
 Tetrapoda	.*?\|Atelidae\|.*?
 Tetrapoda	.*?\|Bombycillidae\|.*?
 Tetrapoda	.*?\|Callitrichidae\|.*?
-Tetrapoda	.*?\|Canidae\|.*?
 Tetrapoda	.*?\|Capitonidae\|.*?
 Tetrapoda	.*?\|Cardinalidae\|.*?
 Tetrapoda	.*?\|Cathartidae\|.*?
@@ -4782,6 +4781,7 @@ Tetrapoda	.*?\|Cracidae\|.*?
 Tetrapoda	.*?\|Cricetidae\|.*?
 Tetrapoda	.*?\|Cuculidae\|.*?
 Tetrapoda	.*?\|Dactyloidae\|.*?
+Tetrapoda	.*?\|Canidae\|.*?
 Tetrapoda	.*?\|Donacobiidae\|.*?
 Tetrapoda	.*?\|Echimyidae\|.*?
 Tetrapoda	.*?\|Estrildidae\|.*?
