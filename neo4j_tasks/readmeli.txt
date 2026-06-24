@@ -13,5 +13,8 @@ compatibleAncestors.txt
 -> This file came from Katja's Jupyter Notebook.
 
 ================================================================
+Ancestry Index - compatibleAncestors.tsv
+-> this is also from Katja's GoogleSheet
+
 ================================================================
 ================================================================
