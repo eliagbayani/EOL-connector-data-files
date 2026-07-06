@@ -16,5 +16,14 @@ compatibleAncestors.txt
 Ancestry Index - compatibleAncestors.tsv
 -> this is also from Katja's GoogleSheet
 
-================================================================
+================================================================ as of 29Jun2026
+wc -l Ancestry\ Index\ -\ new.tsv 
+    	5153 Ancestry Index - new.tsv
+
+wc -l Ancestry\ Index\ -\ compatibleAncestors.tsv 
+	52 Ancestry Index - compatibleAncestors.tsv
+
+wc -l Ancestry\ Index\ -\ new.tsv 
+wc -l Ancestry\ Index\ -\ compatibleAncestors.tsv 
+
 ================================================================
