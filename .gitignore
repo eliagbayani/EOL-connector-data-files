@@ -59,3 +59,4 @@ EOL/readmeli.txt
 neo4j_tasks/z archive/*
 neo4j_tasks/z Ancestry Index - compatibleAncestors.tsv
 neo4j_tasks/z Ancestry Index - new.tsv
+neo4j_tasks/old_ancestry_index.tsv
