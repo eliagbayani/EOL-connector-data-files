@@ -57,3 +57,5 @@ Pensoft_project/ver 4 2025/Archive.zip
 EOL/resources orig.csv
 EOL/readmeli.txt
 neo4j_tasks/z archive/*
+neo4j_tasks/z Ancestry Index - compatibleAncestors.tsv
+neo4j_tasks/z Ancestry Index - new.tsv
