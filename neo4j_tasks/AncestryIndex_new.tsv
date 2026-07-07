@@ -5152,3 +5152,7 @@ Life	\|Biota\|$
 Life	\|Life\|$
 Archaea	^\|Archaea\|$
 Bacteria	^\|Bacteria\|$
+Plants	.*?\|Chlorophyceae incertae sedis\|.*?
+Life	.*?\|Biota incertae sedis\|.*?
+Plants	.*?\|Calcisphaera\|.*?
+Plants	.*?\|Plantae incertae sedis\|.*?
