@@ -1845,7 +1845,7 @@ Protists	.*?\|Eustigmatales\|.*?
 Protists	.*?\|Eustigmatophyceae\|.*?
 Nematoda	.*?\|Eustrongylus\|.*?
 Chlorophyta	.*?\|Eutetramorus\|.*?
-Arthropoda	.*?\|Euthycarcinoidea\|.*?
+Myriapoda	.*?\|Euthycarcinoidea\|.*?
 Animals	.*?\|Eutriploblastica\|$
 Animals	.*?\|Eutrochozoa\|$
 Cnidaria	.*?\|Euzebiola\|.*?
@@ -2735,7 +2735,7 @@ Actinopterygii	.*?\|Lophiiformes\|.*?
 Insecta	.*?\|Lophioneurida\|.*?
 Fungi	.*?\|Lophiostomataceae\|.*?
 Bryophytes	.*?\|Lophocoleaceae\|.*?
-Gastropoda	.*?\|Lophogastridae\|.*?
+Crustacea	.*?\|Lophogastridae\|.*?
 Animals	.*?\|Lophophorata\|$
 Plants	.*?\|Lophotriletes\|.*?
 Animals	.*?\|Lophotrochozoa\|$
@@ -2938,7 +2938,7 @@ Animals	.*?\|Metazoa\|Acanthocephala\|.*?
 Animals	.*?\|Metazoa\|Chaetognatha\|.*?
 Animals	.*?\|Metazoa\|Ctenophora\|.*?
 Bryophytes	.*?\|Meteoriaceae\|.*?
-Bacteria	.*?\|Methanobacteriales\|.*?
+Archaea	.*?\|Methanobacteriales\|.*?
 Archaea	.*?\|Methanobacteriati\|.*?
 Mollusca	.*?\|Metoptomatidae\|.*?
 Insecta	.*?\|Metropatoridae\|.*?
@@ -4024,7 +4024,6 @@ Angiosperms	.*?\|Plantae\|(.*?\|)?Sida\|.*?
 Angiosperms	.*?\|Plantae\|(.*?\|)?Silene\|.*?
 Angiosperms	.*?\|Plantae\|(.*?\|)?Silphidium\|.*?
 Plants	.*?\|Plantae\|(.*?\|)?Soleniopsis\|.*?
-Angiosperms	.*?\|Plantae\|(.*?\|)?Solenophyllum\|.*?
 Angiosperms	.*?\|Plantae\|(.*?\|)?Solidago\|.*?
 Chlorophyta	.*?\|Plantae\|(.*?\|)?Sorodiscus\|.*?
 Plants	.*?\|Plantae\|(.*?\|)?Sparganum\|.*?
@@ -4221,7 +4220,6 @@ Bryophytes	.*?\|Prionodontaceae\|.*?
 Crustacea	.*?\|Priscansermarinus\|.*?
 Angiosperms	.*?\|Pritchardites\|.*?
 Animals	.*?\|Proarticulata\|.*?
-Bacteria	.*?\|Proaulopora\|.*?
 Animals	.*?\|Problematica\|.*?
 Plants	.*?\|Problematospermum\|.*?
 Plants	.*?\|Prochondrites\|.*?
@@ -4349,7 +4347,6 @@ Protists	.*?\|Pseudoschizaea\|.*?
 Arachnida	.*?\|Pseudoscorpiones\|.*?
 Fungi	.*?\|Pseudosphaerialites\|.*?
 Chlorophyta	.*?\|Pseudosphaerocystis\|.*?
-Plants	.*?\|Pseudostacheoides\|.*?
 Plants	.*?\|Pseudostromatopora\|.*?
 Insecta	.*?\|Pseudotermes\|.*?
 Chlorophyta	.*?\|Pseudotetracystis\|.*?
@@ -5225,7 +5222,7 @@ Plants	.*?\|Tirassia\|.*?
 Lepidoptera	.*?\|Tischeriidae\|.*?
 Arachnida	.*?\|Titanoecidae\|.*?
 Arthropoda	.*?\|Titanoprosoma\|.*?
-Insecta	.*?\|Titanoptera\|.*?
+Orthoptera	.*?\|Titanoptera\|.*?
 Tetrapoda	.*?\|Tityridae\|.*?
 Plants	.*?\|Tiwariasporis\|.*?
 Plants	.*?\|Tmematostrobus\|.*?
