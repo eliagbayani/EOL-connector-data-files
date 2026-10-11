@@ -1,8 +1,10 @@
 Index	higherClassification
 Plants	.*?\|Abditriletes\|.*?
 Angiosperms	.*?\|Acanthaceae\|.*?
+Ephemeroptera	.*?\|Acanthametropodidae\|.*?
 Protists	.*?\|Acanthamoeba\|.*?
 Protists	.*?\|Acantharea\|.*?
+Hemiptera	.*?\|Acanthosomatidae\|.*?
 Protists	.*?\|Acarpomyxa\|.*?
 Fungi	.*?\|Acaulosporaceae\|.*?
 Protists	.*?\|Acavomonidia\|.*?
@@ -10,6 +12,7 @@ Tetrapoda	.*?\|Accipitriformes\|.*?
 Insecta	.*?\|Acercaria\|$
 Angiosperms	.*?\|Achariaceae\|.*?
 Angiosperms	.*?\|Achatocarpaceae\|.*?
+Hemiptera	.*?\|Achilidae\|.*?
 Angiosperms	.*?\|Achillea\|.*?
 Mollusca	.*?\|Achilleia\|.*?
 Vertebrata	.*?\|Achoania\|.*?
@@ -61,6 +64,7 @@ Plants	.*?\|Afzelioxylon\|.*?
 Tetrapoda	.*?\|Agamidae\|.*?
 Fungi	.*?\|Agaricomycetes\|.*?
 Fungi	.*?\|Agaricomycetidae\|.*?
+Lepidoptera	.*?\|Agathiphagidae\|.*?
 Gymnosperms	.*?\|Agathopsis\|.*?
 Angiosperms	.*?\|Agavaceae\|.*?
 Plants	.*?\|Agavites\|.*?
@@ -78,6 +82,7 @@ Diptera	.*?\|Agromyzidae\|.*?
 Angiosperms	.*?\|Agrostemma\|.*?
 Angiosperms	.*?\|Agrostidium\|.*?
 Angiosperms	.*?\|Agrostis\|.*?
+Coleoptera	.*?\|Agyrtidae\|.*?
 Angiosperms	.*?\|Aizoaceae\|.*?
 Angiosperms	.*?\|Aizoon\|.*?
 Chlorophyta	.*?\|Ajakmalajsoria\|.*?
@@ -132,6 +137,7 @@ Protists	.*?\|Alveidea\|.*?
 Protists	.*?\|Alveolata\|.*?
 Ciliophora	.*?\|Alveolata\|(.*?\|)?Ciliophora\|.*?
 Chlorophyta	.*?\|Alvikia\|.*?
+Hemiptera	.*?\|Alydidae\|.*?
 Angiosperms	.*?\|Alyssum\|.*?
 Plants	.*?\|Amadocarpus\|.*?
 Pteridophytes	.*?\|Amadokia\|.*?
@@ -140,11 +146,14 @@ Viruses	.*?\|Amarillovirales\|.*?
 Angiosperms	.*?\|Amaryllidaceae\|.*?
 Angiosperms	.*?\|Amaryllites\|.*?
 Fungi	.*?\|Ambisporaceae\|.*?
+Arachnida	.*?\|Amblypygi\|.*?
 Bryophytes	.*?\|Amblystegiaceae\|.*?
 Animals	.*?\|Ambulacraria\|$
+Ephemeroptera	.*?\|Ameletidae\|.*?
 Mollusca	.*?\|Americana\|.*?
 Angiosperms	.*?\|Amethystea\|.*?
 Mollusca	.*?\|Amethystina\|.*?
+Ephemeroptera	.*?\|Ametropodidae\|.*?
 Rhodophyta	.*?\|Amgaina\|.*?
 Bacteria	.*?\|Amganella\|.*?
 Actinopterygii	.*?\|Amiiformes\|.*?
@@ -162,10 +171,12 @@ Tetrapoda	.*?\|Amphibia\|(.*?\|)?Anura\|.*?
 Insecta	.*?\|Amphiesmenoptera\|$
 Trichoptera	.*?\|Amphiesmenoptera\|Trichoptera\|.*?
 Protists	.*?\|Amphimonas\|.*?
+Crustacea	.*?\|Amphipoda\|.*?
 Tetrapoda	.*?\|Amphisbaenidae\|.*?
 Fungi	.*?\|Amphisphaeriaceae\|.*?
 Angiosperms	.*?\|Amphitoa\|.*?
 Plants	.*?\|Amphitoites\|.*?
+Hymenoptera	.*?\|Ampulicidae\|.*?
 Viruses	.*?\|Ampullaviridae\|.*?
 Fungi	.*?\|Amylophagus\|.*?
 Plants	.*?\|Amyoxylon\|.*?
@@ -180,6 +191,7 @@ Insecta	.*?\|Anartioptera\|$
 Vertebrata	.*?\|Anaspidomorphi\|.*?
 Angiosperms	.*?\|Anastatica\|.*?
 Tetrapoda	.*?\|Anatidae\|.*?
+Hymenoptera	.*?\|Anaxyelidae\|.*?
 Angiosperms	.*?\|Anchusa\|.*?
 Lepidoptera	.*?\|Ancyluris\|.*?
 Protists	.*?\|Ancyromonadida\|.*?
@@ -275,6 +287,7 @@ Plants	.*?\|Anthocephale\|.*?
 Bryophytes	.*?\|Anthocerotaceae\|.*?
 Bryophytes	.*?\|Anthocerotophyta\|.*?
 Bryophytes	.*?\|Anthocerotopsida\|.*?
+Hemiptera	.*?\|Anthocoridae\|.*?
 Plants	.*?\|Anthodiopsis\|.*?
 Angiosperms	.*?\|Antholithes\|.*?
 Plants	.*?\|Antholithus\|.*?
@@ -294,6 +307,7 @@ Pteridophytes	.*?\|Antrophyopteris\|.*?
 Arachnida	.*?\|Anyphaenidae\|.*?
 Tetrapoda	.*?\|Aotidae\|.*?
 Insecta	.*?\|Aparaglossata\|$
+Trichoptera	.*?\|Apataniidae\|.*?
 Lepidoptera	.*?\|Apatelodidae\|.*?
 Insecta	.*?\|Apatohymenoptera\|.*?
 Vertebrata	.*?\|Apedolepis\|.*?
@@ -303,6 +317,7 @@ Fungi	.*?\|Aphelidea\|.*?
 Fungi	.*?\|Aphelidiaceae\|.*?
 Fungi	.*?\|Aphelidiomycota\|.*?
 Protists	.*?\|Aphelidiopsis\|.*?
+Hymenoptera	.*?\|Aphelinidae\|.*?
 Insecta	.*?\|Apheloneuridae\|.*?
 Hymenoptera	.*?\|Aphelopus\|.*?
 Pteridophytes	.*?\|Aphlebiopteris\|.*?
@@ -338,6 +353,7 @@ Angiosperms	.*?\|Arabis\|.*?
 Angiosperms	.*?\|Araceae\|.*?
 Arachnida	.*?\|Arachnida\|.*?
 Protists	.*?\|Arachnomyxa\|.*?
+Hemiptera	.*?\|Aradidae\|.*?
 Angiosperms	.*?\|Araliaceae\|.*?
 Arachnida	.*?\|Araneae\|.*?
 Arachnida	.*?\|Araneidae\|.*?
@@ -361,6 +377,8 @@ Protists	.*?\|Archeoxybaphon\|.*?
 Bryophytes	.*?\|Archidiaceae\|.*?
 Insecta	.*?\|Archipanorpidae\|.*?
 Insecta	.*?\|Archizygoptera\|.*?
+Coleoptera	.*?\|Archostemata\|.*?
+Blattodea	.*?\|Archotermopsidae\|.*?
 Hemiptera	.*?\|Arcofaciella\|.*?
 Lepidoptera	.*?\|Arctiidae\|.*?
 Angiosperms	.*?\|Arctium\|.*?
@@ -374,6 +392,7 @@ Annelida	.*?\|Arenicolidae\|.*?
 Viruses	.*?\|arfiviricetes\|.*?
 Angiosperms	.*?\|Argemone\|.*?
 Insecta	.*?\|Argentinoptera\|.*?
+Hymenoptera	.*?\|Argidae\|.*?
 Crustacea	.*?\|Argulidae\|.*?
 Crustacea	.*?\|Arguloida\|.*?
 Angiosperms	.*?\|Aristida\|.*?
@@ -387,14 +406,18 @@ Viruses	.*?\|Arteriviridae\|.*?
 Pteridophytes	.*?\|Arthrodendromyelon\|.*?
 Fungi	.*?\|Arthrodermataceae\|.*?
 Lepidoptera	.*?\|Arthropoda\|(.*?\|)?Aeria\|.*?
+Psocodea	.*?\|Arthropoda\|(.*?\|)?Anoplura\|.*?
 Crustacea	.*?\|Arthropoda\|(.*?\|)?Apodidae\|.*?
 Arachnida	.*?\|Arthropoda\|(.*?\|)?Artamus\|.*?
+Crustacea	.*?\|Arthropoda\|(.*?\|)?Atyidae\|.*?
 Arachnida	.*?\|Arthropoda\|(.*?\|)?Bellonia\|.*?
 Crustacea	.*?\|Arthropoda\|(.*?\|)?Branchiura\|.*?
 Crustacea	.*?\|Arthropoda\|(.*?\|)?Cryptocaris\|.*?
 Lepidoptera	.*?\|Arthropoda\|(.*?\|)?Cyclophora\|.*?
+Crustacea	.*?\|Arthropoda\|(.*?\|)?Decapoda\|.*?
 Insecta	.*?\|Arthropoda\|(.*?\|)?Dicliptera\|.*?
 Diptera	.*?\|Arthropoda\|(.*?\|)?Diptera\|.*?
+Orthoptera	.*?\|Arthropoda\|(.*?\|)?Ensifera\|.*?
 Insecta	.*?\|Arthropoda\|(.*?\|)?Eurytaenia\|.*?
 Crustacea	.*?\|Arthropoda\|(.*?\|)?Harporhynchus\|.*?
 Insecta	.*?\|Arthropoda\|(.*?\|)?Hypermegethes\|.*?
@@ -428,6 +451,7 @@ Arthropoda	.*?\|Artiopoda\|$
 Plants	.*?\|Arundinarites\|.*?
 Plants	.*?\|Arundinites\|.*?
 Angiosperms	.*?\|Asarum\|.*?
+Neuropterida	.*?\|Ascalaphidae\|.*?
 Protists	.*?\|Ascetospora\|.*?
 Plants	.*?\|Aschemonia\|.*?
 Tunicata	.*?\|Ascidiacea\|.*?
@@ -438,6 +462,7 @@ Fungi	.*?\|Ascomycota\|.*?
 Fungi	.*?\|Ascomycota\|(.*?\|)?Acantharia\|.*?
 Fungi	.*?\|Ascomycota\|(.*?\|)?Ciliophora\|.*?
 Angiosperms	.*?\|Ascyrum\|.*?
+Crustacea	.*?\|Asellidae\|.*?
 Insecta	.*?\|Aseripterella\|.*?
 Viruses	.*?\|Asfarviridae\|.*?
 Viruses	.*?\|Asfuvirales\|.*?
@@ -454,6 +479,7 @@ Plants	.*?\|Asphaltina\|.*?
 Pteridophytes	.*?\|Aspidostachys\|.*?
 Pteridophytes	.*?\|Aspleniaceae\|.*?
 Pteridophytes	.*?\|Aspleniphyllum\|.*?
+Crustacea	.*?\|Astacidae\|.*?
 Diptera	.*?\|Asteiidae\|.*?
 Angiosperms	.*?\|Asteraceae\|.*?
 Angiosperms	.*?\|Asterales\|.*?
@@ -485,7 +511,10 @@ Tetrapoda	.*?\|Atractaspididae\|.*?
 Fungi	.*?\|Atractiellales\|.*?
 Angiosperms	.*?\|Atragene\|.*?
 Angiosperms	.*?\|Atraphaxis\|.*?
+Trichoptera	.*?\|Atriplectididae\|.*?
 Angiosperms	.*?\|Atropa\|.*?
+Coleoptera	.*?\|Attelabidae\|.*?
+Hymenoptera	.*?\|Aulacidae\|.*?
 Bryophytes	.*?\|Aulacomniaceae\|.*?
 Plants	.*?\|Aulacophycus\|.*?
 Gymnosperms	.*?\|Aularthrophyton\|.*?
@@ -497,6 +526,7 @@ Plants	.*?\|Auriculozonospora\|.*?
 Animals	.*?\|Ausiidae\|.*?
 Plants	.*?\|Australopollis\|.*?
 Angiosperms	.*?\|Austrobaileyales\|.*?
+Hymenoptera	.*?\|Austrocynipidae\|.*?
 Pteridophytes	.*?\|Autophyllites\|.*?
 Plants	.*?\|Avelinesia\|.*?
 Angiosperms	.*?\|Averrhoa\|.*?
@@ -504,9 +534,11 @@ Tetrapoda	.*?\|Aves (awaiting allocation)\|.*?
 Tetrapoda	.*?\|Aves\|.*?
 Viruses	.*?\|Avsunviroidae\|.*?
 Fungi	.*?\|Axisporonites\|.*?
+Arachnida	.*?\|Axonopsidae\|.*?
 Plants	.*?\|Axothrix\|.*?
 Bryophytes	.*?\|Aytoniaceae\|.*?
 Angiosperms	.*?\|Azalea\|.*?
+Hymenoptera	.*?\|Azotidae\|.*?
 Bacteria	.*?\|Babeliae\|.*?
 Tetrapoda	.*?\|Babyrousa\|.*?
 Angiosperms	.*?\|Baccharis\|.*?
@@ -527,6 +559,8 @@ Bacteria	.*?\|Bacteroidota\|.*?
 Plants	.*?\|Baculareticulosporis\|.*?
 Viruses	.*?\|Baculoviridae\|.*?
 Lepidoptera	.*?\|Baeotis\|.*?
+Ephemeroptera	.*?\|Baetidae\|.*?
+Ephemeroptera	.*?\|Baetiscidae\|.*?
 Gymnosperms	.*?\|Baierella\|.*?
 Plants	.*?\|Baieridium\|.*?
 Insecta	.*?\|Baissomantidae\|.*?
@@ -541,6 +575,7 @@ Rhodophyta	.*?\|Bangiophyceae\|.*?
 Plants	.*?\|Banksiphyllum\|.*?
 Plants	.*?\|Baptisiaecarpum\|.*?
 Plants	.*?\|Barakarites\|.*?
+Trichoptera	.*?\|Barbarochthonidae\|.*?
 Actinopterygii	.*?\|Barbatus\|.*?
 Lepidoptera	.*?\|Barbicornis\|.*?
 Actinopterygii	.*?\|Barbus\|.*?
@@ -560,17 +595,21 @@ Fungi	.*?\|Basidiomycota\|.*?
 Protists	.*?\|Basidiophora\|.*?
 Angiosperms	.*?\|Bataceae\|.*?
 Tetrapoda	.*?\|Bathyergidae\|.*?
+Lepidoptera	.*?\|Batrachedridae\|.*?
 Actinopterygii	.*?\|Batrachoidiformes\|.*?
 Insecta	.*?\|Bechalidae\|.*?
 Plants	.*?\|Bechera\|.*?
 Plants	.*?\|Becklesia\|.*?
 Lepidoptera	.*?\|Bedellia\|.*?
 Angiosperms	.*?\|Begoniaceae\|.*?
+Ephemeroptera	.*?\|Behningiidae\|.*?
 Insecta	.*?\|Belebeus\|.*?
+Coleoptera	.*?\|Belidae\|.*?
 Angiosperms	.*?\|Bellis\|.*?
 Gastropoda	.*?\|Belocaulus\|.*?
 Actinopterygii	.*?\|Beloniformes\|.*?
 Gymnosperms	.*?\|Belonodendron\|.*?
+Hemiptera	.*?\|Belostomatidae\|.*?
 Plants	.*?\|Bembergia\|.*?
 Arthropoda	.*?\|Bembicosoma\|.*?
 Pteridophytes	.*?\|Benlightfootia\|.*?
@@ -578,15 +617,18 @@ Gymnosperms	.*?\|Bennettitanthus\|.*?
 Pteridophytes	.*?\|Bensonites\|.*?
 Plants	.*?\|Benthamiphyllum\|.*?
 Viruses	.*?\|Benyvirus\|.*?
+Trichoptera	.*?\|Beraeidae\|.*?
 Angiosperms	.*?\|Berberidaceae\|.*?
 Angiosperms	.*?\|Berberidopsidales\|.*?
 Pteridophytes	.*?\|Bergiopteris\|.*?
 Animals	.*?\|Beroida\|.*?
+Neuropterida	.*?\|Berothidae\|.*?
 Protists	.*?\|Bertarellia\|.*?
 Actinopterygii	.*?\|Beryciformes\|.*?
 Angiosperms	.*?\|Besleria\|.*?
 Protists	.*?\|Besnoitia\|.*?
 Viruses	.*?\|Betaflexiviridae\|.*?
+Hymenoptera	.*?\|Bethylidae\|.*?
 Angiosperms	.*?\|Betonica\|.*?
 Plants	.*?\|Betulinium\|.*?
 Plants	.*?\|Beuttneriophyllum\|.*?
@@ -619,21 +661,28 @@ Viruses	.*?\|Birnaviridae\|.*?
 Protists	.*?\|Birrindudutuba\|.*?
 Angiosperms	.*?\|Biscutella\|.*?
 Angiosperms	.*?\|Biserrula\|.*?
+Insecta	.*?\|Bittacidae\|.*?
 Bivalvia	.*?\|Bivalvia\|.*?
 Angiosperms	.*?\|Bixaceae\|.*?
 Blattodea	.*?\|Blabera\|.*?
+Blattodea	.*?\|Blaberidae\|.*?
 Angiosperms	.*?\|Blaeria\|.*?
+Hymenoptera	.*?\|Blasticotomidae\|.*?
+Lepidoptera	.*?\|Blastobasidae\|.*?
 Fungi	.*?\|Blastocladiomycota\|.*?
 Plants	.*?\|Blastophragmium\|.*?
 Blattodea	.*?\|Blattellidae\|.*?
 Blattodea	.*?\|Blattodea\|.*?
 Pteridophytes	.*?\|Blechnaceae\|.*?
 Pteridophytes	.*?\|Blechnoxylon\|.*?
+Diptera	.*?\|Blephariceridae\|.*?
+Hemiptera	.*?\|Blissidae\|.*?
 Angiosperms	.*?\|Blitum\|.*?
 Viruses	.*?\|Blubervirales\|.*?
 Angiosperms	.*?\|Bobartia\|.*?
 Angiosperms	.*?\|Bocconia\|.*?
 Plants	.*?\|Boegendorfia\|.*?
+Coleoptera	.*?\|Boganiidae\|.*?
 Bacteria	.*?\|Bogutschanophycus\|.*?
 Tetrapoda	.*?\|Boidae\|.*?
 Pteridophytes	.*?\|Boiophyton\|.*?
@@ -653,6 +702,7 @@ Diptera	.*?\|Bombyliidae\|.*?
 Annelida	.*?\|Bonelliidae\|.*?
 Angiosperms	.*?\|Bonnetiaceae\|.*?
 Angiosperms	.*?\|Bontia\|.*?
+Crustacea	.*?\|Bopyridae\|.*?
 Angiosperms	.*?\|Boraginaceae\|.*?
 Angiosperms	.*?\|Boraginales\|.*?
 Angiosperms	.*?\|Borago\|.*?
@@ -661,6 +711,7 @@ Arthropoda	.*?\|Borchgrevinkium\|.*?
 Plants	.*?\|Boroldaiphycus\|.*?
 Plants	.*?\|Boroviczia\|.*?
 Crustacea	.*?\|Bostrichopodida\|.*?
+Coleoptera	.*?\|Bothrideridae\|.*?
 Pteridophytes	.*?\|Bothrodendron\|.*?
 Tetrapoda	.*?\|Bothrops\|.*?
 Pteridophytes	.*?\|Bothrostrobus\|.*?
@@ -669,12 +720,14 @@ Fungi	.*?\|Botryobasidiaceae\|.*?
 Plants	.*?\|Botryococcites\|.*?
 Fungi	.*?\|Botryosphaeriaceae\|.*?
 Fungi	.*?\|Botrytites\|.*?
+Collembola	.*?\|Bourletiellidae\|.*?
 Plants	.*?\|Boutakoffites\|.*?
 Tetrapoda	.*?\|Bovidae\|.*?
 Angiosperms	.*?\|Brabejum\|.*?
 Brachiopoda	.*?\|Brachiopoda\|.*?
 Trichoptera	.*?\|Brachycentridae\|.*?
 Flatworms	.*?\|Brachylaemus\|.*?
+Collembola	.*?\|Brachystomellidae\|.*?
 Bryophytes	.*?\|Brachytheciaceae\|.*?
 Hymenoptera	.*?\|Braconidae\|.*?
 Crustacea	.*?\|Bradoriida\|.*?
@@ -688,6 +741,7 @@ Angiosperms	.*?\|Brassicales\|.*?
 Plants	.*?\|Bredaea\|.*?
 Crustacea	.*?\|Bredocaris\|.*?
 Fungi	.*?\|Brefeldiellites\|.*?
+Coleoptera	.*?\|Brentidae\|.*?
 Protists	.*?\|Breviatea\|.*?
 Plants	.*?\|Brevitriletes\|.*?
 Insecta	.*?\|Breyeriodes\|.*?
@@ -746,10 +800,13 @@ Angiosperms	.*?\|Cachrys\|.*?
 Angiosperms	.*?\|Cactaceae\|.*?
 Plants	.*?\|Cactites\|.*?
 Lepidoptera	.*?\|Cacyreus\|.*?
+Orthoptera	.*?\|Caelifera\|.*?
+Ephemeroptera	.*?\|Caenidae\|.*?
 Tetrapoda	.*?\|Caenolestidae\|.*?
 Plants	.*?\|Caenopterites\|.*?
 Plants	.*?\|Caheniasaccites\|.*?
 Pteridophytes	.*?\|Calamariophyllum\|.*?
+Trichoptera	.*?\|Calamoceratidae\|.*?
 Pteridophytes	.*?\|Calamodendrostachys\|.*?
 Plants	.*?\|Calamophycus\|.*?
 Pteridophytes	.*?\|Calamophyllites\|.*?
@@ -788,6 +845,7 @@ Crustacea	.*?\|Calyptopis\|.*?
 Mollusca	.*?\|Calyptoptomatida\|.*?
 Nematoda	.*?\|Camallanidae\|.*?
 Arthropoda	.*?\|Camanchia\|.*?
+Crustacea	.*?\|Cambaridae\|.*?
 Fungi	.*?\|Cambosira\|.*?
 Animals	.*?\|Cambroernids\|.*?
 Crustacea	.*?\|Cambropachycope\|.*?
@@ -834,6 +892,7 @@ Diptera	.*?\|Canthyloscelidae\|.*?
 Nematoda	.*?\|Capillariidae\|.*?
 Annelida	.*?\|Capitellidae\|.*?
 Tetrapoda	.*?\|Capitonidae\|.*?
+Plecoptera	.*?\|Capniidae\|.*?
 Fungi	.*?\|Capnodiaceae\|.*?
 Fungi	.*?\|Capnodiales incertae sedis\|.*?
 Angiosperms	.*?\|Capparaceae\|.*?
@@ -853,6 +912,7 @@ Plants	.*?\|Cardioglossum\|.*?
 Angiosperms	.*?\|Cardiopteridaceae\|.*?
 Angiosperms	.*?\|Caricaceae\|.*?
 Angiosperms	.*?\|Caricopsis\|.*?
+Coleoptera	.*?\|Caridae\|.*?
 Angiosperms	.*?\|Carlina\|.*?
 Diptera	.*?\|Carnidae\|.*?
 Tetrapoda	.*?\|Carnivora\|.*?
@@ -919,6 +979,7 @@ Animals	.*?\|Cephalorhyncha\|.*?
 Fungi	.*?\|Cephalosporium\|.*?
 Bryophytes	.*?\|Cephaloziaceae\|.*?
 Bryophytes	.*?\|Cephaloziellaceae\|.*?
+Hymenoptera	.*?\|Cephidae\|.*?
 Coleoptera	.*?\|Cerambycidae\|.*?
 Coleoptera	.*?\|Cerambyx\|.*?
 Fungi	.*?\|Ceratobasidiaceae\|.*?
@@ -958,6 +1019,7 @@ Tetrapoda	.*?\|Chameleon\|.*?
 Animals	.*?\|Chancelloriidae\|.*?
 Plants	.*?\|Changarniera\|.*?
 Gymnosperms	.*?\|Chankanella\|.*?
+Diptera	.*?\|Chaoboridae\|.*?
 Actinopterygii	.*?\|Characiformes\|.*?
 Actinopterygii	.*?\|Characinidae\|.*?
 Protists	.*?\|Characodictyon\|.*?
@@ -1568,6 +1630,7 @@ Pteridophytes	.*?\|Diplodictyum\|.*?
 Protists	.*?\|Diplophysalis\|.*?
 Myriapoda	.*?\|Diplopoda\|.*?
 Plants	.*?\|Diplopterotesta\|.*?
+Crustacea	.*?\|Diplostraca\|.*?
 Pteridophytes	.*?\|Diplotegium\|.*?
 Pteridophytes	.*?\|Diploxylon\|.*?
 Vertebrata	.*?\|Dipneusta\|.*?
@@ -1766,6 +1829,7 @@ Protists	.*?\|Eozoa\|.*?
 Arachnida	.*?\|Epeira\|.*?
 Lepidoptera	.*?\|Epermeniidae\|.*?
 Gymnosperms	.*?\|Ephedraceae\|.*?
+Ephemeroptera	.*?\|Ephemeridae\|.*?
 Ephemeroptera	.*?\|Ephemeroptera\|.*?
 Diptera	.*?\|Ephydridae\|.*?
 Lepidoptera	.*?\|Epicopeiidae\|.*?
@@ -2224,6 +2288,7 @@ Bryophytes	.*?\|Hepaticopsida\|.*?
 Bryophytes	.*?\|Hepatophyta\|.*?
 Viruses	.*?\|Hepelivirales\|.*?
 Viruses	.*?\|Hepeviridae\|.*?
+Ephemeroptera	.*?\|Heptageniidae\|.*?
 Angiosperms	.*?\|Heracleites\|.*?
 Angiosperms	.*?\|Heracleum\|.*?
 Chlorophyta	.*?\|Herakella\|.*?
@@ -2331,6 +2396,7 @@ Chlorophyta	.*?\|Hydrodictyon\|.*?
 Angiosperms	.*?\|Hydroleaceae\|.*?
 Hemiptera	.*?\|Hydrometra\|.*?
 Insecta	.*?\|Hydropalaeoptera\|$
+Coleoptera	.*?\|Hydrophilidae\|.*?
 Bryophytes	.*?\|Hydropogonaceae\|.*?
 Trichoptera	.*?\|Hydropsychidae\|.*?
 Cnidaria	.*?\|Hydrozoa\|.*?
@@ -2661,6 +2727,7 @@ Actinopterygii	.*?\|Lepisosteiformes\|.*?
 Animals	.*?\|Leptocardii\|.*?
 Plants	.*?\|Leptocaryum\|.*?
 Trichoptera	.*?\|Leptoceridae\|.*?
+Ephemeroptera	.*?\|Leptohyphidae\|.*?
 Fungi	.*?\|Leptopeltidaceae\|.*?
 Insecta	.*?\|Leptopsylla\|.*?
 Bacteria	.*?\|Leptospiraceae\|.*?
@@ -3018,8 +3085,10 @@ Gastropoda	.*?\|Mollusca\|(.*?\|)?Acanthina\|.*?
 Mollusca	.*?\|Mollusca\|(.*?\|)?Actinaria\|.*?
 Mollusca	.*?\|Mollusca\|(.*?\|)?Aloysia\|.*?
 Mollusca	.*?\|Mollusca\|(.*?\|)?Angiostoma\|.*?
+Gastropoda	.*?\|Mollusca\|(.*?\|)?Atyidae\|.*?
 Mollusca	.*?\|Mollusca\|(.*?\|)?Candela\|.*?
 Gastropoda	.*?\|Mollusca\|(.*?\|)?Cyclophora\|.*?
+Cephalopoda	.*?\|Mollusca\|(.*?\|)?Decapoda\|.*?
 Mollusca	.*?\|Mollusca\|(.*?\|)?Diplodiscus\|.*?
 Mollusca	.*?\|Mollusca\|(.*?\|)?Discorbis\|.*?
 Mollusca	.*?\|Mollusca\|(.*?\|)?Emo\|.*?
@@ -3146,6 +3215,7 @@ Chlorophyta	.*?\|Myrmekioporella\|.*?
 Angiosperms	.*?\|Myrsinaceae\|.*?
 Angiosperms	.*?\|Myrtaceae\|.*?
 Angiosperms	.*?\|Myrtales\|.*?
+Crustacea	.*?\|Mysida\|.*?
 Diptera	.*?\|Mystacinobiidae\|.*?
 Crustacea	.*?\|Mystacocarida\|.*?
 Crustacea	.*?\|Mystacocaridida\|.*?
@@ -4170,6 +4240,7 @@ Angiosperms	.*?\|Polygonaceae\|.*?
 Plants	.*?\|Polygonocarpus\|.*?
 Gastropoda	.*?\|Polygyrus\|.*?
 Plants	.*?\|Polylophospermum\|.*?
+Ephemeroptera	.*?\|Polymitarcyidae\|.*?
 Actinopterygii	.*?\|Polymixiiformes\|.*?
 Viruses	.*?\|Polymycoviridae\|.*?
 Insecta	.*?\|Polyneoptera\|$
@@ -5322,6 +5393,7 @@ Plants	.*?\|Tricolporipites\|.*?
 Plants	.*?\|Tricolporopollis\|.*?
 Angiosperms	.*?\|Tridax\|.*?
 Angiosperms	.*?\|Trientalis\|.*?
+Angiosperms	.*?\|Trigoniaceae\|.*?
 Plants	.*?\|Trilaevipellitis\|.*?
 Plants	.*?\|Trilatiporites\|.*?
 Plants	.*?\|Trileites\|.*?
@@ -5576,45 +5648,3 @@ Plants	.*?\|Zalesskyoderma\|.*?
 Gymnosperms	.*?\|Zamiaceae\|.*?
 Gymnosperms	.*?\|Zamiphyllum\|.*?
 Vertebrata	.*?\|Zamponiopteron\|.*?
-Plants	.*?\|Zearamosus\|.*?
-Actinopterygii	.*?\|Zeiformes\|.*?
-Viruses	.*?\|Zilligvirae\|.*?
-Angiosperms	.*?\|Zingiberaceae\|.*?
-Angiosperms	.*?\|Zingiberales\|.*?
-Plants	.*?\|Zippea\|.*?
-Bacteria	.*?\|Zixibacteria\|.*?
-Angiosperms	.*?\|Ziziphora\|.*?
-Crustacea	.*?\|Zoea\|.*?
-Plants	.*?\|Zollernioxylon\|.*?
-Plants	.*?\|Zonareticulatisporis\|.*?
-Plants	.*?\|Zonopleura\|.*?
-Arthropoda	.*?\|Zonoscutum\|.*?
-Bacteria	.*?\|Zonotrichites\|.*?
-Arthropoda	.*?\|Zonozoe\|.*?
-Protists	.*?\|Zoomastigophora\|.*?
-Fungi	.*?\|Zoopagomycota\|.*?
-Insecta	.*?\|Zoraptera\|.*?
-Arachnida	.*?\|Zoropsidae\|.*?
-Pteridophytes	.*?\|Zosterophyllophyta\|.*?
-Plants	.*?\|Zuberia\|.*?
-Viruses	.*?\|Zurhausenvirales\|.*?
-Insecta	.*?\|Zygentoma\|.*?
-Plants	.*?\|Zygnemataceae\|.*?
-Plants	.*?\|Zygnematales\|.*?
-Plants	.*?\|Zygnemophyceae\|.*?
-Fungi	.*?\|Zygomycota\|.*?
-Angiosperms	.*?\|Zygophyllaceae\|.*?
-Angiosperms	.*?\|Zygophyllales\|.*?
-Angiosperms	.*?\|Zygophyllum\|.*?
-Psocodea	.*?\|Zygopsocidae\|.*?
-Fungi	.*?\|Zygosporites\|.*?
-Life	\|Biota\|$
-Life	\|Life\|$
-Archaea	^\|Archaea\|.*?
-Bacteria	^\|Bacteria\|.*?
-Angiosperms	.*?\|Trigoniaceae\|.*?
-	
-	
-	
-	
-	
