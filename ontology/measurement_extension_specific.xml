@@ -44,4 +44,6 @@
 <!-- For 'compiler Anne Thessen' -->
 <property name="compiler" namespace="https://www.wikidata.org/entity/" qualName="https://www.wikidata.org/entity/Q29514511" dc:description="compiler"/>
 
+<!-- For TraitBank datasets -->
+<property name="verbatimScientificName" namespace="http://rs.gbif.org/terms/" qualName="http://rs.gbif.org/terms/1.0/verbatimScientificName" dc:description="verbatimScientificName"/>
 </extension>
