@@ -47,4 +47,5 @@
 <!-- For TraitBank datasets -->
 <property name="verbatimScientificName" namespace="http://rs.gbif.org/terms/" qualName="http://rs.gbif.org/terms/1.0/verbatimScientificName" dc:description="verbatimScientificName"/>
 <property name="sex" namespace="http://rs.tdwg.org/dwc/terms/" qualName="http://rs.tdwg.org/dwc/terms/sex" dc:description="The sex of the biological individual(s) represented in the Occurrence. Recommended best practice is to use a controlled vocabulary."/>
+<property name="Standard_Deviation"    namespace="http://ncicb.nci.nih.gov/xml/owl/EVS/" qualName="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Standard_Deviation" dc:description="Standard_Deviation"/>
 </extension>
