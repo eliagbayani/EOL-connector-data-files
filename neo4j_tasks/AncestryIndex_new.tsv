@@ -2126,7 +2126,7 @@ Gymnosperms	.*?\|Glyptostrobites\|.*?
 Angiosperms	.*?\|Gnaphalium\|.*?
 Arachnida	.*?\|Gnaphosidae\|.*?
 Tetrapoda	.*?\|Gnathostomata\|(.*?\|)?Tetrapoda\|.*?
-Vertebrata	.*?\|Gnathostomata\|$
+Vertebrata	.*?\|Gnathostomata\|.*?
 Animals	.*?\|Gnathostomulida\|.*?
 Gymnosperms	.*?\|Gnetaceae\|.*?
 Gymnosperms	.*?\|Gnetophyta\|.*?
