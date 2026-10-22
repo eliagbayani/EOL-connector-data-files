@@ -371,7 +371,7 @@ Insecta	.*?\|Archaeoptilites\|.*?
 Insecta	.*?\|Archaeoptilus\|.*?
 Plants	.*?\|Archaeorrhiza\|.*?
 Fungi	.*?\|Archaeosporaceae\|.*?
-Plants	.*?\|Archaeplastida\|.*?
+Plants	.*?\|Archaeplastida\|$
 Pteridophytes	.*?\|Archangelskya\|.*?
 Protists	.*?\|Archeoxybaphon\|.*?
 Bryophytes	.*?\|Archidiaceae\|.*?
@@ -2126,7 +2126,7 @@ Gymnosperms	.*?\|Glyptostrobites\|.*?
 Angiosperms	.*?\|Gnaphalium\|.*?
 Arachnida	.*?\|Gnaphosidae\|.*?
 Tetrapoda	.*?\|Gnathostomata\|(.*?\|)?Tetrapoda\|.*?
-Vertebrata	.*?\|Gnathostomata\|.*?
+Vertebrata	.*?\|Gnathostomata\|$
 Animals	.*?\|Gnathostomulida\|.*?
 Gymnosperms	.*?\|Gnetaceae\|.*?
 Gymnosperms	.*?\|Gnetophyta\|.*?
